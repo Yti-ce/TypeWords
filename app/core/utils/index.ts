@@ -622,6 +622,7 @@ export function splitIntoN(arr: any[], n: number) {
 export async function loadJsLib(key: string, url: string) {
   // @ts-ignore
   if (window[key]) return window[key]
+  url = withAppBaseURL(url)
   return new Promise((resolve, reject) => {
     const script = document.createElement('script')
     // 判断是否是 .mjs 文件，如果是，则使用 type="module"
