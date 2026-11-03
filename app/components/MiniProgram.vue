@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import { BaseButton, BaseIcon, Toast } from '@/base'
+import { withAppBaseURL } from '@/core/utils/base-url'
 
 // 小程序二维码推广
 const LS_KEY_MINI_QR_DATE = 'tw_mini_qr_last_date'
@@ -65,7 +66,7 @@ onMounted(() => {
       }"
     >
       <div class="card p-3 flex flex-col items-center gap-2">
-        <img src="/imgs/mini.png" alt="小程序二维码" class="w-40 h-40 rounded" />
+        <img :src="withAppBaseURL('/imgs/mini.png')" alt="小程序二维码" class="w-40 h-40 rounded" />
         <span class="">扫码体验小程序</span>
         <BaseButton size="small" @click="neverShowMiniQr" v-if="!isNeverShowMiniQr()"> 不再自动展示 </BaseButton>
       </div>
