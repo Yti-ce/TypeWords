@@ -1,0 +1,28 @@
+# 场景·药店  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+pharmacy | ˈfɑːməsi | ˈfɑːrməsi | n.:药店 | Is there a pharmacy near here? | 这附近有药店吗？ | 24-hour pharmacy:24小时药店
+medicine | ˈmedsn | ˈmedɪsn | n.:药 | Do you have any medicine for a cold? | 有治感冒的药吗？ | cold medicine:感冒药
+tablet | ˈtæblət | ˈtæblət | n.:药片 | Take two tablets after meals. | 饭后吃两片。 | take a tablet:吃一片药
+pill | pɪl | pɪl | n.:药丸 | I can't swallow big pills. | 我咽不下大药丸。 | sleeping pill:安眠药
+dose | dəʊs | doʊs | n.:剂量 | Don't take more than the stated dose. | 不要超过规定剂量。 | daily dose:每日剂量
+painkiller | ˈpeɪnkɪlə | ˈpeɪnkɪlər | n.:止痛药 | Can I get a painkiller for my headache? | 能给我一点治头疼的止痛药吗？ | take a painkiller:吃止痛药
+pharmacist | ˈfɑːməsɪst | ˈfɑːrməsɪst | n.:药剂师 | Ask the pharmacist for advice. | 问问药剂师的建议。 | ask the pharmacist:问药剂师
+prescription | prɪˈskrɪpʃn | prɪˈskrɪpʃn | n.:处方 | Can I buy this without a prescription? | 这个不用处方能买吗？ | prescription drug:处方药
+cream | kriːm | kriːm | n.:药膏；面霜 | Put this cream on twice a day. | 这个药膏一天涂两次。 | apply cream:涂药膏
+plaster | ˈplɑːstə | ˈplæstər | n.:创可贴（美式 band-aid） | I need a plaster for my finger. | 我手指需要一个创可贴。 | put on a plaster:贴创可贴
+bandage | ˈbændɪdʒ | ˈbændɪdʒ | n.:绷带 | Wrap a bandage around it. | 用绷带把它包起来。 | elastic bandage:弹力绷带
+vitamin | ˈvɪtəmɪn | ˈvaɪtəmɪn | n.:维生素 | I take vitamin C every day. | 我每天吃维生素C。 | vitamin C:维生素C
+mask | mɑːsk | mæsk | n.:口罩；面具 | Do you sell face masks? | 你们卖口罩吗？ | face mask:口罩
+effect | ɪˈfekt | ɪˈfekt | n.:效果；影响 | This medicine has a quick effect. | 这个药见效很快。 | side effect:副作用
+drops | drɒps | drɑːps | n.:滴剂 | These eye drops help dry eyes. | 这种眼药水可以缓解眼干。 | eye drops:眼药水
+syrup | ˈsɪrəp | ˈsɪrəp | n.:糖浆 | This cough syrup works well. | 这个止咳糖浆很有效。 | cough syrup:止咳糖浆
+swallow | ˈswɒləʊ | ˈswɑːloʊ | v.:吞咽 | Swallow the tablet with water. | 用水把药片吞下去。 | hard to swallow:难以下咽
+meal | miːl | miːl | n.:一餐 | Take it after each meal. | 每餐后服用。 | after meals:饭后
+daily | ˈdeɪli | ˈdeɪli | adj.:每天的; adv.:每天 | Take one tablet daily. | 每天服用一片。 | daily routine:日常
+expire | ɪkˈspaɪə | ɪkˈspaɪər | v.:过期 | Check when it expires. | 看一下什么时候过期。 | expiry date:过期日期
+thermometer | θəˈmɒmɪtə | θərˈmɑːmɪtər | n.:体温计 | I need a thermometer. | 我需要一个体温计。 | digital thermometer:电子体温计
+allergic | əˈlɜːdʒɪk | əˈlɜːrdʒɪk | adj.:过敏的 | I'm allergic to penicillin. | 我对青霉素过敏。 | allergic reaction:过敏反应
+itchy | ˈɪtʃi | ˈɪtʃi | adj.:痒的 | My skin is very itchy. | 我皮肤很痒。 | itchy skin:皮肤痒
+rash | ræʃ | ræʃ | n.:皮疹 | I have a rash on my arm. | 我手臂上起了疹子。 | skin rash:皮疹
+diarrhoea | ˌdaɪəˈrɪə | ˌdaɪəˈriːə | n.:腹泻（美式 diarrhea） | Do you have anything for diarrhoea? | 有治拉肚子的药吗？ | have diarrhoea:拉肚子
+sleepy | ˈsliːpi | ˈsliːpi | adj.:困的 | This medicine may make you sleepy. | 这个药可能会让你犯困。 | feel sleepy:犯困

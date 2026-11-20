@@ -1,0 +1,862 @@
+[
+  {
+    "id": 1220001,
+    "word": "cook",
+    "phonetic0": "kʊk",
+    "phonetic1": "kʊk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "做饭"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I cook dinner every evening.",
+        "cn": "我每天晚上做饭。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cook dinner",
+        "cn": "做晚饭"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220002,
+    "word": "wash",
+    "phonetic0": "wɒʃ",
+    "phonetic1": "wɑːʃ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "洗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll wash the dishes.",
+        "cn": "我来洗碗。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wash the dishes",
+        "cn": "洗碗"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220003,
+    "word": "clean",
+    "phonetic0": "kliːn",
+    "phonetic1": "kliːn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "打扫"
+      },
+      {
+        "pos": "adj.",
+        "cn": "干净的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's clean the house this weekend.",
+        "cn": "这周末我们打扫一下房子吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "clean up",
+        "cn": "收拾干净"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220004,
+    "word": "fridge",
+    "phonetic0": "frɪdʒ",
+    "phonetic1": "frɪdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冰箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put the milk in the fridge.",
+        "cn": "把牛奶放进冰箱。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the fridge",
+        "cn": "在冰箱里"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220005,
+    "word": "dishes",
+    "phonetic0": "ˈdɪʃɪz",
+    "phonetic1": "ˈdɪʃɪz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "碗碟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Whose turn is it to do the dishes?",
+        "cn": "轮到谁洗碗了？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do the dishes",
+        "cn": "洗碗"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220006,
+    "word": "laundry",
+    "phonetic0": "ˈlɔːndri",
+    "phonetic1": "ˈlɔːndri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "要洗的衣服"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to do the laundry.",
+        "cn": "我得洗衣服了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do the laundry",
+        "cn": "洗衣服"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220007,
+    "word": "clothes",
+    "phonetic0": "kləʊðz",
+    "phonetic1": "kloʊðz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "衣服"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hang the clothes out to dry.",
+        "cn": "把衣服晾出去。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wash clothes",
+        "cn": "洗衣服"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220008,
+    "word": "vegetables",
+    "phonetic0": "ˈvedʒtəblz",
+    "phonetic1": "ˈvedʒtəblz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蔬菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wash the vegetables first.",
+        "cn": "先把蔬菜洗了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fresh vegetables",
+        "cn": "新鲜蔬菜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220009,
+    "word": "fruit",
+    "phonetic0": "fruːt",
+    "phonetic1": "fruːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to buy some fruit.",
+        "cn": "我们需要买些水果。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fresh fruit",
+        "cn": "新鲜水果"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220010,
+    "word": "egg",
+    "phonetic0": "eɡ",
+    "phonetic1": "eɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸡蛋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do you like your eggs?",
+        "cn": "你的鸡蛋要怎么做？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fried egg",
+        "cn": "煎蛋"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220011,
+    "word": "boil",
+    "phonetic0": "bɔɪl",
+    "phonetic1": "bɔɪl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "煮沸，水煮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Boil the water first.",
+        "cn": "先把水烧开。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "boiled egg",
+        "cn": "水煮蛋"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220012,
+    "word": "fry",
+    "phonetic0": "fraɪ",
+    "phonetic1": "fraɪ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "煎，炒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Fry the onions for two minutes.",
+        "cn": "把洋葱炒两分钟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stir-fry",
+        "cn": "翻炒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220013,
+    "word": "pan",
+    "phonetic0": "pæn",
+    "phonetic1": "pæn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "平底锅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Heat some oil in a pan.",
+        "cn": "在锅里热点油。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "frying pan",
+        "cn": "煎锅"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220014,
+    "word": "pot",
+    "phonetic0": "pɒt",
+    "phonetic1": "pɑːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "锅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put the rice in the pot.",
+        "cn": "把米放进锅里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cooking pot",
+        "cn": "锅"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220015,
+    "word": "knife",
+    "phonetic0": "naɪf",
+    "phonetic1": "naɪf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "刀"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Be careful with that knife.",
+        "cn": "小心那把刀。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "kitchen knife",
+        "cn": "菜刀"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220016,
+    "word": "oil",
+    "phonetic0": "ɔɪl",
+    "phonetic1": "ɔɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "油"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Add a little oil.",
+        "cn": "加一点油。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cooking oil",
+        "cn": "食用油"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220017,
+    "word": "salt",
+    "phonetic0": "sɔːlt",
+    "phonetic1": "sɔːlt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "盐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It needs more salt.",
+        "cn": "需要再加点盐。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a pinch of salt",
+        "cn": "一撮盐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220018,
+    "word": "recipe",
+    "phonetic0": "ˈresəpi",
+    "phonetic1": "ˈresəpi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "食谱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you share the recipe?",
+        "cn": "你能分享一下食谱吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "follow a recipe",
+        "cn": "照着食谱做"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220019,
+    "word": "microwave",
+    "phonetic0": "ˈmaɪkrəweɪv",
+    "phonetic1": "ˈmaɪkrəweɪv",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "微波炉"
+      },
+      {
+        "pos": "v.",
+        "cn": "用微波炉加热"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Heat it in the microwave.",
+        "cn": "用微波炉加热一下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "microwave oven",
+        "cn": "微波炉"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220020,
+    "word": "oven",
+    "phonetic0": "ˈʌvn",
+    "phonetic1": "ˈʌvn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "烤箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bake it in the oven for twenty minutes.",
+        "cn": "放烤箱烤二十分钟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the oven",
+        "cn": "在烤箱里"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220021,
+    "word": "sink",
+    "phonetic0": "sɪŋk",
+    "phonetic1": "sɪŋk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水槽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Leave the dishes in the sink.",
+        "cn": "把碗碟放在水槽里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "kitchen sink",
+        "cn": "厨房水槽"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220022,
+    "word": "tidy",
+    "phonetic0": "ˈtaɪdi",
+    "phonetic1": "ˈtaɪdi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "整洁的"
+      },
+      {
+        "pos": "v.",
+        "cn": "整理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please tidy your room.",
+        "cn": "请整理一下你的房间。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tidy up",
+        "cn": "整理"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220023,
+    "word": "sweep",
+    "phonetic0": "swiːp",
+    "phonetic1": "swiːp",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "扫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you sweep the floor?",
+        "cn": "你能扫一下地吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sweep the floor",
+        "cn": "扫地"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220024,
+    "word": "mop",
+    "phonetic0": "mɒp",
+    "phonetic1": "mɑːp",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "拖地"
+      },
+      {
+        "pos": "n.",
+        "cn": "拖把"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll mop the kitchen floor.",
+        "cn": "我来拖厨房的地。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mop the floor",
+        "cn": "拖地"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220025,
+    "word": "iron",
+    "phonetic0": "ˈaɪən",
+    "phonetic1": "ˈaɪərn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "熨"
+      },
+      {
+        "pos": "n.",
+        "cn": "熨斗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to iron my shirt.",
+        "cn": "我需要熨一下衬衫。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "iron a shirt",
+        "cn": "熨衬衫"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220026,
+    "word": "groceries",
+    "phonetic0": "ˈɡrəʊsəriz",
+    "phonetic1": "ˈɡroʊsəriz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "食品杂货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll pick up some groceries on the way home.",
+        "cn": "我回家路上买点菜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "buy groceries",
+        "cn": "买菜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220027,
+    "word": "leftovers",
+    "phonetic0": "ˈleftəʊvəz",
+    "phonetic1": "ˈleftoʊvərz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "剩菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can eat the leftovers tomorrow.",
+        "cn": "剩菜我们明天吃。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "eat leftovers",
+        "cn": "吃剩菜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1220028,
+    "word": "bin",
+    "phonetic0": "bɪn",
+    "phonetic1": "bɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "垃圾桶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Throw it in the bin.",
+        "cn": "把它扔进垃圾桶。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rubbish bin",
+        "cn": "垃圾桶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

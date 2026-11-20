@@ -1,0 +1,44 @@
+# 场景·商场购物  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+buy | baɪ | baɪ | v.:买 | I want to buy a pair of shoes. | 我想买一双鞋。 | buy online:网购
+price | praɪs | praɪs | n.:价格 | What's the price of this jacket? | 这件夹克多少钱？ | full price:原价
+pay | peɪ | peɪ | v.:付钱 | How would you like to pay? | 您想怎么付款？ | pay by card:刷卡付款
+cheap | tʃiːp | tʃiːp | adj.:便宜的 | This one is cheaper. | 这个更便宜。 | cheap and cheerful:便宜又好用
+expensive | ɪkˈspensɪv | ɪkˈspensɪv | adj.:昂贵的 | It's too expensive for me. | 这对我来说太贵了。 | too expensive:太贵
+look | lʊk | lʊk | v.:看 | I'm just looking, thanks. | 我只是随便看看，谢谢。 | look for:寻找
+size | saɪz | saɪz | n.:尺码，大小 | What size do you wear? | 你穿多大码？ | a bigger size:大一号
+try | traɪ | traɪ | v.:试；尝试 | Can I try it on? | 我可以试穿吗？ | try on:试穿
+fit | fɪt | fɪt | v.:合身 | These jeans fit me well. | 这条牛仔裤我穿着很合身。 | fit well:很合身
+small | smɔːl | smɔːl | adj.:小的 | This is too small for me. | 这个我穿太小了。 | a size smaller:小一号
+large | lɑːdʒ | lɑːrdʒ | adj.:大的 | Do you have it in large? | 这个有大号的吗？ | extra large:加大号
+colour | ˈkʌlə | ˈkʌlər | n.:颜色（美式拼写 color） | Do you have this in another colour? | 这个有别的颜色吗？ | dark colour:深色
+discount | ˈdɪskaʊnt | ˈdɪskaʊnt | n.:折扣 | Is there any discount? | 有折扣吗？ | student discount:学生折扣
+sale | seɪl | seɪl | n.:促销；出售 | These shoes are on sale. | 这些鞋在打折。 | on sale:打折出售
+offer | ˈɒfə | ˈɔːfər | n.:优惠；提议 | There's a special offer today. | 今天有特别优惠。 | special offer:特价
+free | friː | friː | adj.:免费的；自由的 | Buy one, get one free. | 买一送一。 | for free:免费
+total | ˈtəʊtl | ˈtoʊtl | n.:总数; adj.:总的 | What's the total? | 一共多少钱？ | in total:总共
+cashier | kæˈʃɪə | kæˈʃɪr | n.:收银员；收银台 | Please pay at the cashier. | 请到收银台付款。 | cashier desk:收银台
+bag | bæɡ | bæɡ | n.:袋子，包 | Do you need a bag? | 你需要袋子吗？ | shopping bag:购物袋
+refund | ˈriːfʌnd | ˈriːfʌnd | n.:退款; v.:退款 | I'd like a refund, please. | 我想要退款。 | get a refund:拿到退款
+return | rɪˈtɜːn | rɪˈtɜːrn | v.:退货；归还 | Can I return this if it doesn't fit? | 如果不合身可以退吗？ | return policy:退货政策
+stock | stɒk | stɑːk | n.:库存 | Sorry, it's out of stock. | 抱歉，这个没货了。 | out of stock:缺货
+fitting | ˈfɪtɪŋ | ˈfɪtɪŋ | n.:试穿 | Where is the fitting room? | 试衣间在哪里？ | fitting room:试衣间
+shop | ʃɒp | ʃɑːp | n.:商店; v.:购物 | This shop opens at ten. | 这家店十点开门。 | go shopping:去购物
+mall | mɔːl | mɔːl | n.:购物中心，商场 | Let's meet at the mall. | 我们在商场见吧。 | shopping mall:购物中心
+open | ˈəʊpən | ˈoʊpən | adj.:营业的; v.:开 | What time do you open? | 你们几点开门？ | open until ten:营业到十点
+close | kləʊz | kloʊz | v.:关门 | The mall closes at ten p.m. | 商场晚上十点关门。 | close early:提早关门
+floor | flɔː | flɔːr | n.:楼层；地板 | The food court is on the top floor. | 美食广场在顶楼。 | ground floor:一楼（英式）
+lift | lɪft | lɪft | n.:电梯（美式 elevator） | Let's take the lift. | 我们坐电梯吧。 | take the lift:坐电梯
+escalator | ˈeskəleɪtə | ˈeskəleɪtər | n.:自动扶梯 | The escalator is next to the shop. | 自动扶梯在那家店旁边。 | take the escalator:坐扶梯
+customer | ˈkʌstəmə | ˈkʌstəmər | n.:顾客 | Customer service is on the second floor. | 客服在二楼。 | customer service:客户服务
+member | ˈmembə | ˈmembər | n.:会员 | Are you a member? | 您是会员吗？ | membership card:会员卡
+supermarket | ˈsuːpəmɑːkɪt | ˈsuːpərmɑːrkɪt | n.:超市 | I buy groceries at the supermarket. | 我在超市买日用品。 | go to the supermarket:去超市
+basket | ˈbɑːskɪt | ˈbæskɪt | n.:篮子 | I only need a basket. | 我只需要一个篮子。 | shopping basket:购物篮
+trolley | ˈtrɒli | ˈtrɑːli | n.:购物车（美式 cart） | Can you get a trolley? | 你能去拿一辆购物车吗？ | shopping trolley:购物车
+gift | ɡɪft | ɡɪft | n.:礼物 | I'm looking for a gift for my mum. | 我在给妈妈挑礼物。 | gift card:礼品卡
+wrap | ræp | ræp | v.:包装 | Could you wrap it as a gift? | 能帮我包成礼物吗？ | gift wrap:礼品包装
+brand | brænd | brænd | n.:品牌 | Which brand do you prefer? | 你喜欢哪个牌子？ | famous brand:名牌
+quality | ˈkwɒləti | ˈkwɑːləti | n.:质量 | The quality is very good. | 质量很好。 | high quality:高质量
+material | məˈtɪəriəl | məˈtɪriəl | n.:材料，面料 | What material is this? | 这是什么面料的？ | soft material:柔软的面料
+recommend | ˌrekəˈmend | ˌrekəˈmend | v.:推荐 | What would you recommend? | 你推荐什么？ | highly recommend:强烈推荐
+bargain | ˈbɑːɡən | ˈbɑːrɡən | n.:便宜货; v.:讨价还价 | This coat was a real bargain. | 这件外套真划算。 | a good bargain:很划算

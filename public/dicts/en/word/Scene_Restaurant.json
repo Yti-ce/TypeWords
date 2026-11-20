@@ -1,0 +1,1316 @@
+[
+  {
+    "id": 1030001,
+    "word": "menu",
+    "phonetic0": "ˈmenjuː",
+    "phonetic1": "ˈmenjuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "菜单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I see the menu, please?",
+        "cn": "可以看一下菜单吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "set menu",
+        "cn": "套餐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030002,
+    "word": "order",
+    "phonetic0": "ˈɔːdə",
+    "phonetic1": "ˈɔːrdər",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "点菜"
+      },
+      {
+        "pos": "n.",
+        "cn": "点的菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are you ready to order?",
+        "cn": "您准备好点菜了吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take an order",
+        "cn": "点单"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030003,
+    "word": "table",
+    "phonetic0": "ˈteɪbl",
+    "phonetic1": "ˈteɪbl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "桌子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A table for two, please.",
+        "cn": "请给我们一张两人桌。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "book a table",
+        "cn": "订座"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030004,
+    "word": "water",
+    "phonetic0": "ˈwɔːtə",
+    "phonetic1": "ˈwɔːtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I have a glass of water?",
+        "cn": "可以给我一杯水吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a glass of water",
+        "cn": "一杯水"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030005,
+    "word": "drink",
+    "phonetic0": "drɪŋk",
+    "phonetic1": "drɪŋk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "饮料"
+      },
+      {
+        "pos": "v.",
+        "cn": "喝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What would you like to drink?",
+        "cn": "您想喝点什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "soft drink",
+        "cn": "软饮料"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030006,
+    "word": "bill",
+    "phonetic0": "bɪl",
+    "phonetic1": "bɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "账单（美式 check）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could we have the bill, please?",
+        "cn": "请给我们结账。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "split the bill",
+        "cn": "分开付账"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030007,
+    "word": "hungry",
+    "phonetic0": "ˈhʌŋɡri",
+    "phonetic1": "ˈhʌŋɡri",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "饿的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm so hungry.",
+        "cn": "我好饿。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel hungry",
+        "cn": "觉得饿"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030008,
+    "word": "full",
+    "phonetic0": "fʊl",
+    "phonetic1": "fʊl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "饱的；满的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm full, thank you.",
+        "cn": "我吃饱了，谢谢。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "full of",
+        "cn": "充满"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030009,
+    "word": "delicious",
+    "phonetic0": "dɪˈlɪʃəs",
+    "phonetic1": "dɪˈlɪʃəs",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "美味的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is really delicious!",
+        "cn": "这真好吃！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "smell delicious",
+        "cn": "闻起来很香"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030010,
+    "word": "rice",
+    "phonetic0": "raɪs",
+    "phonetic1": "raɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "米饭"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have extra rice?",
+        "cn": "可以多加点米饭吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fried rice",
+        "cn": "炒饭"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030011,
+    "word": "noodles",
+    "phonetic0": "ˈnuːdlz",
+    "phonetic1": "ˈnuːdlz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "面条"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll have the beef noodles.",
+        "cn": "我要牛肉面。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fried noodles",
+        "cn": "炒面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030012,
+    "word": "chicken",
+    "phonetic0": "ˈtʃɪkɪn",
+    "phonetic1": "ˈtʃɪkɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸡肉；鸡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The chicken is very tender.",
+        "cn": "鸡肉很嫩。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fried chicken",
+        "cn": "炸鸡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030013,
+    "word": "beef",
+    "phonetic0": "biːf",
+    "phonetic1": "biːf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "牛肉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How would you like your beef cooked?",
+        "cn": "您的牛肉要几分熟？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "beef steak",
+        "cn": "牛排"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030014,
+    "word": "pork",
+    "phonetic0": "pɔːk",
+    "phonetic1": "pɔːrk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "猪肉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Does this contain pork?",
+        "cn": "这里面有猪肉吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "no pork",
+        "cn": "不含猪肉"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030015,
+    "word": "soup",
+    "phonetic0": "suːp",
+    "phonetic1": "suːp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "汤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The soup of the day is tomato.",
+        "cn": "今日例汤是番茄汤。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "soup of the day",
+        "cn": "例汤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030016,
+    "word": "coffee",
+    "phonetic0": "ˈkɒfi",
+    "phonetic1": "ˈkɔːfi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "咖啡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A cup of coffee, please.",
+        "cn": "请来一杯咖啡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "black coffee",
+        "cn": "黑咖啡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030017,
+    "word": "tea",
+    "phonetic0": "tiː",
+    "phonetic1": "tiː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "茶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iced tea, less sugar, please.",
+        "cn": "冰茶，少糖，谢谢。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "iced tea",
+        "cn": "冰茶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030018,
+    "word": "sugar",
+    "phonetic0": "ˈʃʊɡə",
+    "phonetic1": "ˈʃʊɡər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "糖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "No sugar, please.",
+        "cn": "请不要放糖。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "less sugar",
+        "cn": "少糖"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030019,
+    "word": "ice",
+    "phonetic0": "aɪs",
+    "phonetic1": "aɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have it without ice?",
+        "cn": "可以不加冰吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "no ice",
+        "cn": "去冰"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030020,
+    "word": "spicy",
+    "phonetic0": "ˈspaɪsi",
+    "phonetic1": "ˈspaɪsi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "辣的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this dish spicy?",
+        "cn": "这道菜辣吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "not too spicy",
+        "cn": "不要太辣"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030021,
+    "word": "dish",
+    "phonetic0": "dɪʃ",
+    "phonetic1": "dɪʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "菜肴；盘子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your most popular dish?",
+        "cn": "你们最受欢迎的菜是什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "side dish",
+        "cn": "配菜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030022,
+    "word": "special",
+    "phonetic0": "ˈspeʃl",
+    "phonetic1": "ˈspeʃl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "特别的"
+      },
+      {
+        "pos": "n.",
+        "cn": "特色菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's today's special?",
+        "cn": "今天的特色菜是什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "today's special",
+        "cn": "今日特价菜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030023,
+    "word": "taste",
+    "phonetic0": "teɪst",
+    "phonetic1": "teɪst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "味道"
+      },
+      {
+        "pos": "v.",
+        "cn": "尝起来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It tastes a bit salty.",
+        "cn": "这有点咸。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "taste good",
+        "cn": "好吃"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030024,
+    "word": "salty",
+    "phonetic0": "ˈsɔːlti",
+    "phonetic1": "ˈsɔːlti",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "咸的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The soup is too salty.",
+        "cn": "汤太咸了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "too salty",
+        "cn": "太咸"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030025,
+    "word": "waiter",
+    "phonetic0": "ˈweɪtə",
+    "phonetic1": "ˈweɪtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "服务员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me ask the waiter.",
+        "cn": "我问一下服务员。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "call the waiter",
+        "cn": "叫服务员"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030026,
+    "word": "wait",
+    "phonetic0": "weɪt",
+    "phonetic1": "weɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "等待"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How long is the wait?",
+        "cn": "要等多久？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wait for",
+        "cn": "等待"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030027,
+    "word": "reservation",
+    "phonetic0": "ˌrezəˈveɪʃn",
+    "phonetic1": "ˌrezərˈveɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "预订"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a reservation for seven o'clock.",
+        "cn": "我预订了七点的位子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make a reservation",
+        "cn": "预订"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030028,
+    "word": "book",
+    "phonetic0": "bʊk",
+    "phonetic1": "bʊk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "预订"
+      },
+      {
+        "pos": "n.",
+        "cn": "书"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to book a table for tonight.",
+        "cn": "我想订今晚的位子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "book in advance",
+        "cn": "提前预订"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030029,
+    "word": "takeaway",
+    "phonetic0": "ˈteɪkəweɪ",
+    "phonetic1": "ˈteɪkəweɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "外卖，打包（美式 takeout）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get it as a takeaway?",
+        "cn": "可以打包带走吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "order a takeaway",
+        "cn": "叫外卖"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030030,
+    "word": "breakfast",
+    "phonetic0": "ˈbrekfəst",
+    "phonetic1": "ˈbrekfəst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "早餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Breakfast is served until ten.",
+        "cn": "早餐供应到十点。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "have breakfast",
+        "cn": "吃早餐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030031,
+    "word": "lunch",
+    "phonetic0": "lʌntʃ",
+    "phonetic1": "lʌntʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "午餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's have lunch together.",
+        "cn": "我们一起吃午饭吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lunch break",
+        "cn": "午休"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030032,
+    "word": "dinner",
+    "phonetic0": "ˈdɪnə",
+    "phonetic1": "ˈdɪnər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "晚餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're going out for dinner.",
+        "cn": "我们要出去吃晚饭。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "have dinner",
+        "cn": "吃晚饭"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030033,
+    "word": "vegetarian",
+    "phonetic0": "ˌvedʒəˈteəriən",
+    "phonetic1": "ˌvedʒəˈteriən",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "素食的"
+      },
+      {
+        "pos": "n.",
+        "cn": "素食者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have any vegetarian dishes?",
+        "cn": "你们有素菜吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "vegetarian food",
+        "cn": "素食"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030034,
+    "word": "allergic",
+    "phonetic0": "əˈlɜːdʒɪk",
+    "phonetic1": "əˈlɜːrdʒɪk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "过敏的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm allergic to peanuts.",
+        "cn": "我对花生过敏。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "allergic to",
+        "cn": "对……过敏"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030035,
+    "word": "dessert",
+    "phonetic0": "dɪˈzɜːt",
+    "phonetic1": "dɪˈzɜːrt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "甜点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would you like some dessert?",
+        "cn": "要来点甜点吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dessert menu",
+        "cn": "甜品单"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030036,
+    "word": "spoon",
+    "phonetic0": "spuːn",
+    "phonetic1": "spuːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "勺子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a spoon.",
+        "cn": "我需要一把勺子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a spoon of",
+        "cn": "一勺"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030037,
+    "word": "fork",
+    "phonetic0": "fɔːk",
+    "phonetic1": "fɔːrk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "叉子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I have a fork and knife?",
+        "cn": "可以给我一副刀叉吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "knife and fork",
+        "cn": "刀叉"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030038,
+    "word": "chopsticks",
+    "phonetic0": "ˈtʃɒpstɪks",
+    "phonetic1": "ˈtʃɑːpstɪks",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "筷子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have chopsticks?",
+        "cn": "有筷子吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a pair of chopsticks",
+        "cn": "一双筷子"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030039,
+    "word": "napkin",
+    "phonetic0": "ˈnæpkɪn",
+    "phonetic1": "ˈnæpkɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "餐巾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get some napkins?",
+        "cn": "可以给我几张餐巾纸吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "paper napkin",
+        "cn": "餐巾纸"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030040,
+    "word": "portion",
+    "phonetic0": "ˈpɔːʃn",
+    "phonetic1": "ˈpɔːrʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一份"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The portions here are huge.",
+        "cn": "这里的分量很大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a large portion",
+        "cn": "大份"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030041,
+    "word": "share",
+    "phonetic0": "ʃeə",
+    "phonetic1": "ʃer",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "分享，合吃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's share a pizza.",
+        "cn": "我们合吃一个披萨吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "share with",
+        "cn": "与……分享"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030042,
+    "word": "service",
+    "phonetic0": "ˈsɜːvɪs",
+    "phonetic1": "ˈsɜːrvɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "服务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is service charge included?",
+        "cn": "含服务费吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "service charge",
+        "cn": "服务费"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1030043,
+    "word": "tip",
+    "phonetic0": "tɪp",
+    "phonetic1": "tɪp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is the tip included?",
+        "cn": "包含小费吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "leave a tip",
+        "cn": "留小费"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

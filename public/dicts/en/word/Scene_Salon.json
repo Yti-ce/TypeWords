@@ -1,0 +1,764 @@
+[
+  {
+    "id": 1190001,
+    "word": "haircut",
+    "phonetic0": "ˈheəkʌt",
+    "phonetic1": "ˈherkʌt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "理发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a haircut.",
+        "cn": "我需要理个发。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get a haircut",
+        "cn": "理发"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190002,
+    "word": "hair",
+    "phonetic0": "heə",
+    "phonetic1": "her",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "头发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My hair is too long.",
+        "cn": "我头发太长了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wash my hair",
+        "cn": "洗头"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190003,
+    "word": "cut",
+    "phonetic0": "kʌt",
+    "phonetic1": "kʌt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "剪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Just cut a little off the ends.",
+        "cn": "发梢剪一点就行。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cut short",
+        "cn": "剪短"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190004,
+    "word": "short",
+    "phonetic0": "ʃɔːt",
+    "phonetic1": "ʃɔːrt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "短的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Not too short, please.",
+        "cn": "请不要剪太短。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "short hair",
+        "cn": "短发"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190005,
+    "word": "long",
+    "phonetic0": "lɒŋ",
+    "phonetic1": "lɔːŋ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "长的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Keep it long at the back.",
+        "cn": "后面留长一点。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "long hair",
+        "cn": "长发"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190006,
+    "word": "wash",
+    "phonetic0": "wɒʃ",
+    "phonetic1": "wɑːʃ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "洗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would you like a wash first?",
+        "cn": "要先洗个头吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wash and cut",
+        "cn": "洗剪"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190007,
+    "word": "style",
+    "phonetic0": "staɪl",
+    "phonetic1": "staɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "发型；风格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like a new style.",
+        "cn": "我想换个新发型。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hairstyle",
+        "cn": "发型"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190008,
+    "word": "fringe",
+    "phonetic0": "frɪndʒ",
+    "phonetic1": "frɪndʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "刘海（美式 bangs）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you trim my fringe?",
+        "cn": "能帮我修一下刘海吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cut a fringe",
+        "cn": "剪刘海"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190009,
+    "word": "trim",
+    "phonetic0": "trɪm",
+    "phonetic1": "trɪm",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "修剪"
+      },
+      {
+        "pos": "n.",
+        "cn": "修剪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Just a trim, please.",
+        "cn": "修一修就好。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a quick trim",
+        "cn": "简单修剪"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190010,
+    "word": "dye",
+    "phonetic0": "daɪ",
+    "phonetic1": "daɪ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "染"
+      },
+      {
+        "pos": "n.",
+        "cn": "染发剂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to dye my hair brown.",
+        "cn": "我想把头发染成棕色。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hair dye",
+        "cn": "染发剂"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190011,
+    "word": "colour",
+    "phonetic0": "ˈkʌlə",
+    "phonetic1": "ˈkʌlər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "颜色"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What colour would you like?",
+        "cn": "你想要什么颜色？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hair colour",
+        "cn": "发色"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190012,
+    "word": "curly",
+    "phonetic0": "ˈkɜːli",
+    "phonetic1": "ˈkɜːrli",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "卷曲的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She has curly hair.",
+        "cn": "她是卷发。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "curly hair",
+        "cn": "卷发"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190013,
+    "word": "straight",
+    "phonetic0": "streɪt",
+    "phonetic1": "streɪt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "直的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want my hair straight.",
+        "cn": "我想把头发弄直。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "straight hair",
+        "cn": "直发"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190014,
+    "word": "side",
+    "phonetic0": "saɪd",
+    "phonetic1": "saɪd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "侧边"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Shorter on the sides, please.",
+        "cn": "两边剪短一点。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the sides",
+        "cn": "两侧"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190015,
+    "word": "back",
+    "phonetic0": "bæk",
+    "phonetic1": "bæk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "后面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How about the back?",
+        "cn": "后面怎么剪？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at the back",
+        "cn": "在后面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190016,
+    "word": "mirror",
+    "phonetic0": "ˈmɪrə",
+    "phonetic1": "ˈmɪrər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "镜子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me show you in the mirror.",
+        "cn": "我用镜子给你看看。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "look in the mirror",
+        "cn": "照镜子"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190017,
+    "word": "barber",
+    "phonetic0": "ˈbɑːbə",
+    "phonetic1": "ˈbɑːrbər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "理发师（男士）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I go to the same barber every month.",
+        "cn": "我每个月都找同一个理发师。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "barber shop",
+        "cn": "理发店"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190018,
+    "word": "hairdresser",
+    "phonetic0": "ˈheədresə",
+    "phonetic1": "ˈherdresər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "美发师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My hairdresser is fully booked.",
+        "cn": "我的美发师约满了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at the hairdresser's",
+        "cn": "在美发店"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190019,
+    "word": "shampoo",
+    "phonetic0": "ʃæmˈpuː",
+    "phonetic1": "ʃæmˈpuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "洗发水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which shampoo do you use?",
+        "cn": "你用什么洗发水？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "anti-dandruff shampoo",
+        "cn": "去屑洗发水"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190020,
+    "word": "blow",
+    "phonetic0": "bləʊ",
+    "phonetic1": "bloʊ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "吹（blow-dry 吹干）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Shall I blow-dry it for you?",
+        "cn": "要帮您吹干吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "blow-dry",
+        "cn": "吹干"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190021,
+    "word": "nails",
+    "phonetic0": "neɪlz",
+    "phonetic1": "neɪlz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "指甲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm getting my nails done.",
+        "cn": "我去做指甲。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do my nails",
+        "cn": "做指甲"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190022,
+    "word": "skin",
+    "phonetic0": "skɪn",
+    "phonetic1": "skɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "皮肤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have sensitive skin.",
+        "cn": "我是敏感肌。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sensitive skin",
+        "cn": "敏感肌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190023,
+    "word": "massage",
+    "phonetic0": "ˈmæsɑːʒ",
+    "phonetic1": "məˈsɑːʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "按摩"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like a foot massage.",
+        "cn": "我想做个足部按摩。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "foot massage",
+        "cn": "足疗"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190024,
+    "word": "book",
+    "phonetic0": "bʊk",
+    "phonetic1": "bʊk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "预约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I book for Saturday?",
+        "cn": "我可以约周六吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "book an appointment",
+        "cn": "预约"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1190025,
+    "word": "look",
+    "phonetic0": "lʊk",
+    "phonetic1": "lʊk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "外表"
+      },
+      {
+        "pos": "v.",
+        "cn": "看起来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You look great!",
+        "cn": "你看起来很棒！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new look",
+        "cn": "新造型"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

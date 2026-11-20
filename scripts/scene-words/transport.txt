@@ -1,0 +1,34 @@
+# 场景·交通出行  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+bus | bʌs | bʌs | n.:公交车 | Which bus goes to the city centre? | 哪路公交去市中心？ | bus stop:公交车站
+taxi | ˈtæksi | ˈtæksi | n.:出租车 | Let's take a taxi. | 我们打车吧。 | take a taxi:打车
+train | treɪn | treɪn | n.:火车 | The train leaves at eight. | 火车八点出发。 | train station:火车站
+station | ˈsteɪʃn | ˈsteɪʃn | n.:车站 | Where is the nearest station? | 最近的车站在哪里？ | metro station:地铁站
+ticket | ˈtɪkɪt | ˈtɪkɪt | n.:票 | How much is a ticket? | 一张票多少钱？ | one-way ticket:单程票
+stop | stɒp | stɑːp | n.:车站; v.:停 | Get off at the next stop. | 在下一站下车。 | bus stop:公交站
+metro | ˈmetrəʊ | ˈmetroʊ | n.:地铁 | I go to work by metro. | 我坐地铁上班。 | metro line:地铁线路
+line | laɪn | laɪn | n.:线路；排队 | Take Line 2 to the airport. | 坐2号线去机场。 | change lines:换乘
+change | tʃeɪndʒ | tʃeɪndʒ | v.:换乘；改变 | Change at the next station. | 在下一站换乘。 | change trains:换车
+fare | feə | fer | n.:车费 | What's the fare to the airport? | 到机场的车费是多少？ | bus fare:公交车费
+driver | ˈdraɪvə | ˈdraɪvər | n.:司机 | The driver was very friendly. | 司机很友好。 | taxi driver:出租车司机
+drive | draɪv | draɪv | v.:开车 | Can you drive me to the station? | 你能开车送我去车站吗？ | drive to:开车去
+car | kɑː | kɑːr | n.:汽车 | I parked my car outside. | 我把车停在外面了。 | by car:坐车
+traffic | ˈtræfɪk | ˈtræfɪk | n.:交通 | The traffic is terrible today. | 今天交通很堵。 | traffic jam:堵车
+late | leɪt | leɪt | adj.:迟到的 | Sorry, I'm late because of the traffic. | 抱歉，因为堵车我迟到了。 | be late for:……迟到
+platform | ˈplætfɔːm | ˈplætfɔːrm | n.:站台 | The train leaves from platform four. | 火车从四号站台出发。 | platform 4:4号站台
+schedule | ˈʃedjuːl | ˈskedʒuːl | n.:时间表 | Let me check the train schedule. | 我看一下火车时刻表。 | on schedule:准时
+delay | dɪˈleɪ | dɪˈleɪ | n.:延误; v.:延误 | The train is delayed by twenty minutes. | 火车晚点二十分钟。 | be delayed:延误
+seat | siːt | siːt | n.:座位 | Is this seat free? | 这个座位有人吗？ | take a seat:坐下
+passenger | ˈpæsɪndʒə | ˈpæsɪndʒər | n.:乘客 | Passengers must have a ticket. | 乘客必须持票。 | passenger seat:副驾驶座
+park | pɑːk | pɑːrk | v.:停车; n.:公园 | Where can I park? | 我可以在哪儿停车？ | car park:停车场
+parking | ˈpɑːkɪŋ | ˈpɑːrkɪŋ | n.:停车 | Is there free parking here? | 这里有免费停车吗？ | parking lot:停车场
+ride | raɪd | raɪd | n.:乘车; v.:骑，乘坐 | Can I get a ride home? | 能载我回家吗？ | give someone a ride:载某人一程
+bike | baɪk | baɪk | n.:自行车 | I ride my bike to school. | 我骑自行车上学。 | ride a bike:骑自行车
+walk | wɔːk | wɔːk | v.:走路; n.:步行 | It's a ten-minute walk. | 走路十分钟。 | on foot:步行
+cross | krɒs | krɔːs | v.:穿过 | Cross the road at the lights. | 在红绿灯处过马路。 | cross the road:过马路
+lights | laɪts | laɪts | n.:红绿灯 | Turn left at the traffic lights. | 在红绿灯处左转。 | traffic lights:红绿灯
+fuel | ˈfjuːəl | ˈfjuːəl | n.:燃油 | We need to stop for fuel. | 我们需要停下来加油。 | fuel tank:油箱
+petrol | ˈpetrəl | ˈpetrəl | n.:汽油（美式 gas） | The car is running out of petrol. | 车快没油了。 | petrol station:加油站
+app | æp | æp | n.:应用程序 | Book a ride with the app. | 用应用程序叫车。 | taxi app:打车软件
+route | ruːt | ruːt | n.:路线 | What's the fastest route? | 最快的路线是哪条？ | bus route:公交路线
+direction | dəˈrekʃn | dəˈrekʃn | n.:方向 | Is this the right direction? | 这个方向对吗？ | wrong direction:方向错

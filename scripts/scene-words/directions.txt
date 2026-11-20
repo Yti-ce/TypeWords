@@ -1,0 +1,30 @@
+# 场景·问路  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+where | weə | wer | adv.:在哪里 | Excuse me, where is the station? | 打扰一下，车站在哪里？ | where is:……在哪里
+left | left | left | n.:左边; adv.:向左 | Turn left at the corner. | 在拐角处左转。 | turn left:左转
+right | raɪt | raɪt | n.:右边; adv.:向右 | It's on your right. | 它在你右手边。 | turn right:右转
+straight | streɪt | streɪt | adv.:笔直地 | Go straight ahead. | 一直往前走。 | go straight:直走
+turn | tɜːn | tɜːrn | v.:转弯 | Turn right at the bank. | 在银行那儿右转。 | turn around:掉头
+near | nɪə | nɪr | adj.:近的; prep.:在……附近 | Is it near here? | 离这儿近吗？ | near here:在附近
+far | fɑː | fɑːr | adj.:远的 | Is it far from here? | 离这儿远吗？ | how far:多远
+street | striːt | striːt | n.:街道 | It's on Main Street. | 在主街上。 | across the street:街对面
+road | rəʊd | roʊd | n.:路 | Follow this road for five minutes. | 沿这条路走五分钟。 | main road:大路
+corner | ˈkɔːnə | ˈkɔːrnər | n.:拐角 | The shop is on the corner. | 那家店在拐角。 | around the corner:在拐角处
+opposite | ˈɒpəzɪt | ˈɑːpəzɪt | prep.:在……对面 | It's opposite the bank. | 它在银行对面。 | opposite to:在对面
+next | nekst | nekst | adj.:下一个；旁边的 | It's next to the cinema. | 它在电影院旁边。 | next to:紧挨着
+between | bɪˈtwiːn | bɪˈtwiːn | prep.:在……之间 | It's between the bank and the café. | 它在银行和咖啡馆之间。 | in between:在中间
+behind | bɪˈhaɪnd | bɪˈhaɪnd | prep.:在……后面 | The car park is behind the mall. | 停车场在商场后面。 | right behind:就在后面
+front | frʌnt | frʌnt | n.:前面 | Meet me in front of the station. | 在车站前面等我。 | in front of:在……前面
+block | blɒk | blɑːk | n.:街区 | Walk two blocks and turn left. | 走两个街区后左转。 | two blocks:两个街区
+map | mæp | mæp | n.:地图 | Can you show me on the map? | 你能在地图上指给我看吗？ | check the map:看地图
+lost | lɒst | lɔːst | adj.:迷路的 | I think I'm lost. | 我好像迷路了。 | get lost:迷路
+way | weɪ | weɪ | n.:路；方式 | Could you tell me the way to the museum? | 你能告诉我去博物馆怎么走吗？ | the way to:去……的路
+across | əˈkrɒs | əˈkrɔːs | prep.:在对面；穿过 | The bank is across the street. | 银行在街对面。 | across from:在……对面
+bridge | brɪdʒ | brɪdʒ | n.:桥 | Cross the bridge and keep going. | 过桥后继续走。 | cross the bridge:过桥
+entrance | ˈentrəns | ˈentrəns | n.:入口 | Where is the main entrance? | 正门在哪里？ | main entrance:正门
+exit | ˈeksɪt | ˈeksɪt | n.:出口 | Take exit B. | 走B出口。 | emergency exit:紧急出口
+north | nɔːθ | nɔːrθ | n.:北方 | Head north for one kilometre. | 往北走一公里。 | go north:往北走
+south | saʊθ | saʊθ | n.:南方 | The beach is to the south. | 海滩在南边。 | in the south:在南部
+east | iːst | iːst | n.:东方 | The sun rises in the east. | 太阳从东边升起。 | to the east:在东边
+west | west | west | n.:西方 | Go west along this road. | 沿着这条路往西走。 | to the west:在西边
+sign | saɪn | saɪn | n.:路标；标志 | Follow the signs to the airport. | 跟着路标去机场。 | road sign:路标

@@ -1,0 +1,45 @@
+# 场景·银行  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+bank | bæŋk | bæŋk | n.:银行 | I need to go to the bank this afternoon. | 我今天下午需要去一趟银行。 | bank account:银行账户
+account | əˈkaʊnt | əˈkaʊnt | n.:账户 | I'd like to open an account. | 我想开一个账户。 | open an account:开户
+money | ˈmʌni | ˈmʌni | n.:钱 | I don't have enough money with me. | 我身上带的钱不够。 | save money:存钱；省钱
+cash | kæʃ | kæʃ | n.:现金 | Can I pay in cash? | 我可以付现金吗？ | in cash:用现金
+card | kɑːd | kɑːrd | n.:卡，银行卡 | Please insert your card. | 请插入您的卡。 | bank card:银行卡
+password | ˈpɑːswɜːd | ˈpæswɜːrd | n.:密码 | Please enter your password. | 请输入您的密码。 | change the password:修改密码
+balance | ˈbæləns | ˈbæləns | n.:余额；平衡 | Can you check my balance, please? | 请帮我查一下余额好吗？ | account balance:账户余额
+withdraw | wɪðˈdrɔː | wɪðˈdrɔː | v.:取（钱）；撤回 | I'd like to withdraw some cash. | 我想取一些现金。 | withdraw money:取钱
+deposit | dɪˈpɒzɪt | dɪˈpɑːzɪt | v.:存（钱）; n.:存款；押金 | I want to deposit this money into my account. | 我想把这笔钱存进我的账户。 | make a deposit:存款
+transfer | trænsˈfɜː | trænsˈfɜːr | v.:转账；转移; n.:转账 | I want to transfer money to my friend. | 我想给我朋友转账。 | bank transfer:银行转账
+fee | fiː | fiː | n.:费用，手续费 | Is there a fee for this service? | 这项服务要收手续费吗？ | service fee:服务费
+form | fɔːm | fɔːrm | n.:表格 | Please fill in this form. | 请填写这张表格。 | fill in a form:填表
+sign | saɪn | saɪn | v.:签名; n.:标志 | Please sign here. | 请在这里签名。 | sign your name:签上你的名字
+receipt | rɪˈsiːt | rɪˈsiːt | n.:收据，回单 | Would you like a receipt? | 您需要收据吗？ | keep the receipt:保留收据
+counter | ˈkaʊntə | ˈkaʊntər | n.:柜台 | Please go to counter three. | 请到三号柜台。 | service counter:服务台
+queue | kjuː | kjuː | n.:队伍; v.:排队 | Please take a number and queue here. | 请取号并在这里排队。 | in the queue:在排队
+passport | ˈpɑːspɔːt | ˈpæspɔːrt | n.:护照 | May I see your passport? | 可以看一下您的护照吗？ | passport number:护照号码
+identity | aɪˈdentəti | aɪˈdentəti | n.:身份 | Please bring your identity card. | 请带上您的身份证。 | identity card:身份证
+code | kəʊd | koʊd | n.:验证码；代码 | Please enter the code sent to your phone. | 请输入发到您手机上的验证码。 | verification code:验证码
+verify | ˈverɪfaɪ | ˈverɪfaɪ | v.:核实，验证 | We need to verify your identity. | 我们需要核实您的身份。 | verify your account:验证账户
+payment | ˈpeɪmənt | ˈpeɪmənt | n.:付款，支付 | The payment was successful. | 付款成功了。 | online payment:在线支付
+bill | bɪl | bɪl | n.:账单；（美）纸币 | I need to pay my phone bill. | 我需要交电话费。 | pay the bill:付账
+change | tʃeɪndʒ | tʃeɪndʒ | n.:零钱；改变; v.:兑换 | Do you have change for a fifty? | 你能把五十的换成零钱吗？ | small change:零钱
+coin | kɔɪn | kɔɪn | n.:硬币 | This machine doesn't take coins. | 这台机器不收硬币。 | coin machine:投币机
+exchange | ɪksˈtʃeɪndʒ | ɪksˈtʃeɪndʒ | v.:兑换；交换; n.:兑换 | I'd like to exchange some US dollars. | 我想换一些美元。 | exchange rate:汇率
+currency | ˈkʌrənsi | ˈkɜːrənsi | n.:货币 | Which currency do you need? | 您需要哪种货币？ | foreign currency:外币
+interest | ˈɪntrəst | ˈɪntrəst | n.:利息；兴趣 | What is the interest rate? | 利率是多少？ | interest rate:利率
+savings | ˈseɪvɪŋz | ˈseɪvɪŋz | n.:储蓄，积蓄 | I keep my savings in this bank. | 我把积蓄存在这家银行。 | savings account:储蓄账户
+credit | ˈkredɪt | ˈkredɪt | n.:信用；贷记 | Do you have a credit card? | 你有信用卡吗？ | credit card:信用卡
+debit | ˈdebɪt | ˈdebɪt | n.:借记; v.:从账户扣款 | I usually pay with my debit card. | 我通常用借记卡付款。 | debit card:借记卡
+limit | ˈlɪmɪt | ˈlɪmɪt | n.:限额，限制 | What is the daily withdrawal limit? | 每日取款限额是多少？ | credit limit:信用额度
+statement | ˈsteɪtmənt | ˈsteɪtmənt | n.:对账单；声明 | Can I get a bank statement? | 我可以拿一份银行流水吗？ | bank statement:银行对账单
+branch | brɑːntʃ | bræntʃ | n.:分行，分店 | Where is the nearest branch? | 最近的分行在哪里？ | bank branch:银行网点
+appointment | əˈpɔɪntmənt | əˈpɔɪntmənt | n.:预约 | Do I need an appointment? | 我需要预约吗？ | make an appointment:预约
+activate | ˈæktɪveɪt | ˈæktɪveɪt | v.:激活，开通 | How do I activate my new card? | 我怎么激活新卡？ | activate a card:激活银行卡
+freeze | friːz | friːz | v.:冻结 | I lost my card. Please freeze it. | 我的卡丢了，请帮我冻结。 | freeze an account:冻结账户
+security | sɪˈkjʊərəti | səˈkjʊrəti | n.:安全 | For security, never share your password. | 为了安全，不要把密码告诉别人。 | security question:安全问题
+loan | ləʊn | loʊn | n.:贷款; v.:借出 | I'm applying for a loan. | 我正在申请贷款。 | apply for a loan:申请贷款
+cheque | tʃek | tʃek | n.:支票（美式拼写 check） | Can I pay by cheque? | 我可以用支票付款吗？ | cash a cheque:兑现支票
+insurance | ɪnˈʃʊərəns | ɪnˈʃʊrəns | n.:保险 | Does this card include travel insurance? | 这张卡包含旅行保险吗？ | travel insurance:旅行保险
+mortgage | ˈmɔːɡɪdʒ | ˈmɔːrɡɪdʒ | n.:按揭，房贷 | They took out a mortgage to buy the house. | 他们办了房贷买房子。 | pay off the mortgage:还清房贷
+overdraft | ˈəʊvədrɑːft | ˈoʊvərdræft | n.:透支 | I have a small overdraft on my account. | 我的账户有一点透支。 | overdraft fee:透支费
+invest | ɪnˈvest | ɪnˈvest | v.:投资 | I want to invest some of my savings. | 我想把一部分积蓄拿去投资。 | invest in:投资于

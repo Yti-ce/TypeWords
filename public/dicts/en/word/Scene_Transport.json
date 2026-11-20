@@ -1,0 +1,982 @@
+[
+  {
+    "id": 1070001,
+    "word": "bus",
+    "phonetic0": "bʌs",
+    "phonetic1": "bʌs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "公交车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which bus goes to the city centre?",
+        "cn": "哪路公交去市中心？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bus stop",
+        "cn": "公交车站"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070002,
+    "word": "taxi",
+    "phonetic0": "ˈtæksi",
+    "phonetic1": "ˈtæksi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "出租车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's take a taxi.",
+        "cn": "我们打车吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take a taxi",
+        "cn": "打车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070003,
+    "word": "train",
+    "phonetic0": "treɪn",
+    "phonetic1": "treɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The train leaves at eight.",
+        "cn": "火车八点出发。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "train station",
+        "cn": "火车站"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070004,
+    "word": "station",
+    "phonetic0": "ˈsteɪʃn",
+    "phonetic1": "ˈsteɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "车站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the nearest station?",
+        "cn": "最近的车站在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "metro station",
+        "cn": "地铁站"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070005,
+    "word": "ticket",
+    "phonetic0": "ˈtɪkɪt",
+    "phonetic1": "ˈtɪkɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is a ticket?",
+        "cn": "一张票多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "one-way ticket",
+        "cn": "单程票"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070006,
+    "word": "stop",
+    "phonetic0": "stɒp",
+    "phonetic1": "stɑːp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "车站"
+      },
+      {
+        "pos": "v.",
+        "cn": "停"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Get off at the next stop.",
+        "cn": "在下一站下车。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bus stop",
+        "cn": "公交站"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070007,
+    "word": "metro",
+    "phonetic0": "ˈmetrəʊ",
+    "phonetic1": "ˈmetroʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "地铁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I go to work by metro.",
+        "cn": "我坐地铁上班。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "metro line",
+        "cn": "地铁线路"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070008,
+    "word": "line",
+    "phonetic0": "laɪn",
+    "phonetic1": "laɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "线路；排队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take Line 2 to the airport.",
+        "cn": "坐2号线去机场。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "change lines",
+        "cn": "换乘"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070009,
+    "word": "change",
+    "phonetic0": "tʃeɪndʒ",
+    "phonetic1": "tʃeɪndʒ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "换乘；改变"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Change at the next station.",
+        "cn": "在下一站换乘。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "change trains",
+        "cn": "换车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070010,
+    "word": "fare",
+    "phonetic0": "feə",
+    "phonetic1": "fer",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "车费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the fare to the airport?",
+        "cn": "到机场的车费是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bus fare",
+        "cn": "公交车费"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070011,
+    "word": "driver",
+    "phonetic0": "ˈdraɪvə",
+    "phonetic1": "ˈdraɪvər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "司机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The driver was very friendly.",
+        "cn": "司机很友好。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "taxi driver",
+        "cn": "出租车司机"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070012,
+    "word": "drive",
+    "phonetic0": "draɪv",
+    "phonetic1": "draɪv",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "开车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you drive me to the station?",
+        "cn": "你能开车送我去车站吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "drive to",
+        "cn": "开车去"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070013,
+    "word": "car",
+    "phonetic0": "kɑː",
+    "phonetic1": "kɑːr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "汽车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I parked my car outside.",
+        "cn": "我把车停在外面了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by car",
+        "cn": "坐车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070014,
+    "word": "traffic",
+    "phonetic0": "ˈtræfɪk",
+    "phonetic1": "ˈtræfɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "交通"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The traffic is terrible today.",
+        "cn": "今天交通很堵。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "traffic jam",
+        "cn": "堵车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070015,
+    "word": "late",
+    "phonetic0": "leɪt",
+    "phonetic1": "leɪt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "迟到的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, I'm late because of the traffic.",
+        "cn": "抱歉，因为堵车我迟到了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "be late for",
+        "cn": "……迟到"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070016,
+    "word": "platform",
+    "phonetic0": "ˈplætfɔːm",
+    "phonetic1": "ˈplætfɔːrm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "站台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The train leaves from platform four.",
+        "cn": "火车从四号站台出发。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "platform 4",
+        "cn": "4号站台"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070017,
+    "word": "schedule",
+    "phonetic0": "ˈʃedjuːl",
+    "phonetic1": "ˈskedʒuːl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "时间表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me check the train schedule.",
+        "cn": "我看一下火车时刻表。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on schedule",
+        "cn": "准时"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070018,
+    "word": "delay",
+    "phonetic0": "dɪˈleɪ",
+    "phonetic1": "dɪˈleɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "延误"
+      },
+      {
+        "pos": "v.",
+        "cn": "延误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The train is delayed by twenty minutes.",
+        "cn": "火车晚点二十分钟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "be delayed",
+        "cn": "延误"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070019,
+    "word": "seat",
+    "phonetic0": "siːt",
+    "phonetic1": "siːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "座位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this seat free?",
+        "cn": "这个座位有人吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take a seat",
+        "cn": "坐下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070020,
+    "word": "passenger",
+    "phonetic0": "ˈpæsɪndʒə",
+    "phonetic1": "ˈpæsɪndʒər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "乘客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Passengers must have a ticket.",
+        "cn": "乘客必须持票。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "passenger seat",
+        "cn": "副驾驶座"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070021,
+    "word": "park",
+    "phonetic0": "pɑːk",
+    "phonetic1": "pɑːrk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "停车"
+      },
+      {
+        "pos": "n.",
+        "cn": "公园"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where can I park?",
+        "cn": "我可以在哪儿停车？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "car park",
+        "cn": "停车场"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070022,
+    "word": "parking",
+    "phonetic0": "ˈpɑːkɪŋ",
+    "phonetic1": "ˈpɑːrkɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "停车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there free parking here?",
+        "cn": "这里有免费停车吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "parking lot",
+        "cn": "停车场"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070023,
+    "word": "ride",
+    "phonetic0": "raɪd",
+    "phonetic1": "raɪd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "乘车"
+      },
+      {
+        "pos": "v.",
+        "cn": "骑，乘坐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get a ride home?",
+        "cn": "能载我回家吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "give someone a ride",
+        "cn": "载某人一程"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070024,
+    "word": "bike",
+    "phonetic0": "baɪk",
+    "phonetic1": "baɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自行车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I ride my bike to school.",
+        "cn": "我骑自行车上学。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ride a bike",
+        "cn": "骑自行车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070025,
+    "word": "walk",
+    "phonetic0": "wɔːk",
+    "phonetic1": "wɔːk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "走路"
+      },
+      {
+        "pos": "n.",
+        "cn": "步行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's a ten-minute walk.",
+        "cn": "走路十分钟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on foot",
+        "cn": "步行"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070026,
+    "word": "cross",
+    "phonetic0": "krɒs",
+    "phonetic1": "krɔːs",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "穿过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cross the road at the lights.",
+        "cn": "在红绿灯处过马路。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cross the road",
+        "cn": "过马路"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070027,
+    "word": "lights",
+    "phonetic0": "laɪts",
+    "phonetic1": "laɪts",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "红绿灯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Turn left at the traffic lights.",
+        "cn": "在红绿灯处左转。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "traffic lights",
+        "cn": "红绿灯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070028,
+    "word": "fuel",
+    "phonetic0": "ˈfjuːəl",
+    "phonetic1": "ˈfjuːəl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "燃油"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to stop for fuel.",
+        "cn": "我们需要停下来加油。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fuel tank",
+        "cn": "油箱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070029,
+    "word": "petrol",
+    "phonetic0": "ˈpetrəl",
+    "phonetic1": "ˈpetrəl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "汽油（美式 gas）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The car is running out of petrol.",
+        "cn": "车快没油了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "petrol station",
+        "cn": "加油站"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070030,
+    "word": "app",
+    "phonetic0": "æp",
+    "phonetic1": "æp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "应用程序"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Book a ride with the app.",
+        "cn": "用应用程序叫车。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "taxi app",
+        "cn": "打车软件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070031,
+    "word": "route",
+    "phonetic0": "ruːt",
+    "phonetic1": "ruːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "路线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the fastest route?",
+        "cn": "最快的路线是哪条？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bus route",
+        "cn": "公交路线"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1070032,
+    "word": "direction",
+    "phonetic0": "dəˈrekʃn",
+    "phonetic1": "dəˈrekʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "方向"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this the right direction?",
+        "cn": "这个方向对吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wrong direction",
+        "cn": "方向错"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

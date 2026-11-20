@@ -1,0 +1,44 @@
+# 场景·学校  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+teacher | ˈtiːtʃə | ˈtiːtʃər | n.:老师 | Our teacher is very patient. | 我们的老师很有耐心。 | English teacher:英语老师
+student | ˈstjuːdnt | ˈstuːdnt | n.:学生 | I'm a university student. | 我是一名大学生。 | student card:学生证
+class | klɑːs | klæs | n.:课；班级 | What time does class start? | 几点上课？ | in class:在课上
+question | ˈkwestʃən | ˈkwestʃən | n.:问题 | Can I ask a question? | 我可以问个问题吗？ | ask a question:提问
+answer | ˈɑːnsə | ˈænsər | n.:答案; v.:回答 | Do you know the answer? | 你知道答案吗？ | the right answer:正确答案
+understand | ˌʌndəˈstænd | ˌʌndərˈstænd | v.:理解，听懂 | Sorry, I don't understand. | 抱歉，我没听懂。 | fully understand:完全理解
+repeat | rɪˈpiːt | rɪˈpiːt | v.:重复 | Could you repeat that, please? | 你能再说一遍吗？ | repeat after me:跟我读
+explain | ɪkˈspleɪn | ɪkˈspleɪn | v.:解释 | Could you explain that again? | 你能再解释一遍吗？ | explain to:向……解释
+homework | ˈhəʊmwɜːk | ˈhoʊmwɜːrk | n.:家庭作业 | I haven't finished my homework. | 我还没写完作业。 | do homework:做作业
+exam | ɪɡˈzæm | ɪɡˈzæm | n.:考试 | When is the final exam? | 期末考试是什么时候？ | final exam:期末考试
+test | test | test | n.:测验 | We have a test tomorrow. | 我们明天有个测验。 | take a test:参加测验
+lesson | ˈlesn | ˈlesn | n.:课 | Today's lesson is about grammar. | 今天的课讲语法。 | English lesson:英语课
+classroom | ˈklɑːsruːm | ˈklæsruːm | n.:教室 | Which classroom are we in? | 我们在哪间教室？ | in the classroom:在教室里
+classmate | ˈklɑːsmeɪt | ˈklæsmeɪt | n.:同学 | She's my classmate. | 她是我的同学。 | old classmate:老同学
+library | ˈlaɪbrəri | ˈlaɪbreri | n.:图书馆 | I'll study in the library. | 我去图书馆学习。 | library card:借书证
+course | kɔːs | kɔːrs | n.:课程 | I'm taking an English course. | 我在上一门英语课。 | online course:网课
+subject | ˈsʌbdʒɪkt | ˈsʌbdʒɪkt | n.:科目 | What's your favourite subject? | 你最喜欢哪个科目？ | favourite subject:最喜欢的科目
+assignment | əˈsaɪnmənt | əˈsaɪnmənt | n.:作业，任务 | The assignment is due on Friday. | 这份作业周五截止。 | hand in an assignment:交作业
+deadline | ˈdedlaɪn | ˈdedlaɪn | n.:截止日期 | The deadline is next Monday. | 截止日期是下周一。 | meet the deadline:按时完成
+submit | səbˈmɪt | səbˈmɪt | v.:提交 | Please submit your report online. | 请在网上提交报告。 | submit a report:提交报告
+notes | nəʊts | noʊts | n.:笔记 | Can I borrow your notes? | 我可以借你的笔记吗？ | take notes:做笔记
+borrow | ˈbɒrəʊ | ˈbɑːroʊ | v.:借（入） | Can I borrow your pen? | 可以借一下你的笔吗？ | borrow from:向……借
+pen | pen | pen | n.:笔，钢笔 | I forgot my pen. | 我忘带笔了。 | a pen and paper:纸笔
+notebook | ˈnəʊtbʊk | ˈnoʊtbʊk | n.:笔记本 | Open your notebook, please. | 请打开你的笔记本。 | notebook computer:笔记本电脑
+dictionary | ˈdɪkʃənri | ˈdɪkʃəneri | n.:词典 | Look it up in the dictionary. | 在词典里查一下。 | look up in a dictionary:查词典
+timetable | ˈtaɪmteɪbl | ˈtaɪmteɪbl | n.:课程表；时刻表 | Let me check my timetable. | 我看一下课表。 | class timetable:课表
+grade | ɡreɪd | ɡreɪd | n.:成绩；年级 | I got a good grade in maths. | 我数学成绩很好。 | good grade:好成绩
+score | skɔː | skɔːr | n.:分数 | What was your score? | 你考了多少分？ | high score:高分
+pass | pɑːs | pæs | v.:通过，及格 | I hope I pass the exam. | 希望我考试能及格。 | pass an exam:考试及格
+fail | feɪl | feɪl | v.:不及格；失败 | He failed the test. | 他测验没及格。 | fail an exam:考试不及格
+project | ˈprɒdʒekt | ˈprɑːdʒekt | n.:项目 | We're working on a group project. | 我们在做一个小组项目。 | group project:小组作业
+presentation | ˌpreznˈteɪʃn | ˌpriːzenˈteɪʃn | n.:演讲，展示 | I have a presentation tomorrow. | 我明天要做展示。 | give a presentation:做展示
+lecture | ˈlektʃə | ˈlektʃər | n.:讲座，讲课 | The lecture starts at nine. | 讲座九点开始。 | attend a lecture:听讲座
+semester | sɪˈmestə | sɪˈmestər | n.:学期 | The new semester starts in March. | 新学期三月开始。 | this semester:这学期
+major | ˈmeɪdʒə | ˈmeɪdʒər | n.:专业 | What's your major? | 你学什么专业？ | major in:主修
+degree | dɪˈɡriː | dɪˈɡriː | n.:学位 | She has a degree in computer science. | 她有计算机科学学位。 | bachelor's degree:学士学位
+campus | ˈkæmpəs | ˈkæmpəs | n.:校园 | The campus is very big. | 校园很大。 | on campus:在校园里
+canteen | kænˈtiːn | kænˈtiːn | n.:食堂 | Let's eat in the canteen. | 我们去食堂吃吧。 | school canteen:学校食堂
+absent | ˈæbsənt | ˈæbsənt | adj.:缺席的 | He was absent yesterday. | 他昨天缺席了。 | absent from:缺席
+attendance | əˈtendəns | əˈtendəns | n.:出勤 | Attendance is compulsory. | 必须出勤。 | take attendance:点名
+tutor | ˈtjuːtə | ˈtuːtər | n.:导师，家教 | My tutor helps me with writing. | 我的导师帮我练写作。 | private tutor:私人家教
+scholarship | ˈskɒləʃɪp | ˈskɑːlərʃɪp | n.:奖学金 | She won a scholarship. | 她获得了奖学金。 | apply for a scholarship:申请奖学金

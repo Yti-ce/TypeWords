@@ -1,0 +1,30 @@
+# 场景·天气  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+weather | ˈweðə | ˈweðər | n.:天气 | What's the weather like today? | 今天天气怎么样？ | weather forecast:天气预报
+hot | hɒt | hɑːt | adj.:热的 | It's so hot today. | 今天好热。 | hot weather:炎热天气
+cold | kəʊld | koʊld | adj.:冷的 | It's cold outside. | 外面很冷。 | cold weather:寒冷天气
+warm | wɔːm | wɔːrm | adj.:温暖的 | It's warm and sunny. | 天气温暖晴朗。 | keep warm:保暖
+cool | kuːl | kuːl | adj.:凉爽的 | It's cool in the evening. | 晚上很凉快。 | cool breeze:凉风
+rain | reɪn | reɪn | n.:雨; v.:下雨 | It's going to rain this afternoon. | 今天下午要下雨。 | heavy rain:大雨
+sunny | ˈsʌni | ˈsʌni | adj.:晴朗的 | It's a sunny day. | 今天是个晴天。 | sunny day:晴天
+cloudy | ˈklaʊdi | ˈklaʊdi | adj.:多云的 | It's cloudy but not raining. | 天阴但没下雨。 | cloudy sky:阴天
+umbrella | ʌmˈbrelə | ʌmˈbrelə | n.:雨伞 | Don't forget your umbrella. | 别忘了带伞。 | take an umbrella:带伞
+wind | wɪnd | wɪnd | n.:风 | The wind is very strong today. | 今天风很大。 | strong wind:大风
+windy | ˈwɪndi | ˈwɪndi | adj.:刮风的 | It's very windy outside. | 外面风很大。 | windy day:大风天
+forecast | ˈfɔːkɑːst | ˈfɔːrkæst | n.:预报 | The forecast says it will be sunny. | 天气预报说会是晴天。 | weather forecast:天气预报
+temperature | ˈtemprətʃə | ˈtemprətʃər | n.:温度 | The temperature is 30 degrees. | 气温30度。 | high temperature:高温
+degree | dɪˈɡriː | dɪˈɡriː | n.:度 | It's minus five degrees. | 零下五度。 | 20 degrees:20度
+humid | ˈhjuːmɪd | ˈhjuːmɪd | adj.:潮湿的 | It's hot and humid in summer. | 夏天又热又潮湿。 | humid weather:潮湿天气
+storm | stɔːm | stɔːrm | n.:暴风雨 | There's a storm coming. | 暴风雨要来了。 | thunderstorm:雷雨
+thunder | ˈθʌndə | ˈθʌndər | n.:雷 | I heard thunder last night. | 我昨晚听到打雷了。 | thunder and lightning:雷电
+snow | snəʊ | snoʊ | n.:雪; v.:下雪 | It snowed all night. | 雪下了一整夜。 | heavy snow:大雪
+fog | fɒɡ | fɑːɡ | n.:雾 | The fog is very thick this morning. | 今天早上雾很大。 | thick fog:浓雾
+wet | wet | wet | adj.:湿的 | I got wet in the rain. | 我被雨淋湿了。 | get wet:淋湿
+dry | draɪ | draɪ | adj.:干燥的 | The air is very dry. | 空气很干燥。 | dry season:旱季
+season | ˈsiːzn | ˈsiːzn | n.:季节 | What's your favourite season? | 你最喜欢哪个季节？ | rainy season:雨季
+spring | sprɪŋ | sprɪŋ | n.:春天 | Flowers bloom in spring. | 春天花开。 | in spring:在春天
+summer | ˈsʌmə | ˈsʌmər | n.:夏天 | Summer is very hot here. | 这里夏天很热。 | summer holiday:暑假
+autumn | ˈɔːtəm | ˈɔːtəm | n.:秋天（美式 fall） | Autumn is my favourite season. | 秋天是我最喜欢的季节。 | in autumn:在秋天
+winter | ˈwɪntə | ˈwɪntər | n.:冬天 | It's very cold in winter. | 冬天很冷。 | in winter:在冬天
+freezing | ˈfriːzɪŋ | ˈfriːzɪŋ | adj.:极冷的 | It's freezing today! | 今天冷死了！ | freezing cold:极冷
+sunscreen | ˈsʌnskriːn | ˈsʌnskriːn | n.:防晒霜 | Put on some sunscreen. | 涂点防晒霜。 | wear sunscreen:涂防晒
