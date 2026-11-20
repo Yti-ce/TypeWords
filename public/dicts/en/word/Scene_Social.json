@@ -1,0 +1,910 @@
+[
+  {
+    "id": 1160001,
+    "word": "hello",
+    "phonetic0": "həˈləʊ",
+    "phonetic1": "həˈloʊ",
+    "trans": [
+      {
+        "pos": "int.",
+        "cn": "你好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hello, nice to meet you.",
+        "cn": "你好，很高兴认识你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "say hello",
+        "cn": "打招呼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160002,
+    "word": "thanks",
+    "phonetic0": "θæŋks",
+    "phonetic1": "θæŋks",
+    "trans": [
+      {
+        "pos": "int.",
+        "cn": "谢谢"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for your help.",
+        "cn": "谢谢你的帮助。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "thanks a lot",
+        "cn": "非常感谢"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160003,
+    "word": "sorry",
+    "phonetic0": "ˈsɒri",
+    "phonetic1": "ˈsɑːri",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "抱歉的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, I'm late.",
+        "cn": "抱歉，我迟到了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "I'm sorry",
+        "cn": "对不起"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160004,
+    "word": "please",
+    "phonetic0": "pliːz",
+    "phonetic1": "pliːz",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you help me, please?",
+        "cn": "请问你能帮我一下吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "yes, please",
+        "cn": "好的，谢谢"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160005,
+    "word": "excuse",
+    "phonetic0": "ɪkˈskjuːz",
+    "phonetic1": "ɪkˈskjuːz",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "原谅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Excuse me, is this seat taken?",
+        "cn": "打扰一下，这个座位有人吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "excuse me",
+        "cn": "打扰一下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160006,
+    "word": "name",
+    "phonetic0": "neɪm",
+    "phonetic1": "neɪm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "名字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your name?",
+        "cn": "你叫什么名字？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "first name",
+        "cn": "名字"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160007,
+    "word": "meet",
+    "phonetic0": "miːt",
+    "phonetic1": "miːt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "遇见，认识"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nice to meet you.",
+        "cn": "很高兴认识你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "meet up",
+        "cn": "见面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160008,
+    "word": "fine",
+    "phonetic0": "faɪn",
+    "phonetic1": "faɪn",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "好的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm fine, thanks. And you?",
+        "cn": "我很好，谢谢。你呢？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "I'm fine",
+        "cn": "我很好"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160009,
+    "word": "welcome",
+    "phonetic0": "ˈwelkəm",
+    "phonetic1": "ˈwelkəm",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "不客气；受欢迎的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You're welcome.",
+        "cn": "不客气。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "you're welcome",
+        "cn": "不客气"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160010,
+    "word": "weekend",
+    "phonetic0": "ˌwiːkˈend",
+    "phonetic1": "ˈwiːkend",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "周末"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How was your weekend?",
+        "cn": "你周末过得怎么样？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at the weekend",
+        "cn": "在周末"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160011,
+    "word": "free",
+    "phonetic0": "friː",
+    "phonetic1": "friː",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有空的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are you free tonight?",
+        "cn": "你今晚有空吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "free time",
+        "cn": "空闲时间"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160012,
+    "word": "hobby",
+    "phonetic0": "ˈhɒbi",
+    "phonetic1": "ˈhɑːbi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "爱好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What are your hobbies?",
+        "cn": "你有什么爱好？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "my hobby",
+        "cn": "我的爱好"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160013,
+    "word": "friend",
+    "phonetic0": "frend",
+    "phonetic1": "frend",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "朋友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is my friend, Tom.",
+        "cn": "这是我的朋友汤姆。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "best friend",
+        "cn": "最好的朋友"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160014,
+    "word": "invite",
+    "phonetic0": "ɪnˈvaɪt",
+    "phonetic1": "ɪnˈvaɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "邀请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for inviting me.",
+        "cn": "谢谢你邀请我。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "invite to",
+        "cn": "邀请参加"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160015,
+    "word": "party",
+    "phonetic0": "ˈpɑːti",
+    "phonetic1": "ˈpɑːrti",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "聚会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are you coming to the party?",
+        "cn": "你来参加聚会吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "birthday party",
+        "cn": "生日聚会"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160016,
+    "word": "congratulations",
+    "phonetic0": "kənˌɡrætʃuˈleɪʃnz",
+    "phonetic1": "kənˌɡrætʃuˈleɪʃnz",
+    "trans": [
+      {
+        "pos": "int.",
+        "cn": "恭喜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Congratulations on your new job!",
+        "cn": "恭喜你找到新工作！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "congratulations on",
+        "cn": "恭喜……"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160017,
+    "word": "birthday",
+    "phonetic0": "ˈbɜːθdeɪ",
+    "phonetic1": "ˈbɜːrθdeɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "生日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Happy birthday!",
+        "cn": "生日快乐！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "happy birthday",
+        "cn": "生日快乐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160018,
+    "word": "introduce",
+    "phonetic0": "ˌɪntrəˈdjuːs",
+    "phonetic1": "ˌɪntrəˈduːs",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "介绍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me introduce myself.",
+        "cn": "让我自我介绍一下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "introduce myself",
+        "cn": "自我介绍"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160019,
+    "word": "from",
+    "phonetic0": "frɒm",
+    "phonetic1": "frʌm",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "来自"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where are you from?",
+        "cn": "你是哪里人？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "come from",
+        "cn": "来自"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160020,
+    "word": "job",
+    "phonetic0": "dʒɒb",
+    "phonetic1": "dʒɑːb",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What do you do for a job?",
+        "cn": "你是做什么工作的？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "part-time job",
+        "cn": "兼职"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160021,
+    "word": "contact",
+    "phonetic0": "ˈkɒntækt",
+    "phonetic1": "ˈkɑːntækt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "联系方式"
+      },
+      {
+        "pos": "v.",
+        "cn": "联系"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's keep in contact.",
+        "cn": "我们保持联系吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "keep in contact",
+        "cn": "保持联系"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160022,
+    "word": "plan",
+    "phonetic0": "plæn",
+    "phonetic1": "plæn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have any plans for tonight?",
+        "cn": "你今晚有什么安排吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make plans",
+        "cn": "做计划"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160023,
+    "word": "maybe",
+    "phonetic0": "ˈmeɪbi",
+    "phonetic1": "ˈmeɪbi",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "也许"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Maybe next time.",
+        "cn": "下次吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "maybe later",
+        "cn": "也许以后"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160024,
+    "word": "sure",
+    "phonetic0": "ʃʊə",
+    "phonetic1": "ʃʊr",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "当然"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sure, why not?",
+        "cn": "当然，为什么不呢？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "for sure",
+        "cn": "肯定"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160025,
+    "word": "great",
+    "phonetic0": "ɡreɪt",
+    "phonetic1": "ɡreɪt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "很好的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That sounds great!",
+        "cn": "听起来很棒！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sounds great",
+        "cn": "听起来不错"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160026,
+    "word": "interesting",
+    "phonetic0": "ˈɪntrəstɪŋ",
+    "phonetic1": "ˈɪntrəstɪŋ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有趣的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That's really interesting.",
+        "cn": "那真有意思。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sounds interesting",
+        "cn": "听起来有趣"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160027,
+    "word": "miss",
+    "phonetic0": "mɪs",
+    "phonetic1": "mɪs",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "想念"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I miss you.",
+        "cn": "我想你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "miss home",
+        "cn": "想家"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160028,
+    "word": "bye",
+    "phonetic0": "baɪ",
+    "phonetic1": "baɪ",
+    "trans": [
+      {
+        "pos": "int.",
+        "cn": "再见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bye, see you tomorrow!",
+        "cn": "再见，明天见！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "see you",
+        "cn": "再见"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160029,
+    "word": "chat",
+    "phonetic0": "tʃæt",
+    "phonetic1": "tʃæt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "聊天"
+      },
+      {
+        "pos": "n.",
+        "cn": "聊天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It was nice chatting with you.",
+        "cn": "和你聊天很愉快。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "have a chat",
+        "cn": "聊一聊"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1160030,
+    "word": "favour",
+    "phonetic0": "ˈfeɪvə",
+    "phonetic1": "ˈfeɪvər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "帮忙（美式 favor）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you do me a favour?",
+        "cn": "你能帮我个忙吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do me a favour",
+        "cn": "帮我个忙"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

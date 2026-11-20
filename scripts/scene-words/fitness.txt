@@ -1,0 +1,32 @@
+# 场景·健身运动  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+exercise | ˈeksəsaɪz | ˈeksərsaɪz | n.:锻炼; v.:锻炼 | I exercise three times a week. | 我每周锻炼三次。 | do exercise:做运动
+gym | dʒɪm | dʒɪm | n.:健身房 | I go to the gym after work. | 我下班后去健身房。 | go to the gym:去健身房
+run | rʌn | rʌn | v.:跑步; n.:跑步 | I run every morning. | 我每天早上跑步。 | go for a run:去跑步
+walk | wɔːk | wɔːk | n.:散步; v.:走 | Let's go for a walk. | 我们去散散步吧。 | go for a walk:去散步
+swim | swɪm | swɪm | v.:游泳 | Can you swim? | 你会游泳吗？ | go swimming:去游泳
+sport | spɔːt | spɔːrt | n.:运动 | What's your favourite sport? | 你最喜欢什么运动？ | play sports:做运动
+fit | fɪt | fɪt | adj.:健康的，强健的 | I want to get fit. | 我想变得更健康。 | keep fit:保持健康
+healthy | ˈhelθi | ˈhelθi | adj.:健康的 | Eat healthy food. | 吃健康的食物。 | healthy diet:健康饮食
+weight | weɪt | weɪt | n.:体重；重量 | I'm trying to lose weight. | 我在减肥。 | lose weight:减肥
+muscle | ˈmʌsl | ˈmʌsl | n.:肌肉 | My muscles hurt after training. | 训练后我肌肉酸痛。 | build muscle:增肌
+train | treɪn | treɪn | v.:训练 | I train with a coach. | 我跟着教练训练。 | personal trainer:私人教练
+coach | kəʊtʃ | koʊtʃ | n.:教练 | My coach is very strict. | 我的教练很严格。 | fitness coach:健身教练
+stretch | stretʃ | stretʃ | v.:拉伸 | Stretch before you run. | 跑步前先拉伸。 | stretch out:伸展
+warm | wɔːm | wɔːrm | v.:热身（warm up） | Always warm up first. | 一定要先热身。 | warm up:热身
+tired | ˈtaɪəd | ˈtaɪərd | adj.:累的 | I'm tired after the workout. | 锻炼完我很累。 | feel tired:觉得累
+workout | ˈwɜːkaʊt | ˈwɜːrkaʊt | n.:锻炼 | That was a hard workout. | 那次锻炼真累。 | daily workout:每日锻炼
+rest | rest | rest | n.:休息; v.:休息 | Take a rest between sets. | 每组之间休息一下。 | rest day:休息日
+diet | ˈdaɪət | ˈdaɪət | n.:饮食；节食 | I'm on a diet. | 我在节食。 | go on a diet:节食
+yoga | ˈjəʊɡə | ˈjoʊɡə | n.:瑜伽 | I do yoga on Sundays. | 我周日做瑜伽。 | yoga class:瑜伽课
+football | ˈfʊtbɔːl | ˈfʊtbɔːl | n.:足球（美式 soccer） | Let's play football this weekend. | 这周末我们踢足球吧。 | play football:踢足球
+basketball | ˈbɑːskɪtbɔːl | ˈbæskɪtbɔːl | n.:篮球 | He plays basketball every day. | 他每天打篮球。 | play basketball:打篮球
+badminton | ˈbædmɪntən | ˈbædmɪntən | n.:羽毛球 | Do you want to play badminton? | 你想打羽毛球吗？ | play badminton:打羽毛球
+match | mætʃ | mætʃ | n.:比赛 | Did you watch the match last night? | 你看昨晚的比赛了吗？ | football match:足球比赛
+team | tiːm | tiːm | n.:队 | Which team do you support? | 你支持哪个队？ | home team:主队
+win | wɪn | wɪn | v.:赢 | We won the game! | 我们赢了比赛！ | win a game:赢比赛
+lose | luːz | luːz | v.:输；失去 | We lost three to one. | 我们三比一输了。 | lose a game:输比赛
+score | skɔː | skɔːr | n.:比分; v.:得分 | What's the score? | 比分多少？ | final score:最终比分
+sweat | swet | swet | v.:出汗; n.:汗 | I sweat a lot when I run. | 我跑步时出很多汗。 | break a sweat:出汗
+injury | ˈɪndʒəri | ˈɪndʒəri | n.:受伤 | He has a knee injury. | 他膝盖受伤了。 | sports injury:运动损伤
+membership | ˈmembəʃɪp | ˈmembərʃɪp | n.:会员资格 | How much is a gym membership? | 健身房会员多少钱？ | monthly membership:月卡

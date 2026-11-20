@@ -1,0 +1,32 @@
+# 场景·手机和网络  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+phone | fəʊn | foʊn | n.:电话，手机 | Can I use your phone? | 我可以用一下你的手机吗？ | phone number:电话号码
+call | kɔːl | kɔːl | v.:打电话; n.:电话 | I'll call you later. | 我晚点给你打电话。 | make a call:打电话
+message | ˈmesɪdʒ | ˈmesɪdʒ | n.:消息 | I sent you a message. | 我给你发了条消息。 | text message:短信
+text | tekst | tekst | v.:发短信; n.:短信 | Text me when you arrive. | 到了给我发个消息。 | text me:给我发消息
+battery | ˈbætri | ˈbætəri | n.:电池，电量 | My battery is almost dead. | 我手机快没电了。 | low battery:电量低
+charge | tʃɑːdʒ | tʃɑːrdʒ | v.:充电; n.:费用 | Can I charge my phone here? | 我可以在这里充电吗？ | charge a phone:给手机充电
+charger | ˈtʃɑːdʒə | ˈtʃɑːrdʒər | n.:充电器 | Do you have a phone charger? | 你有手机充电器吗？ | phone charger:手机充电器
+signal | ˈsɪɡnəl | ˈsɪɡnəl | n.:信号 | There's no signal here. | 这里没信号。 | weak signal:信号弱
+internet | ˈɪntənet | ˈɪntərnet | n.:互联网 | The internet is very slow today. | 今天网速很慢。 | on the internet:在网上
+wifi | ˈwaɪfaɪ | ˈwaɪfaɪ | n.:无线网络 | Is there wifi here? | 这里有无线网吗？ | connect to wifi:连无线网
+password | ˈpɑːswɜːd | ˈpæswɜːrd | n.:密码 | I forgot my password. | 我忘了密码。 | reset the password:重置密码
+connect | kəˈnekt | kəˈnekt | v.:连接 | I can't connect to the internet. | 我连不上网。 | connect to:连接到
+download | ˌdaʊnˈləʊd | ˈdaʊnloʊd | v.:下载 | Download the app first. | 先下载这个应用。 | free download:免费下载
+upload | ˌʌpˈləʊd | ˈʌploʊd | v.:上传 | I'll upload the photos tonight. | 我今晚上传照片。 | upload a file:上传文件
+data | ˈdeɪtə | ˈdeɪtə | n.:数据；流量 | I've run out of mobile data. | 我的流量用完了。 | mobile data:手机流量
+plan | plæn | plæn | n.:套餐；计划 | Which phone plan do you have? | 你用的是哪种手机套餐？ | data plan:流量套餐
+sim | sɪm | sɪm | n.:SIM卡 | I need a local SIM card. | 我需要一张本地电话卡。 | SIM card:电话卡
+screen | skriːn | skriːn | n.:屏幕 | My phone screen is cracked. | 我手机屏幕裂了。 | screen protector:屏幕保护膜
+update | ˌʌpˈdeɪt | ˌʌpˈdeɪt | v.:更新; n.:更新 | You need to update the app. | 你需要更新这个应用。 | software update:软件更新
+account | əˈkaʊnt | əˈkaʊnt | n.:账号 | Create an account with your email. | 用邮箱注册一个账号。 | log in to an account:登录账号
+email | ˈiːmeɪl | ˈiːmeɪl | n.:电子邮件; v.:发邮件 | I'll email you the file. | 我把文件发邮件给你。 | send an email:发邮件
+log | lɒɡ | lɔːɡ | v.:登录（log in） | Please log in again. | 请重新登录。 | log in:登录
+online | ˌɒnˈlaɪn | ˌɑːnˈlaɪn | adj.:在线的; adv.:在网上 | I bought it online. | 我在网上买的。 | go online:上网
+link | lɪŋk | lɪŋk | n.:链接 | Send me the link. | 把链接发给我。 | click the link:点击链接
+click | klɪk | klɪk | v.:点击 | Click the button below. | 点击下面的按钮。 | click on:点击
+screenshot | ˈskriːnʃɒt | ˈskriːnʃɑːt | n.:截图 | Send me a screenshot. | 给我发个截图。 | take a screenshot:截图
+voice | vɔɪs | vɔɪs | n.:声音；语音 | I'll send you a voice message. | 我给你发条语音。 | voice message:语音消息
+video | ˈvɪdiəʊ | ˈvɪdioʊ | n.:视频 | Let's have a video call. | 我们视频通话吧。 | video call:视频通话
+busy | ˈbɪzi | ˈbɪzi | adj.:忙的；占线的 | The line is busy. | 电话占线。 | busy line:占线
+hang | hæŋ | hæŋ | v.:挂（hang up 挂电话） | Don't hang up! | 别挂电话！ | hang up:挂断

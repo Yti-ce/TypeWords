@@ -1,0 +1,45 @@
+# 场景·餐厅  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+menu | ˈmenjuː | ˈmenjuː | n.:菜单 | Can I see the menu, please? | 可以看一下菜单吗？ | set menu:套餐
+order | ˈɔːdə | ˈɔːrdər | v.:点菜; n.:点的菜 | Are you ready to order? | 您准备好点菜了吗？ | take an order:点单
+table | ˈteɪbl | ˈteɪbl | n.:桌子 | A table for two, please. | 请给我们一张两人桌。 | book a table:订座
+water | ˈwɔːtə | ˈwɔːtər | n.:水 | Could I have a glass of water? | 可以给我一杯水吗？ | a glass of water:一杯水
+drink | drɪŋk | drɪŋk | n.:饮料; v.:喝 | What would you like to drink? | 您想喝点什么？ | soft drink:软饮料
+bill | bɪl | bɪl | n.:账单（美式 check） | Could we have the bill, please? | 请给我们结账。 | split the bill:分开付账
+hungry | ˈhʌŋɡri | ˈhʌŋɡri | adj.:饿的 | I'm so hungry. | 我好饿。 | feel hungry:觉得饿
+full | fʊl | fʊl | adj.:饱的；满的 | I'm full, thank you. | 我吃饱了，谢谢。 | full of:充满
+delicious | dɪˈlɪʃəs | dɪˈlɪʃəs | adj.:美味的 | This is really delicious! | 这真好吃！ | smell delicious:闻起来很香
+rice | raɪs | raɪs | n.:米饭 | Can I have extra rice? | 可以多加点米饭吗？ | fried rice:炒饭
+noodles | ˈnuːdlz | ˈnuːdlz | n.:面条 | I'll have the beef noodles. | 我要牛肉面。 | fried noodles:炒面
+chicken | ˈtʃɪkɪn | ˈtʃɪkɪn | n.:鸡肉；鸡 | The chicken is very tender. | 鸡肉很嫩。 | fried chicken:炸鸡
+beef | biːf | biːf | n.:牛肉 | How would you like your beef cooked? | 您的牛肉要几分熟？ | beef steak:牛排
+pork | pɔːk | pɔːrk | n.:猪肉 | Does this contain pork? | 这里面有猪肉吗？ | no pork:不含猪肉
+soup | suːp | suːp | n.:汤 | The soup of the day is tomato. | 今日例汤是番茄汤。 | soup of the day:例汤
+coffee | ˈkɒfi | ˈkɔːfi | n.:咖啡 | A cup of coffee, please. | 请来一杯咖啡。 | black coffee:黑咖啡
+tea | tiː | tiː | n.:茶 | Iced tea, less sugar, please. | 冰茶，少糖，谢谢。 | iced tea:冰茶
+sugar | ˈʃʊɡə | ˈʃʊɡər | n.:糖 | No sugar, please. | 请不要放糖。 | less sugar:少糖
+ice | aɪs | aɪs | n.:冰 | Can I have it without ice? | 可以不加冰吗？ | no ice:去冰
+spicy | ˈspaɪsi | ˈspaɪsi | adj.:辣的 | Is this dish spicy? | 这道菜辣吗？ | not too spicy:不要太辣
+dish | dɪʃ | dɪʃ | n.:菜肴；盘子 | What's your most popular dish? | 你们最受欢迎的菜是什么？ | side dish:配菜
+special | ˈspeʃl | ˈspeʃl | adj.:特别的; n.:特色菜 | What's today's special? | 今天的特色菜是什么？ | today's special:今日特价菜
+taste | teɪst | teɪst | n.:味道; v.:尝起来 | It tastes a bit salty. | 这有点咸。 | taste good:好吃
+salty | ˈsɔːlti | ˈsɔːlti | adj.:咸的 | The soup is too salty. | 汤太咸了。 | too salty:太咸
+waiter | ˈweɪtə | ˈweɪtər | n.:服务员 | Let me ask the waiter. | 我问一下服务员。 | call the waiter:叫服务员
+wait | weɪt | weɪt | v.:等待 | How long is the wait? | 要等多久？ | wait for:等待
+reservation | ˌrezəˈveɪʃn | ˌrezərˈveɪʃn | n.:预订 | I have a reservation for seven o'clock. | 我预订了七点的位子。 | make a reservation:预订
+book | bʊk | bʊk | v.:预订; n.:书 | I'd like to book a table for tonight. | 我想订今晚的位子。 | book in advance:提前预订
+takeaway | ˈteɪkəweɪ | ˈteɪkəweɪ | n.:外卖，打包（美式 takeout） | Can I get it as a takeaway? | 可以打包带走吗？ | order a takeaway:叫外卖
+breakfast | ˈbrekfəst | ˈbrekfəst | n.:早餐 | Breakfast is served until ten. | 早餐供应到十点。 | have breakfast:吃早餐
+lunch | lʌntʃ | lʌntʃ | n.:午餐 | Let's have lunch together. | 我们一起吃午饭吧。 | lunch break:午休
+dinner | ˈdɪnə | ˈdɪnər | n.:晚餐 | We're going out for dinner. | 我们要出去吃晚饭。 | have dinner:吃晚饭
+vegetarian | ˌvedʒəˈteəriən | ˌvedʒəˈteriən | adj.:素食的; n.:素食者 | Do you have any vegetarian dishes? | 你们有素菜吗？ | vegetarian food:素食
+allergic | əˈlɜːdʒɪk | əˈlɜːrdʒɪk | adj.:过敏的 | I'm allergic to peanuts. | 我对花生过敏。 | allergic to:对……过敏
+dessert | dɪˈzɜːt | dɪˈzɜːrt | n.:甜点 | Would you like some dessert? | 要来点甜点吗？ | dessert menu:甜品单
+spoon | spuːn | spuːn | n.:勺子 | I need a spoon. | 我需要一把勺子。 | a spoon of:一勺
+fork | fɔːk | fɔːrk | n.:叉子 | Could I have a fork and knife? | 可以给我一副刀叉吗？ | knife and fork:刀叉
+chopsticks | ˈtʃɒpstɪks | ˈtʃɑːpstɪks | n.:筷子 | Do you have chopsticks? | 有筷子吗？ | a pair of chopsticks:一双筷子
+napkin | ˈnæpkɪn | ˈnæpkɪn | n.:餐巾 | Can I get some napkins? | 可以给我几张餐巾纸吗？ | paper napkin:餐巾纸
+portion | ˈpɔːʃn | ˈpɔːrʃn | n.:一份 | The portions here are huge. | 这里的分量很大。 | a large portion:大份
+share | ʃeə | ʃer | v.:分享，合吃 | Let's share a pizza. | 我们合吃一个披萨吧。 | share with:与……分享
+service | ˈsɜːvɪs | ˈsɜːrvɪs | n.:服务 | Is service charge included? | 含服务费吗？ | service charge:服务费
+tip | tɪp | tɪp | n.:小费 | Is the tip included? | 包含小费吗？ | leave a tip:留小费

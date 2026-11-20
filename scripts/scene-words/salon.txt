@@ -1,0 +1,27 @@
+# 场景·理发美容  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+haircut | ˈheəkʌt | ˈherkʌt | n.:理发 | I need a haircut. | 我需要理个发。 | get a haircut:理发
+hair | heə | her | n.:头发 | My hair is too long. | 我头发太长了。 | wash my hair:洗头
+cut | kʌt | kʌt | v.:剪 | Just cut a little off the ends. | 发梢剪一点就行。 | cut short:剪短
+short | ʃɔːt | ʃɔːrt | adj.:短的 | Not too short, please. | 请不要剪太短。 | short hair:短发
+long | lɒŋ | lɔːŋ | adj.:长的 | Keep it long at the back. | 后面留长一点。 | long hair:长发
+wash | wɒʃ | wɑːʃ | v.:洗 | Would you like a wash first? | 要先洗个头吗？ | wash and cut:洗剪
+style | staɪl | staɪl | n.:发型；风格 | I'd like a new style. | 我想换个新发型。 | hairstyle:发型
+fringe | frɪndʒ | frɪndʒ | n.:刘海（美式 bangs） | Can you trim my fringe? | 能帮我修一下刘海吗？ | cut a fringe:剪刘海
+trim | trɪm | trɪm | v.:修剪; n.:修剪 | Just a trim, please. | 修一修就好。 | a quick trim:简单修剪
+dye | daɪ | daɪ | v.:染; n.:染发剂 | I want to dye my hair brown. | 我想把头发染成棕色。 | hair dye:染发剂
+colour | ˈkʌlə | ˈkʌlər | n.:颜色 | What colour would you like? | 你想要什么颜色？ | hair colour:发色
+curly | ˈkɜːli | ˈkɜːrli | adj.:卷曲的 | She has curly hair. | 她是卷发。 | curly hair:卷发
+straight | streɪt | streɪt | adj.:直的 | I want my hair straight. | 我想把头发弄直。 | straight hair:直发
+side | saɪd | saɪd | n.:侧边 | Shorter on the sides, please. | 两边剪短一点。 | on the sides:两侧
+back | bæk | bæk | n.:后面 | How about the back? | 后面怎么剪？ | at the back:在后面
+mirror | ˈmɪrə | ˈmɪrər | n.:镜子 | Let me show you in the mirror. | 我用镜子给你看看。 | look in the mirror:照镜子
+barber | ˈbɑːbə | ˈbɑːrbər | n.:理发师（男士） | I go to the same barber every month. | 我每个月都找同一个理发师。 | barber shop:理发店
+hairdresser | ˈheədresə | ˈherdresər | n.:美发师 | My hairdresser is fully booked. | 我的美发师约满了。 | at the hairdresser's:在美发店
+shampoo | ʃæmˈpuː | ʃæmˈpuː | n.:洗发水 | Which shampoo do you use? | 你用什么洗发水？ | anti-dandruff shampoo:去屑洗发水
+blow | bləʊ | bloʊ | v.:吹（blow-dry 吹干） | Shall I blow-dry it for you? | 要帮您吹干吗？ | blow-dry:吹干
+nails | neɪlz | neɪlz | n.:指甲 | I'm getting my nails done. | 我去做指甲。 | do my nails:做指甲
+skin | skɪn | skɪn | n.:皮肤 | I have sensitive skin. | 我是敏感肌。 | sensitive skin:敏感肌
+massage | ˈmæsɑːʒ | məˈsɑːʒ | n.:按摩 | I'd like a foot massage. | 我想做个足部按摩。 | foot massage:足疗
+book | bʊk | bʊk | v.:预约 | Can I book for Saturday? | 我可以约周六吗？ | book an appointment:预约
+look | lʊk | lʊk | n.:外表; v.:看起来 | You look great! | 你看起来很棒！ | new look:新造型

@@ -1,0 +1,29 @@
+# 场景·邮局快递  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+send | send | send | v.:寄，发送 | I want to send this to Beijing. | 我想把这个寄到北京。 | send a parcel:寄包裹
+parcel | ˈpɑːsl | ˈpɑːrsl | n.:包裹 | I'm expecting a parcel today. | 我今天在等一个包裹。 | send a parcel:寄包裹
+package | ˈpækɪdʒ | ˈpækɪdʒ | n.:包裹 | Your package has arrived. | 你的包裹到了。 | pick up a package:取包裹
+delivery | dɪˈlɪvəri | dɪˈlɪvəri | n.:配送，送货 | Is delivery free? | 送货免费吗？ | home delivery:送货上门
+deliver | dɪˈlɪvə | dɪˈlɪvər | v.:投递，送 | When will it be delivered? | 什么时候送到？ | deliver to:送到
+address | əˈdres | ˈædres | n.:地址 | Please write your address here. | 请在这里写上你的地址。 | home address:家庭住址
+post | pəʊst | poʊst | n.:邮件; v.:邮寄 | I'll post the letter today. | 我今天把信寄出去。 | post office:邮局
+letter | ˈletə | ˈletər | n.:信 | I got a letter from my bank. | 我收到了银行的一封信。 | send a letter:寄信
+tracking | ˈtrækɪŋ | ˈtrækɪŋ | n.:跟踪 | What's the tracking number? | 快递单号是多少？ | tracking number:快递单号
+track | træk | træk | v.:跟踪 | You can track your order online. | 你可以在网上查订单物流。 | track an order:查物流
+pick | pɪk | pɪk | v.:捡；取 | I need to pick up a parcel. | 我需要去取个包裹。 | pick up:取
+courier | ˈkʊriə | ˈkʊriər | n.:快递员；快递公司 | The courier will call you. | 快递员会给你打电话。 | courier service:快递服务
+stamp | stæmp | stæmp | n.:邮票 | How many stamps do I need? | 我需要贴几张邮票？ | buy stamps:买邮票
+envelope | ˈenvələʊp | ˈenvəloʊp | n.:信封 | Put the letter in an envelope. | 把信放进信封里。 | sealed envelope:密封的信封
+weigh | weɪ | weɪ | v.:称重 | Could you weigh this for me? | 能帮我称一下吗？ | weigh a parcel:称包裹
+express | ɪkˈspres | ɪkˈspres | adj.:快速的 | I'll send it by express post. | 我用快递寄。 | express delivery:快递
+fragile | ˈfrædʒaɪl | ˈfrædʒl | adj.:易碎的 | Be careful, it's fragile. | 小心，这是易碎品。 | fragile item:易碎品
+box | bɒks | bɑːks | n.:盒子，箱子 | I need a bigger box. | 我需要一个大点的箱子。 | cardboard box:纸箱
+sender | ˈsendə | ˈsendər | n.:寄件人 | Write the sender's name on the back. | 在背面写上寄件人的姓名。 | sender address:寄件人地址
+receiver | rɪˈsiːvə | rɪˈsiːvər | n.:收件人 | Who is the receiver? | 收件人是谁？ | receiver name:收件人姓名
+signature | ˈsɪɡnətʃə | ˈsɪɡnətʃər | n.:签名 | The courier needs your signature. | 快递员需要你签名。 | sign for:签收
+postcode | ˈpəʊstkəʊd | ˈpoʊstkoʊd | n.:邮政编码（美式 zip code） | What's your postcode? | 你的邮编是多少？ | postcode:邮编
+arrive | əˈraɪv | əˈraɪv | v.:到达 | It should arrive in three days. | 三天内应该能到。 | arrive at:到达
+lost | lɒst | lɔːst | adj.:丢失的 | I think my parcel got lost. | 我的包裹好像丢了。 | lost parcel:丢件
+damaged | ˈdæmɪdʒd | ˈdæmɪdʒd | adj.:损坏的 | The box arrived damaged. | 箱子到的时候已经坏了。 | damaged goods:损坏的货物
+return | rɪˈtɜːn | rɪˈtɜːrn | v.:退回 | I want to return this item. | 我想退回这件商品。 | return label:退货标签
+shipping | ˈʃɪpɪŋ | ˈʃɪpɪŋ | n.:运输，运费 | How much is shipping? | 运费多少？ | free shipping:包邮

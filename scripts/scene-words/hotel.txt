@@ -1,0 +1,33 @@
+# 场景·酒店  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+hotel | həʊˈtel | hoʊˈtel | n.:酒店 | We're staying at a hotel near the beach. | 我们住在海边的一家酒店。 | stay at a hotel:住酒店
+room | ruːm | ruːm | n.:房间 | I'd like a room for two nights. | 我想订一间房住两晚。 | double room:双人间
+book | bʊk | bʊk | v.:预订 | I booked a room online. | 我在网上订了房间。 | book a room:订房
+reservation | ˌrezəˈveɪʃn | ˌrezərˈveɪʃn | n.:预订 | I have a reservation under the name Ma. | 我用"马"这个名字预订了。 | under the name:以……名义
+check | tʃek | tʃek | v.:办理（入住/退房） | What time can I check in? | 我几点可以入住？ | check out:退房
+key | kiː | kiː | n.:钥匙；房卡 | Here is your room key. | 这是您的房卡。 | key card:房卡
+reception | rɪˈsepʃn | rɪˈsepʃn | n.:前台 | Please ask at reception. | 请到前台问一下。 | reception desk:前台
+single | ˈsɪŋɡl | ˈsɪŋɡl | adj.:单人的 | A single room, please. | 请给我一间单人间。 | single room:单人间
+double | ˈdʌbl | ˈdʌbl | adj.:双人的 | Is it a double bed? | 是双人床吗？ | double bed:双人床
+night | naɪt | naɪt | n.:夜晚，一晚 | How much is it per night? | 一晚多少钱？ | per night:每晚
+breakfast | ˈbrekfəst | ˈbrekfəst | n.:早餐 | Is breakfast included? | 含早餐吗？ | breakfast included:含早
+included | ɪnˈkluːdɪd | ɪnˈkluːdɪd | adj.:包括在内的 | Is tax included in the price? | 价格含税吗？ | all included:全包
+available | əˈveɪləbl | əˈveɪləbl | adj.:可用的，有空房的 | Do you have any rooms available? | 还有空房吗？ | still available:还有
+floor | flɔː | flɔːr | n.:楼层 | Your room is on the fifth floor. | 您的房间在五楼。 | top floor:顶楼
+towel | ˈtaʊəl | ˈtaʊəl | n.:毛巾 | Could I have some more towels? | 可以再给我几条毛巾吗？ | clean towel:干净毛巾
+wifi | ˈwaɪfaɪ | ˈwaɪfaɪ | n.:无线网络 | What's the wifi password? | 无线网密码是多少？ | free wifi:免费无线网
+shower | ˈʃaʊə | ˈʃaʊər | n.:淋浴 | The shower isn't working. | 淋浴坏了。 | take a shower:洗澡
+pillow | ˈpɪləʊ | ˈpɪloʊ | n.:枕头 | Could I have an extra pillow? | 可以多给我一个枕头吗？ | extra pillow:多一个枕头
+broken | ˈbrəʊkən | ˈbroʊkən | adj.:坏了的 | The light in my room is broken. | 我房间的灯坏了。 | broken light:坏掉的灯
+clean | kliːn | kliːn | v.:打扫; adj.:干净的 | Could you clean my room, please? | 可以帮我打扫一下房间吗？ | room cleaning:客房清洁
+noisy | ˈnɔɪzi | ˈnɔɪzi | adj.:吵的 | My room is too noisy. | 我的房间太吵了。 | noisy street:吵闹的街道
+quiet | ˈkwaɪət | ˈkwaɪət | adj.:安静的 | Can I have a quiet room? | 能给我一间安静的房间吗？ | quiet room:安静的房间
+view | vjuː | vjuː | n.:景色 | I'd like a room with a sea view. | 我想要一间海景房。 | sea view:海景
+deposit | dɪˈpɒzɪt | dɪˈpɑːzɪt | n.:押金 | There's a deposit of 200. | 押金是200。 | pay a deposit:付押金
+luggage | ˈlʌɡɪdʒ | ˈlʌɡɪdʒ | n.:行李 | Can you keep my luggage until three? | 可以帮我存行李到三点吗？ | luggage storage:行李寄存
+lobby | ˈlɒbi | ˈlɑːbi | n.:大堂 | I'll wait for you in the lobby. | 我在大堂等你。 | hotel lobby:酒店大堂
+lift | lɪft | lɪft | n.:电梯（美式 elevator） | The lift is on your right. | 电梯在您右手边。 | take the lift:坐电梯
+pool | puːl | puːl | n.:游泳池 | What time does the pool close? | 游泳池几点关？ | swimming pool:游泳池
+extend | ɪkˈstend | ɪkˈstend | v.:延长 | Can I extend my stay for one night? | 我可以续住一晚吗？ | extend a stay:续住
+late | leɪt | leɪt | adj.:晚的 | Is late check-out possible? | 可以延迟退房吗？ | late check-out:延迟退房
+wake | weɪk | weɪk | v.:叫醒 | Can I have a wake-up call at seven? | 七点可以叫醒我吗？ | wake-up call:叫醒服务

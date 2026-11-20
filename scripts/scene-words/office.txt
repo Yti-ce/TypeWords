@@ -1,0 +1,32 @@
+# 场景·办公室  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+work | wɜːk | wɜːrk | n.:工作; v.:工作 | I start work at nine. | 我九点开始上班。 | at work:在上班
+office | ˈɒfɪs | ˈɑːfɪs | n.:办公室 | I'll be in the office tomorrow. | 我明天在办公室。 | head office:总部
+meeting | ˈmiːtɪŋ | ˈmiːtɪŋ | n.:会议 | We have a meeting at ten. | 我们十点有个会。 | have a meeting:开会
+boss | bɒs | bɔːs | n.:老板 | My boss is on holiday. | 我的老板在休假。 | new boss:新老板
+colleague | ˈkɒliːɡ | ˈkɑːliːɡ | n.:同事 | She's a colleague from my team. | 她是我团队的同事。 | work colleague:同事
+manager | ˈmænɪdʒə | ˈmænɪdʒər | n.:经理 | I'll ask my manager. | 我问一下我的经理。 | project manager:项目经理
+team | tiːm | tiːm | n.:团队 | Our team is very busy this week. | 我们团队这周很忙。 | team leader:组长
+email | ˈiːmeɪl | ˈiːmeɪl | n.:电子邮件 | I'll reply to your email today. | 我今天回复你的邮件。 | reply to an email:回邮件
+report | rɪˈpɔːt | rɪˈpɔːrt | n.:报告; v.:汇报 | The report is due tomorrow. | 报告明天要交。 | write a report:写报告
+deadline | ˈdedlaɪn | ˈdedlaɪn | n.:截止日期 | We can't miss the deadline. | 我们不能错过截止日期。 | tight deadline:紧迫的期限
+task | tɑːsk | tæsk | n.:任务 | I have three tasks to finish today. | 我今天要完成三项任务。 | finish a task:完成任务
+schedule | ˈʃedjuːl | ˈskedʒuːl | n.:日程; v.:安排 | Let me check my schedule. | 我看一下日程。 | busy schedule:日程很满
+busy | ˈbɪzi | ˈbɪzi | adj.:忙的 | Sorry, I'm busy right now. | 抱歉，我现在很忙。 | busy with:忙于
+project | ˈprɒdʒekt | ˈprɑːdʒekt | n.:项目 | How is the project going? | 项目进展如何？ | new project:新项目
+client | ˈklaɪənt | ˈklaɪənt | n.:客户 | I'm meeting a client this afternoon. | 我今天下午见一个客户。 | meet a client:见客户
+update | ˌʌpˈdeɪt | ˌʌpˈdeɪt | n.:最新情况; v.:更新 | Can you give me an update? | 你能告诉我最新进展吗？ | keep me updated:随时告诉我进展
+feedback | ˈfiːdbæk | ˈfiːdbæk | n.:反馈 | Thanks for your feedback. | 谢谢你的反馈。 | give feedback:给反馈
+salary | ˈsæləri | ˈsæləri | n.:工资 | When do we get our salary? | 我们什么时候发工资？ | monthly salary:月薪
+leave | liːv | liːv | n.:假期; v.:离开 | I'm taking two days of leave. | 我请两天假。 | annual leave:年假
+overtime | ˈəʊvətaɪm | ˈoʊvərtaɪm | n.:加班 | I worked overtime last night. | 我昨晚加班了。 | work overtime:加班
+printer | ˈprɪntə | ˈprɪntər | n.:打印机 | The printer is out of paper. | 打印机没纸了。 | printer paper:打印纸
+document | ˈdɒkjumənt | ˈdɑːkjumənt | n.:文件 | Please sign this document. | 请签一下这份文件。 | important document:重要文件
+file | faɪl | faɪl | n.:文件 | I'll send you the file. | 我把文件发给你。 | attach a file:附上文件
+attach | əˈtætʃ | əˈtætʃ | v.:附上 | I've attached the report. | 我已附上报告。 | attached file:附件
+discuss | dɪˈskʌs | dɪˈskʌs | v.:讨论 | Let's discuss it in the meeting. | 我们在会上讨论吧。 | discuss with:与……讨论
+agree | əˈɡriː | əˈɡriː | v.:同意 | I agree with you. | 我同意你的看法。 | agree with:同意
+suggest | səˈdʒest | səˈdʒest | v.:建议 | I suggest we start early. | 我建议我们早点开始。 | suggest doing:建议做
+department | dɪˈpɑːtmənt | dɪˈpɑːrtmənt | n.:部门 | Which department do you work in? | 你在哪个部门工作？ | HR department:人事部
+lunch | lʌntʃ | lʌntʃ | n.:午餐 | Let's grab lunch together. | 我们一起去吃个午饭吧。 | lunch break:午休
+promotion | prəˈməʊʃn | prəˈmoʊʃn | n.:升职 | Congratulations on your promotion! | 恭喜你升职！ | get a promotion:升职

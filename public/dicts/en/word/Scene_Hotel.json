@@ -1,0 +1,936 @@
+[
+  {
+    "id": 1090001,
+    "word": "hotel",
+    "phonetic0": "həʊˈtel",
+    "phonetic1": "hoʊˈtel",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "酒店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're staying at a hotel near the beach.",
+        "cn": "我们住在海边的一家酒店。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stay at a hotel",
+        "cn": "住酒店"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090002,
+    "word": "room",
+    "phonetic0": "ruːm",
+    "phonetic1": "ruːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "房间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like a room for two nights.",
+        "cn": "我想订一间房住两晚。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "double room",
+        "cn": "双人间"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090003,
+    "word": "book",
+    "phonetic0": "bʊk",
+    "phonetic1": "bʊk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "预订"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I booked a room online.",
+        "cn": "我在网上订了房间。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "book a room",
+        "cn": "订房"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090004,
+    "word": "reservation",
+    "phonetic0": "ˌrezəˈveɪʃn",
+    "phonetic1": "ˌrezərˈveɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "预订"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a reservation under the name Ma.",
+        "cn": "我用\"马\"这个名字预订了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "under the name",
+        "cn": "以……名义"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090005,
+    "word": "check",
+    "phonetic0": "tʃek",
+    "phonetic1": "tʃek",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "办理（入住/退房）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What time can I check in?",
+        "cn": "我几点可以入住？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "check out",
+        "cn": "退房"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090006,
+    "word": "key",
+    "phonetic0": "kiː",
+    "phonetic1": "kiː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "钥匙；房卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Here is your room key.",
+        "cn": "这是您的房卡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "key card",
+        "cn": "房卡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090007,
+    "word": "reception",
+    "phonetic0": "rɪˈsepʃn",
+    "phonetic1": "rɪˈsepʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "前台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please ask at reception.",
+        "cn": "请到前台问一下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "reception desk",
+        "cn": "前台"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090008,
+    "word": "single",
+    "phonetic0": "ˈsɪŋɡl",
+    "phonetic1": "ˈsɪŋɡl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "单人的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A single room, please.",
+        "cn": "请给我一间单人间。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "single room",
+        "cn": "单人间"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090009,
+    "word": "double",
+    "phonetic0": "ˈdʌbl",
+    "phonetic1": "ˈdʌbl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "双人的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is it a double bed?",
+        "cn": "是双人床吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "double bed",
+        "cn": "双人床"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090010,
+    "word": "night",
+    "phonetic0": "naɪt",
+    "phonetic1": "naɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "夜晚，一晚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is it per night?",
+        "cn": "一晚多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "per night",
+        "cn": "每晚"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090011,
+    "word": "breakfast",
+    "phonetic0": "ˈbrekfəst",
+    "phonetic1": "ˈbrekfəst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "早餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is breakfast included?",
+        "cn": "含早餐吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "breakfast included",
+        "cn": "含早"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090012,
+    "word": "included",
+    "phonetic0": "ɪnˈkluːdɪd",
+    "phonetic1": "ɪnˈkluːdɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "包括在内的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is tax included in the price?",
+        "cn": "价格含税吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "all included",
+        "cn": "全包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090013,
+    "word": "available",
+    "phonetic0": "əˈveɪləbl",
+    "phonetic1": "əˈveɪləbl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "可用的，有空房的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have any rooms available?",
+        "cn": "还有空房吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "still available",
+        "cn": "还有"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090014,
+    "word": "floor",
+    "phonetic0": "flɔː",
+    "phonetic1": "flɔːr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "楼层"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Your room is on the fifth floor.",
+        "cn": "您的房间在五楼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "top floor",
+        "cn": "顶楼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090015,
+    "word": "towel",
+    "phonetic0": "ˈtaʊəl",
+    "phonetic1": "ˈtaʊəl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "毛巾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I have some more towels?",
+        "cn": "可以再给我几条毛巾吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "clean towel",
+        "cn": "干净毛巾"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090016,
+    "word": "wifi",
+    "phonetic0": "ˈwaɪfaɪ",
+    "phonetic1": "ˈwaɪfaɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "无线网络"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the wifi password?",
+        "cn": "无线网密码是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "free wifi",
+        "cn": "免费无线网"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090017,
+    "word": "shower",
+    "phonetic0": "ˈʃaʊə",
+    "phonetic1": "ˈʃaʊər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "淋浴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shower isn't working.",
+        "cn": "淋浴坏了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take a shower",
+        "cn": "洗澡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090018,
+    "word": "pillow",
+    "phonetic0": "ˈpɪləʊ",
+    "phonetic1": "ˈpɪloʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "枕头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I have an extra pillow?",
+        "cn": "可以多给我一个枕头吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "extra pillow",
+        "cn": "多一个枕头"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090019,
+    "word": "broken",
+    "phonetic0": "ˈbrəʊkən",
+    "phonetic1": "ˈbroʊkən",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "坏了的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The light in my room is broken.",
+        "cn": "我房间的灯坏了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "broken light",
+        "cn": "坏掉的灯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090020,
+    "word": "clean",
+    "phonetic0": "kliːn",
+    "phonetic1": "kliːn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "打扫"
+      },
+      {
+        "pos": "adj.",
+        "cn": "干净的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you clean my room, please?",
+        "cn": "可以帮我打扫一下房间吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "room cleaning",
+        "cn": "客房清洁"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090021,
+    "word": "noisy",
+    "phonetic0": "ˈnɔɪzi",
+    "phonetic1": "ˈnɔɪzi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "吵的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My room is too noisy.",
+        "cn": "我的房间太吵了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "noisy street",
+        "cn": "吵闹的街道"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090022,
+    "word": "quiet",
+    "phonetic0": "ˈkwaɪət",
+    "phonetic1": "ˈkwaɪət",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "安静的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have a quiet room?",
+        "cn": "能给我一间安静的房间吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "quiet room",
+        "cn": "安静的房间"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090023,
+    "word": "view",
+    "phonetic0": "vjuː",
+    "phonetic1": "vjuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "景色"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like a room with a sea view.",
+        "cn": "我想要一间海景房。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sea view",
+        "cn": "海景"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090024,
+    "word": "deposit",
+    "phonetic0": "dɪˈpɒzɪt",
+    "phonetic1": "dɪˈpɑːzɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "押金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's a deposit of 200.",
+        "cn": "押金是200。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pay a deposit",
+        "cn": "付押金"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090025,
+    "word": "luggage",
+    "phonetic0": "ˈlʌɡɪdʒ",
+    "phonetic1": "ˈlʌɡɪdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "行李"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you keep my luggage until three?",
+        "cn": "可以帮我存行李到三点吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "luggage storage",
+        "cn": "行李寄存"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090026,
+    "word": "lobby",
+    "phonetic0": "ˈlɒbi",
+    "phonetic1": "ˈlɑːbi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大堂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll wait for you in the lobby.",
+        "cn": "我在大堂等你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hotel lobby",
+        "cn": "酒店大堂"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090027,
+    "word": "lift",
+    "phonetic0": "lɪft",
+    "phonetic1": "lɪft",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电梯（美式 elevator）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The lift is on your right.",
+        "cn": "电梯在您右手边。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take the lift",
+        "cn": "坐电梯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090028,
+    "word": "pool",
+    "phonetic0": "puːl",
+    "phonetic1": "puːl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "游泳池"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What time does the pool close?",
+        "cn": "游泳池几点关？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "swimming pool",
+        "cn": "游泳池"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090029,
+    "word": "extend",
+    "phonetic0": "ɪkˈstend",
+    "phonetic1": "ɪkˈstend",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "延长"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I extend my stay for one night?",
+        "cn": "我可以续住一晚吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "extend a stay",
+        "cn": "续住"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090030,
+    "word": "late",
+    "phonetic0": "leɪt",
+    "phonetic1": "leɪt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "晚的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is late check-out possible?",
+        "cn": "可以延迟退房吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "late check-out",
+        "cn": "延迟退房"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1090031,
+    "word": "wake",
+    "phonetic0": "weɪk",
+    "phonetic1": "weɪk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "叫醒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have a wake-up call at seven?",
+        "cn": "七点可以叫醒我吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wake-up call",
+        "cn": "叫醒服务"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

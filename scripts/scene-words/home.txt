@@ -1,0 +1,30 @@
+# 场景·家务厨房  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+cook | kʊk | kʊk | v.:做饭 | I cook dinner every evening. | 我每天晚上做饭。 | cook dinner:做晚饭
+wash | wɒʃ | wɑːʃ | v.:洗 | I'll wash the dishes. | 我来洗碗。 | wash the dishes:洗碗
+clean | kliːn | kliːn | v.:打扫; adj.:干净的 | Let's clean the house this weekend. | 这周末我们打扫一下房子吧。 | clean up:收拾干净
+fridge | frɪdʒ | frɪdʒ | n.:冰箱 | Put the milk in the fridge. | 把牛奶放进冰箱。 | in the fridge:在冰箱里
+dishes | ˈdɪʃɪz | ˈdɪʃɪz | n.:碗碟 | Whose turn is it to do the dishes? | 轮到谁洗碗了？ | do the dishes:洗碗
+laundry | ˈlɔːndri | ˈlɔːndri | n.:要洗的衣服 | I need to do the laundry. | 我得洗衣服了。 | do the laundry:洗衣服
+clothes | kləʊðz | kloʊðz | n.:衣服 | Hang the clothes out to dry. | 把衣服晾出去。 | wash clothes:洗衣服
+vegetables | ˈvedʒtəblz | ˈvedʒtəblz | n.:蔬菜 | Wash the vegetables first. | 先把蔬菜洗了。 | fresh vegetables:新鲜蔬菜
+fruit | fruːt | fruːt | n.:水果 | We need to buy some fruit. | 我们需要买些水果。 | fresh fruit:新鲜水果
+egg | eɡ | eɡ | n.:鸡蛋 | How do you like your eggs? | 你的鸡蛋要怎么做？ | fried egg:煎蛋
+boil | bɔɪl | bɔɪl | v.:煮沸，水煮 | Boil the water first. | 先把水烧开。 | boiled egg:水煮蛋
+fry | fraɪ | fraɪ | v.:煎，炒 | Fry the onions for two minutes. | 把洋葱炒两分钟。 | stir-fry:翻炒
+pan | pæn | pæn | n.:平底锅 | Heat some oil in a pan. | 在锅里热点油。 | frying pan:煎锅
+pot | pɒt | pɑːt | n.:锅 | Put the rice in the pot. | 把米放进锅里。 | cooking pot:锅
+knife | naɪf | naɪf | n.:刀 | Be careful with that knife. | 小心那把刀。 | kitchen knife:菜刀
+oil | ɔɪl | ɔɪl | n.:油 | Add a little oil. | 加一点油。 | cooking oil:食用油
+salt | sɔːlt | sɔːlt | n.:盐 | It needs more salt. | 需要再加点盐。 | a pinch of salt:一撮盐
+recipe | ˈresəpi | ˈresəpi | n.:食谱 | Can you share the recipe? | 你能分享一下食谱吗？ | follow a recipe:照着食谱做
+microwave | ˈmaɪkrəweɪv | ˈmaɪkrəweɪv | n.:微波炉; v.:用微波炉加热 | Heat it in the microwave. | 用微波炉加热一下。 | microwave oven:微波炉
+oven | ˈʌvn | ˈʌvn | n.:烤箱 | Bake it in the oven for twenty minutes. | 放烤箱烤二十分钟。 | in the oven:在烤箱里
+sink | sɪŋk | sɪŋk | n.:水槽 | Leave the dishes in the sink. | 把碗碟放在水槽里。 | kitchen sink:厨房水槽
+tidy | ˈtaɪdi | ˈtaɪdi | adj.:整洁的; v.:整理 | Please tidy your room. | 请整理一下你的房间。 | tidy up:整理
+sweep | swiːp | swiːp | v.:扫 | Can you sweep the floor? | 你能扫一下地吗？ | sweep the floor:扫地
+mop | mɒp | mɑːp | v.:拖地; n.:拖把 | I'll mop the kitchen floor. | 我来拖厨房的地。 | mop the floor:拖地
+iron | ˈaɪən | ˈaɪərn | v.:熨; n.:熨斗 | I need to iron my shirt. | 我需要熨一下衬衫。 | iron a shirt:熨衬衫
+groceries | ˈɡrəʊsəriz | ˈɡroʊsəriz | n.:食品杂货 | I'll pick up some groceries on the way home. | 我回家路上买点菜。 | buy groceries:买菜
+leftovers | ˈleftəʊvəz | ˈleftoʊvərz | n.:剩菜 | We can eat the leftovers tomorrow. | 剩菜我们明天吃。 | eat leftovers:吃剩菜
+bin | bɪn | bɪn | n.:垃圾桶 | Throw it in the bin. | 把它扔进垃圾桶。 | rubbish bin:垃圾桶

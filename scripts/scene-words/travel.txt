@@ -1,0 +1,28 @@
+# 场景·旅游观光  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+travel | ˈtrævl | ˈtrævl | v.:旅行; n.:旅行 | I love to travel. | 我喜欢旅行。 | travel abroad:出国旅行
+trip | trɪp | trɪp | n.:旅行，行程 | How was your trip? | 你这趟旅行怎么样？ | day trip:一日游
+holiday | ˈhɒlədeɪ | ˈhɑːlədeɪ | n.:假期 | We're going on holiday next week. | 我们下周去度假。 | on holiday:在度假
+tour | tʊə | tʊr | n.:旅游，参观 | Is there a city tour? | 有城市观光游吗？ | guided tour:有导游的游览
+guide | ɡaɪd | ɡaɪd | n.:导游 | Our guide speaks English. | 我们的导游会说英语。 | tour guide:导游
+visit | ˈvɪzɪt | ˈvɪzɪt | v.:参观，拜访 | We visited the old town. | 我们参观了老城区。 | pay a visit:拜访
+museum | mjuˈziːəm | mjuˈziːəm | n.:博物馆 | The museum is closed on Mondays. | 博物馆周一闭馆。 | art museum:美术馆
+ticket | ˈtɪkɪt | ˈtɪkɪt | n.:门票 | How much is the entrance ticket? | 门票多少钱？ | entrance ticket:门票
+photo | ˈfəʊtəʊ | ˈfoʊtoʊ | n.:照片 | Could you take a photo of us? | 能帮我们拍张照吗？ | take a photo:拍照
+beach | biːtʃ | biːtʃ | n.:海滩 | Let's go to the beach. | 我们去海滩吧。 | on the beach:在海滩上
+view | vjuː | vjuː | n.:风景 | The view from the top is amazing. | 从山顶看风景太美了。 | great view:美景
+famous | ˈfeɪməs | ˈfeɪməs | adj.:著名的 | This temple is very famous. | 这座寺庙很有名。 | famous for:以……闻名
+souvenir | ˌsuːvəˈnɪə | ˌsuːvəˈnɪr | n.:纪念品 | I bought some souvenirs for my family. | 我给家人买了些纪念品。 | souvenir shop:纪念品店
+local | ˈləʊkl | ˈloʊkl | adj.:当地的 | I want to try local food. | 我想尝尝当地美食。 | local food:当地美食
+culture | ˈkʌltʃə | ˈkʌltʃər | n.:文化 | I'm interested in local culture. | 我对当地文化感兴趣。 | local culture:当地文化
+sightseeing | ˈsaɪtsiːɪŋ | ˈsaɪtsiːɪŋ | n.:观光 | We went sightseeing all day. | 我们观光了一整天。 | go sightseeing:去观光
+island | ˈaɪlənd | ˈaɪlənd | n.:岛 | We took a boat to the island. | 我们坐船去了岛上。 | small island:小岛
+mountain | ˈmaʊntən | ˈmaʊntn | n.:山 | We climbed the mountain. | 我们爬了那座山。 | climb a mountain:爬山
+temple | ˈtempl | ˈtempl | n.:寺庙 | Take off your shoes in the temple. | 进寺庙要脱鞋。 | old temple:古寺
+backpack | ˈbækpæk | ˈbækpæk | n.:背包 | I only travel with a backpack. | 我旅行只带一个背包。 | carry a backpack:背背包
+itinerary | aɪˈtɪnərəri | aɪˈtɪnəreri | n.:行程表 | Here is our itinerary for the week. | 这是我们这周的行程。 | travel itinerary:旅行行程
+tourist | ˈtʊərɪst | ˈtʊrɪst | n.:游客 | It's full of tourists in summer. | 夏天到处都是游客。 | tourist attraction:旅游景点
+attraction | əˈtrækʃn | əˈtrækʃn | n.:景点 | What are the main attractions? | 主要景点有哪些？ | tourist attraction:旅游景点
+crowded | ˈkraʊdɪd | ˈkraʊdɪd | adj.:拥挤的 | The market is very crowded. | 市场很拥挤。 | crowded place:拥挤的地方
+explore | ɪkˈsplɔː | ɪkˈsplɔːr | v.:探索 | Let's explore the city. | 我们去城市里逛逛吧。 | explore the area:探索周边
+abroad | əˈbrɔːd | əˈbrɔːd | adv.:在国外 | Have you ever been abroad? | 你出过国吗？ | go abroad:出国

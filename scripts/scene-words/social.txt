@@ -1,0 +1,32 @@
+# 场景·社交寒暄  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+hello | həˈləʊ | həˈloʊ | int.:你好 | Hello, nice to meet you. | 你好，很高兴认识你。 | say hello:打招呼
+thanks | θæŋks | θæŋks | int.:谢谢 | Thanks for your help. | 谢谢你的帮助。 | thanks a lot:非常感谢
+sorry | ˈsɒri | ˈsɑːri | adj.:抱歉的 | Sorry, I'm late. | 抱歉，我迟到了。 | I'm sorry:对不起
+please | pliːz | pliːz | adv.:请 | Could you help me, please? | 请问你能帮我一下吗？ | yes, please:好的，谢谢
+excuse | ɪkˈskjuːz | ɪkˈskjuːz | v.:原谅 | Excuse me, is this seat taken? | 打扰一下，这个座位有人吗？ | excuse me:打扰一下
+name | neɪm | neɪm | n.:名字 | What's your name? | 你叫什么名字？ | first name:名字
+meet | miːt | miːt | v.:遇见，认识 | Nice to meet you. | 很高兴认识你。 | meet up:见面
+fine | faɪn | faɪn | adj.:好的 | I'm fine, thanks. And you? | 我很好，谢谢。你呢？ | I'm fine:我很好
+welcome | ˈwelkəm | ˈwelkəm | adj.:不客气；受欢迎的 | You're welcome. | 不客气。 | you're welcome:不客气
+weekend | ˌwiːkˈend | ˈwiːkend | n.:周末 | How was your weekend? | 你周末过得怎么样？ | at the weekend:在周末
+free | friː | friː | adj.:有空的 | Are you free tonight? | 你今晚有空吗？ | free time:空闲时间
+hobby | ˈhɒbi | ˈhɑːbi | n.:爱好 | What are your hobbies? | 你有什么爱好？ | my hobby:我的爱好
+friend | frend | frend | n.:朋友 | This is my friend, Tom. | 这是我的朋友汤姆。 | best friend:最好的朋友
+invite | ɪnˈvaɪt | ɪnˈvaɪt | v.:邀请 | Thanks for inviting me. | 谢谢你邀请我。 | invite to:邀请参加
+party | ˈpɑːti | ˈpɑːrti | n.:聚会 | Are you coming to the party? | 你来参加聚会吗？ | birthday party:生日聚会
+congratulations | kənˌɡrætʃuˈleɪʃnz | kənˌɡrætʃuˈleɪʃnz | int.:恭喜 | Congratulations on your new job! | 恭喜你找到新工作！ | congratulations on:恭喜……
+birthday | ˈbɜːθdeɪ | ˈbɜːrθdeɪ | n.:生日 | Happy birthday! | 生日快乐！ | happy birthday:生日快乐
+introduce | ˌɪntrəˈdjuːs | ˌɪntrəˈduːs | v.:介绍 | Let me introduce myself. | 让我自我介绍一下。 | introduce myself:自我介绍
+from | frɒm | frʌm | prep.:来自 | Where are you from? | 你是哪里人？ | come from:来自
+job | dʒɒb | dʒɑːb | n.:工作 | What do you do for a job? | 你是做什么工作的？ | part-time job:兼职
+contact | ˈkɒntækt | ˈkɑːntækt | n.:联系方式; v.:联系 | Let's keep in contact. | 我们保持联系吧。 | keep in contact:保持联系
+plan | plæn | plæn | n.:计划 | Do you have any plans for tonight? | 你今晚有什么安排吗？ | make plans:做计划
+maybe | ˈmeɪbi | ˈmeɪbi | adv.:也许 | Maybe next time. | 下次吧。 | maybe later:也许以后
+sure | ʃʊə | ʃʊr | adv.:当然 | Sure, why not? | 当然，为什么不呢？ | for sure:肯定
+great | ɡreɪt | ɡreɪt | adj.:很好的 | That sounds great! | 听起来很棒！ | sounds great:听起来不错
+interesting | ˈɪntrəstɪŋ | ˈɪntrəstɪŋ | adj.:有趣的 | That's really interesting. | 那真有意思。 | sounds interesting:听起来有趣
+miss | mɪs | mɪs | v.:想念 | I miss you. | 我想你。 | miss home:想家
+bye | baɪ | baɪ | int.:再见 | Bye, see you tomorrow! | 再见，明天见！ | see you:再见
+chat | tʃæt | tʃæt | v.:聊天; n.:聊天 | It was nice chatting with you. | 和你聊天很愉快。 | have a chat:聊一聊
+favour | ˈfeɪvə | ˈfeɪvər | n.:帮忙（美式 favor） | Can you do me a favour? | 你能帮我个忙吗？ | do me a favour:帮我个忙

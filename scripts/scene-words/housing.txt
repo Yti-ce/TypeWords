@@ -1,0 +1,30 @@
+# 场景·租房住宅  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+rent | rent | rent | n.:房租; v.:租 | How much is the rent? | 房租多少钱？ | pay the rent:交房租
+flat | flæt | flæt | n.:公寓（美式 apartment） | I live in a small flat. | 我住在一套小公寓里。 | rent a flat:租公寓
+apartment | əˈpɑːtmənt | əˈpɑːrtmənt | n.:公寓 | The apartment has two bedrooms. | 这套公寓有两间卧室。 | apartment building:公寓楼
+house | haʊs | haʊs | n.:房子 | They bought a new house. | 他们买了新房子。 | move house:搬家
+bedroom | ˈbedruːm | ˈbedruːm | n.:卧室 | Is the bedroom furnished? | 卧室有家具吗？ | master bedroom:主卧
+bathroom | ˈbɑːθruːm | ˈbæθruːm | n.:浴室，卫生间 | The bathroom is shared. | 卫生间是共用的。 | private bathroom:独立卫浴
+kitchen | ˈkɪtʃɪn | ˈkɪtʃɪn | n.:厨房 | Can I use the kitchen? | 我可以用厨房吗？ | shared kitchen:共用厨房
+landlord | ˈlændlɔːd | ˈlændlɔːrd | n.:房东 | I need to call my landlord. | 我得给房东打电话。 | landlord:房东
+tenant | ˈtenənt | ˈtenənt | n.:租客 | The tenant pays the bills. | 账单由租客支付。 | new tenant:新租客
+contract | ˈkɒntrækt | ˈkɑːntrækt | n.:合同 | Please read the contract carefully. | 请仔细阅读合同。 | sign a contract:签合同
+deposit | dɪˈpɒzɪt | dɪˈpɑːzɪt | n.:押金 | The deposit is one month's rent. | 押金是一个月房租。 | security deposit:押金
+move | muːv | muːv | v.:搬家 | We're moving next week. | 我们下周搬家。 | move in:搬进
+furnished | ˈfɜːnɪʃt | ˈfɜːrnɪʃt | adj.:带家具的 | Is the flat furnished? | 公寓带家具吗？ | fully furnished:家具齐全
+furniture | ˈfɜːnɪtʃə | ˈfɜːrnɪtʃər | n.:家具 | We need some new furniture. | 我们需要一些新家具。 | a piece of furniture:一件家具
+bills | bɪlz | bɪlz | n.:账单（水电等） | Are bills included in the rent? | 房租包水电吗？ | utility bills:水电费
+electricity | ɪˌlekˈtrɪsəti | ɪˌlekˈtrɪsəti | n.:电 | The electricity was cut off. | 停电了。 | electricity bill:电费单
+neighbour | ˈneɪbə | ˈneɪbər | n.:邻居（美式 neighbor） | My neighbour is very friendly. | 我的邻居很友好。 | next-door neighbour:隔壁邻居
+repair | rɪˈpeə | rɪˈper | v.:修理; n.:修理 | Can you repair the tap? | 你能修一下水龙头吗？ | under repair:维修中
+leak | liːk | liːk | v.:漏; n.:漏洞 | The pipe is leaking. | 水管漏水了。 | water leak:漏水
+lease | liːs | liːs | n.:租约 | The lease is for one year. | 租约为期一年。 | sign a lease:签租约
+location | ləʊˈkeɪʃn | loʊˈkeɪʃn | n.:位置 | The location is very convenient. | 位置很方便。 | good location:好地段
+convenient | kənˈviːniənt | kənˈviːniənt | adj.:方便的 | It's convenient for the metro. | 坐地铁很方便。 | convenient for:对……方便
+balcony | ˈbælkəni | ˈbælkəni | n.:阳台 | The flat has a small balcony. | 这套公寓有个小阳台。 | on the balcony:在阳台上
+lock | lɒk | lɑːk | n.:锁; v.:锁上 | Don't forget to lock the door. | 别忘了锁门。 | lock the door:锁门
+viewing | ˈvjuːɪŋ | ˈvjuːɪŋ | n.:看房 | Can I arrange a viewing? | 我可以约个时间看房吗？ | arrange a viewing:约看房
+agent | ˈeɪdʒənt | ˈeɪdʒənt | n.:中介 | The agent will show you the flat. | 中介会带你看房。 | estate agent:房产中介
+roommate | ˈruːmmeɪt | ˈruːmmeɪt | n.:室友 | I share a flat with two roommates. | 我和两个室友合租。 | find a roommate:找室友
+rubbish | ˈrʌbɪʃ | ˈrʌbɪʃ | n.:垃圾（美式 trash） | Take out the rubbish, please. | 请把垃圾拿出去。 | rubbish bin:垃圾桶

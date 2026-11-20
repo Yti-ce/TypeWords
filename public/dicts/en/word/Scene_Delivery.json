@@ -1,0 +1,816 @@
+[
+  {
+    "id": 1120001,
+    "word": "send",
+    "phonetic0": "send",
+    "phonetic1": "send",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "寄，发送"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to send this to Beijing.",
+        "cn": "我想把这个寄到北京。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "send a parcel",
+        "cn": "寄包裹"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120002,
+    "word": "parcel",
+    "phonetic0": "ˈpɑːsl",
+    "phonetic1": "ˈpɑːrsl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "包裹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm expecting a parcel today.",
+        "cn": "我今天在等一个包裹。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "send a parcel",
+        "cn": "寄包裹"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120003,
+    "word": "package",
+    "phonetic0": "ˈpækɪdʒ",
+    "phonetic1": "ˈpækɪdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "包裹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Your package has arrived.",
+        "cn": "你的包裹到了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pick up a package",
+        "cn": "取包裹"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120004,
+    "word": "delivery",
+    "phonetic0": "dɪˈlɪvəri",
+    "phonetic1": "dɪˈlɪvəri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "配送，送货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is delivery free?",
+        "cn": "送货免费吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "home delivery",
+        "cn": "送货上门"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120005,
+    "word": "deliver",
+    "phonetic0": "dɪˈlɪvə",
+    "phonetic1": "dɪˈlɪvər",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "投递，送"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When will it be delivered?",
+        "cn": "什么时候送到？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "deliver to",
+        "cn": "送到"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120006,
+    "word": "address",
+    "phonetic0": "əˈdres",
+    "phonetic1": "ˈædres",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please write your address here.",
+        "cn": "请在这里写上你的地址。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "home address",
+        "cn": "家庭住址"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120007,
+    "word": "post",
+    "phonetic0": "pəʊst",
+    "phonetic1": "poʊst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "邮件"
+      },
+      {
+        "pos": "v.",
+        "cn": "邮寄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll post the letter today.",
+        "cn": "我今天把信寄出去。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "post office",
+        "cn": "邮局"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120008,
+    "word": "letter",
+    "phonetic0": "ˈletə",
+    "phonetic1": "ˈletər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I got a letter from my bank.",
+        "cn": "我收到了银行的一封信。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "send a letter",
+        "cn": "寄信"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120009,
+    "word": "tracking",
+    "phonetic0": "ˈtrækɪŋ",
+    "phonetic1": "ˈtrækɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "跟踪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the tracking number?",
+        "cn": "快递单号是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tracking number",
+        "cn": "快递单号"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120010,
+    "word": "track",
+    "phonetic0": "træk",
+    "phonetic1": "træk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "跟踪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You can track your order online.",
+        "cn": "你可以在网上查订单物流。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "track an order",
+        "cn": "查物流"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120011,
+    "word": "pick",
+    "phonetic0": "pɪk",
+    "phonetic1": "pɪk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "捡；取"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to pick up a parcel.",
+        "cn": "我需要去取个包裹。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pick up",
+        "cn": "取"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120012,
+    "word": "courier",
+    "phonetic0": "ˈkʊriə",
+    "phonetic1": "ˈkʊriər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "快递员；快递公司"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The courier will call you.",
+        "cn": "快递员会给你打电话。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "courier service",
+        "cn": "快递服务"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120013,
+    "word": "stamp",
+    "phonetic0": "stæmp",
+    "phonetic1": "stæmp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "邮票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How many stamps do I need?",
+        "cn": "我需要贴几张邮票？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "buy stamps",
+        "cn": "买邮票"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120014,
+    "word": "envelope",
+    "phonetic0": "ˈenvələʊp",
+    "phonetic1": "ˈenvəloʊp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信封"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put the letter in an envelope.",
+        "cn": "把信放进信封里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sealed envelope",
+        "cn": "密封的信封"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120015,
+    "word": "weigh",
+    "phonetic0": "weɪ",
+    "phonetic1": "weɪ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "称重"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you weigh this for me?",
+        "cn": "能帮我称一下吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "weigh a parcel",
+        "cn": "称包裹"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120016,
+    "word": "express",
+    "phonetic0": "ɪkˈspres",
+    "phonetic1": "ɪkˈspres",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "快速的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll send it by express post.",
+        "cn": "我用快递寄。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "express delivery",
+        "cn": "快递"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120017,
+    "word": "fragile",
+    "phonetic0": "ˈfrædʒaɪl",
+    "phonetic1": "ˈfrædʒl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "易碎的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Be careful, it's fragile.",
+        "cn": "小心，这是易碎品。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fragile item",
+        "cn": "易碎品"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120018,
+    "word": "box",
+    "phonetic0": "bɒks",
+    "phonetic1": "bɑːks",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "盒子，箱子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a bigger box.",
+        "cn": "我需要一个大点的箱子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cardboard box",
+        "cn": "纸箱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120019,
+    "word": "sender",
+    "phonetic0": "ˈsendə",
+    "phonetic1": "ˈsendər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "寄件人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Write the sender's name on the back.",
+        "cn": "在背面写上寄件人的姓名。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sender address",
+        "cn": "寄件人地址"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120020,
+    "word": "receiver",
+    "phonetic0": "rɪˈsiːvə",
+    "phonetic1": "rɪˈsiːvər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收件人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who is the receiver?",
+        "cn": "收件人是谁？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "receiver name",
+        "cn": "收件人姓名"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120021,
+    "word": "signature",
+    "phonetic0": "ˈsɪɡnətʃə",
+    "phonetic1": "ˈsɪɡnətʃər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "签名"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The courier needs your signature.",
+        "cn": "快递员需要你签名。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sign for",
+        "cn": "签收"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120022,
+    "word": "postcode",
+    "phonetic0": "ˈpəʊstkəʊd",
+    "phonetic1": "ˈpoʊstkoʊd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "邮政编码（美式 zip code）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your postcode?",
+        "cn": "你的邮编是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "postcode",
+        "cn": "邮编"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120023,
+    "word": "arrive",
+    "phonetic0": "əˈraɪv",
+    "phonetic1": "əˈraɪv",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "到达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It should arrive in three days.",
+        "cn": "三天内应该能到。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "arrive at",
+        "cn": "到达"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120024,
+    "word": "lost",
+    "phonetic0": "lɒst",
+    "phonetic1": "lɔːst",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "丢失的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I think my parcel got lost.",
+        "cn": "我的包裹好像丢了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lost parcel",
+        "cn": "丢件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120025,
+    "word": "damaged",
+    "phonetic0": "ˈdæmɪdʒd",
+    "phonetic1": "ˈdæmɪdʒd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "损坏的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The box arrived damaged.",
+        "cn": "箱子到的时候已经坏了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "damaged goods",
+        "cn": "损坏的货物"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120026,
+    "word": "return",
+    "phonetic0": "rɪˈtɜːn",
+    "phonetic1": "rɪˈtɜːrn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "退回"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to return this item.",
+        "cn": "我想退回这件商品。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "return label",
+        "cn": "退货标签"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1120027,
+    "word": "shipping",
+    "phonetic0": "ˈʃɪpɪŋ",
+    "phonetic1": "ˈʃɪpɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "运输，运费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is shipping?",
+        "cn": "运费多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "free shipping",
+        "cn": "包邮"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

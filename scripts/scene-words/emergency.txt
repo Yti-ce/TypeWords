@@ -1,0 +1,29 @@
+# 场景·紧急求助  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+help | help | help | n.:帮助; v.:帮助 | Help! Somebody help me! | 救命！谁来帮帮我！ | ask for help:求助
+police | pəˈliːs | pəˈliːs | n.:警察 | Call the police! | 快报警！ | police station:派出所
+emergency | ɪˈmɜːdʒənsi | ɪˈmɜːrdʒənsi | n.:紧急情况 | This is an emergency! | 这是紧急情况！ | in an emergency:紧急情况下
+fire | ˈfaɪə | ˈfaɪər | n.:火；火灾 | There's a fire in the building! | 楼里着火了！ | fire alarm:火警报警器
+ambulance | ˈæmbjələns | ˈæmbjələns | n.:救护车 | We need an ambulance now. | 我们现在需要救护车。 | call an ambulance:叫救护车
+stolen | ˈstəʊlən | ˈstoʊlən | adj.:被偷的 | My wallet was stolen. | 我的钱包被偷了。 | stolen phone:被偷的手机
+steal | stiːl | stiːl | v.:偷 | Someone stole my bag. | 有人偷了我的包。 | steal from:从……偷
+lost | lɒst | lɔːst | adj.:丢失的；迷路的 | I've lost my passport. | 我的护照丢了。 | lost and found:失物招领
+wallet | ˈwɒlɪt | ˈwɑːlɪt | n.:钱包 | I can't find my wallet. | 我找不到我的钱包。 | lose a wallet:丢钱包
+thief | θiːf | θiːf | n.:小偷 | Stop, thief! | 站住，小偷！ | catch a thief:抓小偷
+accident | ˈæksɪdənt | ˈæksɪdənt | n.:事故 | There's been a car accident. | 发生了车祸。 | car accident:车祸
+injured | ˈɪndʒəd | ˈɪndʒərd | adj.:受伤的 | Is anyone injured? | 有人受伤吗？ | badly injured:伤得很重
+danger | ˈdeɪndʒə | ˈdeɪndʒər | n.:危险 | Keep away, danger! | 远离，危险！ | in danger:处于危险中
+dangerous | ˈdeɪndʒərəs | ˈdeɪndʒərəs | adj.:危险的 | It's dangerous to swim here. | 在这里游泳很危险。 | very dangerous:很危险
+safe | seɪf | seɪf | adj.:安全的 | Are you safe? | 你安全吗？ | stay safe:注意安全
+report | rɪˈpɔːt | rɪˈpɔːrt | v.:报告，报案; n.:报告 | I want to report a theft. | 我要报案，东西被偷了。 | police report:警方报告
+witness | ˈwɪtnəs | ˈwɪtnəs | n.:目击者 | Did anyone witness the accident? | 有人目击了事故吗？ | eye witness:目击证人
+embassy | ˈembəsi | ˈembəsi | n.:大使馆 | I need to contact my embassy. | 我需要联系我国大使馆。 | Chinese embassy:中国大使馆
+urgent | ˈɜːdʒənt | ˈɜːrdʒənt | adj.:紧急的 | It's urgent! | 情况紧急！ | urgent matter:急事
+hurry | ˈhʌri | ˈhɜːri | v.:赶快 | Please hurry! | 请快一点！ | in a hurry:匆忙
+alarm | əˈlɑːm | əˈlɑːrm | n.:警报 | The fire alarm is ringing. | 火警警报响了。 | fire alarm:火警警报
+escape | ɪˈskeɪp | ɪˈskeɪp | v.:逃离 | Use the stairs to escape. | 走楼梯逃生。 | fire escape:消防通道
+breathe | briːð | briːð | v.:呼吸 | He can't breathe! | 他喘不过气了！ | breathe in:吸气
+bleeding | ˈbliːdɪŋ | ˈbliːdɪŋ | adj.:流血的; n.:出血 | Her arm is bleeding. | 她的手臂在流血。 | stop the bleeding:止血
+unconscious | ʌnˈkɒnʃəs | ʌnˈkɑːnʃəs | adj.:失去知觉的 | He's unconscious! | 他昏过去了！ | fall unconscious:昏迷
+calm | kɑːm | kɑːm | adj.:冷静的 | Stay calm. | 保持冷静。 | calm down:冷静下来
+address | əˈdres | ˈædres | n.:地址 | What's the address of the emergency? | 出事地点的地址是哪里？ | exact address:确切地址

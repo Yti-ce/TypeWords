@@ -1,0 +1,32 @@
+# 场景·机场  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+flight | flaɪt | flaɪt | n.:航班 | My flight leaves at ten. | 我的航班十点起飞。 | book a flight:订机票
+airport | ˈeəpɔːt | ˈerpɔːrt | n.:机场 | How do I get to the airport? | 怎么去机场？ | at the airport:在机场
+passport | ˈpɑːspɔːt | ˈpæspɔːrt | n.:护照 | Don't forget your passport. | 别忘了带护照。 | passport control:护照检查
+ticket | ˈtɪkɪt | ˈtɪkɪt | n.:票，机票 | Can I see your ticket, please? | 请出示您的机票。 | plane ticket:机票
+luggage | ˈlʌɡɪdʒ | ˈlʌɡɪdʒ | n.:行李 | How much luggage can I take? | 我能带多少行李？ | hand luggage:手提行李
+check | tʃek | tʃek | v.:检查；办理 | Where do I check in? | 我在哪里办理登机？ | check in:办理登机；入住
+gate | ɡeɪt | ɡeɪt | n.:登机口 | Please go to gate twelve. | 请前往12号登机口。 | boarding gate:登机口
+boarding | ˈbɔːdɪŋ | ˈbɔːrdɪŋ | n.:登机 | Here is your boarding pass. | 这是您的登机牌。 | boarding pass:登机牌
+board | bɔːd | bɔːrd | v.:登机，上车 | We will start boarding soon. | 我们马上开始登机。 | on board:在飞机上
+delay | dɪˈleɪ | dɪˈleɪ | n.:延误; v.:延误 | The flight has been delayed. | 航班延误了。 | flight delay:航班延误
+cancel | ˈkænsl | ˈkænsl | v.:取消 | My flight was cancelled. | 我的航班被取消了。 | cancel a flight:取消航班
+departure | dɪˈpɑːtʃə | dɪˈpɑːrtʃər | n.:出发，离港 | Check the departure board. | 看一下出发信息屏。 | departure time:出发时间
+arrival | əˈraɪvl | əˈraɪvl | n.:到达 | The arrival hall is downstairs. | 到达大厅在楼下。 | arrival time:到达时间
+terminal | ˈtɜːmɪnl | ˈtɜːrmɪnl | n.:航站楼 | Which terminal is it? | 是哪个航站楼？ | Terminal 2:2号航站楼
+suitcase | ˈsuːtkeɪs | ˈsuːtkeɪs | n.:行李箱 | My suitcase is too heavy. | 我的行李箱太重了。 | pack a suitcase:收拾行李箱
+baggage | ˈbæɡɪdʒ | ˈbæɡɪdʒ | n.:行李 | Where is baggage claim? | 行李提取处在哪里？ | baggage claim:行李提取处
+weight | weɪt | weɪt | n.:重量 | What's the weight limit? | 重量限制是多少？ | weight limit:重量限制
+seat | siːt | siːt | n.:座位 | I'd like a window seat. | 我想要靠窗的座位。 | window seat:靠窗座位
+aisle | aɪl | aɪl | n.:过道 | Can I have an aisle seat? | 我可以要靠过道的座位吗？ | aisle seat:过道座位
+security | sɪˈkjʊərəti | səˈkjʊrəti | n.:安检；安全 | We need to go through security. | 我们要过安检。 | security check:安检
+customs | ˈkʌstəmz | ˈkʌstəmz | n.:海关 | Do you have anything to declare at customs? | 您有需要向海关申报的东西吗？ | go through customs:过海关
+declare | dɪˈkleə | dɪˈkler | v.:申报 | I have nothing to declare. | 我没有要申报的东西。 | declare goods:申报物品
+visa | ˈviːzə | ˈviːzə | n.:签证 | Do I need a visa? | 我需要签证吗？ | apply for a visa:申请签证
+transit | ˈtrænzɪt | ˈtrænzɪt | n.:中转 | I have a transit in Singapore. | 我在新加坡中转。 | in transit:中转
+connecting | kəˈnektɪŋ | kəˈnektɪŋ | adj.:转机的 | I might miss my connecting flight. | 我可能赶不上转机航班了。 | connecting flight:转机航班
+miss | mɪs | mɪs | v.:错过 | Hurry, or we'll miss the flight! | 快点，不然要误机了！ | miss the flight:误机
+liquid | ˈlɪkwɪd | ˈlɪkwɪd | n.:液体 | No liquids over 100 ml. | 液体不能超过100毫升。 | liquids:液体
+overweight | ˌəʊvəˈweɪt | ˌoʊvərˈweɪt | adj.:超重的 | Your bag is overweight. | 您的包超重了。 | overweight baggage:超重行李
+seatbelt | ˈsiːtbelt | ˈsiːtbelt | n.:安全带 | Please fasten your seatbelt. | 请系好安全带。 | fasten your seatbelt:系好安全带
+landing | ˈlændɪŋ | ˈlændɪŋ | n.:着陆 | We'll be landing in twenty minutes. | 我们将在二十分钟后降落。 | landing time:降落时间

@@ -1,0 +1,1046 @@
+[
+  {
+    "id": 1050001,
+    "word": "doctor",
+    "phonetic0": "ˈdɒktə",
+    "phonetic1": "ˈdɑːktər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "医生"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to see a doctor.",
+        "cn": "我需要看医生。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "see a doctor",
+        "cn": "看病"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050002,
+    "word": "hospital",
+    "phonetic0": "ˈhɒspɪtl",
+    "phonetic1": "ˈhɑːspɪtl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "医院"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She was taken to hospital last night.",
+        "cn": "她昨晚被送进了医院。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go to hospital",
+        "cn": "去医院"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050003,
+    "word": "sick",
+    "phonetic0": "sɪk",
+    "phonetic1": "sɪk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "生病的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I feel sick today.",
+        "cn": "我今天不舒服。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel sick",
+        "cn": "觉得不舒服；恶心"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050004,
+    "word": "pain",
+    "phonetic0": "peɪn",
+    "phonetic1": "peɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "疼痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a pain in my stomach.",
+        "cn": "我肚子疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sharp pain",
+        "cn": "剧痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050005,
+    "word": "hurt",
+    "phonetic0": "hɜːt",
+    "phonetic1": "hɜːrt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "疼；受伤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My back hurts.",
+        "cn": "我背疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get hurt",
+        "cn": "受伤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050006,
+    "word": "fever",
+    "phonetic0": "ˈfiːvə",
+    "phonetic1": "ˈfiːvər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "发烧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I've had a fever since yesterday.",
+        "cn": "我从昨天开始发烧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "have a fever",
+        "cn": "发烧"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050007,
+    "word": "cough",
+    "phonetic0": "kɒf",
+    "phonetic1": "kɔːf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "咳嗽"
+      },
+      {
+        "pos": "v.",
+        "cn": "咳嗽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a bad cough.",
+        "cn": "我咳嗽得很厉害。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dry cough",
+        "cn": "干咳"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050008,
+    "word": "cold",
+    "phonetic0": "kəʊld",
+    "phonetic1": "koʊld",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "感冒"
+      },
+      {
+        "pos": "adj.",
+        "cn": "冷的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I think I've caught a cold.",
+        "cn": "我好像感冒了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "catch a cold",
+        "cn": "感冒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050009,
+    "word": "headache",
+    "phonetic0": "ˈhedeɪk",
+    "phonetic1": "ˈhedeɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "头痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I've got a terrible headache.",
+        "cn": "我头疼得厉害。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "have a headache",
+        "cn": "头痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050010,
+    "word": "symptom",
+    "phonetic0": "ˈsɪmptəm",
+    "phonetic1": "ˈsɪmptəm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "症状"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What are your symptoms?",
+        "cn": "你有什么症状？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "common symptom",
+        "cn": "常见症状"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050011,
+    "word": "appointment",
+    "phonetic0": "əˈpɔɪntmənt",
+    "phonetic1": "əˈpɔɪntmənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "预约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to make an appointment with Dr Lee.",
+        "cn": "我想预约李医生。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make an appointment",
+        "cn": "预约"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050012,
+    "word": "nurse",
+    "phonetic0": "nɜːs",
+    "phonetic1": "nɜːrs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "护士"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The nurse will take your temperature.",
+        "cn": "护士会给你量体温。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ask the nurse",
+        "cn": "问护士"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050013,
+    "word": "temperature",
+    "phonetic0": "ˈtemprətʃə",
+    "phonetic1": "ˈtemprətʃər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "体温；温度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me take your temperature.",
+        "cn": "我给你量一下体温。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take your temperature",
+        "cn": "量体温"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050014,
+    "word": "medicine",
+    "phonetic0": "ˈmedsn",
+    "phonetic1": "ˈmedɪsn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "药"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take this medicine twice a day.",
+        "cn": "这个药一天吃两次。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take medicine",
+        "cn": "吃药"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050015,
+    "word": "prescription",
+    "phonetic0": "prɪˈskrɪpʃn",
+    "phonetic1": "prɪˈskrɪpʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "处方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You need a prescription for this.",
+        "cn": "这个需要处方。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "write a prescription",
+        "cn": "开处方"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050016,
+    "word": "check",
+    "phonetic0": "tʃek",
+    "phonetic1": "tʃek",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "检查"
+      },
+      {
+        "pos": "n.",
+        "cn": "检查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The doctor will check your blood pressure.",
+        "cn": "医生会检查你的血压。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "health check",
+        "cn": "体检"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050017,
+    "word": "blood",
+    "phonetic0": "blʌd",
+    "phonetic1": "blʌd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "血"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to take a blood test.",
+        "cn": "我们需要验一下血。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "blood test",
+        "cn": "验血"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050018,
+    "word": "injection",
+    "phonetic0": "ɪnˈdʒekʃn",
+    "phonetic1": "ɪnˈdʒekʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "打针，注射"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You'll need an injection.",
+        "cn": "你需要打一针。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "give an injection",
+        "cn": "打针"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050019,
+    "word": "allergy",
+    "phonetic0": "ˈælədʒi",
+    "phonetic1": "ˈælərdʒi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "过敏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have any allergies?",
+        "cn": "你有什么过敏吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "food allergy",
+        "cn": "食物过敏"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050020,
+    "word": "dizzy",
+    "phonetic0": "ˈdɪzi",
+    "phonetic1": "ˈdɪzi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "头晕的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I feel dizzy when I stand up.",
+        "cn": "我一站起来就头晕。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel dizzy",
+        "cn": "头晕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050021,
+    "word": "stomach",
+    "phonetic0": "ˈstʌmək",
+    "phonetic1": "ˈstʌmək",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "胃；肚子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My stomach hurts after eating.",
+        "cn": "我吃完东西就胃疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stomach ache",
+        "cn": "胃痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050022,
+    "word": "throat",
+    "phonetic0": "θrəʊt",
+    "phonetic1": "θroʊt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "喉咙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a sore throat.",
+        "cn": "我喉咙痛。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sore throat",
+        "cn": "喉咙痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050023,
+    "word": "sore",
+    "phonetic0": "sɔː",
+    "phonetic1": "sɔːr",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "疼痛的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My legs are sore after running.",
+        "cn": "跑步后我腿很酸痛。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sore eyes",
+        "cn": "眼睛疼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050024,
+    "word": "emergency",
+    "phonetic0": "ɪˈmɜːdʒənsi",
+    "phonetic1": "ɪˈmɜːrdʒənsi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "急诊；紧急情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the emergency room?",
+        "cn": "急诊室在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "emergency room",
+        "cn": "急诊室"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050025,
+    "word": "ambulance",
+    "phonetic0": "ˈæmbjələns",
+    "phonetic1": "ˈæmbjələns",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "救护车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please call an ambulance!",
+        "cn": "请叫救护车！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "call an ambulance",
+        "cn": "叫救护车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050026,
+    "word": "patient",
+    "phonetic0": "ˈpeɪʃnt",
+    "phonetic1": "ˈpeɪʃnt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "病人"
+      },
+      {
+        "pos": "adj.",
+        "cn": "有耐心的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The patient is resting now.",
+        "cn": "病人正在休息。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "outpatient",
+        "cn": "门诊病人"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050027,
+    "word": "register",
+    "phonetic0": "ˈredʒɪstə",
+    "phonetic1": "ˈredʒɪstər",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "登记，挂号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please register at the front desk first.",
+        "cn": "请先在前台挂号。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "register for",
+        "cn": "登记"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050028,
+    "word": "insurance",
+    "phonetic0": "ɪnˈʃʊərəns",
+    "phonetic1": "ɪnˈʃʊrəns",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "保险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have health insurance?",
+        "cn": "你有医疗保险吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "health insurance",
+        "cn": "医疗保险"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050029,
+    "word": "rest",
+    "phonetic0": "rest",
+    "phonetic1": "rest",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "休息"
+      },
+      {
+        "pos": "v.",
+        "cn": "休息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You should get plenty of rest.",
+        "cn": "你应该多休息。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take a rest",
+        "cn": "休息一下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050030,
+    "word": "recover",
+    "phonetic0": "rɪˈkʌvə",
+    "phonetic1": "rɪˈkʌvər",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "康复"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You'll recover in a few days.",
+        "cn": "你过几天就会好的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "recover from",
+        "cn": "从……中康复"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050031,
+    "word": "serious",
+    "phonetic0": "ˈsɪəriəs",
+    "phonetic1": "ˈsɪriəs",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "严重的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is it serious, doctor?",
+        "cn": "医生，严重吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "nothing serious",
+        "cn": "不严重"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050032,
+    "word": "scan",
+    "phonetic0": "skæn",
+    "phonetic1": "skæn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "扫描检查"
+      },
+      {
+        "pos": "v.",
+        "cn": "扫描"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You need a scan of your knee.",
+        "cn": "你的膝盖需要做个扫描检查。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "CT scan",
+        "cn": "CT扫描"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050033,
+    "word": "dentist",
+    "phonetic0": "ˈdentɪst",
+    "phonetic1": "ˈdentɪst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "牙医"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have to go to the dentist.",
+        "cn": "我得去看牙医。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "see the dentist",
+        "cn": "看牙医"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1050034,
+    "word": "tooth",
+    "phonetic0": "tuːθ",
+    "phonetic1": "tuːθ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "牙齿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My tooth really hurts.",
+        "cn": "我牙很疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "toothache",
+        "cn": "牙疼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

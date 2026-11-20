@@ -1,0 +1,32 @@
+# 场景·求职面试  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+job | dʒɒb | dʒɑːb | n.:工作 | I'm looking for a job. | 我在找工作。 | job offer:录用通知
+interview | ˈɪntəvjuː | ˈɪntərvjuː | n.:面试; v.:面试 | I have a job interview tomorrow. | 我明天有个工作面试。 | job interview:工作面试
+apply | əˈplaɪ | əˈplaɪ | v.:申请 | I'd like to apply for this position. | 我想申请这个职位。 | apply for:申请
+position | pəˈzɪʃn | pəˈzɪʃn | n.:职位 | The position is still open. | 这个职位还在招。 | full-time position:全职职位
+experience | ɪkˈspɪəriəns | ɪkˈspɪriəns | n.:经验 | I have three years of experience. | 我有三年经验。 | work experience:工作经验
+resume | ˈrezjumeɪ | ˈrezəmeɪ | n.:简历（英式 CV） | Please send us your resume. | 请把简历发给我们。 | update my resume:更新简历
+skill | skɪl | skɪl | n.:技能 | What skills do you have? | 你有哪些技能？ | communication skills:沟通能力
+strength | streŋθ | streŋθ | n.:优点；力量 | What is your greatest strength? | 你最大的优点是什么？ | strengths and weaknesses:优缺点
+weakness | ˈwiːknəs | ˈwiːknəs | n.:缺点 | My weakness is public speaking. | 我的缺点是不擅长公开演讲。 | biggest weakness:最大的缺点
+company | ˈkʌmpəni | ˈkʌmpəni | n.:公司 | Why do you want to join our company? | 你为什么想加入我们公司？ | join a company:加入公司
+salary | ˈsæləri | ˈsæləri | n.:薪水 | What are your salary expectations? | 你期望的薪资是多少？ | expected salary:期望薪资
+offer | ˈɒfə | ˈɔːfər | n.:录用；提议 | I got a job offer! | 我拿到录用通知了！ | accept an offer:接受录用
+candidate | ˈkændɪdət | ˈkændɪdət | n.:候选人 | You are a strong candidate. | 你是很有竞争力的候选人。 | ideal candidate:理想人选
+qualified | ˈkwɒlɪfaɪd | ˈkwɑːlɪfaɪd | adj.:有资格的 | I'm qualified for this job. | 我能胜任这份工作。 | well qualified:很有资格
+degree | dɪˈɡriː | dɪˈɡriː | n.:学位 | I have a degree in IT. | 我有IT学位。 | bachelor's degree:学士学位
+responsible | rɪˈspɒnsəbl | rɪˈspɑːnsəbl | adj.:负责的 | I was responsible for the website. | 我负责网站。 | responsible for:负责
+achieve | əˈtʃiːv | əˈtʃiːv | v.:实现，达到 | What did you achieve in your last job? | 你在上一份工作中取得了什么成绩？ | achieve a goal:实现目标
+goal | ɡəʊl | ɡoʊl | n.:目标 | My goal is to become a cloud engineer. | 我的目标是成为云工程师。 | career goal:职业目标
+career | kəˈrɪə | kəˈrɪr | n.:职业，事业 | Where do you see your career in five years? | 你五年后的职业规划是什么？ | career plan:职业规划
+team | tiːm | tiːm | n.:团队 | I enjoy working in a team. | 我喜欢团队合作。 | team player:有团队精神的人
+challenge | ˈtʃælɪndʒ | ˈtʃælɪndʒ | n.:挑战 | Tell me about a challenge you faced. | 讲讲你遇到过的一个挑战。 | face a challenge:面对挑战
+solve | sɒlv | sɑːlv | v.:解决 | I like solving problems. | 我喜欢解决问题。 | solve a problem:解决问题
+learn | lɜːn | lɜːrn | v.:学习 | I learn new things quickly. | 我学新东西很快。 | learn from:向……学习
+available | əˈveɪləbl | əˈveɪləbl | adj.:有空的；可到岗的 | When are you available to start? | 你什么时候可以入职？ | available to start:可以入职
+internship | ˈɪntɜːnʃɪp | ˈɪntɜːrnʃɪp | n.:实习 | I did an internship last summer. | 我去年夏天做过实习。 | do an internship:做实习
+reference | ˈrefrəns | ˈrefrəns | n.:推荐人；推荐信 | Can you provide two references? | 你能提供两位推荐人吗？ | reference letter:推荐信
+remote | rɪˈməʊt | rɪˈmoʊt | adj.:远程的 | Is remote work possible? | 可以远程办公吗？ | remote work:远程办公
+contract | ˈkɒntrækt | ˈkɑːntrækt | n.:合同 | It's a one-year contract. | 这是一年期合同。 | sign a contract:签合同
+benefits | ˈbenɪfɪts | ˈbenɪfɪts | n.:福利 | What benefits does the company offer? | 公司提供哪些福利？ | employee benefits:员工福利
+confident | ˈkɒnfɪdənt | ˈkɑːnfɪdənt | adj.:自信的 | Be confident in the interview. | 面试时要自信。 | feel confident:感到自信

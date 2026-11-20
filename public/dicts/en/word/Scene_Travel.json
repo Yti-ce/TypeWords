@@ -1,0 +1,786 @@
+[
+  {
+    "id": 1210001,
+    "word": "travel",
+    "phonetic0": "ˈtrævl",
+    "phonetic1": "ˈtrævl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "旅行"
+      },
+      {
+        "pos": "n.",
+        "cn": "旅行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I love to travel.",
+        "cn": "我喜欢旅行。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "travel abroad",
+        "cn": "出国旅行"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210002,
+    "word": "trip",
+    "phonetic0": "trɪp",
+    "phonetic1": "trɪp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "旅行，行程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How was your trip?",
+        "cn": "你这趟旅行怎么样？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "day trip",
+        "cn": "一日游"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210003,
+    "word": "holiday",
+    "phonetic0": "ˈhɒlədeɪ",
+    "phonetic1": "ˈhɑːlədeɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "假期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're going on holiday next week.",
+        "cn": "我们下周去度假。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on holiday",
+        "cn": "在度假"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210004,
+    "word": "tour",
+    "phonetic0": "tʊə",
+    "phonetic1": "tʊr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "旅游，参观"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a city tour?",
+        "cn": "有城市观光游吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "guided tour",
+        "cn": "有导游的游览"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210005,
+    "word": "guide",
+    "phonetic0": "ɡaɪd",
+    "phonetic1": "ɡaɪd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "导游"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our guide speaks English.",
+        "cn": "我们的导游会说英语。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tour guide",
+        "cn": "导游"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210006,
+    "word": "visit",
+    "phonetic0": "ˈvɪzɪt",
+    "phonetic1": "ˈvɪzɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "参观，拜访"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We visited the old town.",
+        "cn": "我们参观了老城区。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pay a visit",
+        "cn": "拜访"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210007,
+    "word": "museum",
+    "phonetic0": "mjuˈziːəm",
+    "phonetic1": "mjuˈziːəm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "博物馆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The museum is closed on Mondays.",
+        "cn": "博物馆周一闭馆。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "art museum",
+        "cn": "美术馆"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210008,
+    "word": "ticket",
+    "phonetic0": "ˈtɪkɪt",
+    "phonetic1": "ˈtɪkɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "门票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is the entrance ticket?",
+        "cn": "门票多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "entrance ticket",
+        "cn": "门票"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210009,
+    "word": "photo",
+    "phonetic0": "ˈfəʊtəʊ",
+    "phonetic1": "ˈfoʊtoʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "照片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you take a photo of us?",
+        "cn": "能帮我们拍张照吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take a photo",
+        "cn": "拍照"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210010,
+    "word": "beach",
+    "phonetic0": "biːtʃ",
+    "phonetic1": "biːtʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海滩"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's go to the beach.",
+        "cn": "我们去海滩吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the beach",
+        "cn": "在海滩上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210011,
+    "word": "view",
+    "phonetic0": "vjuː",
+    "phonetic1": "vjuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "风景"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The view from the top is amazing.",
+        "cn": "从山顶看风景太美了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "great view",
+        "cn": "美景"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210012,
+    "word": "famous",
+    "phonetic0": "ˈfeɪməs",
+    "phonetic1": "ˈfeɪməs",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "著名的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This temple is very famous.",
+        "cn": "这座寺庙很有名。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "famous for",
+        "cn": "以……闻名"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210013,
+    "word": "souvenir",
+    "phonetic0": "ˌsuːvəˈnɪə",
+    "phonetic1": "ˌsuːvəˈnɪr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "纪念品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I bought some souvenirs for my family.",
+        "cn": "我给家人买了些纪念品。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "souvenir shop",
+        "cn": "纪念品店"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210014,
+    "word": "local",
+    "phonetic0": "ˈləʊkl",
+    "phonetic1": "ˈloʊkl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "当地的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to try local food.",
+        "cn": "我想尝尝当地美食。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "local food",
+        "cn": "当地美食"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210015,
+    "word": "culture",
+    "phonetic0": "ˈkʌltʃə",
+    "phonetic1": "ˈkʌltʃər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文化"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm interested in local culture.",
+        "cn": "我对当地文化感兴趣。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "local culture",
+        "cn": "当地文化"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210016,
+    "word": "sightseeing",
+    "phonetic0": "ˈsaɪtsiːɪŋ",
+    "phonetic1": "ˈsaɪtsiːɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "观光"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We went sightseeing all day.",
+        "cn": "我们观光了一整天。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go sightseeing",
+        "cn": "去观光"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210017,
+    "word": "island",
+    "phonetic0": "ˈaɪlənd",
+    "phonetic1": "ˈaɪlənd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "岛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We took a boat to the island.",
+        "cn": "我们坐船去了岛上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "small island",
+        "cn": "小岛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210018,
+    "word": "mountain",
+    "phonetic0": "ˈmaʊntən",
+    "phonetic1": "ˈmaʊntn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "山"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We climbed the mountain.",
+        "cn": "我们爬了那座山。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "climb a mountain",
+        "cn": "爬山"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210019,
+    "word": "temple",
+    "phonetic0": "ˈtempl",
+    "phonetic1": "ˈtempl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "寺庙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take off your shoes in the temple.",
+        "cn": "进寺庙要脱鞋。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "old temple",
+        "cn": "古寺"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210020,
+    "word": "backpack",
+    "phonetic0": "ˈbækpæk",
+    "phonetic1": "ˈbækpæk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "背包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I only travel with a backpack.",
+        "cn": "我旅行只带一个背包。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "carry a backpack",
+        "cn": "背背包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210021,
+    "word": "itinerary",
+    "phonetic0": "aɪˈtɪnərəri",
+    "phonetic1": "aɪˈtɪnəreri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "行程表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Here is our itinerary for the week.",
+        "cn": "这是我们这周的行程。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "travel itinerary",
+        "cn": "旅行行程"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210022,
+    "word": "tourist",
+    "phonetic0": "ˈtʊərɪst",
+    "phonetic1": "ˈtʊrɪst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "游客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's full of tourists in summer.",
+        "cn": "夏天到处都是游客。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tourist attraction",
+        "cn": "旅游景点"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210023,
+    "word": "attraction",
+    "phonetic0": "əˈtrækʃn",
+    "phonetic1": "əˈtrækʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "景点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What are the main attractions?",
+        "cn": "主要景点有哪些？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tourist attraction",
+        "cn": "旅游景点"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210024,
+    "word": "crowded",
+    "phonetic0": "ˈkraʊdɪd",
+    "phonetic1": "ˈkraʊdɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "拥挤的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The market is very crowded.",
+        "cn": "市场很拥挤。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "crowded place",
+        "cn": "拥挤的地方"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210025,
+    "word": "explore",
+    "phonetic0": "ɪkˈsplɔː",
+    "phonetic1": "ɪkˈsplɔːr",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "探索"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's explore the city.",
+        "cn": "我们去城市里逛逛吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "explore the area",
+        "cn": "探索周边"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1210026,
+    "word": "abroad",
+    "phonetic0": "əˈbrɔːd",
+    "phonetic1": "əˈbrɔːd",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在国外"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have you ever been abroad?",
+        "cn": "你出过国吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go abroad",
+        "cn": "出国"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

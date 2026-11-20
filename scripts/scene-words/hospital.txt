@@ -1,0 +1,36 @@
+# 场景·医院看病  —  按日常使用频率排序，越靠前越常用
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+doctor | ˈdɒktə | ˈdɑːktər | n.:医生 | I need to see a doctor. | 我需要看医生。 | see a doctor:看病
+hospital | ˈhɒspɪtl | ˈhɑːspɪtl | n.:医院 | She was taken to hospital last night. | 她昨晚被送进了医院。 | go to hospital:去医院
+sick | sɪk | sɪk | adj.:生病的 | I feel sick today. | 我今天不舒服。 | feel sick:觉得不舒服；恶心
+pain | peɪn | peɪn | n.:疼痛 | I have a pain in my stomach. | 我肚子疼。 | sharp pain:剧痛
+hurt | hɜːt | hɜːrt | v.:疼；受伤 | My back hurts. | 我背疼。 | get hurt:受伤
+fever | ˈfiːvə | ˈfiːvər | n.:发烧 | I've had a fever since yesterday. | 我从昨天开始发烧。 | have a fever:发烧
+cough | kɒf | kɔːf | n.:咳嗽; v.:咳嗽 | I have a bad cough. | 我咳嗽得很厉害。 | dry cough:干咳
+cold | kəʊld | koʊld | n.:感冒; adj.:冷的 | I think I've caught a cold. | 我好像感冒了。 | catch a cold:感冒
+headache | ˈhedeɪk | ˈhedeɪk | n.:头痛 | I've got a terrible headache. | 我头疼得厉害。 | have a headache:头痛
+symptom | ˈsɪmptəm | ˈsɪmptəm | n.:症状 | What are your symptoms? | 你有什么症状？ | common symptom:常见症状
+appointment | əˈpɔɪntmənt | əˈpɔɪntmənt | n.:预约 | I'd like to make an appointment with Dr Lee. | 我想预约李医生。 | make an appointment:预约
+nurse | nɜːs | nɜːrs | n.:护士 | The nurse will take your temperature. | 护士会给你量体温。 | ask the nurse:问护士
+temperature | ˈtemprətʃə | ˈtemprətʃər | n.:体温；温度 | Let me take your temperature. | 我给你量一下体温。 | take your temperature:量体温
+medicine | ˈmedsn | ˈmedɪsn | n.:药 | Take this medicine twice a day. | 这个药一天吃两次。 | take medicine:吃药
+prescription | prɪˈskrɪpʃn | prɪˈskrɪpʃn | n.:处方 | You need a prescription for this. | 这个需要处方。 | write a prescription:开处方
+check | tʃek | tʃek | v.:检查; n.:检查 | The doctor will check your blood pressure. | 医生会检查你的血压。 | health check:体检
+blood | blʌd | blʌd | n.:血 | We need to take a blood test. | 我们需要验一下血。 | blood test:验血
+injection | ɪnˈdʒekʃn | ɪnˈdʒekʃn | n.:打针，注射 | You'll need an injection. | 你需要打一针。 | give an injection:打针
+allergy | ˈælədʒi | ˈælərdʒi | n.:过敏 | Do you have any allergies? | 你有什么过敏吗？ | food allergy:食物过敏
+dizzy | ˈdɪzi | ˈdɪzi | adj.:头晕的 | I feel dizzy when I stand up. | 我一站起来就头晕。 | feel dizzy:头晕
+stomach | ˈstʌmək | ˈstʌmək | n.:胃；肚子 | My stomach hurts after eating. | 我吃完东西就胃疼。 | stomach ache:胃痛
+throat | θrəʊt | θroʊt | n.:喉咙 | I have a sore throat. | 我喉咙痛。 | sore throat:喉咙痛
+sore | sɔː | sɔːr | adj.:疼痛的 | My legs are sore after running. | 跑步后我腿很酸痛。 | sore eyes:眼睛疼
+emergency | ɪˈmɜːdʒənsi | ɪˈmɜːrdʒənsi | n.:急诊；紧急情况 | Where is the emergency room? | 急诊室在哪里？ | emergency room:急诊室
+ambulance | ˈæmbjələns | ˈæmbjələns | n.:救护车 | Please call an ambulance! | 请叫救护车！ | call an ambulance:叫救护车
+patient | ˈpeɪʃnt | ˈpeɪʃnt | n.:病人; adj.:有耐心的 | The patient is resting now. | 病人正在休息。 | outpatient:门诊病人
+register | ˈredʒɪstə | ˈredʒɪstər | v.:登记，挂号 | Please register at the front desk first. | 请先在前台挂号。 | register for:登记
+insurance | ɪnˈʃʊərəns | ɪnˈʃʊrəns | n.:保险 | Do you have health insurance? | 你有医疗保险吗？ | health insurance:医疗保险
+rest | rest | rest | n.:休息; v.:休息 | You should get plenty of rest. | 你应该多休息。 | take a rest:休息一下
+recover | rɪˈkʌvə | rɪˈkʌvər | v.:康复 | You'll recover in a few days. | 你过几天就会好的。 | recover from:从……中康复
+serious | ˈsɪəriəs | ˈsɪriəs | adj.:严重的 | Is it serious, doctor? | 医生，严重吗？ | nothing serious:不严重
+scan | skæn | skæn | n.:扫描检查; v.:扫描 | You need a scan of your knee. | 你的膝盖需要做个扫描检查。 | CT scan:CT扫描
+dentist | ˈdentɪst | ˈdentɪst | n.:牙医 | I have to go to the dentist. | 我得去看牙医。 | see the dentist:看牙医
+tooth | tuːθ | tuːθ | n.:牙齿 | My tooth really hurts. | 我牙很疼。 | toothache:牙疼
