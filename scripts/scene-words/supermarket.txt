@@ -1,0 +1,42 @@
+# 场景·超市买菜
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+food | fuːd | fuːd | n.:食物 | We need to buy some food for the week. | 我们需要买这周的食物。 | fast food:快餐
+fruit | fruːt | fruːt | n.:水果 | The fruit here is always fresh. | 这里的水果总是很新鲜。 | fresh fruit:新鲜水果
+vegetable | ˈvedʒtəbl | ˈvedʒtəbl | n.:蔬菜 | Eat more vegetables. | 多吃蔬菜。 | green vegetables:绿叶菜
+meat | miːt | miːt | n.:肉 | Where is the meat section? | 肉类区在哪里？ | red meat:红肉
+fish | fɪʃ | fɪʃ | n.:鱼 | Is this fish fresh? | 这条鱼新鲜吗？ | fresh fish:鲜鱼
+egg | eɡ | eɡ | n.:鸡蛋 | I need a dozen eggs. | 我需要一打鸡蛋。 | a dozen eggs:一打鸡蛋
+milk | mɪlk | mɪlk | n.:牛奶 | We're out of milk. | 我们没牛奶了。 | a bottle of milk:一瓶牛奶
+bread | bred | bred | n.:面包 | A loaf of bread, please. | 请来一条面包。 | a loaf of bread:一条面包
+rice | raɪs | raɪs | n.:大米 | Buy a bag of rice. | 买一袋米。 | a bag of rice:一袋米
+apple | ˈæpl | ˈæpl | n.:苹果 | These apples are very sweet. | 这些苹果很甜。 | an apple a day:一天一个苹果
+banana | bəˈnɑːnə | bəˈnænə | n.:香蕉 | How much are the bananas? | 香蕉多少钱？ | a bunch of bananas:一串香蕉
+orange | ˈɒrɪndʒ | ˈɔːrɪndʒ | n.:橙子 | Oranges are on sale today. | 今天橙子打折。 | orange juice:橙汁
+potato | pəˈteɪtəʊ | pəˈteɪtoʊ | n.:土豆 | Get two kilos of potatoes. | 买两公斤土豆。 | mashed potato:土豆泥
+tomato | təˈmɑːtəʊ | təˈmeɪtoʊ | n.:西红柿 | I'll make tomato and egg soup. | 我要做西红柿鸡蛋汤。 | tomato sauce:番茄酱
+onion | ˈʌnjən | ˈʌnjən | n.:洋葱 | Don't forget the onions. | 别忘了洋葱。 | green onion:葱
+carrot | ˈkærət | ˈkærət | n.:胡萝卜 | Carrots are good for your eyes. | 胡萝卜对眼睛好。 | carrot cake:胡萝卜蛋糕
+cheese | tʃiːz | tʃiːz | n.:奶酪 | Do you sell cheese? | 你们卖奶酪吗？ | a slice of cheese:一片奶酪
+butter | ˈbʌtə | ˈbʌtər | n.:黄油 | I need butter for the cake. | 做蛋糕需要黄油。 | bread and butter:黄油面包
+oil | ɔɪl | ɔɪl | n.:食用油 | Where is the cooking oil? | 食用油在哪里？ | olive oil:橄榄油
+snack | snæk | snæk | n.:零食 | Let's buy some snacks for the trip. | 我们买点零食路上吃吧。 | snack food:零食
+drink | drɪŋk | drɪŋk | n.:饮料 | The drinks are in aisle five. | 饮料在五号通道。 | soft drink:软饮料
+aisle | aɪl | aɪl | n.:（货架间的）通道 | Which aisle is the rice in? | 大米在哪个通道？ | aisle 3:3号通道
+shelf | ʃelf | ʃelf | n.:货架 | It's on the top shelf. | 在最上层货架上。 | top shelf:最上层
+frozen | ˈfrəʊzn | ˈfroʊzn | adj.:冷冻的 | Frozen food is at the back. | 冷冻食品在后面。 | frozen food:冷冻食品
+kilo | ˈkiːləʊ | ˈkiːloʊ | n.:公斤 | Half a kilo of beef, please. | 请来半公斤牛肉。 | per kilo:每公斤
+pack | pæk | pæk | n.:包，盒 | A pack of noodles, please. | 请来一包面。 | a pack of:一包
+bottle | ˈbɒtl | ˈbɑːtl | n.:瓶 | Two bottles of water, please. | 请来两瓶水。 | a bottle of:一瓶
+can | kæn | kæn | n.:罐头 | Get a can of tomatoes. | 买一罐番茄罐头。 | a can of:一罐
+price | praɪs | praɪs | n.:价格 | The price is per kilo. | 价格按公斤算。 | price tag:价签
+weigh | weɪ | weɪ | v.:称重 | Weigh the vegetables over there. | 蔬菜在那边称重。 | weigh fruit:称水果
+organic | ɔːˈɡænɪk | ɔːrˈɡænɪk | adj.:有机的 | Are these vegetables organic? | 这些蔬菜是有机的吗？ | organic food:有机食品
+expiry | ɪkˈspaɪəri | ɪkˈspaɪəri | n.:到期 | Check the expiry date. | 看一下保质期。 | expiry date:到期日
+sugar | ˈʃʊɡə | ˈʃʊɡər | n.:糖 | A bag of sugar, please. | 请来一袋糖。 | brown sugar:红糖
+salt | sɔːlt | sɔːlt | n.:盐 | We need salt and pepper. | 我们需要盐和胡椒。 | salt and pepper:盐和胡椒
+flour | ˈflaʊə | ˈflaʊər | n.:面粉 | I need flour to make dumplings. | 我需要面粉包饺子。 | plain flour:普通面粉
+tofu | ˈtəʊfuː | ˈtoʊfuː | n.:豆腐 | Do you have fresh tofu? | 有新鲜豆腐吗？ | fried tofu:油豆腐
+grape | ɡreɪp | ɡreɪp | n.:葡萄 | These grapes have no seeds. | 这些葡萄没籽。 | a bunch of grapes:一串葡萄
+watermelon | ˈwɔːtəmelən | ˈwɔːtərmelən | n.:西瓜 | Is this watermelon sweet? | 这个西瓜甜吗？ | slice of watermelon:一片西瓜
+yoghurt | ˈjɒɡət | ˈjoʊɡərt | n.:酸奶（美式 yogurt） | I eat yoghurt for breakfast. | 我早餐吃酸奶。 | plain yoghurt:原味酸奶
+tissue | ˈtɪʃuː | ˈtɪʃuː | n.:纸巾 | We need a pack of tissues. | 我们需要一包纸巾。 | a box of tissues:一盒纸巾

@@ -1,0 +1,34 @@
+# 场景·电脑办公软件
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+computer | kəmˈpjuːtə | kəmˈpjuːtər | n.:电脑 | My computer is very slow. | 我的电脑很慢。 | computer screen:电脑屏幕
+file | faɪl | faɪl | n.:文件 | Save the file before you close it. | 关闭前先保存文件。 | open a file:打开文件
+folder | ˈfəʊldə | ˈfoʊldər | n.:文件夹 | Put it in the shared folder. | 把它放进共享文件夹。 | shared folder:共享文件夹
+open | ˈəʊpən | ˈoʊpən | v.:打开 | I can't open this file. | 我打不开这个文件。 | open a document:打开文档
+save | seɪv | seɪv | v.:保存 | Don't forget to save your work. | 别忘了保存你的工作。 | save as:另存为
+delete | dɪˈliːt | dɪˈliːt | v.:删除 | Did you delete the old version? | 你删掉旧版本了吗？ | delete a file:删除文件
+copy | ˈkɒpi | ˈkɑːpi | v.:复制 | Copy and paste the text. | 把文字复制粘贴。 | copy and paste:复制粘贴
+paste | peɪst | peɪst | v.:粘贴 | Paste it into the email. | 把它粘贴到邮件里。 | cut and paste:剪切粘贴
+print | prɪnt | prɪnt | v.:打印 | Can you print this for me? | 你能帮我打印一下吗？ | print out:打印出来
+type | taɪp | taɪp | v.:打字 | I type very fast. | 我打字很快。 | type in:输入
+keyboard | ˈkiːbɔːd | ˈkiːbɔːrd | n.:键盘 | The keyboard is not working. | 键盘不好用了。 | keyboard shortcut:快捷键
+mouse | maʊs | maʊs | n.:鼠标 | Right-click with the mouse. | 用鼠标右键单击。 | wireless mouse:无线鼠标
+screen | skriːn | skriːn | n.:屏幕 | Share your screen, please. | 请共享你的屏幕。 | share screen:共享屏幕
+system | ˈsɪstəm | ˈsɪstəm | n.:系统 | The system is down. | 系统宕机了。 | operating system:操作系统
+software | ˈsɒftweə | ˈsɔːftwer | n.:软件 | You need to install the software. | 你需要安装这个软件。 | install software:安装软件
+install | ɪnˈstɔːl | ɪnˈstɔːl | v.:安装 | How do I install this app? | 这个应用怎么安装？ | install updates:安装更新
+update | ˌʌpˈdeɪt | ˌʌpˈdeɪt | n.:更新; v.:更新 | Restart to finish the update. | 重启以完成更新。 | system update:系统更新
+error | ˈerə | ˈerər | n.:错误 | I keep getting an error message. | 我一直收到错误提示。 | error message:错误信息
+crash | kræʃ | kræʃ | v.:崩溃 | The program crashed again. | 程序又崩溃了。 | system crash:系统崩溃
+backup | ˈbækʌp | ˈbækʌp | n.:备份 | Always keep a backup. | 一定要留备份。 | back up:备份
+cloud | klaʊd | klaʊd | n.:云（存储） | All my files are in the cloud. | 我所有文件都在云端。 | cloud storage:云存储
+upload | ˌʌpˈləʊd | ˈʌploʊd | v.:上传 | Upload the file to the drive. | 把文件上传到网盘。 | upload a file:上传文件
+download | ˌdaʊnˈləʊd | ˈdaʊnloʊd | v.:下载 | Download the report as a PDF. | 把报告下载成PDF。 | download a file:下载文件
+document | ˈdɒkjumənt | ˈdɑːkjumənt | n.:文档 | I'll share the document with you. | 我把文档共享给你。 | Word document:Word文档
+spreadsheet | ˈspredʃiːt | ˈspredʃiːt | n.:电子表格 | Put the data in a spreadsheet. | 把数据放进表格里。 | Excel spreadsheet:Excel表格
+link | lɪŋk | lɪŋk | n.:链接 | Click the link to join the meeting. | 点链接加入会议。 | meeting link:会议链接
+login | ˈlɒɡɪn | ˈlɔːɡɪn | n.:登录 | I forgot my login details. | 我忘了登录信息。 | login page:登录页面
+password | ˈpɑːswɜːd | ˈpæswɜːrd | n.:密码 | Change your password every three months. | 每三个月改一次密码。 | strong password:强密码
+virus | ˈvaɪrəs | ˈvaɪrəs | n.:病毒 | My laptop has a virus. | 我的笔记本中病毒了。 | computer virus:电脑病毒
+shortcut | ˈʃɔːtkʌt | ˈʃɔːrtkʌt | n.:快捷键；捷径 | Use the shortcut Ctrl+C. | 用快捷键Ctrl+C。 | keyboard shortcut:快捷键
+format | ˈfɔːmæt | ˈfɔːrmæt | n.:格式 | What format should I use? | 我应该用什么格式？ | file format:文件格式
+search | sɜːtʃ | sɜːrtʃ | v.:搜索 | Search for the file by name. | 按名字搜索文件。 | search engine:搜索引擎

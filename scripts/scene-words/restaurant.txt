@@ -43,3 +43,24 @@ portion | ˈpɔːʃn | ˈpɔːrʃn | n.:一份 | The portions here are huge. | �
 share | ʃeə | ʃer | v.:分享，合吃 | Let's share a pizza. | 我们合吃一个披萨吧。 | share with:与……分享
 service | ˈsɜːvɪs | ˈsɜːrvɪs | n.:服务 | Is service charge included? | 含服务费吗？ | service charge:服务费
 tip | tɪp | tɪp | n.:小费 | Is the tip included? | 包含小费吗？ | leave a tip:留小费
+fish | fɪʃ | fɪʃ | n.:鱼；鱼肉 | Is the fish fresh today? | 今天的鱼新鲜吗？ | fish and chips:炸鱼薯条
+salad | ˈsæləd | ˈsæləd | n.:沙拉 | I'll have a green salad. | 我要一份蔬菜沙拉。 | fruit salad:水果沙拉
+bread | bred | bred | n.:面包 | Could we have some more bread? | 能再给我们一些面包吗？ | a slice of bread:一片面包
+juice | dʒuːs | dʒuːs | n.:果汁 | A glass of orange juice, please. | 请来一杯橙汁。 | orange juice:橙汁
+milk | mɪlk | mɪlk | n.:牛奶 | Coffee with milk, please. | 请来杯加奶的咖啡。 | no milk:不加奶
+sauce | sɔːs | sɔːs | n.:酱汁 | Can I have the sauce on the side? | 酱汁可以分开放吗？ | chilli sauce:辣椒酱
+cup | kʌp | kʌp | n.:杯子 | Can I have another cup of tea? | 能再来一杯茶吗？ | a cup of:一杯
+glass | ɡlɑːs | ɡlæs | n.:玻璃杯 | Two glasses of water, please. | 请来两杯水。 | a glass of:一杯
+plate | pleɪt | pleɪt | n.:盘子 | Could we have an extra plate? | 能多给我们一个盘子吗？ | a plate of:一盘
+bowl | bəʊl | boʊl | n.:碗 | A bowl of rice, please. | 请来一碗米饭。 | a bowl of:一碗
+chef | ʃef | ʃef | n.:厨师 | The chef recommends the fish today. | 厨师今天推荐鱼。 | head chef:主厨
+kitchen | ˈkɪtʃɪn | ˈkɪtʃɪn | n.:厨房 | The kitchen closes at ten. | 厨房十点停止点单。 | kitchen closes:后厨停单
+fresh | freʃ | freʃ | adj.:新鲜的 | The juice is freshly made. | 果汁是现榨的。 | fresh juice:鲜榨果汁
+sweet | swiːt | swiːt | adj.:甜的 | This sauce is a bit too sweet. | 这个酱有点太甜了。 | sweet and sour:糖醋的
+sour | ˈsaʊə | ˈsaʊər | adj.:酸的 | The soup tastes a little sour. | 这汤尝起来有点酸。 | hot and sour soup:酸辣汤
+seafood | ˈsiːfuːd | ˈsiːfuːd | n.:海鲜 | Do you have any seafood dishes? | 你们有海鲜菜吗？ | seafood restaurant:海鲜餐厅
+steak | steɪk | steɪk | n.:牛排 | I'd like my steak medium. | 我的牛排要五分熟。 | beef steak:牛排
+starter | ˈstɑːtə | ˈstɑːrtər | n.:开胃菜（美式 appetizer） | What would you like for a starter? | 开胃菜您想要什么？ | as a starter:作为开胃菜
+main | meɪn | meɪn | adj.:主要的 | For my main course, I'll have the chicken. | 主菜我要鸡肉。 | main course:主菜
+straw | strɔː | strɔː | n.:吸管 | Can I have a straw, please? | 可以给我一根吸管吗？ | paper straw:纸吸管
+pack | pæk | pæk | v.:打包 | Can you pack the rest for me? | 剩下的能帮我打包吗？ | pack up:打包

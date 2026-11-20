@@ -1,0 +1,34 @@
+# 场景·情绪感受
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+happy | ˈhæpi | ˈhæpi | adj.:开心的 | I'm so happy for you! | 我真为你高兴！ | happy birthday:生日快乐
+sad | sæd | sæd | adj.:难过的 | Why do you look so sad? | 你怎么看起来这么难过？ | feel sad:感到难过
+angry | ˈæŋɡri | ˈæŋɡri | adj.:生气的 | Don't be angry with me. | 别生我的气。 | angry with:生……的气
+tired | ˈtaɪəd | ˈtaɪərd | adj.:累的 | I'm too tired to go out. | 我太累了不想出门。 | tired of:厌倦
+worried | ˈwʌrid | ˈwɜːrid | adj.:担心的 | I'm worried about my exam. | 我担心我的考试。 | worried about:担心
+afraid | əˈfreɪd | əˈfreɪd | adj.:害怕的 | I'm afraid of dogs. | 我怕狗。 | afraid of:害怕
+excited | ɪkˈsaɪtɪd | ɪkˈsaɪtɪd | adj.:兴奋的 | I'm so excited about the trip! | 我对这次旅行好兴奋！ | excited about:对……兴奋
+bored | bɔːd | bɔːrd | adj.:无聊的 | I'm bored at home. | 我在家好无聊。 | get bored:觉得无聊
+nervous | ˈnɜːvəs | ˈnɜːrvəs | adj.:紧张的 | I'm nervous about the interview. | 我对面试很紧张。 | feel nervous:感到紧张
+surprised | səˈpraɪzd | sərˈpraɪzd | adj.:惊讶的 | I was surprised to see him. | 见到他我很惊讶。 | surprised at:对……感到惊讶
+upset | ʌpˈset | ʌpˈset | adj.:心烦的 | She's upset about the news. | 她因为这个消息很心烦。 | get upset:心烦
+proud | praʊd | praʊd | adj.:骄傲的 | I'm proud of you. | 我为你骄傲。 | proud of:为……骄傲
+lonely | ˈləʊnli | ˈloʊnli | adj.:孤独的 | I feel lonely in a new city. | 在新城市我觉得孤独。 | feel lonely:感到孤独
+stressed | strest | strest | adj.:有压力的 | I'm really stressed at work. | 我工作压力很大。 | stressed out:压力很大
+relaxed | rɪˈlækst | rɪˈlækst | adj.:放松的 | I feel relaxed after a hot bath. | 洗完热水澡我觉得很放松。 | feel relaxed:感到放松
+confused | kənˈfjuːzd | kənˈfjuːzd | adj.:困惑的 | I'm confused, can you explain again? | 我有点糊涂，你能再解释一下吗？ | a bit confused:有点困惑
+glad | ɡlæd | ɡlæd | adj.:高兴的 | I'm glad you came. | 很高兴你来了。 | glad to:乐意
+sorry | ˈsɒri | ˈsɑːri | adj.:难过的；抱歉的 | I'm sorry about your loss. | 对你的损失我很难过。 | feel sorry for:同情
+love | lʌv | lʌv | v.:爱; n.:爱 | I love this song. | 我爱这首歌。 | fall in love:爱上
+hate | heɪt | heɪt | v.:讨厌 | I hate waiting in queues. | 我讨厌排队。 | hate doing:讨厌做
+like | laɪk | laɪk | v.:喜欢 | I really like your idea. | 我很喜欢你的想法。 | would like:想要
+feel | fiːl | fiːl | v.:感觉 | How do you feel? | 你感觉怎么样？ | feel like:想要
+mood | muːd | muːd | n.:心情 | I'm in a good mood today. | 我今天心情很好。 | in a good mood:心情好
+calm | kɑːm | kɑːm | adj.:平静的 | Try to stay calm. | 尽量保持冷静。 | calm down:冷静下来
+embarrassed | ɪmˈbærəst | ɪmˈbærəst | adj.:尴尬的 | I felt so embarrassed. | 我觉得好尴尬。 | feel embarrassed:觉得尴尬
+jealous | ˈdʒeləs | ˈdʒeləs | adj.:嫉妒的 | Don't be jealous. | 别嫉妒。 | jealous of:嫉妒
+disappointed | ˌdɪsəˈpɔɪntɪd | ˌdɪsəˈpɔɪntɪd | adj.:失望的 | I'm disappointed with the result. | 我对结果很失望。 | disappointed with:对……失望
+grateful | ˈɡreɪtfl | ˈɡreɪtfl | adj.:感激的 | I'm grateful for your help. | 感谢你的帮助。 | grateful for:感激
+annoyed | əˈnɔɪd | əˈnɔɪd | adj.:恼火的 | I'm annoyed with my roommate. | 我对我室友很恼火。 | annoyed with:对……恼火
+satisfied | ˈsætɪsfaɪd | ˈsætɪsfaɪd | adj.:满意的 | Are you satisfied with the service? | 你对服务满意吗？ | satisfied with:对……满意
+homesick | ˈhəʊmsɪk | ˈhoʊmsɪk | adj.:想家的 | I'm a bit homesick. | 我有点想家。 | feel homesick:想家
+cheer | tʃɪə | tʃɪr | v.:振作（cheer up） | Cheer up! It's not that bad. | 振作点！没那么糟。 | cheer up:振作起来

@@ -28,3 +28,20 @@ autumn | ˈɔːtəm | ˈɔːtəm | n.:秋天（美式 fall） | Autumn is my fav
 winter | ˈwɪntə | ˈwɪntər | n.:冬天 | It's very cold in winter. | 冬天很冷。 | in winter:在冬天
 freezing | ˈfriːzɪŋ | ˈfriːzɪŋ | adj.:极冷的 | It's freezing today! | 今天冷死了！ | freezing cold:极冷
 sunscreen | ˈsʌnskriːn | ˈsʌnskriːn | n.:防晒霜 | Put on some sunscreen. | 涂点防晒霜。 | wear sunscreen:涂防晒
+day | deɪ | deɪ | n.:天，白天 | What a beautiful day! | 天气真好！ | all day:一整天
+sun | sʌn | sʌn | n.:太阳 | The sun is very strong today. | 今天太阳很晒。 | in the sun:在阳光下
+cloud | klaʊd | klaʊd | n.:云 | There isn't a cloud in the sky. | 天上一片云都没有。 | dark clouds:乌云
+sky | skaɪ | skaɪ | n.:天空 | The sky is clear tonight. | 今晚天空很晴朗。 | blue sky:蓝天
+clear | klɪə | klɪr | adj.:晴朗的 | It will be clear tomorrow. | 明天天晴。 | clear sky:晴空
+rainy | ˈreɪni | ˈreɪni | adj.:下雨的 | It's a rainy day. | 今天是雨天。 | rainy season:雨季
+heavy | ˈhevi | ˈhevi | adj.:大的，猛烈的 | There was heavy rain last night. | 昨晚下了大雨。 | heavy rain:大雨
+light | laɪt | laɪt | adj.:小的，轻的 | There's light rain this morning. | 今早下着小雨。 | light rain:小雨
+air | eə | er | n.:空气 | The air is fresh after the rain. | 雨后空气很清新。 | fresh air:新鲜空气
+pollution | pəˈluːʃn | pəˈluːʃn | n.:污染 | Air pollution is bad today. | 今天空气污染很严重。 | air pollution:空气污染
+change | tʃeɪndʒ | tʃeɪndʒ | v.:变化; n.:变化 | The weather changes quickly here. | 这里天气变得很快。 | climate change:气候变化
+climate | ˈklaɪmət | ˈklaɪmət | n.:气候 | I like the climate here. | 我喜欢这里的气候。 | climate change:气候变化
+typhoon | taɪˈfuːn | taɪˈfuːn | n.:台风 | A typhoon is coming this weekend. | 这周末有台风。 | typhoon warning:台风预警
+lightning | ˈlaɪtnɪŋ | ˈlaɪtnɪŋ | n.:闪电 | There was thunder and lightning all night. | 电闪雷鸣了一整夜。 | thunder and lightning:雷电
+shower | ˈʃaʊə | ˈʃaʊər | n.:阵雨 | There may be showers this afternoon. | 下午可能有阵雨。 | rain shower:阵雨
+warning | ˈwɔːnɪŋ | ˈwɔːrnɪŋ | n.:预警 | There's a heavy rain warning. | 有暴雨预警。 | weather warning:天气预警
+coat | kəʊt | koʊt | n.:外套 | Take a coat, it's cold. | 带件外套，天冷。 | winter coat:冬衣

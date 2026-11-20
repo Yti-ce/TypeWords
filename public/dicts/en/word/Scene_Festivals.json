@@ -1,0 +1,906 @@
+[
+  {
+    "id": 1350001,
+    "word": "family",
+    "phonetic0": "ˈfæməli",
+    "phonetic1": "ˈfæməli",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have dinner with family at New Year.",
+        "cn": "过年我们和家人吃团圆饭。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "family dinner",
+        "cn": "家宴"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350002,
+    "word": "party",
+    "phonetic0": "ˈpɑːti",
+    "phonetic1": "ˈpɑːrti",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "派对"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're having a party on Saturday.",
+        "cn": "我们周六开派对。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "birthday party",
+        "cn": "生日派对"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350003,
+    "word": "wish",
+    "phonetic0": "wɪʃ",
+    "phonetic1": "wɪʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "祝愿"
+      },
+      {
+        "pos": "v.",
+        "cn": "祝愿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Best wishes for the new year!",
+        "cn": "新年最美好的祝福！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "best wishes",
+        "cn": "最美好的祝愿"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350004,
+    "word": "present",
+    "phonetic0": "ˈpreznt",
+    "phonetic1": "ˈpreznt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "礼物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thank you for the present!",
+        "cn": "谢谢你的礼物！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Christmas present",
+        "cn": "圣诞礼物"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350005,
+    "word": "happy",
+    "phonetic0": "ˈhæpi",
+    "phonetic1": "ˈhæpi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "快乐的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Happy New Year!",
+        "cn": "新年快乐！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "happy holidays",
+        "cn": "节日快乐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350006,
+    "word": "card",
+    "phonetic0": "kɑːd",
+    "phonetic1": "kɑːrd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "贺卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I wrote her a birthday card.",
+        "cn": "我给她写了一张生日贺卡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "greeting card",
+        "cn": "贺卡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350007,
+    "word": "holiday",
+    "phonetic0": "ˈhɒlədeɪ",
+    "phonetic1": "ˈhɑːlədeɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "节日，假期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Happy holidays!",
+        "cn": "节日快乐！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "public holiday",
+        "cn": "法定假日"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350008,
+    "word": "dinner",
+    "phonetic0": "ˈdɪnə",
+    "phonetic1": "ˈdɪnər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "晚宴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have a big family dinner tonight.",
+        "cn": "今晚我们有一顿丰盛的家宴。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "New Year's Eve dinner",
+        "cn": "年夜饭"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350009,
+    "word": "Christmas",
+    "phonetic0": "ˈkrɪsməs",
+    "phonetic1": "ˈkrɪsməs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "圣诞节"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Merry Christmas!",
+        "cn": "圣诞快乐！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Christmas tree",
+        "cn": "圣诞树"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350010,
+    "word": "tradition",
+    "phonetic0": "trəˈdɪʃn",
+    "phonetic1": "trəˈdɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "传统"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's a family tradition.",
+        "cn": "这是家里的传统。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "old tradition",
+        "cn": "老传统"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350011,
+    "word": "guest",
+    "phonetic0": "ɡest",
+    "phonetic1": "ɡest",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "客人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How many guests are coming?",
+        "cn": "有多少客人要来？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "special guest",
+        "cn": "特邀嘉宾"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350012,
+    "word": "gift",
+    "phonetic0": "ɡɪft",
+    "phonetic1": "ɡɪft",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "礼物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I bought a gift for my mum.",
+        "cn": "我给妈妈买了礼物。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "birthday gift",
+        "cn": "生日礼物"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350013,
+    "word": "invite",
+    "phonetic0": "ɪnˈvaɪt",
+    "phonetic1": "ɪnˈvaɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "邀请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I invited ten friends to my party.",
+        "cn": "我邀请了十个朋友来派对。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "invite friends",
+        "cn": "邀请朋友"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350014,
+    "word": "surprise",
+    "phonetic0": "səˈpraɪz",
+    "phonetic1": "sərˈpraɪz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "惊喜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We planned a surprise party for her.",
+        "cn": "我们为她策划了一个惊喜派对。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "surprise party",
+        "cn": "惊喜派对"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350015,
+    "word": "celebrate",
+    "phonetic0": "ˈselɪbreɪt",
+    "phonetic1": "ˈselɪbreɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "庆祝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do you celebrate New Year?",
+        "cn": "你们怎么过新年？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "celebrate together",
+        "cn": "一起庆祝"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350016,
+    "word": "cake",
+    "phonetic0": "keɪk",
+    "phonetic1": "keɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蛋糕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's cut the birthday cake.",
+        "cn": "我们切生日蛋糕吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "birthday cake",
+        "cn": "生日蛋糕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350017,
+    "word": "festival",
+    "phonetic0": "ˈfestɪvl",
+    "phonetic1": "ˈfestɪvl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "节日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The Spring Festival is coming.",
+        "cn": "春节快到了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Spring Festival",
+        "cn": "春节"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350018,
+    "word": "anniversary",
+    "phonetic0": "ˌænɪˈvɜːsəri",
+    "phonetic1": "ˌænɪˈvɜːrsəri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "周年纪念日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Today is our wedding anniversary.",
+        "cn": "今天是我们的结婚纪念日。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wedding anniversary",
+        "cn": "结婚纪念日"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350019,
+    "word": "envelope",
+    "phonetic0": "ˈenvələʊp",
+    "phonetic1": "ˈenvəloʊp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信封；红包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kids get red envelopes at New Year.",
+        "cn": "孩子们过年收红包。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "red envelope",
+        "cn": "红包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350020,
+    "word": "candle",
+    "phonetic0": "ˈkændl",
+    "phonetic1": "ˈkændl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蜡烛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Blow out the candles!",
+        "cn": "吹蜡烛吧！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "birthday candle",
+        "cn": "生日蜡烛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350021,
+    "word": "decorate",
+    "phonetic0": "ˈdekəreɪt",
+    "phonetic1": "ˈdekəreɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "装饰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's decorate the room.",
+        "cn": "我们来布置房间吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "decorate the tree",
+        "cn": "装饰圣诞树"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350022,
+    "word": "toast",
+    "phonetic0": "təʊst",
+    "phonetic1": "toʊst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "祝酒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's make a toast to the couple.",
+        "cn": "我们为新人干一杯。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make a toast",
+        "cn": "敬酒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350023,
+    "word": "congratulate",
+    "phonetic0": "kənˈɡrætʃuleɪt",
+    "phonetic1": "kənˈɡrætʃuleɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "祝贺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to congratulate you on your wedding.",
+        "cn": "祝贺你们新婚。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "congratulate on",
+        "cn": "祝贺"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350024,
+    "word": "Halloween",
+    "phonetic0": "ˌhæləʊˈiːn",
+    "phonetic1": "ˌhæloʊˈiːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "万圣节"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kids dress up at Halloween.",
+        "cn": "孩子们万圣节会装扮起来。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Halloween party",
+        "cn": "万圣节派对"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350025,
+    "word": "fireworks",
+    "phonetic0": "ˈfaɪəwɜːks",
+    "phonetic1": "ˈfaɪərwɜːrks",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "烟花"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We watched the fireworks at midnight.",
+        "cn": "我们午夜看了烟花。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "set off fireworks",
+        "cn": "放烟花"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350026,
+    "word": "lantern",
+    "phonetic0": "ˈlæntən",
+    "phonetic1": "ˈlæntərn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "灯笼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The streets are full of red lanterns.",
+        "cn": "街上挂满了红灯笼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Lantern Festival",
+        "cn": "元宵节"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350027,
+    "word": "cheers",
+    "phonetic0": "tʃɪəz",
+    "phonetic1": "tʃɪrz",
+    "trans": [
+      {
+        "pos": "int.",
+        "cn": "干杯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cheers! To your health!",
+        "cn": "干杯！祝你健康！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "say cheers",
+        "cn": "说干杯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350028,
+    "word": "Valentine",
+    "phonetic0": "ˈvæləntaɪn",
+    "phonetic1": "ˈvæləntaɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "情人节礼物/卡片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Happy Valentine's Day!",
+        "cn": "情人节快乐！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Valentine's Day",
+        "cn": "情人节"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350029,
+    "word": "dumpling",
+    "phonetic0": "ˈdʌmplɪŋ",
+    "phonetic1": "ˈdʌmplɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "饺子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We make dumplings at New Year.",
+        "cn": "我们过年包饺子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make dumplings",
+        "cn": "包饺子"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1350030,
+    "word": "mooncake",
+    "phonetic0": "ˈmuːnkeɪk",
+    "phonetic1": "ˈmuːnkeɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "月饼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eat mooncakes at the Mid-Autumn Festival.",
+        "cn": "我们中秋节吃月饼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Mid-Autumn Festival",
+        "cn": "中秋节"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

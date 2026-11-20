@@ -1,0 +1,906 @@
+[
+  {
+    "id": 1310001,
+    "word": "big",
+    "phonetic0": "bɪɡ",
+    "phonetic1": "bɪɡ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "大的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That's a big house.",
+        "cn": "那是一栋大房子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "big deal",
+        "cn": "大事"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310002,
+    "word": "small",
+    "phonetic0": "smɔːl",
+    "phonetic1": "smɔːl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "小的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's a small room.",
+        "cn": "是个小房间。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "small size",
+        "cn": "小号"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310003,
+    "word": "long",
+    "phonetic0": "lɒŋ",
+    "phonetic1": "lɔːŋ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "长的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's a long way.",
+        "cn": "路很远。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a long time",
+        "cn": "很长时间"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310004,
+    "word": "black",
+    "phonetic0": "blæk",
+    "phonetic1": "blæk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "黑色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like it in black.",
+        "cn": "我想要黑色的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "black coffee",
+        "cn": "黑咖啡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310005,
+    "word": "line",
+    "phonetic0": "laɪn",
+    "phonetic1": "laɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Draw a straight line.",
+        "cn": "画一条直线。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "straight line",
+        "cn": "直线"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310006,
+    "word": "white",
+    "phonetic0": "waɪt",
+    "phonetic1": "waɪt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "白色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The walls are white.",
+        "cn": "墙是白色的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "white rice",
+        "cn": "白米饭"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310007,
+    "word": "light",
+    "phonetic0": "laɪt",
+    "phonetic1": "laɪt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "浅色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Light blue looks good on you.",
+        "cn": "你穿浅蓝色好看。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "light blue",
+        "cn": "浅蓝"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310008,
+    "word": "red",
+    "phonetic0": "red",
+    "phonetic1": "red",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "红色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's wearing a red dress.",
+        "cn": "她穿着一条红裙子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "red wine",
+        "cn": "红酒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310009,
+    "word": "wide",
+    "phonetic0": "waɪd",
+    "phonetic1": "waɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "宽的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The road is very wide.",
+        "cn": "这条路很宽。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wide range",
+        "cn": "广泛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310010,
+    "word": "colour",
+    "phonetic0": "ˈkʌlə",
+    "phonetic1": "ˈkʌlər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "颜色（美式 color）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your favourite colour?",
+        "cn": "你最喜欢什么颜色？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bright colour",
+        "cn": "鲜艳的颜色"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310011,
+    "word": "size",
+    "phonetic0": "saɪz",
+    "phonetic1": "saɪz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大小"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They are the same size.",
+        "cn": "它们一样大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "the same size",
+        "cn": "一样大"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310012,
+    "word": "round",
+    "phonetic0": "raʊnd",
+    "phonetic1": "raʊnd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "圆的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have a round table.",
+        "cn": "我们有一张圆桌。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "round table",
+        "cn": "圆桌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310013,
+    "word": "blue",
+    "phonetic0": "bluː",
+    "phonetic1": "bluː",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "蓝色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sky is so blue today.",
+        "cn": "今天天空好蓝。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dark blue",
+        "cn": "深蓝"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310014,
+    "word": "dark",
+    "phonetic0": "dɑːk",
+    "phonetic1": "dɑːrk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "深色的；黑暗的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I prefer dark colours.",
+        "cn": "我更喜欢深色。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dark green",
+        "cn": "深绿"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310015,
+    "word": "green",
+    "phonetic0": "ɡriːn",
+    "phonetic1": "ɡriːn",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "绿色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The light turned green.",
+        "cn": "绿灯亮了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "green tea",
+        "cn": "绿茶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310016,
+    "word": "heavy",
+    "phonetic0": "ˈhevi",
+    "phonetic1": "ˈhevi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "重的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This bag is too heavy.",
+        "cn": "这个包太重了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "heavy bag",
+        "cn": "沉的包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310017,
+    "word": "shape",
+    "phonetic0": "ʃeɪp",
+    "phonetic1": "ʃeɪp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "形状"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What shape is it?",
+        "cn": "它是什么形状的？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the shape of",
+        "cn": "呈……形状"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310018,
+    "word": "gold",
+    "phonetic0": "ɡəʊld",
+    "phonetic1": "ɡoʊld",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "金色；黄金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She wears a gold ring.",
+        "cn": "她戴着金戒指。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "gold medal",
+        "cn": "金牌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310019,
+    "word": "bright",
+    "phonetic0": "braɪt",
+    "phonetic1": "braɪt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "明亮的，鲜艳的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The room is bright and sunny.",
+        "cn": "房间明亮又阳光充足。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bright colour",
+        "cn": "鲜艳色"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310020,
+    "word": "flat",
+    "phonetic0": "flæt",
+    "phonetic1": "flæt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "平的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The ground is flat here.",
+        "cn": "这里地面很平。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "flat tyre",
+        "cn": "瘪胎"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310021,
+    "word": "circle",
+    "phonetic0": "ˈsɜːkl",
+    "phonetic1": "ˈsɜːrkl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "圆圈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Draw a circle.",
+        "cn": "画一个圆。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in a circle",
+        "cn": "围成一圈"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310022,
+    "word": "yellow",
+    "phonetic0": "ˈjeləʊ",
+    "phonetic1": "ˈjeloʊ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "黄色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I bought a yellow umbrella.",
+        "cn": "我买了一把黄色的伞。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "yellow light",
+        "cn": "黄灯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310023,
+    "word": "brown",
+    "phonetic0": "braʊn",
+    "phonetic1": "braʊn",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "棕色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He has brown eyes.",
+        "cn": "他有一双棕色眼睛。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "brown sugar",
+        "cn": "红糖"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310024,
+    "word": "square",
+    "phonetic0": "skweə",
+    "phonetic1": "skwer",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "正方形的"
+      },
+      {
+        "pos": "n.",
+        "cn": "正方形"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The box is square.",
+        "cn": "盒子是方的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "square metre",
+        "cn": "平方米"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310025,
+    "word": "grey",
+    "phonetic0": "ɡreɪ",
+    "phonetic1": "ɡreɪ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "灰色的（美式 gray）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's a grey day.",
+        "cn": "今天天色阴沉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "grey hair",
+        "cn": "白发"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310026,
+    "word": "silver",
+    "phonetic0": "ˈsɪlvə",
+    "phonetic1": "ˈsɪlvər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "银色；银"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want the silver one.",
+        "cn": "我要银色的那个。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "silver medal",
+        "cn": "银牌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310027,
+    "word": "pink",
+    "phonetic0": "pɪŋk",
+    "phonetic1": "pɪŋk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "粉色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have this in pink?",
+        "cn": "这个有粉色的吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "light pink",
+        "cn": "浅粉色"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310028,
+    "word": "orange",
+    "phonetic0": "ˈɒrɪndʒ",
+    "phonetic1": "ˈɔːrɪndʒ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "橙色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The leaves turn orange in autumn.",
+        "cn": "秋天叶子变成橙色。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bright orange",
+        "cn": "亮橙色"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310029,
+    "word": "purple",
+    "phonetic0": "ˈpɜːpl",
+    "phonetic1": "ˈpɜːrpl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "紫色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Purple is my favourite colour.",
+        "cn": "紫色是我最喜欢的颜色。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dark purple",
+        "cn": "深紫色"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1310030,
+    "word": "triangle",
+    "phonetic0": "ˈtraɪæŋɡl",
+    "phonetic1": "ˈtraɪæŋɡl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "三角形"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sign is a red triangle.",
+        "cn": "标志是一个红色三角形。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "triangle shape",
+        "cn": "三角形"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

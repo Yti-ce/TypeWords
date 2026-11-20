@@ -30,3 +30,21 @@ remote | rɪˈməʊt | rɪˈmoʊt | adj.:远程的 | Is remote work possible? | 
 contract | ˈkɒntrækt | ˈkɑːntrækt | n.:合同 | It's a one-year contract. | 这是一年期合同。 | sign a contract:签合同
 benefits | ˈbenɪfɪts | ˈbenɪfɪts | n.:福利 | What benefits does the company offer? | 公司提供哪些福利？ | employee benefits:员工福利
 confident | ˈkɒnfɪdənt | ˈkɑːnfɪdənt | adj.:自信的 | Be confident in the interview. | 面试时要自信。 | feel confident:感到自信
+work | wɜːk | wɜːrk | n.:工作; v.:工作 | I worked there for two years. | 我在那里工作了两年。 | work experience:工作经验
+role | rəʊl | roʊl | n.:职位，角色 | What does this role involve? | 这个职位具体做什么？ | job role:工作职责
+manager | ˈmænɪdʒə | ˈmænɪdʒər | n.:经理 | I'll meet the hiring manager. | 我会见招聘经理。 | hiring manager:招聘经理
+question | ˈkwestʃən | ˈkwestʃən | n.:问题 | Do you have any questions for us? | 你有什么问题要问我们吗？ | ask a question:提问
+example | ɪɡˈzɑːmpl | ɪɡˈzæmpl | n.:例子 | Can you give an example? | 你能举个例子吗？ | for example:例如
+project | ˈprɒdʒekt | ˈprɑːdʒekt | n.:项目 | Tell me about a project you led. | 讲讲你负责过的一个项目。 | lead a project:带项目
+education | ˌedʒuˈkeɪʃn | ˌedʒuˈkeɪʃn | n.:教育背景 | Tell me about your education. | 介绍一下你的教育背景。 | higher education:高等教育
+certificate | səˈtɪfɪkət | sərˈtɪfɪkət | n.:证书 | I have an AWS certificate. | 我有AWS证书。 | professional certificate:职业证书
+language | ˈlæŋɡwɪdʒ | ˈlæŋɡwɪdʒ | n.:语言 | I speak three languages. | 我会说三种语言。 | foreign language:外语
+communication | kəˌmjuːnɪˈkeɪʃn | kəˌmjuːnɪˈkeɪʃn | n.:沟通 | Good communication is important in a team. | 团队中良好的沟通很重要。 | communication skills:沟通能力
+leadership | ˈliːdəʃɪp | ˈliːdərʃɪp | n.:领导力 | This job needs leadership skills. | 这份工作需要领导能力。 | leadership skills:领导能力
+pressure | ˈpreʃə | ˈpreʃər | n.:压力 | Can you work under pressure? | 你能在压力下工作吗？ | under pressure:在压力下
+motivated | ˈməʊtɪveɪtɪd | ˈmoʊtɪveɪtɪd | adj.:有积极性的 | I'm highly motivated to learn. | 我非常积极地想学习。 | self-motivated:自驱的
+hire | ˈhaɪə | ˈhaɪər | v.:雇用 | Why should we hire you? | 我们为什么要雇用你？ | hire someone:雇人
+notice | ˈnəʊtɪs | ˈnoʊtɪs | n.:离职通知期 | My notice period is one month. | 我的离职通知期是一个月。 | notice period:通知期
+probation | prəˈbeɪʃn | proʊˈbeɪʃn | n.:试用期 | The probation period is three months. | 试用期三个月。 | probation period:试用期
+negotiate | nɪˈɡəʊʃieɪt | nɪˈɡoʊʃieɪt | v.:谈判 | Is the salary negotiable? | 薪资可以谈吗？ | negotiate salary:谈薪资
+portfolio | pɔːtˈfəʊliəʊ | pɔːrtˈfoʊlioʊ | n.:作品集 | Here is a link to my portfolio. | 这是我作品集的链接。 | online portfolio:在线作品集

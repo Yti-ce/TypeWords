@@ -28,3 +28,27 @@ iron | ˈaɪən | ˈaɪərn | v.:熨; n.:熨斗 | I need to iron my shirt. | 我
 groceries | ˈɡrəʊsəriz | ˈɡroʊsəriz | n.:食品杂货 | I'll pick up some groceries on the way home. | 我回家路上买点菜。 | buy groceries:买菜
 leftovers | ˈleftəʊvəz | ˈleftoʊvərz | n.:剩菜 | We can eat the leftovers tomorrow. | 剩菜我们明天吃。 | eat leftovers:吃剩菜
 bin | bɪn | bɪn | n.:垃圾桶 | Throw it in the bin. | 把它扔进垃圾桶。 | rubbish bin:垃圾桶
+water | ˈwɔːtə | ˈwɔːtər | n.:水 | Boil some water for tea. | 烧点水泡茶。 | hot water:热水
+food | fuːd | fuːd | n.:食物 | There's no food in the fridge. | 冰箱里没吃的了。 | cook food:做饭
+meal | miːl | miːl | n.:一餐 | I cook three meals a day. | 我一天做三顿饭。 | home-cooked meal:家常饭
+dinner | ˈdɪnə | ˈdɪnər | n.:晚饭 | Dinner is ready! | 晚饭好了！ | make dinner:做晚饭
+table | ˈteɪbl | ˈteɪbl | n.:桌子 | Can you set the table? | 你能摆一下餐桌吗？ | set the table:摆餐具
+floor | flɔː | flɔːr | n.:地板 | The floor is wet. | 地板是湿的。 | clean the floor:打扫地板
+bed | bed | bed | n.:床 | Make your bed in the morning. | 早上要整理床铺。 | make the bed:铺床
+window | ˈwɪndəʊ | ˈwɪndoʊ | n.:窗户 | Open the window, please. | 请把窗户打开。 | open the window:开窗
+door | dɔː | dɔːr | n.:门 | Close the door behind you. | 进来随手关门。 | front door:前门
+light | laɪt | laɪt | n.:灯 | Turn off the lights when you leave. | 走的时候关灯。 | turn on the light:开灯
+dirty | ˈdɜːti | ˈdɜːrti | adj.:脏的 | These clothes are dirty. | 这些衣服脏了。 | dirty dishes:脏碗碟
+meat | miːt | miːt | n.:肉 | Take the meat out of the freezer. | 把肉从冷冻室拿出来。 | fresh meat:鲜肉
+cut | kʌt | kʌt | v.:切 | Cut the carrots into small pieces. | 把胡萝卜切成小块。 | cut into pieces:切成块
+heat | hiːt | hiːt | v.:加热; n.:热 | Heat up the soup for lunch. | 把汤热一下当午饭。 | heat up:加热
+plate | pleɪt | pleɪt | n.:盘子 | Put the plates in the cupboard. | 把盘子放进橱柜。 | a plate of:一盘
+cupboard | ˈkʌbəd | ˈkʌbərd | n.:橱柜 | The cups are in the cupboard. | 杯子在橱柜里。 | kitchen cupboard:厨柜
+freezer | ˈfriːzə | ˈfriːzər | n.:冷冻室 | Put the ice cream in the freezer. | 把冰淇淋放进冷冻室。 | in the freezer:在冷冻室
+dust | dʌst | dʌst | n.:灰尘; v.:除尘 | There's dust everywhere. | 到处都是灰。 | dust the shelves:擦架子上的灰
+towel | ˈtaʊəl | ˈtaʊəl | n.:毛巾 | Hang the wet towel up. | 把湿毛巾挂起来。 | bath towel:浴巾
+soap | səʊp | soʊp | n.:肥皂 | Wash your hands with soap. | 用肥皂洗手。 | hand soap:洗手液
+machine | məˈʃiːn | məˈʃiːn | n.:机器 | Put the clothes in the washing machine. | 把衣服放进洗衣机。 | washing machine:洗衣机
+vacuum | ˈvækjuːm | ˈvækjuːm | v.:用吸尘器吸; n.:吸尘器 | I vacuum the carpet every week. | 我每周用吸尘器吸地毯。 | vacuum cleaner:吸尘器
+fold | fəʊld | foʊld | v.:叠 | Can you fold the clothes? | 你能叠一下衣服吗？ | fold clothes:叠衣服
+hang | hæŋ | hæŋ | v.:挂；晾 | Hang the clothes out to dry. | 把衣服晾出去。 | hang up:挂起来

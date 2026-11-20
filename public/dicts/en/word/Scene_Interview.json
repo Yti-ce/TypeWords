@@ -1,6 +1,100 @@
 [
   {
     "id": 1150001,
+    "word": "work",
+    "phonetic0": "wɜːk",
+    "phonetic1": "wɜːrk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "工作"
+      },
+      {
+        "pos": "v.",
+        "cn": "工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I worked there for two years.",
+        "cn": "我在那里工作了两年。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "work experience",
+        "cn": "工作经验"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150002,
+    "word": "company",
+    "phonetic0": "ˈkʌmpəni",
+    "phonetic1": "ˈkʌmpəni",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "公司"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Why do you want to join our company?",
+        "cn": "你为什么想加入我们公司？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "join a company",
+        "cn": "加入公司"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150003,
+    "word": "question",
+    "phonetic0": "ˈkwestʃən",
+    "phonetic1": "ˈkwestʃən",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have any questions for us?",
+        "cn": "你有什么问题要问我们吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ask a question",
+        "cn": "提问"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150004,
     "word": "job",
     "phonetic0": "dʒɒb",
     "phonetic1": "dʒɑːb",
@@ -30,7 +124,637 @@
     "etymology": []
   },
   {
-    "id": 1150002,
+    "id": 1150005,
+    "word": "learn",
+    "phonetic0": "lɜːn",
+    "phonetic1": "lɜːrn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "学习"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I learn new things quickly.",
+        "cn": "我学新东西很快。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "learn from",
+        "cn": "向……学习"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150006,
+    "word": "offer",
+    "phonetic0": "ˈɒfə",
+    "phonetic1": "ˈɔːfər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "录用；提议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I got a job offer!",
+        "cn": "我拿到录用通知了！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "accept an offer",
+        "cn": "接受录用"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150007,
+    "word": "team",
+    "phonetic0": "tiːm",
+    "phonetic1": "tiːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "团队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I enjoy working in a team.",
+        "cn": "我喜欢团队合作。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "team player",
+        "cn": "有团队精神的人"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150008,
+    "word": "available",
+    "phonetic0": "əˈveɪləbl",
+    "phonetic1": "əˈveɪləbl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有空的；可到岗的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When are you available to start?",
+        "cn": "你什么时候可以入职？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "available to start",
+        "cn": "可以入职"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150009,
+    "word": "position",
+    "phonetic0": "pəˈzɪʃn",
+    "phonetic1": "pəˈzɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "职位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The position is still open.",
+        "cn": "这个职位还在招。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "full-time position",
+        "cn": "全职职位"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150010,
+    "word": "education",
+    "phonetic0": "ˌedʒuˈkeɪʃn",
+    "phonetic1": "ˌedʒuˈkeɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "教育背景"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tell me about your education.",
+        "cn": "介绍一下你的教育背景。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "higher education",
+        "cn": "高等教育"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150011,
+    "word": "experience",
+    "phonetic0": "ɪkˈspɪəriəns",
+    "phonetic1": "ɪkˈspɪriəns",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "经验"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have three years of experience.",
+        "cn": "我有三年经验。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "work experience",
+        "cn": "工作经验"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150012,
+    "word": "language",
+    "phonetic0": "ˈlæŋɡwɪdʒ",
+    "phonetic1": "ˈlæŋɡwɪdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "语言"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I speak three languages.",
+        "cn": "我会说三种语言。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "foreign language",
+        "cn": "外语"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150013,
+    "word": "role",
+    "phonetic0": "rəʊl",
+    "phonetic1": "roʊl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "职位，角色"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What does this role involve?",
+        "cn": "这个职位具体做什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "job role",
+        "cn": "工作职责"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150014,
+    "word": "manager",
+    "phonetic0": "ˈmænɪdʒə",
+    "phonetic1": "ˈmænɪdʒər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "经理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll meet the hiring manager.",
+        "cn": "我会见招聘经理。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hiring manager",
+        "cn": "招聘经理"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150015,
+    "word": "project",
+    "phonetic0": "ˈprɒdʒekt",
+    "phonetic1": "ˈprɑːdʒekt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "项目"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tell me about a project you led.",
+        "cn": "讲讲你负责过的一个项目。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lead a project",
+        "cn": "带项目"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150016,
+    "word": "example",
+    "phonetic0": "ɪɡˈzɑːmpl",
+    "phonetic1": "ɪɡˈzæmpl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "例子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you give an example?",
+        "cn": "你能举个例子吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "for example",
+        "cn": "例如"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150017,
+    "word": "apply",
+    "phonetic0": "əˈplaɪ",
+    "phonetic1": "əˈplaɪ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "申请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to apply for this position.",
+        "cn": "我想申请这个职位。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "apply for",
+        "cn": "申请"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150018,
+    "word": "achieve",
+    "phonetic0": "əˈtʃiːv",
+    "phonetic1": "əˈtʃiːv",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "实现，达到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What did you achieve in your last job?",
+        "cn": "你在上一份工作中取得了什么成绩？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "achieve a goal",
+        "cn": "实现目标"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150019,
+    "word": "contract",
+    "phonetic0": "ˈkɒntrækt",
+    "phonetic1": "ˈkɑːntrækt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "合同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's a one-year contract.",
+        "cn": "这是一年期合同。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sign a contract",
+        "cn": "签合同"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150020,
+    "word": "benefits",
+    "phonetic0": "ˈbenɪfɪts",
+    "phonetic1": "ˈbenɪfɪts",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "福利"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What benefits does the company offer?",
+        "cn": "公司提供哪些福利？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "employee benefits",
+        "cn": "员工福利"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150021,
+    "word": "goal",
+    "phonetic0": "ɡəʊl",
+    "phonetic1": "ɡoʊl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "目标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My goal is to become a cloud engineer.",
+        "cn": "我的目标是成为云工程师。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "career goal",
+        "cn": "职业目标"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150022,
+    "word": "pressure",
+    "phonetic0": "ˈpreʃə",
+    "phonetic1": "ˈpreʃər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "压力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you work under pressure?",
+        "cn": "你能在压力下工作吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "under pressure",
+        "cn": "在压力下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150023,
+    "word": "career",
+    "phonetic0": "kəˈrɪə",
+    "phonetic1": "kəˈrɪr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "职业，事业"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where do you see your career in five years?",
+        "cn": "你五年后的职业规划是什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "career plan",
+        "cn": "职业规划"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150024,
+    "word": "degree",
+    "phonetic0": "dɪˈɡriː",
+    "phonetic1": "dɪˈɡriː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "学位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a degree in IT.",
+        "cn": "我有IT学位。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bachelor's degree",
+        "cn": "学士学位"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150025,
+    "word": "skill",
+    "phonetic0": "skɪl",
+    "phonetic1": "skɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "技能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What skills do you have?",
+        "cn": "你有哪些技能？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "communication skills",
+        "cn": "沟通能力"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150026,
     "word": "interview",
     "phonetic0": "ˈɪntəvjuː",
     "phonetic1": "ˈɪntərvjuː",
@@ -64,307 +788,7 @@
     "etymology": []
   },
   {
-    "id": 1150003,
-    "word": "apply",
-    "phonetic0": "əˈplaɪ",
-    "phonetic1": "əˈplaɪ",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "申请"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'd like to apply for this position.",
-        "cn": "我想申请这个职位。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "apply for",
-        "cn": "申请"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150004,
-    "word": "position",
-    "phonetic0": "pəˈzɪʃn",
-    "phonetic1": "pəˈzɪʃn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "职位"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The position is still open.",
-        "cn": "这个职位还在招。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "full-time position",
-        "cn": "全职职位"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150005,
-    "word": "experience",
-    "phonetic0": "ɪkˈspɪəriəns",
-    "phonetic1": "ɪkˈspɪriəns",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "经验"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I have three years of experience.",
-        "cn": "我有三年经验。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "work experience",
-        "cn": "工作经验"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150006,
-    "word": "resume",
-    "phonetic0": "ˈrezjumeɪ",
-    "phonetic1": "ˈrezəmeɪ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "简历（英式 CV）"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Please send us your resume.",
-        "cn": "请把简历发给我们。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "update my resume",
-        "cn": "更新简历"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150007,
-    "word": "skill",
-    "phonetic0": "skɪl",
-    "phonetic1": "skɪl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "技能"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What skills do you have?",
-        "cn": "你有哪些技能？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "communication skills",
-        "cn": "沟通能力"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150008,
-    "word": "strength",
-    "phonetic0": "streŋθ",
-    "phonetic1": "streŋθ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "优点；力量"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What is your greatest strength?",
-        "cn": "你最大的优点是什么？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "strengths and weaknesses",
-        "cn": "优缺点"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150009,
-    "word": "weakness",
-    "phonetic0": "ˈwiːknəs",
-    "phonetic1": "ˈwiːknəs",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "缺点"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "My weakness is public speaking.",
-        "cn": "我的缺点是不擅长公开演讲。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "biggest weakness",
-        "cn": "最大的缺点"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150010,
-    "word": "company",
-    "phonetic0": "ˈkʌmpəni",
-    "phonetic1": "ˈkʌmpəni",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "公司"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Why do you want to join our company?",
-        "cn": "你为什么想加入我们公司？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "join a company",
-        "cn": "加入公司"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150011,
-    "word": "salary",
-    "phonetic0": "ˈsæləri",
-    "phonetic1": "ˈsæləri",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "薪水"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What are your salary expectations?",
-        "cn": "你期望的薪资是多少？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "expected salary",
-        "cn": "期望薪资"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150012,
-    "word": "offer",
-    "phonetic0": "ˈɒfə",
-    "phonetic1": "ˈɔːfər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "录用；提议"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I got a job offer!",
-        "cn": "我拿到录用通知了！"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "accept an offer",
-        "cn": "接受录用"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150013,
+    "id": 1150027,
     "word": "candidate",
     "phonetic0": "ˈkændɪdət",
     "phonetic1": "ˈkændɪdət",
@@ -394,217 +818,7 @@
     "etymology": []
   },
   {
-    "id": 1150014,
-    "word": "qualified",
-    "phonetic0": "ˈkwɒlɪfaɪd",
-    "phonetic1": "ˈkwɑːlɪfaɪd",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "有资格的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'm qualified for this job.",
-        "cn": "我能胜任这份工作。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "well qualified",
-        "cn": "很有资格"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150015,
-    "word": "degree",
-    "phonetic0": "dɪˈɡriː",
-    "phonetic1": "dɪˈɡriː",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "学位"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I have a degree in IT.",
-        "cn": "我有IT学位。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "bachelor's degree",
-        "cn": "学士学位"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150016,
-    "word": "responsible",
-    "phonetic0": "rɪˈspɒnsəbl",
-    "phonetic1": "rɪˈspɑːnsəbl",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "负责的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I was responsible for the website.",
-        "cn": "我负责网站。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "responsible for",
-        "cn": "负责"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150017,
-    "word": "achieve",
-    "phonetic0": "əˈtʃiːv",
-    "phonetic1": "əˈtʃiːv",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "实现，达到"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What did you achieve in your last job?",
-        "cn": "你在上一份工作中取得了什么成绩？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "achieve a goal",
-        "cn": "实现目标"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150018,
-    "word": "goal",
-    "phonetic0": "ɡəʊl",
-    "phonetic1": "ɡoʊl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "目标"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "My goal is to become a cloud engineer.",
-        "cn": "我的目标是成为云工程师。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "career goal",
-        "cn": "职业目标"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150019,
-    "word": "career",
-    "phonetic0": "kəˈrɪə",
-    "phonetic1": "kəˈrɪr",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "职业，事业"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Where do you see your career in five years?",
-        "cn": "你五年后的职业规划是什么？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "career plan",
-        "cn": "职业规划"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150020,
-    "word": "team",
-    "phonetic0": "tiːm",
-    "phonetic1": "tiːm",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "团队"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I enjoy working in a team.",
-        "cn": "我喜欢团队合作。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "team player",
-        "cn": "有团队精神的人"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150021,
+    "id": 1150028,
     "word": "challenge",
     "phonetic0": "ˈtʃælɪndʒ",
     "phonetic1": "ˈtʃælɪndʒ",
@@ -634,127 +848,7 @@
     "etymology": []
   },
   {
-    "id": 1150022,
-    "word": "solve",
-    "phonetic0": "sɒlv",
-    "phonetic1": "sɑːlv",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "解决"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I like solving problems.",
-        "cn": "我喜欢解决问题。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "solve a problem",
-        "cn": "解决问题"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150023,
-    "word": "learn",
-    "phonetic0": "lɜːn",
-    "phonetic1": "lɜːrn",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "学习"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I learn new things quickly.",
-        "cn": "我学新东西很快。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "learn from",
-        "cn": "向……学习"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150024,
-    "word": "available",
-    "phonetic0": "əˈveɪləbl",
-    "phonetic1": "əˈveɪləbl",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "有空的；可到岗的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "When are you available to start?",
-        "cn": "你什么时候可以入职？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "available to start",
-        "cn": "可以入职"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150025,
-    "word": "internship",
-    "phonetic0": "ˈɪntɜːnʃɪp",
-    "phonetic1": "ˈɪntɜːrnʃɪp",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "实习"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I did an internship last summer.",
-        "cn": "我去年夏天做过实习。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "do an internship",
-        "cn": "做实习"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1150026,
+    "id": 1150029,
     "word": "reference",
     "phonetic0": "ˈrefrəns",
     "phonetic1": "ˈrefrəns",
@@ -784,7 +878,337 @@
     "etymology": []
   },
   {
-    "id": 1150027,
+    "id": 1150030,
+    "word": "notice",
+    "phonetic0": "ˈnəʊtɪs",
+    "phonetic1": "ˈnoʊtɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "离职通知期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My notice period is one month.",
+        "cn": "我的离职通知期是一个月。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "notice period",
+        "cn": "通知期"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150031,
+    "word": "communication",
+    "phonetic0": "kəˌmjuːnɪˈkeɪʃn",
+    "phonetic1": "kəˌmjuːnɪˈkeɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "沟通"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Good communication is important in a team.",
+        "cn": "团队中良好的沟通很重要。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "communication skills",
+        "cn": "沟通能力"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150032,
+    "word": "responsible",
+    "phonetic0": "rɪˈspɒnsəbl",
+    "phonetic1": "rɪˈspɑːnsəbl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "负责的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I was responsible for the website.",
+        "cn": "我负责网站。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "responsible for",
+        "cn": "负责"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150033,
+    "word": "strength",
+    "phonetic0": "streŋθ",
+    "phonetic1": "streŋθ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "优点；力量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What is your greatest strength?",
+        "cn": "你最大的优点是什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "strengths and weaknesses",
+        "cn": "优缺点"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150034,
+    "word": "leadership",
+    "phonetic0": "ˈliːdəʃɪp",
+    "phonetic1": "ˈliːdərʃɪp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "领导力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This job needs leadership skills.",
+        "cn": "这份工作需要领导能力。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "leadership skills",
+        "cn": "领导能力"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150035,
+    "word": "hire",
+    "phonetic0": "ˈhaɪə",
+    "phonetic1": "ˈhaɪər",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "雇用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Why should we hire you?",
+        "cn": "我们为什么要雇用你？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hire someone",
+        "cn": "雇人"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150036,
+    "word": "solve",
+    "phonetic0": "sɒlv",
+    "phonetic1": "sɑːlv",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "解决"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I like solving problems.",
+        "cn": "我喜欢解决问题。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "solve a problem",
+        "cn": "解决问题"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150037,
+    "word": "certificate",
+    "phonetic0": "səˈtɪfɪkət",
+    "phonetic1": "sərˈtɪfɪkət",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "证书"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have an AWS certificate.",
+        "cn": "我有AWS证书。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "professional certificate",
+        "cn": "职业证书"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150038,
+    "word": "salary",
+    "phonetic0": "ˈsæləri",
+    "phonetic1": "ˈsæləri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "薪水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What are your salary expectations?",
+        "cn": "你期望的薪资是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "expected salary",
+        "cn": "期望薪资"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150039,
+    "word": "negotiate",
+    "phonetic0": "nɪˈɡəʊʃieɪt",
+    "phonetic1": "nɪˈɡoʊʃieɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "谈判"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is the salary negotiable?",
+        "cn": "薪资可以谈吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "negotiate salary",
+        "cn": "谈薪资"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150040,
+    "word": "confident",
+    "phonetic0": "ˈkɒnfɪdənt",
+    "phonetic1": "ˈkɑːnfɪdənt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "自信的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Be confident in the interview.",
+        "cn": "面试时要自信。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel confident",
+        "cn": "感到自信"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150041,
     "word": "remote",
     "phonetic0": "rɪˈməʊt",
     "phonetic1": "rɪˈmoʊt",
@@ -814,26 +1238,26 @@
     "etymology": []
   },
   {
-    "id": 1150028,
-    "word": "contract",
-    "phonetic0": "ˈkɒntrækt",
-    "phonetic1": "ˈkɑːntrækt",
+    "id": 1150042,
+    "word": "weakness",
+    "phonetic0": "ˈwiːknəs",
+    "phonetic1": "ˈwiːknəs",
     "trans": [
       {
         "pos": "n.",
-        "cn": "合同"
+        "cn": "缺点"
       }
     ],
     "sentences": [
       {
-        "c": "It's a one-year contract.",
-        "cn": "这是一年期合同。"
+        "c": "My weakness is public speaking.",
+        "cn": "我的缺点是不擅长公开演讲。"
       }
     ],
     "phrases": [
       {
-        "c": "sign a contract",
-        "cn": "签合同"
+        "c": "biggest weakness",
+        "cn": "最大的缺点"
       }
     ],
     "synos": [],
@@ -844,26 +1268,26 @@
     "etymology": []
   },
   {
-    "id": 1150029,
-    "word": "benefits",
-    "phonetic0": "ˈbenɪfɪts",
-    "phonetic1": "ˈbenɪfɪts",
+    "id": 1150043,
+    "word": "portfolio",
+    "phonetic0": "pɔːtˈfəʊliəʊ",
+    "phonetic1": "pɔːrtˈfoʊlioʊ",
     "trans": [
       {
         "pos": "n.",
-        "cn": "福利"
+        "cn": "作品集"
       }
     ],
     "sentences": [
       {
-        "c": "What benefits does the company offer?",
-        "cn": "公司提供哪些福利？"
+        "c": "Here is a link to my portfolio.",
+        "cn": "这是我作品集的链接。"
       }
     ],
     "phrases": [
       {
-        "c": "employee benefits",
-        "cn": "员工福利"
+        "c": "online portfolio",
+        "cn": "在线作品集"
       }
     ],
     "synos": [],
@@ -874,26 +1298,146 @@
     "etymology": []
   },
   {
-    "id": 1150030,
-    "word": "confident",
-    "phonetic0": "ˈkɒnfɪdənt",
-    "phonetic1": "ˈkɑːnfɪdənt",
+    "id": 1150044,
+    "word": "resume",
+    "phonetic0": "ˈrezjumeɪ",
+    "phonetic1": "ˈrezəmeɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "简历（英式 CV）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please send us your resume.",
+        "cn": "请把简历发给我们。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "update my resume",
+        "cn": "更新简历"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150045,
+    "word": "qualified",
+    "phonetic0": "ˈkwɒlɪfaɪd",
+    "phonetic1": "ˈkwɑːlɪfaɪd",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "自信的"
+        "cn": "有资格的"
       }
     ],
     "sentences": [
       {
-        "c": "Be confident in the interview.",
-        "cn": "面试时要自信。"
+        "c": "I'm qualified for this job.",
+        "cn": "我能胜任这份工作。"
       }
     ],
     "phrases": [
       {
-        "c": "feel confident",
-        "cn": "感到自信"
+        "c": "well qualified",
+        "cn": "很有资格"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150046,
+    "word": "probation",
+    "phonetic0": "prəˈbeɪʃn",
+    "phonetic1": "proʊˈbeɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "试用期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The probation period is three months.",
+        "cn": "试用期三个月。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "probation period",
+        "cn": "试用期"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150047,
+    "word": "motivated",
+    "phonetic0": "ˈməʊtɪveɪtɪd",
+    "phonetic1": "ˈmoʊtɪveɪtɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有积极性的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm highly motivated to learn.",
+        "cn": "我非常积极地想学习。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "self-motivated",
+        "cn": "自驱的"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1150048,
+    "word": "internship",
+    "phonetic0": "ˈɪntɜːnʃɪp",
+    "phonetic1": "ˈɪntɜːrnʃɪp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "实习"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I did an internship last summer.",
+        "cn": "我去年夏天做过实习。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do an internship",
+        "cn": "做实习"
       }
     ],
     "synos": [],

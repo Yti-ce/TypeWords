@@ -35,25 +35,25 @@
   },
   {
     "id": 1140002,
-    "word": "office",
-    "phonetic0": "ˈɒfɪs",
-    "phonetic1": "ˈɑːfɪs",
+    "word": "call",
+    "phonetic0": "kɔːl",
+    "phonetic1": "kɔːl",
     "trans": [
       {
         "pos": "n.",
-        "cn": "办公室"
+        "cn": "电话"
       }
     ],
     "sentences": [
       {
-        "c": "I'll be in the office tomorrow.",
-        "cn": "我明天在办公室。"
+        "c": "I'm on a call, give me a minute.",
+        "cn": "我在打电话，稍等一下。"
       }
     ],
     "phrases": [
       {
-        "c": "head office",
-        "cn": "总部"
+        "c": "conference call",
+        "cn": "电话会议"
       }
     ],
     "synos": [],
@@ -65,498 +65,6 @@
   },
   {
     "id": 1140003,
-    "word": "meeting",
-    "phonetic0": "ˈmiːtɪŋ",
-    "phonetic1": "ˈmiːtɪŋ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "会议"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We have a meeting at ten.",
-        "cn": "我们十点有个会。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "have a meeting",
-        "cn": "开会"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140004,
-    "word": "boss",
-    "phonetic0": "bɒs",
-    "phonetic1": "bɔːs",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "老板"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "My boss is on holiday.",
-        "cn": "我的老板在休假。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "new boss",
-        "cn": "新老板"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140005,
-    "word": "colleague",
-    "phonetic0": "ˈkɒliːɡ",
-    "phonetic1": "ˈkɑːliːɡ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "同事"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "She's a colleague from my team.",
-        "cn": "她是我团队的同事。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "work colleague",
-        "cn": "同事"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140006,
-    "word": "manager",
-    "phonetic0": "ˈmænɪdʒə",
-    "phonetic1": "ˈmænɪdʒər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "经理"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'll ask my manager.",
-        "cn": "我问一下我的经理。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "project manager",
-        "cn": "项目经理"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140007,
-    "word": "team",
-    "phonetic0": "tiːm",
-    "phonetic1": "tiːm",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "团队"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Our team is very busy this week.",
-        "cn": "我们团队这周很忙。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "team leader",
-        "cn": "组长"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140008,
-    "word": "email",
-    "phonetic0": "ˈiːmeɪl",
-    "phonetic1": "ˈiːmeɪl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "电子邮件"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'll reply to your email today.",
-        "cn": "我今天回复你的邮件。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "reply to an email",
-        "cn": "回邮件"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140009,
-    "word": "report",
-    "phonetic0": "rɪˈpɔːt",
-    "phonetic1": "rɪˈpɔːrt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "报告"
-      },
-      {
-        "pos": "v.",
-        "cn": "汇报"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The report is due tomorrow.",
-        "cn": "报告明天要交。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "write a report",
-        "cn": "写报告"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140010,
-    "word": "deadline",
-    "phonetic0": "ˈdedlaɪn",
-    "phonetic1": "ˈdedlaɪn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "截止日期"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We can't miss the deadline.",
-        "cn": "我们不能错过截止日期。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "tight deadline",
-        "cn": "紧迫的期限"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140011,
-    "word": "task",
-    "phonetic0": "tɑːsk",
-    "phonetic1": "tæsk",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "任务"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I have three tasks to finish today.",
-        "cn": "我今天要完成三项任务。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "finish a task",
-        "cn": "完成任务"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140012,
-    "word": "schedule",
-    "phonetic0": "ˈʃedjuːl",
-    "phonetic1": "ˈskedʒuːl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "日程"
-      },
-      {
-        "pos": "v.",
-        "cn": "安排"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Let me check my schedule.",
-        "cn": "我看一下日程。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "busy schedule",
-        "cn": "日程很满"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140013,
-    "word": "busy",
-    "phonetic0": "ˈbɪzi",
-    "phonetic1": "ˈbɪzi",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "忙的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Sorry, I'm busy right now.",
-        "cn": "抱歉，我现在很忙。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "busy with",
-        "cn": "忙于"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140014,
-    "word": "project",
-    "phonetic0": "ˈprɒdʒekt",
-    "phonetic1": "ˈprɑːdʒekt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "项目"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "How is the project going?",
-        "cn": "项目进展如何？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "new project",
-        "cn": "新项目"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140015,
-    "word": "client",
-    "phonetic0": "ˈklaɪənt",
-    "phonetic1": "ˈklaɪənt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "客户"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'm meeting a client this afternoon.",
-        "cn": "我今天下午见一个客户。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "meet a client",
-        "cn": "见客户"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140016,
-    "word": "update",
-    "phonetic0": "ˌʌpˈdeɪt",
-    "phonetic1": "ˌʌpˈdeɪt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "最新情况"
-      },
-      {
-        "pos": "v.",
-        "cn": "更新"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can you give me an update?",
-        "cn": "你能告诉我最新进展吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "keep me updated",
-        "cn": "随时告诉我进展"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140017,
-    "word": "feedback",
-    "phonetic0": "ˈfiːdbæk",
-    "phonetic1": "ˈfiːdbæk",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "反馈"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Thanks for your feedback.",
-        "cn": "谢谢你的反馈。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "give feedback",
-        "cn": "给反馈"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140018,
-    "word": "salary",
-    "phonetic0": "ˈsæləri",
-    "phonetic1": "ˈsæləri",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "工资"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "When do we get our salary?",
-        "cn": "我们什么时候发工资？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "monthly salary",
-        "cn": "月薪"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140019,
     "word": "leave",
     "phonetic0": "liːv",
     "phonetic1": "liːv",
@@ -590,26 +98,26 @@
     "etymology": []
   },
   {
-    "id": 1140020,
-    "word": "overtime",
-    "phonetic0": "ˈəʊvətaɪm",
-    "phonetic1": "ˈoʊvərtaɪm",
+    "id": 1140004,
+    "word": "company",
+    "phonetic0": "ˈkʌmpəni",
+    "phonetic1": "ˈkʌmpəni",
     "trans": [
       {
         "pos": "n.",
-        "cn": "加班"
+        "cn": "公司"
       }
     ],
     "sentences": [
       {
-        "c": "I worked overtime last night.",
-        "cn": "我昨晚加班了。"
+        "c": "Our company has 200 staff.",
+        "cn": "我们公司有200名员工。"
       }
     ],
     "phrases": [
       {
-        "c": "work overtime",
-        "cn": "加班"
+        "c": "big company",
+        "cn": "大公司"
       }
     ],
     "synos": [],
@@ -620,26 +128,26 @@
     "etymology": []
   },
   {
-    "id": 1140021,
-    "word": "printer",
-    "phonetic0": "ˈprɪntə",
-    "phonetic1": "ˈprɪntər",
+    "id": 1140005,
+    "word": "problem",
+    "phonetic0": "ˈprɒbləm",
+    "phonetic1": "ˈprɑːbləm",
     "trans": [
       {
         "pos": "n.",
-        "cn": "打印机"
+        "cn": "问题"
       }
     ],
     "sentences": [
       {
-        "c": "The printer is out of paper.",
-        "cn": "打印机没纸了。"
+        "c": "We need to fix this problem today.",
+        "cn": "我们今天需要解决这个问题。"
       }
     ],
     "phrases": [
       {
-        "c": "printer paper",
-        "cn": "打印纸"
+        "c": "solve a problem",
+        "cn": "解决问题"
       }
     ],
     "synos": [],
@@ -650,86 +158,26 @@
     "etymology": []
   },
   {
-    "id": 1140022,
-    "word": "document",
-    "phonetic0": "ˈdɒkjumənt",
-    "phonetic1": "ˈdɑːkjumənt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "文件"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Please sign this document.",
-        "cn": "请签一下这份文件。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "important document",
-        "cn": "重要文件"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140023,
-    "word": "file",
-    "phonetic0": "faɪl",
-    "phonetic1": "faɪl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "文件"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'll send you the file.",
-        "cn": "我把文件发给你。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "attach a file",
-        "cn": "附上文件"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1140024,
-    "word": "attach",
-    "phonetic0": "əˈtætʃ",
-    "phonetic1": "əˈtætʃ",
+    "id": 1140006,
+    "word": "help",
+    "phonetic0": "help",
+    "phonetic1": "help",
     "trans": [
       {
         "pos": "v.",
-        "cn": "附上"
+        "cn": "帮助"
       }
     ],
     "sentences": [
       {
-        "c": "I've attached the report.",
-        "cn": "我已附上报告。"
+        "c": "Can you help me with this report?",
+        "cn": "你能帮我弄一下这份报告吗？"
       }
     ],
     "phrases": [
       {
-        "c": "attached file",
-        "cn": "附件"
+        "c": "help with",
+        "cn": "帮忙做"
       }
     ],
     "synos": [],
@@ -740,26 +188,26 @@
     "etymology": []
   },
   {
-    "id": 1140025,
-    "word": "discuss",
-    "phonetic0": "dɪˈskʌs",
-    "phonetic1": "dɪˈskʌs",
+    "id": 1140007,
+    "word": "start",
+    "phonetic0": "stɑːt",
+    "phonetic1": "stɑːrt",
     "trans": [
       {
         "pos": "v.",
-        "cn": "讨论"
+        "cn": "开始"
       }
     ],
     "sentences": [
       {
-        "c": "Let's discuss it in the meeting.",
-        "cn": "我们在会上讨论吧。"
+        "c": "When do you start work?",
+        "cn": "你几点上班？"
       }
     ],
     "phrases": [
       {
-        "c": "discuss with",
-        "cn": "与……讨论"
+        "c": "start work",
+        "cn": "开始工作"
       }
     ],
     "synos": [],
@@ -770,26 +218,26 @@
     "etymology": []
   },
   {
-    "id": 1140026,
-    "word": "agree",
-    "phonetic0": "əˈɡriː",
-    "phonetic1": "əˈɡriː",
+    "id": 1140008,
+    "word": "job",
+    "phonetic0": "dʒɒb",
+    "phonetic1": "dʒɑːb",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "同意"
+        "pos": "n.",
+        "cn": "工作"
       }
     ],
     "sentences": [
       {
-        "c": "I agree with you.",
-        "cn": "我同意你的看法。"
+        "c": "I love my job.",
+        "cn": "我喜欢我的工作。"
       }
     ],
     "phrases": [
       {
-        "c": "agree with",
-        "cn": "同意"
+        "c": "full-time job",
+        "cn": "全职工作"
       }
     ],
     "synos": [],
@@ -800,7 +248,131 @@
     "etymology": []
   },
   {
-    "id": 1140027,
+    "id": 1140009,
+    "word": "idea",
+    "phonetic0": "aɪˈdɪə",
+    "phonetic1": "aɪˈdiːə",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "想法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That's a good idea.",
+        "cn": "这是个好主意。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "good idea",
+        "cn": "好主意"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140010,
+    "word": "report",
+    "phonetic0": "rɪˈpɔːt",
+    "phonetic1": "rɪˈpɔːrt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "报告"
+      },
+      {
+        "pos": "v.",
+        "cn": "汇报"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The report is due tomorrow.",
+        "cn": "报告明天要交。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "write a report",
+        "cn": "写报告"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140011,
+    "word": "office",
+    "phonetic0": "ˈɒfɪs",
+    "phonetic1": "ˈɑːfɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "办公室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll be in the office tomorrow.",
+        "cn": "我明天在办公室。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "head office",
+        "cn": "总部"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140012,
+    "word": "team",
+    "phonetic0": "tiːm",
+    "phonetic1": "tiːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "团队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our team is very busy this week.",
+        "cn": "我们团队这周很忙。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "team leader",
+        "cn": "组长"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140013,
     "word": "suggest",
     "phonetic0": "səˈdʒest",
     "phonetic1": "səˈdʒest",
@@ -830,7 +402,97 @@
     "etymology": []
   },
   {
-    "id": 1140028,
+    "id": 1140014,
+    "word": "agree",
+    "phonetic0": "əˈɡriː",
+    "phonetic1": "əˈɡriː",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "同意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I agree with you.",
+        "cn": "我同意你的看法。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "agree with",
+        "cn": "同意"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140015,
+    "word": "plan",
+    "phonetic0": "plæn",
+    "phonetic1": "plæn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the plan for next week?",
+        "cn": "下周有什么计划？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "business plan",
+        "cn": "商业计划"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140016,
+    "word": "staff",
+    "phonetic0": "stɑːf",
+    "phonetic1": "stæf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "员工"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "All staff must attend the meeting.",
+        "cn": "全体员工必须参加会议。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "staff meeting",
+        "cn": "员工大会"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140017,
     "word": "department",
     "phonetic0": "dɪˈpɑːtmənt",
     "phonetic1": "dɪˈpɑːrtmənt",
@@ -860,7 +522,521 @@
     "etymology": []
   },
   {
+    "id": 1140018,
+    "word": "meeting",
+    "phonetic0": "ˈmiːtɪŋ",
+    "phonetic1": "ˈmiːtɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "会议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have a meeting at ten.",
+        "cn": "我们十点有个会。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "have a meeting",
+        "cn": "开会"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140019,
+    "word": "manager",
+    "phonetic0": "ˈmænɪdʒə",
+    "phonetic1": "ˈmænɪdʒər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "经理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll ask my manager.",
+        "cn": "我问一下我的经理。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "project manager",
+        "cn": "项目经理"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140020,
+    "word": "project",
+    "phonetic0": "ˈprɒdʒekt",
+    "phonetic1": "ˈprɑːdʒekt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "项目"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How is the project going?",
+        "cn": "项目进展如何？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new project",
+        "cn": "新项目"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140021,
+    "word": "contract",
+    "phonetic0": "ˈkɒntrækt",
+    "phonetic1": "ˈkɑːntrækt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "合同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please sign the contract.",
+        "cn": "请签合同。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sign a contract",
+        "cn": "签合同"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140022,
+    "word": "discuss",
+    "phonetic0": "dɪˈskʌs",
+    "phonetic1": "dɪˈskʌs",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "讨论"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's discuss it in the meeting.",
+        "cn": "我们在会上讨论吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "discuss with",
+        "cn": "与……讨论"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140023,
+    "word": "task",
+    "phonetic0": "tɑːsk",
+    "phonetic1": "tæsk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "任务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have three tasks to finish today.",
+        "cn": "我今天要完成三项任务。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "finish a task",
+        "cn": "完成任务"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140024,
+    "word": "finish",
+    "phonetic0": "ˈfɪnɪʃ",
+    "phonetic1": "ˈfɪnɪʃ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "完成"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll finish it by Friday.",
+        "cn": "我周五前完成。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "finish work",
+        "cn": "下班"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140025,
+    "word": "client",
+    "phonetic0": "ˈklaɪənt",
+    "phonetic1": "ˈklaɪənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "客户"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm meeting a client this afternoon.",
+        "cn": "我今天下午见一个客户。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "meet a client",
+        "cn": "见客户"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140026,
+    "word": "sales",
+    "phonetic0": "seɪlz",
+    "phonetic1": "seɪlz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "销售额；销售部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sales went up this month.",
+        "cn": "这个月销售额上升了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sales team",
+        "cn": "销售团队"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140027,
+    "word": "document",
+    "phonetic0": "ˈdɒkjumənt",
+    "phonetic1": "ˈdɑːkjumənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please sign this document.",
+        "cn": "请签一下这份文件。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "important document",
+        "cn": "重要文件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140028,
+    "word": "budget",
+    "phonetic0": "ˈbʌdʒɪt",
+    "phonetic1": "ˈbʌdʒɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "预算"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're over budget.",
+        "cn": "我们超预算了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on budget",
+        "cn": "在预算内"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
     "id": 1140029,
+    "word": "target",
+    "phonetic0": "ˈtɑːɡɪt",
+    "phonetic1": "ˈtɑːrɡɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "目标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did we hit our target?",
+        "cn": "我们达到目标了吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sales target",
+        "cn": "销售目标"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140030,
+    "word": "file",
+    "phonetic0": "faɪl",
+    "phonetic1": "faɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll send you the file.",
+        "cn": "我把文件发给你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "attach a file",
+        "cn": "附上文件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140031,
+    "word": "copy",
+    "phonetic0": "ˈkɒpi",
+    "phonetic1": "ˈkɑːpi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "副本"
+      },
+      {
+        "pos": "v.",
+        "cn": "复印"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please make ten copies.",
+        "cn": "请复印十份。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make a copy",
+        "cn": "复印"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140032,
+    "word": "colleague",
+    "phonetic0": "ˈkɒliːɡ",
+    "phonetic1": "ˈkɑːliːɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "同事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's a colleague from my team.",
+        "cn": "她是我团队的同事。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "work colleague",
+        "cn": "同事"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140033,
+    "word": "remind",
+    "phonetic0": "rɪˈmaɪnd",
+    "phonetic1": "rɪˈmaɪnd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "提醒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please remind me about the meeting.",
+        "cn": "请提醒我开会。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "remind me",
+        "cn": "提醒我"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140034,
+    "word": "email",
+    "phonetic0": "ˈiːmeɪl",
+    "phonetic1": "ˈiːmeɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电子邮件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll reply to your email today.",
+        "cn": "我今天回复你的邮件。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "reply to an email",
+        "cn": "回邮件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140035,
     "word": "lunch",
     "phonetic0": "lʌntʃ",
     "phonetic1": "lʌntʃ",
@@ -890,7 +1066,191 @@
     "etymology": []
   },
   {
-    "id": 1140030,
+    "id": 1140036,
+    "word": "desk",
+    "phonetic0": "desk",
+    "phonetic1": "desk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "办公桌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Leave the file on my desk.",
+        "cn": "把文件放在我桌上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "front desk",
+        "cn": "前台"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140037,
+    "word": "sick",
+    "phonetic0": "sɪk",
+    "phonetic1": "sɪk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "生病的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm taking a sick day today.",
+        "cn": "我今天请病假。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sick leave",
+        "cn": "病假"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140038,
+    "word": "busy",
+    "phonetic0": "ˈbɪzi",
+    "phonetic1": "ˈbɪzi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "忙的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, I'm busy right now.",
+        "cn": "抱歉，我现在很忙。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "busy with",
+        "cn": "忙于"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140039,
+    "word": "attach",
+    "phonetic0": "əˈtætʃ",
+    "phonetic1": "əˈtætʃ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "附上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I've attached the report.",
+        "cn": "我已附上报告。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "attached file",
+        "cn": "附件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140040,
+    "word": "schedule",
+    "phonetic0": "ˈʃedjuːl",
+    "phonetic1": "ˈskedʒuːl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "日程"
+      },
+      {
+        "pos": "v.",
+        "cn": "安排"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me check my schedule.",
+        "cn": "我看一下日程。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "busy schedule",
+        "cn": "日程很满"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140041,
+    "word": "boss",
+    "phonetic0": "bɒs",
+    "phonetic1": "bɔːs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "老板"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My boss is on holiday.",
+        "cn": "我的老板在休假。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new boss",
+        "cn": "新老板"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140042,
     "word": "promotion",
     "phonetic0": "prəˈməʊʃn",
     "phonetic1": "prəˈmoʊʃn",
@@ -910,6 +1270,310 @@
       {
         "c": "get a promotion",
         "cn": "升职"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140043,
+    "word": "salary",
+    "phonetic0": "ˈsæləri",
+    "phonetic1": "ˈsæləri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "工资"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When do we get our salary?",
+        "cn": "我们什么时候发工资？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "monthly salary",
+        "cn": "月薪"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140044,
+    "word": "resign",
+    "phonetic0": "rɪˈzaɪn",
+    "phonetic1": "rɪˈzaɪn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "辞职"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She resigned last month.",
+        "cn": "她上个月辞职了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "resign from",
+        "cn": "从……辞职"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140045,
+    "word": "printer",
+    "phonetic0": "ˈprɪntə",
+    "phonetic1": "ˈprɪntər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "打印机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The printer is out of paper.",
+        "cn": "打印机没纸了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "printer paper",
+        "cn": "打印纸"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140046,
+    "word": "urgent",
+    "phonetic0": "ˈɜːdʒənt",
+    "phonetic1": "ˈɜːrdʒənt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "紧急的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is urgent, please reply today.",
+        "cn": "这是急事，请今天回复。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "urgent email",
+        "cn": "紧急邮件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140047,
+    "word": "update",
+    "phonetic0": "ˌʌpˈdeɪt",
+    "phonetic1": "ˌʌpˈdeɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "最新情况"
+      },
+      {
+        "pos": "v.",
+        "cn": "更新"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you give me an update?",
+        "cn": "你能告诉我最新进展吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "keep me updated",
+        "cn": "随时告诉我进展"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140048,
+    "word": "feedback",
+    "phonetic0": "ˈfiːdbæk",
+    "phonetic1": "ˈfiːdbæk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "反馈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for your feedback.",
+        "cn": "谢谢你的反馈。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "give feedback",
+        "cn": "给反馈"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140049,
+    "word": "deadline",
+    "phonetic0": "ˈdedlaɪn",
+    "phonetic1": "ˈdedlaɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "截止日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can't miss the deadline.",
+        "cn": "我们不能错过截止日期。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tight deadline",
+        "cn": "紧迫的期限"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140050,
+    "word": "calendar",
+    "phonetic0": "ˈkælɪndə",
+    "phonetic1": "ˈkælɪndər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "日历"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll send you a calendar invite.",
+        "cn": "我给你发个日程邀请。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "calendar invite",
+        "cn": "会议邀请"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140051,
+    "word": "laptop",
+    "phonetic0": "ˈlæptɒp",
+    "phonetic1": "ˈlæptɑːp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "笔记本电脑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I forgot my laptop charger.",
+        "cn": "我忘带电脑充电器了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "work laptop",
+        "cn": "工作电脑"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1140052,
+    "word": "overtime",
+    "phonetic0": "ˈəʊvətaɪm",
+    "phonetic1": "ˈoʊvərtaɪm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "加班"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I worked overtime last night.",
+        "cn": "我昨晚加班了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "work overtime",
+        "cn": "加班"
       }
     ],
     "synos": [],

@@ -1,6 +1,66 @@
 [
   {
     "id": 1200001,
+    "word": "first",
+    "phonetic0": "fɜːst",
+    "phonetic1": "fɜːrst",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "第一的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Does anyone know first aid?",
+        "cn": "有人会急救吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "first aid",
+        "cn": "急救"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200002,
+    "word": "call",
+    "phonetic0": "kɔːl",
+    "phonetic1": "kɔːl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "打电话"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Call 110 right now!",
+        "cn": "马上打110！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "call for help",
+        "cn": "呼救"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200003,
     "word": "help",
     "phonetic0": "help",
     "phonetic1": "help",
@@ -34,427 +94,7 @@
     "etymology": []
   },
   {
-    "id": 1200002,
-    "word": "police",
-    "phonetic0": "pəˈliːs",
-    "phonetic1": "pəˈliːs",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "警察"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Call the police!",
-        "cn": "快报警！"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "police station",
-        "cn": "派出所"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200003,
-    "word": "emergency",
-    "phonetic0": "ɪˈmɜːdʒənsi",
-    "phonetic1": "ɪˈmɜːrdʒənsi",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "紧急情况"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "This is an emergency!",
-        "cn": "这是紧急情况！"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in an emergency",
-        "cn": "紧急情况下"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
     "id": 1200004,
-    "word": "fire",
-    "phonetic0": "ˈfaɪə",
-    "phonetic1": "ˈfaɪər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "火；火灾"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "There's a fire in the building!",
-        "cn": "楼里着火了！"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "fire alarm",
-        "cn": "火警报警器"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200005,
-    "word": "ambulance",
-    "phonetic0": "ˈæmbjələns",
-    "phonetic1": "ˈæmbjələns",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "救护车"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We need an ambulance now.",
-        "cn": "我们现在需要救护车。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "call an ambulance",
-        "cn": "叫救护车"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200006,
-    "word": "stolen",
-    "phonetic0": "ˈstəʊlən",
-    "phonetic1": "ˈstoʊlən",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "被偷的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "My wallet was stolen.",
-        "cn": "我的钱包被偷了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "stolen phone",
-        "cn": "被偷的手机"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200007,
-    "word": "steal",
-    "phonetic0": "stiːl",
-    "phonetic1": "stiːl",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "偷"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Someone stole my bag.",
-        "cn": "有人偷了我的包。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "steal from",
-        "cn": "从……偷"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200008,
-    "word": "lost",
-    "phonetic0": "lɒst",
-    "phonetic1": "lɔːst",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "丢失的；迷路的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I've lost my passport.",
-        "cn": "我的护照丢了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "lost and found",
-        "cn": "失物招领"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200009,
-    "word": "wallet",
-    "phonetic0": "ˈwɒlɪt",
-    "phonetic1": "ˈwɑːlɪt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "钱包"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I can't find my wallet.",
-        "cn": "我找不到我的钱包。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "lose a wallet",
-        "cn": "丢钱包"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200010,
-    "word": "thief",
-    "phonetic0": "θiːf",
-    "phonetic1": "θiːf",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "小偷"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Stop, thief!",
-        "cn": "站住，小偷！"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "catch a thief",
-        "cn": "抓小偷"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200011,
-    "word": "accident",
-    "phonetic0": "ˈæksɪdənt",
-    "phonetic1": "ˈæksɪdənt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "事故"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "There's been a car accident.",
-        "cn": "发生了车祸。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "car accident",
-        "cn": "车祸"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200012,
-    "word": "injured",
-    "phonetic0": "ˈɪndʒəd",
-    "phonetic1": "ˈɪndʒərd",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "受伤的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Is anyone injured?",
-        "cn": "有人受伤吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "badly injured",
-        "cn": "伤得很重"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200013,
-    "word": "danger",
-    "phonetic0": "ˈdeɪndʒə",
-    "phonetic1": "ˈdeɪndʒər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "危险"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Keep away, danger!",
-        "cn": "远离，危险！"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in danger",
-        "cn": "处于危险中"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200014,
-    "word": "dangerous",
-    "phonetic0": "ˈdeɪndʒərəs",
-    "phonetic1": "ˈdeɪndʒərəs",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "危险的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's dangerous to swim here.",
-        "cn": "在这里游泳很危险。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "very dangerous",
-        "cn": "很危险"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200015,
-    "word": "safe",
-    "phonetic0": "seɪf",
-    "phonetic1": "seɪf",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "安全的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Are you safe?",
-        "cn": "你安全吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "stay safe",
-        "cn": "注意安全"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200016,
     "word": "report",
     "phonetic0": "rɪˈpɔːt",
     "phonetic1": "rɪˈpɔːrt",
@@ -488,26 +128,390 @@
     "etymology": []
   },
   {
-    "id": 1200017,
-    "word": "witness",
-    "phonetic0": "ˈwɪtnəs",
-    "phonetic1": "ˈwɪtnəs",
+    "id": 1200005,
+    "word": "police",
+    "phonetic0": "pəˈliːs",
+    "phonetic1": "pəˈliːs",
     "trans": [
       {
         "pos": "n.",
-        "cn": "目击者"
+        "cn": "警察"
       }
     ],
     "sentences": [
       {
-        "c": "Did anyone witness the accident?",
-        "cn": "有人目击了事故吗？"
+        "c": "Call the police!",
+        "cn": "快报警！"
       }
     ],
     "phrases": [
       {
-        "c": "eye witness",
-        "cn": "目击证人"
+        "c": "police station",
+        "cn": "派出所"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200006,
+    "word": "stop",
+    "phonetic0": "stɒp",
+    "phonetic1": "stɑːp",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "停下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Stop! Don't move!",
+        "cn": "停下！别动！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stop it",
+        "cn": "住手"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200007,
+    "word": "officer",
+    "phonetic0": "ˈɒfɪsə",
+    "phonetic1": "ˈɑːfɪsər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "警官"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Excuse me, officer, can you help me?",
+        "cn": "警官，打扰一下，你能帮我吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "police officer",
+        "cn": "警察"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200008,
+    "word": "phone",
+    "phonetic0": "fəʊn",
+    "phonetic1": "foʊn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My phone was stolen on the bus.",
+        "cn": "我的手机在公交上被偷了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lost phone",
+        "cn": "丢失的手机"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200009,
+    "word": "fire",
+    "phonetic0": "ˈfaɪə",
+    "phonetic1": "ˈfaɪər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火；火灾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's a fire in the building!",
+        "cn": "楼里着火了！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fire alarm",
+        "cn": "火警报警器"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200010,
+    "word": "station",
+    "phonetic0": "ˈsteɪʃn",
+    "phonetic1": "ˈsteɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "站，局"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the nearest police station?",
+        "cn": "最近的派出所在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "police station",
+        "cn": "派出所"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200011,
+    "word": "attack",
+    "phonetic0": "əˈtæk",
+    "phonetic1": "əˈtæk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "攻击"
+      },
+      {
+        "pos": "n.",
+        "cn": "袭击"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A dog attacked me.",
+        "cn": "一只狗咬了我。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "heart attack",
+        "cn": "心脏病发作"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200012,
+    "word": "crime",
+    "phonetic0": "kraɪm",
+    "phonetic1": "kraɪm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "犯罪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to report a crime.",
+        "cn": "我要报案。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "report a crime",
+        "cn": "报案"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200013,
+    "word": "bag",
+    "phonetic0": "bæɡ",
+    "phonetic1": "bæɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Someone took my bag.",
+        "cn": "有人拿走了我的包。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "handbag",
+        "cn": "手提包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200014,
+    "word": "gas",
+    "phonetic0": "ɡæs",
+    "phonetic1": "ɡæs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "煤气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I think there's a gas leak.",
+        "cn": "我觉得有煤气泄漏。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "gas leak",
+        "cn": "煤气泄漏"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200015,
+    "word": "address",
+    "phonetic0": "əˈdres",
+    "phonetic1": "ˈædres",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the address of the emergency?",
+        "cn": "出事地点的地址是哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "exact address",
+        "cn": "确切地址"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200016,
+    "word": "safe",
+    "phonetic0": "seɪf",
+    "phonetic1": "seɪf",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "安全的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are you safe?",
+        "cn": "你安全吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stay safe",
+        "cn": "注意安全"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200017,
+    "word": "aid",
+    "phonetic0": "eɪd",
+    "phonetic1": "eɪd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "救助"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the first aid kit?",
+        "cn": "急救箱在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "first aid kit",
+        "cn": "急救箱"
       }
     ],
     "synos": [],
@@ -519,25 +523,29 @@
   },
   {
     "id": 1200018,
-    "word": "embassy",
-    "phonetic0": "ˈembəsi",
-    "phonetic1": "ˈembəsi",
+    "word": "hurt",
+    "phonetic0": "hɜːt",
+    "phonetic1": "hɜːrt",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "大使馆"
+        "pos": "adj.",
+        "cn": "受伤的"
+      },
+      {
+        "pos": "v.",
+        "cn": "伤害"
       }
     ],
     "sentences": [
       {
-        "c": "I need to contact my embassy.",
-        "cn": "我需要联系我国大使馆。"
+        "c": "Are you hurt?",
+        "cn": "你受伤了吗？"
       }
     ],
     "phrases": [
       {
-        "c": "Chinese embassy",
-        "cn": "中国大使馆"
+        "c": "get hurt",
+        "cn": "受伤"
       }
     ],
     "synos": [],
@@ -549,25 +557,25 @@
   },
   {
     "id": 1200019,
-    "word": "urgent",
-    "phonetic0": "ˈɜːdʒənt",
-    "phonetic1": "ˈɜːrdʒənt",
+    "word": "accident",
+    "phonetic0": "ˈæksɪdənt",
+    "phonetic1": "ˈæksɪdənt",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "紧急的"
+        "pos": "n.",
+        "cn": "事故"
       }
     ],
     "sentences": [
       {
-        "c": "It's urgent!",
-        "cn": "情况紧急！"
+        "c": "There's been a car accident.",
+        "cn": "发生了车祸。"
       }
     ],
     "phrases": [
       {
-        "c": "urgent matter",
-        "cn": "急事"
+        "c": "car accident",
+        "cn": "车祸"
       }
     ],
     "synos": [],
@@ -579,25 +587,25 @@
   },
   {
     "id": 1200020,
-    "word": "hurry",
-    "phonetic0": "ˈhʌri",
-    "phonetic1": "ˈhɜːri",
+    "word": "danger",
+    "phonetic0": "ˈdeɪndʒə",
+    "phonetic1": "ˈdeɪndʒər",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "赶快"
+        "pos": "n.",
+        "cn": "危险"
       }
     ],
     "sentences": [
       {
-        "c": "Please hurry!",
-        "cn": "请快一点！"
+        "c": "Keep away, danger!",
+        "cn": "远离，危险！"
       }
     ],
     "phrases": [
       {
-        "c": "in a hurry",
-        "cn": "匆忙"
+        "c": "in danger",
+        "cn": "处于危险中"
       }
     ],
     "synos": [],
@@ -609,25 +617,25 @@
   },
   {
     "id": 1200021,
-    "word": "alarm",
-    "phonetic0": "əˈlɑːm",
-    "phonetic1": "əˈlɑːrm",
+    "word": "dangerous",
+    "phonetic0": "ˈdeɪndʒərəs",
+    "phonetic1": "ˈdeɪndʒərəs",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "警报"
+        "pos": "adj.",
+        "cn": "危险的"
       }
     ],
     "sentences": [
       {
-        "c": "The fire alarm is ringing.",
-        "cn": "火警警报响了。"
+        "c": "It's dangerous to swim here.",
+        "cn": "在这里游泳很危险。"
       }
     ],
     "phrases": [
       {
-        "c": "fire alarm",
-        "cn": "火警警报"
+        "c": "very dangerous",
+        "cn": "很危险"
       }
     ],
     "synos": [],
@@ -669,6 +677,96 @@
   },
   {
     "id": 1200023,
+    "word": "emergency",
+    "phonetic0": "ɪˈmɜːdʒənsi",
+    "phonetic1": "ɪˈmɜːrdʒənsi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "紧急情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is an emergency!",
+        "cn": "这是紧急情况！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in an emergency",
+        "cn": "紧急情况下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200024,
+    "word": "steal",
+    "phonetic0": "stiːl",
+    "phonetic1": "stiːl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "偷"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Someone stole my bag.",
+        "cn": "有人偷了我的包。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "steal from",
+        "cn": "从……偷"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200025,
+    "word": "witness",
+    "phonetic0": "ˈwɪtnəs",
+    "phonetic1": "ˈwɪtnəs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "目击者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did anyone witness the accident?",
+        "cn": "有人目击了事故吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "eye witness",
+        "cn": "目击证人"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200026,
     "word": "breathe",
     "phonetic0": "briːð",
     "phonetic1": "briːð",
@@ -698,7 +796,581 @@
     "etymology": []
   },
   {
-    "id": 1200024,
+    "id": 1200027,
+    "word": "smoke",
+    "phonetic0": "sməʊk",
+    "phonetic1": "smoʊk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "烟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can smell smoke!",
+        "cn": "我闻到烟味了！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "smoke alarm",
+        "cn": "烟雾报警器"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200028,
+    "word": "lost",
+    "phonetic0": "lɒst",
+    "phonetic1": "lɔːst",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "丢失的；迷路的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I've lost my passport.",
+        "cn": "我的护照丢了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lost and found",
+        "cn": "失物招领"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200029,
+    "word": "scared",
+    "phonetic0": "skeəd",
+    "phonetic1": "skerd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "害怕的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm really scared.",
+        "cn": "我真的很害怕。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "scared of",
+        "cn": "害怕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200030,
+    "word": "alarm",
+    "phonetic0": "əˈlɑːm",
+    "phonetic1": "əˈlɑːrm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "警报"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fire alarm is ringing.",
+        "cn": "火警警报响了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fire alarm",
+        "cn": "火警警报"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200031,
+    "word": "hurry",
+    "phonetic0": "ˈhʌri",
+    "phonetic1": "ˈhɜːri",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "赶快"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please hurry!",
+        "cn": "请快一点！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in a hurry",
+        "cn": "匆忙"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200032,
+    "word": "urgent",
+    "phonetic0": "ˈɜːdʒənt",
+    "phonetic1": "ˈɜːrdʒənt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "紧急的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's urgent!",
+        "cn": "情况紧急！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "urgent matter",
+        "cn": "急事"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200033,
+    "word": "missing",
+    "phonetic0": "ˈmɪsɪŋ",
+    "phonetic1": "ˈmɪsɪŋ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "失踪的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My child is missing!",
+        "cn": "我的孩子不见了！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "missing person",
+        "cn": "失踪人员"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200034,
+    "word": "flood",
+    "phonetic0": "flʌd",
+    "phonetic1": "flʌd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "洪水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The street is flooded.",
+        "cn": "街道被淹了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "flash flood",
+        "cn": "山洪"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200035,
+    "word": "ambulance",
+    "phonetic0": "ˈæmbjələns",
+    "phonetic1": "ˈæmbjələns",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "救护车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need an ambulance now.",
+        "cn": "我们现在需要救护车。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "call an ambulance",
+        "cn": "叫救护车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200036,
+    "word": "thief",
+    "phonetic0": "θiːf",
+    "phonetic1": "θiːf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小偷"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Stop, thief!",
+        "cn": "站住，小偷！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "catch a thief",
+        "cn": "抓小偷"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200037,
+    "word": "calm",
+    "phonetic0": "kɑːm",
+    "phonetic1": "kɑːm",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "冷静的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Stay calm.",
+        "cn": "保持冷静。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "calm down",
+        "cn": "冷静下来"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200038,
+    "word": "earthquake",
+    "phonetic0": "ˈɜːθkweɪk",
+    "phonetic1": "ˈɜːrθkweɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "地震"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What should we do in an earthquake?",
+        "cn": "地震时我们该怎么办？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "strong earthquake",
+        "cn": "强烈地震"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200039,
+    "word": "embassy",
+    "phonetic0": "ˈembəsi",
+    "phonetic1": "ˈembəsi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大使馆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to contact my embassy.",
+        "cn": "我需要联系我国大使馆。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Chinese embassy",
+        "cn": "中国大使馆"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200040,
+    "word": "stuck",
+    "phonetic0": "stʌk",
+    "phonetic1": "stʌk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "被困住的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm stuck in the lift!",
+        "cn": "我被困在电梯里了！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get stuck",
+        "cn": "被困"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200041,
+    "word": "unconscious",
+    "phonetic0": "ʌnˈkɒnʃəs",
+    "phonetic1": "ʌnˈkɑːnʃəs",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "失去知觉的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He's unconscious!",
+        "cn": "他昏过去了！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fall unconscious",
+        "cn": "昏迷"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200042,
+    "word": "injured",
+    "phonetic0": "ˈɪndʒəd",
+    "phonetic1": "ˈɪndʒərd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "受伤的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is anyone injured?",
+        "cn": "有人受伤吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "badly injured",
+        "cn": "伤得很重"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200043,
+    "word": "poison",
+    "phonetic0": "ˈpɔɪzn",
+    "phonetic1": "ˈpɔɪzn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "毒药"
+      },
+      {
+        "pos": "v.",
+        "cn": "使中毒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I think he ate something poisonous.",
+        "cn": "我觉得他吃了有毒的东西。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "food poisoning",
+        "cn": "食物中毒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200044,
+    "word": "wallet",
+    "phonetic0": "ˈwɒlɪt",
+    "phonetic1": "ˈwɑːlɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "钱包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can't find my wallet.",
+        "cn": "我找不到我的钱包。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lose a wallet",
+        "cn": "丢钱包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200045,
+    "word": "stolen",
+    "phonetic0": "ˈstəʊlən",
+    "phonetic1": "ˈstoʊlən",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "被偷的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My wallet was stolen.",
+        "cn": "我的钱包被偷了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stolen phone",
+        "cn": "被偷的手机"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1200046,
     "word": "bleeding",
     "phonetic0": "ˈbliːdɪŋ",
     "phonetic1": "ˈbliːdɪŋ",
@@ -732,86 +1404,26 @@
     "etymology": []
   },
   {
-    "id": 1200025,
-    "word": "unconscious",
-    "phonetic0": "ʌnˈkɒnʃəs",
-    "phonetic1": "ʌnˈkɑːnʃəs",
+    "id": 1200047,
+    "word": "trapped",
+    "phonetic0": "træpt",
+    "phonetic1": "træpt",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "失去知觉的"
+        "cn": "被困的"
       }
     ],
     "sentences": [
       {
-        "c": "He's unconscious!",
-        "cn": "他昏过去了！"
+        "c": "People are trapped inside.",
+        "cn": "有人被困在里面。"
       }
     ],
     "phrases": [
       {
-        "c": "fall unconscious",
-        "cn": "昏迷"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200026,
-    "word": "calm",
-    "phonetic0": "kɑːm",
-    "phonetic1": "kɑːm",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "冷静的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Stay calm.",
-        "cn": "保持冷静。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "calm down",
-        "cn": "冷静下来"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1200027,
-    "word": "address",
-    "phonetic0": "əˈdres",
-    "phonetic1": "ˈædres",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "地址"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What's the address of the emergency?",
-        "cn": "出事地点的地址是哪里？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "exact address",
-        "cn": "确切地址"
+        "c": "be trapped",
+        "cn": "被困"
       }
     ],
     "synos": [],

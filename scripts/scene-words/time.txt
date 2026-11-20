@@ -1,0 +1,35 @@
+# 场景·时间日期
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+time | taɪm | taɪm | n.:时间 | What time is it? | 现在几点？ | on time:准时
+day | deɪ | deɪ | n.:天 | What day is it today? | 今天星期几？ | every day:每天
+today | təˈdeɪ | təˈdeɪ | adv.:今天 | I'm busy today. | 我今天很忙。 | today's date:今天的日期
+tomorrow | təˈmɒrəʊ | təˈmɑːroʊ | adv.:明天 | See you tomorrow. | 明天见。 | tomorrow morning:明天早上
+yesterday | ˈjestədeɪ | ˈjestərdeɪ | adv.:昨天 | I saw her yesterday. | 我昨天见到她了。 | yesterday afternoon:昨天下午
+week | wiːk | wiːk | n.:周 | I'll finish it next week. | 我下周完成。 | next week:下周
+month | mʌnθ | mʌnθ | n.:月 | I moved here last month. | 我上个月搬来的。 | last month:上个月
+year | jɪə | jɪr | n.:年 | Happy New Year! | 新年快乐！ | this year:今年
+hour | ˈaʊə | ˈaʊər | n.:小时 | I'll be back in an hour. | 我一小时后回来。 | half an hour:半小时
+minute | ˈmɪnɪt | ˈmɪnɪt | n.:分钟 | Wait a minute. | 等一下。 | in a minute:马上
+now | naʊ | naʊ | adv.:现在 | I'm leaving now. | 我现在走。 | right now:立刻
+early | ˈɜːli | ˈɜːrli | adj.:早的; adv.:早 | I got up early today. | 我今天起得早。 | early morning:清晨
+late | leɪt | leɪt | adj.:晚的; adv.:晚 | It's too late now. | 现在太晚了。 | stay up late:熬夜
+soon | suːn | suːn | adv.:很快 | See you soon! | 回头见！ | as soon as possible:尽快
+date | deɪt | deɪt | n.:日期 | What's the date today? | 今天几号？ | due date:截止日期
+clock | klɒk | klɑːk | n.:时钟 | The clock is five minutes fast. | 这个钟快了五分钟。 | alarm clock:闹钟
+afternoon | ˌɑːftəˈnuːn | ˌæftərˈnuːn | n.:下午 | I have a meeting this afternoon. | 我今天下午有个会。 | this afternoon:今天下午
+half | hɑːf | hæf | n.:一半 | It's half past six. | 现在六点半。 | half past:……点半
+quarter | ˈkwɔːtə | ˈkwɔːrtər | n.:一刻钟 | It's a quarter to nine. | 现在差一刻九点。 | quarter past:……点过一刻
+weekend | ˌwiːkˈend | ˈwiːkend | n.:周末 | What are you doing this weekend? | 你这周末做什么？ | this weekend:这周末
+Monday | ˈmʌndeɪ | ˈmʌndeɪ | n.:星期一 | I start work on Monday. | 我周一开始上班。 | on Monday:在周一
+Friday | ˈfraɪdeɪ | ˈfraɪdeɪ | n.:星期五 | Thank God it's Friday! | 终于到周五了！ | Friday night:周五晚上
+Sunday | ˈsʌndeɪ | ˈsʌndeɪ | n.:星期日 | We go to the park on Sundays. | 我们周日去公园。 | on Sundays:每周日
+birthday | ˈbɜːθdeɪ | ˈbɜːrθdeɪ | n.:生日 | When is your birthday? | 你生日是什么时候？ | birthday party:生日聚会
+already | ɔːlˈredi | ɔːlˈredi | adv.:已经 | I've already eaten. | 我已经吃过了。 | already done:已经做完
+yet | jet | jet | adv.:还（没） | I haven't finished yet. | 我还没完成。 | not yet:还没有
+ago | əˈɡəʊ | əˈɡoʊ | adv.:以前 | I arrived two days ago. | 我两天前到的。 | long ago:很久以前
+until | ənˈtɪl | ənˈtɪl | prep.:直到 | The shop is open until ten. | 商店营业到十点。 | until now:直到现在
+during | ˈdjʊərɪŋ | ˈdʊrɪŋ | prep.:在……期间 | I slept during the flight. | 我在飞机上睡了一觉。 | during the day:白天
+calendar | ˈkælɪndə | ˈkælɪndər | n.:日历 | Let me check my calendar. | 我看一下日历。 | lunar calendar:农历
+century | ˈsentʃəri | ˈsentʃəri | n.:世纪 | This building is from the 19th century. | 这栋建筑是19世纪的。 | 21st century:21世纪
+midnight | ˈmɪdnaɪt | ˈmɪdnaɪt | n.:午夜 | I went to bed at midnight. | 我半夜十二点才睡。 | at midnight:在午夜
+noon | nuːn | nuːn | n.:中午 | Let's meet at noon. | 我们中午见。 | at noon:在中午

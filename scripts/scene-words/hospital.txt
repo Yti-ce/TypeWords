@@ -34,3 +34,22 @@ serious | ˈsɪəriəs | ˈsɪriəs | adj.:严重的 | Is it serious, doctor? | 
 scan | skæn | skæn | n.:扫描检查; v.:扫描 | You need a scan of your knee. | 你的膝盖需要做个扫描检查。 | CT scan:CT扫描
 dentist | ˈdentɪst | ˈdentɪst | n.:牙医 | I have to go to the dentist. | 我得去看牙医。 | see the dentist:看牙医
 tooth | tuːθ | tuːθ | n.:牙齿 | My tooth really hurts. | 我牙很疼。 | toothache:牙疼
+health | helθ | helθ | n.:健康 | Your health is the most important thing. | 健康是最重要的。 | health check:体检
+ill | ɪl | ɪl | adj.:生病的 | I've been ill for a week. | 我病了一个星期了。 | fall ill:生病
+feel | fiːl | fiːl | v.:感觉 | How are you feeling today? | 你今天感觉怎么样？ | feel better:感觉好些
+better | ˈbetə | ˈbetər | adj.:好些的 | I feel much better now. | 我现在感觉好多了。 | get better:好转
+treatment | ˈtriːtmənt | ˈtriːtmənt | n.:治疗 | The treatment takes two weeks. | 治疗需要两周。 | medical treatment:医疗
+test | test | test | n.:检查，化验 | We need to do some tests. | 我们需要做几项检查。 | blood test:验血
+result | rɪˈzʌlt | rɪˈzʌlt | n.:结果 | The test results are normal. | 检查结果正常。 | test result:检查结果
+pressure | ˈpreʃə | ˈpreʃər | n.:压力；血压 | Your blood pressure is a bit high. | 你的血压有点高。 | blood pressure:血压
+heart | hɑːt | hɑːrt | n.:心脏 | Your heart rate is normal. | 你的心率正常。 | heart rate:心率
+breath | breθ | breθ | n.:呼吸 | Take a deep breath. | 深呼吸。 | short of breath:喘不过气
+operation | ˌɒpəˈreɪʃn | ˌɑːpəˈreɪʃn | n.:手术 | He needs an operation. | 他需要做手术。 | have an operation:做手术
+ward | wɔːd | wɔːrd | n.:病房 | She's in ward five. | 她在5号病房。 | hospital ward:病房
+clinic | ˈklɪnɪk | ˈklɪnɪk | n.:诊所 | There's a clinic near my home. | 我家附近有个诊所。 | dental clinic:牙科诊所
+specialist | ˈspeʃəlɪst | ˈspeʃəlɪst | n.:专科医生 | You should see a specialist. | 你应该去看专科医生。 | heart specialist:心脏科医生
+vomit | ˈvɒmɪt | ˈvɑːmɪt | v.:呕吐 | I vomited twice last night. | 我昨晚吐了两次。 | feel like vomiting:想吐
+swollen | ˈswəʊlən | ˈswoʊlən | adj.:肿的 | My ankle is swollen. | 我的脚踝肿了。 | swollen ankle:脚踝肿
+broken | ˈbrəʊkən | ˈbroʊkən | adj.:骨折的；坏的 | I think my arm is broken. | 我觉得我的胳膊骨折了。 | broken arm:骨折的胳膊
+weak | wiːk | wiːk | adj.:虚弱的 | I feel weak and tired. | 我觉得又虚又累。 | feel weak:感觉虚弱
+infection | ɪnˈfekʃn | ɪnˈfekʃn | n.:感染 | You have a throat infection. | 你喉咙发炎了。 | ear infection:耳朵感染

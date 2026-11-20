@@ -43,3 +43,21 @@ insurance | ɪnˈʃʊərəns | ɪnˈʃʊrəns | n.:保险 | Does this card inclu
 mortgage | ˈmɔːɡɪdʒ | ˈmɔːrɡɪdʒ | n.:按揭，房贷 | They took out a mortgage to buy the house. | 他们办了房贷买房子。 | pay off the mortgage:还清房贷
 overdraft | ˈəʊvədrɑːft | ˈoʊvərdræft | n.:透支 | I have a small overdraft on my account. | 我的账户有一点透支。 | overdraft fee:透支费
 invest | ɪnˈvest | ɪnˈvest | v.:投资 | I want to invest some of my savings. | 我想把一部分积蓄拿去投资。 | invest in:投资于
+open | ˈəʊpən | ˈoʊpən | v.:开（户） | I want to open a savings account. | 我想开个储蓄账户。 | open an account:开户
+close | kləʊz | kloʊz | v.:关闭，销户 | I'd like to close my account. | 我想销户。 | close an account:销户
+amount | əˈmaʊnt | əˈmaʊnt | n.:金额 | Please enter the amount. | 请输入金额。 | total amount:总金额
+total | ˈtəʊtl | ˈtoʊtl | n.:总额 | The total is shown at the bottom. | 总额显示在底部。 | in total:总共
+cost | kɒst | kɔːst | n.:费用 | Is there any extra cost? | 有额外费用吗？ | extra cost:额外费用
+charge | tʃɑːdʒ | tʃɑːrdʒ | n.:费用; v.:收费 | There is no charge for this. | 这个不收费。 | free of charge:免费
+machine | məˈʃiːn | məˈʃiːn | n.:机器 | The cash machine is out of order. | 自动取款机坏了。 | cash machine:取款机
+pin | pɪn | pɪn | n.:密码（PIN码） | Never tell anyone your PIN. | 不要把密码告诉任何人。 | PIN number:密码
+phone | fəʊn | foʊn | n.:手机 | Use your phone to confirm the payment. | 用手机确认付款。 | mobile phone:手机
+online | ˌɒnˈlaɪn | ˌɑːnˈlaɪn | adj.:网上的 | I use online banking. | 我用网上银行。 | online banking:网上银行
+confirm | kənˈfɜːm | kənˈfɜːrm | v.:确认 | Please confirm the transfer. | 请确认转账。 | confirm payment:确认付款
+cancel | ˈkænsl | ˈkænsl | v.:取消 | Can I cancel this payment? | 我能取消这笔付款吗？ | cancel a card:注销卡
+salary | ˈsæləri | ˈsæləri | n.:工资 | My salary goes into this account. | 我的工资打到这个账户。 | monthly salary:月薪
+foreign | ˈfɒrən | ˈfɔːrən | adj.:外国的 | Can I use this card in foreign countries? | 这张卡能在国外用吗？ | foreign currency:外币
+dollar | ˈdɒlə | ˈdɑːlər | n.:美元 | What's the rate for US dollars today? | 今天美元汇率是多少？ | US dollar:美元
+address | əˈdres | ˈædres | n.:地址 | I need to change my address. | 我需要改一下地址。 | change of address:地址变更
+document | ˈdɒkjumənt | ˈdɑːkjumənt | n.:证件；文件 | What documents do I need? | 我需要带什么证件？ | ID document:身份证件
+fraud | frɔːd | frɔːd | n.:诈骗 | I think this is a fraud call. | 我觉得这是诈骗电话。 | bank fraud:银行诈骗

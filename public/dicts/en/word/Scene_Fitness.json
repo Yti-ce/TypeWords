@@ -1,29 +1,25 @@
 [
   {
     "id": 1180001,
-    "word": "exercise",
-    "phonetic0": "ˈeksəsaɪz",
-    "phonetic1": "ˈeksərsaɪz",
+    "word": "play",
+    "phonetic0": "pleɪ",
+    "phonetic1": "pleɪ",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "锻炼"
-      },
-      {
         "pos": "v.",
-        "cn": "锻炼"
+        "cn": "玩，打（球）"
       }
     ],
     "sentences": [
       {
-        "c": "I exercise three times a week.",
-        "cn": "我每周锻炼三次。"
+        "c": "We play basketball after school.",
+        "cn": "我们放学后打篮球。"
       }
     ],
     "phrases": [
       {
-        "c": "do exercise",
-        "cn": "做运动"
+        "c": "play sports",
+        "cn": "运动"
       }
     ],
     "synos": [],
@@ -35,36 +31,6 @@
   },
   {
     "id": 1180002,
-    "word": "gym",
-    "phonetic0": "dʒɪm",
-    "phonetic1": "dʒɪm",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "健身房"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I go to the gym after work.",
-        "cn": "我下班后去健身房。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "go to the gym",
-        "cn": "去健身房"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180003,
     "word": "run",
     "phonetic0": "rʌn",
     "phonetic1": "rʌn",
@@ -98,7 +64,187 @@
     "etymology": []
   },
   {
+    "id": 1180003,
+    "word": "set",
+    "phonetic0": "set",
+    "phonetic1": "set",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（训练）组"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do ten reps in each set.",
+        "cn": "每组做十次。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "three sets",
+        "cn": "三组"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
     "id": 1180004,
+    "word": "court",
+    "phonetic0": "kɔːt",
+    "phonetic1": "kɔːrt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "球场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's book a badminton court.",
+        "cn": "我们订个羽毛球场吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "basketball court",
+        "cn": "篮球场"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180005,
+    "word": "game",
+    "phonetic0": "ɡeɪm",
+    "phonetic1": "ɡeɪm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "比赛，游戏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you want to play a game of tennis?",
+        "cn": "你想打一局网球吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "play a game",
+        "cn": "比赛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180006,
+    "word": "body",
+    "phonetic0": "ˈbɒdi",
+    "phonetic1": "ˈbɑːdi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "身体"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Exercise is good for your body.",
+        "cn": "运动对身体好。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "body weight",
+        "cn": "体重"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180007,
+    "word": "lose",
+    "phonetic0": "luːz",
+    "phonetic1": "luːz",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "输；失去"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We lost three to one.",
+        "cn": "我们三比一输了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lose a game",
+        "cn": "输比赛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180008,
+    "word": "team",
+    "phonetic0": "tiːm",
+    "phonetic1": "tiːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which team do you support?",
+        "cn": "你支持哪个队？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "home team",
+        "cn": "主队"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180009,
     "word": "walk",
     "phonetic0": "wɔːk",
     "phonetic1": "wɔːk",
@@ -132,26 +278,26 @@
     "etymology": []
   },
   {
-    "id": 1180005,
-    "word": "swim",
-    "phonetic0": "swɪm",
-    "phonetic1": "swɪm",
+    "id": 1180010,
+    "word": "win",
+    "phonetic0": "wɪn",
+    "phonetic1": "wɪn",
     "trans": [
       {
         "pos": "v.",
-        "cn": "游泳"
+        "cn": "赢"
       }
     ],
     "sentences": [
       {
-        "c": "Can you swim?",
-        "cn": "你会游泳吗？"
+        "c": "We won the game!",
+        "cn": "我们赢了比赛！"
       }
     ],
     "phrases": [
       {
-        "c": "go swimming",
-        "cn": "去游泳"
+        "c": "win a game",
+        "cn": "赢比赛"
       }
     ],
     "synos": [],
@@ -162,7 +308,97 @@
     "etymology": []
   },
   {
-    "id": 1180006,
+    "id": 1180011,
+    "word": "strong",
+    "phonetic0": "strɒŋ",
+    "phonetic1": "strɔːŋ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "强壮的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to get stronger.",
+        "cn": "我想变得更强壮。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get strong",
+        "cn": "变强壮"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180012,
+    "word": "player",
+    "phonetic0": "ˈpleɪə",
+    "phonetic1": "ˈpleɪər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "运动员，选手"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He's a great football player.",
+        "cn": "他是很棒的足球运动员。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "team player",
+        "cn": "有团队精神的人"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180013,
+    "word": "energy",
+    "phonetic0": "ˈenədʒi",
+    "phonetic1": "ˈenərdʒi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "精力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have more energy after exercise.",
+        "cn": "运动后我精力更充沛。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "full of energy",
+        "cn": "精力充沛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180014,
     "word": "sport",
     "phonetic0": "spɔːt",
     "phonetic1": "spɔːrt",
@@ -192,307 +428,7 @@
     "etymology": []
   },
   {
-    "id": 1180007,
-    "word": "fit",
-    "phonetic0": "fɪt",
-    "phonetic1": "fɪt",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "健康的，强健的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I want to get fit.",
-        "cn": "我想变得更健康。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "keep fit",
-        "cn": "保持健康"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180008,
-    "word": "healthy",
-    "phonetic0": "ˈhelθi",
-    "phonetic1": "ˈhelθi",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "健康的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Eat healthy food.",
-        "cn": "吃健康的食物。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "healthy diet",
-        "cn": "健康饮食"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180009,
-    "word": "weight",
-    "phonetic0": "weɪt",
-    "phonetic1": "weɪt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "体重；重量"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'm trying to lose weight.",
-        "cn": "我在减肥。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "lose weight",
-        "cn": "减肥"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180010,
-    "word": "muscle",
-    "phonetic0": "ˈmʌsl",
-    "phonetic1": "ˈmʌsl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "肌肉"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "My muscles hurt after training.",
-        "cn": "训练后我肌肉酸痛。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "build muscle",
-        "cn": "增肌"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180011,
-    "word": "train",
-    "phonetic0": "treɪn",
-    "phonetic1": "treɪn",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "训练"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I train with a coach.",
-        "cn": "我跟着教练训练。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "personal trainer",
-        "cn": "私人教练"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180012,
-    "word": "coach",
-    "phonetic0": "kəʊtʃ",
-    "phonetic1": "koʊtʃ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "教练"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "My coach is very strict.",
-        "cn": "我的教练很严格。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "fitness coach",
-        "cn": "健身教练"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180013,
-    "word": "stretch",
-    "phonetic0": "stretʃ",
-    "phonetic1": "stretʃ",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "拉伸"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Stretch before you run.",
-        "cn": "跑步前先拉伸。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "stretch out",
-        "cn": "伸展"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180014,
-    "word": "warm",
-    "phonetic0": "wɔːm",
-    "phonetic1": "wɔːrm",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "热身（warm up）"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Always warm up first.",
-        "cn": "一定要先热身。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "warm up",
-        "cn": "热身"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
     "id": 1180015,
-    "word": "tired",
-    "phonetic0": "ˈtaɪəd",
-    "phonetic1": "ˈtaɪərd",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "累的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'm tired after the workout.",
-        "cn": "锻炼完我很累。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "feel tired",
-        "cn": "觉得累"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180016,
-    "word": "workout",
-    "phonetic0": "ˈwɜːkaʊt",
-    "phonetic1": "ˈwɜːrkaʊt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "锻炼"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "That was a hard workout.",
-        "cn": "那次锻炼真累。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "daily workout",
-        "cn": "每日锻炼"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180017,
     "word": "rest",
     "phonetic0": "rest",
     "phonetic1": "rest",
@@ -526,26 +462,86 @@
     "etymology": []
   },
   {
-    "id": 1180018,
-    "word": "diet",
-    "phonetic0": "ˈdaɪət",
-    "phonetic1": "ˈdaɪət",
+    "id": 1180016,
+    "word": "ball",
+    "phonetic0": "bɔːl",
+    "phonetic1": "bɔːl",
     "trans": [
       {
         "pos": "n.",
-        "cn": "饮食；节食"
+        "cn": "球"
       }
     ],
     "sentences": [
       {
-        "c": "I'm on a diet.",
-        "cn": "我在节食。"
+        "c": "Pass me the ball!",
+        "cn": "把球传给我！"
       }
     ],
     "phrases": [
       {
-        "c": "go on a diet",
-        "cn": "节食"
+        "c": "kick the ball",
+        "cn": "踢球"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180017,
+    "word": "weight",
+    "phonetic0": "weɪt",
+    "phonetic1": "weɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "体重；重量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm trying to lose weight.",
+        "cn": "我在减肥。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lose weight",
+        "cn": "减肥"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180018,
+    "word": "coach",
+    "phonetic0": "kəʊtʃ",
+    "phonetic1": "koʊtʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "教练"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My coach is very strict.",
+        "cn": "我的教练很严格。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fitness coach",
+        "cn": "健身教练"
       }
     ],
     "synos": [],
@@ -557,25 +553,25 @@
   },
   {
     "id": 1180019,
-    "word": "yoga",
-    "phonetic0": "ˈjəʊɡə",
-    "phonetic1": "ˈjoʊɡə",
+    "word": "fit",
+    "phonetic0": "fɪt",
+    "phonetic1": "fɪt",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "瑜伽"
+        "pos": "adj.",
+        "cn": "健康的，强健的"
       }
     ],
     "sentences": [
       {
-        "c": "I do yoga on Sundays.",
-        "cn": "我周日做瑜伽。"
+        "c": "I want to get fit.",
+        "cn": "我想变得更健康。"
       }
     ],
     "phrases": [
       {
-        "c": "yoga class",
-        "cn": "瑜伽课"
+        "c": "keep fit",
+        "cn": "保持健康"
       }
     ],
     "synos": [],
@@ -587,216 +583,6 @@
   },
   {
     "id": 1180020,
-    "word": "football",
-    "phonetic0": "ˈfʊtbɔːl",
-    "phonetic1": "ˈfʊtbɔːl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "足球（美式 soccer）"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Let's play football this weekend.",
-        "cn": "这周末我们踢足球吧。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "play football",
-        "cn": "踢足球"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180021,
-    "word": "basketball",
-    "phonetic0": "ˈbɑːskɪtbɔːl",
-    "phonetic1": "ˈbæskɪtbɔːl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "篮球"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "He plays basketball every day.",
-        "cn": "他每天打篮球。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "play basketball",
-        "cn": "打篮球"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180022,
-    "word": "badminton",
-    "phonetic0": "ˈbædmɪntən",
-    "phonetic1": "ˈbædmɪntən",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "羽毛球"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Do you want to play badminton?",
-        "cn": "你想打羽毛球吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "play badminton",
-        "cn": "打羽毛球"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180023,
-    "word": "match",
-    "phonetic0": "mætʃ",
-    "phonetic1": "mætʃ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "比赛"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Did you watch the match last night?",
-        "cn": "你看昨晚的比赛了吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "football match",
-        "cn": "足球比赛"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180024,
-    "word": "team",
-    "phonetic0": "tiːm",
-    "phonetic1": "tiːm",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "队"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Which team do you support?",
-        "cn": "你支持哪个队？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "home team",
-        "cn": "主队"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180025,
-    "word": "win",
-    "phonetic0": "wɪn",
-    "phonetic1": "wɪn",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "赢"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We won the game!",
-        "cn": "我们赢了比赛！"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "win a game",
-        "cn": "赢比赛"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180026,
-    "word": "lose",
-    "phonetic0": "luːz",
-    "phonetic1": "luːz",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "输；失去"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We lost three to one.",
-        "cn": "我们三比一输了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "lose a game",
-        "cn": "输比赛"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1180027,
     "word": "score",
     "phonetic0": "skɔː",
     "phonetic1": "skɔːr",
@@ -830,7 +616,585 @@
     "etymology": []
   },
   {
+    "id": 1180021,
+    "word": "match",
+    "phonetic0": "mætʃ",
+    "phonetic1": "mætʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "比赛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did you watch the match last night?",
+        "cn": "你看昨晚的比赛了吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "football match",
+        "cn": "足球比赛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180022,
+    "word": "equipment",
+    "phonetic0": "ɪˈkwɪpmənt",
+    "phonetic1": "ɪˈkwɪpmənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "器材"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The gym has new equipment.",
+        "cn": "健身房有新器材。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "gym equipment",
+        "cn": "健身器材"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180023,
+    "word": "train",
+    "phonetic0": "treɪn",
+    "phonetic1": "treɪn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "训练"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I train with a coach.",
+        "cn": "我跟着教练训练。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "personal trainer",
+        "cn": "私人教练"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180024,
+    "word": "exercise",
+    "phonetic0": "ˈeksəsaɪz",
+    "phonetic1": "ˈeksərsaɪz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "锻炼"
+      },
+      {
+        "pos": "v.",
+        "cn": "锻炼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I exercise three times a week.",
+        "cn": "我每周锻炼三次。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do exercise",
+        "cn": "做运动"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180025,
+    "word": "injury",
+    "phonetic0": "ˈɪndʒəri",
+    "phonetic1": "ˈɪndʒəri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "受伤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He has a knee injury.",
+        "cn": "他膝盖受伤了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sports injury",
+        "cn": "运动损伤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180026,
+    "word": "lift",
+    "phonetic0": "lɪft",
+    "phonetic1": "lɪft",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "举"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I lift weights three times a week.",
+        "cn": "我每周举铁三次。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lift weights",
+        "cn": "举重"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180027,
+    "word": "warm",
+    "phonetic0": "wɔːm",
+    "phonetic1": "wɔːrm",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "热身（warm up）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Always warm up first.",
+        "cn": "一定要先热身。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "warm up",
+        "cn": "热身"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
     "id": 1180028,
+    "word": "football",
+    "phonetic0": "ˈfʊtbɔːl",
+    "phonetic1": "ˈfʊtbɔːl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "足球（美式 soccer）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's play football this weekend.",
+        "cn": "这周末我们踢足球吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "play football",
+        "cn": "踢足球"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180029,
+    "word": "healthy",
+    "phonetic0": "ˈhelθi",
+    "phonetic1": "ˈhelθi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "健康的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eat healthy food.",
+        "cn": "吃健康的食物。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "healthy diet",
+        "cn": "健康饮食"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180030,
+    "word": "pool",
+    "phonetic0": "puːl",
+    "phonetic1": "puːl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "游泳池"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I swim in the pool twice a week.",
+        "cn": "我每周在泳池游两次。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "swimming pool",
+        "cn": "游泳池"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180031,
+    "word": "fat",
+    "phonetic0": "fæt",
+    "phonetic1": "fæt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "脂肪"
+      },
+      {
+        "pos": "adj.",
+        "cn": "胖的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm trying to burn fat.",
+        "cn": "我在努力燃脂。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "burn fat",
+        "cn": "燃脂"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180032,
+    "word": "muscle",
+    "phonetic0": "ˈmʌsl",
+    "phonetic1": "ˈmʌsl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "肌肉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My muscles hurt after training.",
+        "cn": "训练后我肌肉酸痛。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "build muscle",
+        "cn": "增肌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180033,
+    "word": "membership",
+    "phonetic0": "ˈmembəʃɪp",
+    "phonetic1": "ˈmembərʃɪp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "会员资格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is a gym membership?",
+        "cn": "健身房会员多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "monthly membership",
+        "cn": "月卡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180034,
+    "word": "basketball",
+    "phonetic0": "ˈbɑːskɪtbɔːl",
+    "phonetic1": "ˈbæskɪtbɔːl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "篮球"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He plays basketball every day.",
+        "cn": "他每天打篮球。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "play basketball",
+        "cn": "打篮球"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180035,
+    "word": "stretch",
+    "phonetic0": "stretʃ",
+    "phonetic1": "stretʃ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "拉伸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Stretch before you run.",
+        "cn": "跑步前先拉伸。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stretch out",
+        "cn": "伸展"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180036,
+    "word": "tired",
+    "phonetic0": "ˈtaɪəd",
+    "phonetic1": "ˈtaɪərd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "累的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm tired after the workout.",
+        "cn": "锻炼完我很累。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel tired",
+        "cn": "觉得累"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180037,
+    "word": "diet",
+    "phonetic0": "ˈdaɪət",
+    "phonetic1": "ˈdaɪət",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "饮食；节食"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm on a diet.",
+        "cn": "我在节食。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go on a diet",
+        "cn": "节食"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180038,
+    "word": "tennis",
+    "phonetic0": "ˈtenɪs",
+    "phonetic1": "ˈtenɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网球"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you play tennis?",
+        "cn": "你打网球吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tennis court",
+        "cn": "网球场"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180039,
+    "word": "swim",
+    "phonetic0": "swɪm",
+    "phonetic1": "swɪm",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "游泳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you swim?",
+        "cn": "你会游泳吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go swimming",
+        "cn": "去游泳"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180040,
     "word": "sweat",
     "phonetic0": "swet",
     "phonetic1": "swet",
@@ -864,26 +1228,26 @@
     "etymology": []
   },
   {
-    "id": 1180029,
-    "word": "injury",
-    "phonetic0": "ˈɪndʒəri",
-    "phonetic1": "ˈɪndʒəri",
+    "id": 1180041,
+    "word": "gym",
+    "phonetic0": "dʒɪm",
+    "phonetic1": "dʒɪm",
     "trans": [
       {
         "pos": "n.",
-        "cn": "受伤"
+        "cn": "健身房"
       }
     ],
     "sentences": [
       {
-        "c": "He has a knee injury.",
-        "cn": "他膝盖受伤了。"
+        "c": "I go to the gym after work.",
+        "cn": "我下班后去健身房。"
       }
     ],
     "phrases": [
       {
-        "c": "sports injury",
-        "cn": "运动损伤"
+        "c": "go to the gym",
+        "cn": "去健身房"
       }
     ],
     "synos": [],
@@ -894,26 +1258,270 @@
     "etymology": []
   },
   {
-    "id": 1180030,
-    "word": "membership",
-    "phonetic0": "ˈmembəʃɪp",
-    "phonetic1": "ˈmembərʃɪp",
+    "id": 1180042,
+    "word": "workout",
+    "phonetic0": "ˈwɜːkaʊt",
+    "phonetic1": "ˈwɜːrkaʊt",
     "trans": [
       {
         "pos": "n.",
-        "cn": "会员资格"
+        "cn": "锻炼"
       }
     ],
     "sentences": [
       {
-        "c": "How much is a gym membership?",
-        "cn": "健身房会员多少钱？"
+        "c": "That was a hard workout.",
+        "cn": "那次锻炼真累。"
       }
     ],
     "phrases": [
       {
-        "c": "monthly membership",
-        "cn": "月卡"
+        "c": "daily workout",
+        "cn": "每日锻炼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180043,
+    "word": "locker",
+    "phonetic0": "ˈlɒkə",
+    "phonetic1": "ˈlɑːkər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "储物柜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put your bag in the locker.",
+        "cn": "把包放进储物柜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "locker room",
+        "cn": "更衣室"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180044,
+    "word": "marathon",
+    "phonetic0": "ˈmærəθən",
+    "phonetic1": "ˈmærəθɑːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "马拉松"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She ran a marathon last year.",
+        "cn": "她去年跑了一场马拉松。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "run a marathon",
+        "cn": "跑马拉松"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180045,
+    "word": "squat",
+    "phonetic0": "skwɒt",
+    "phonetic1": "skwɑːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "深蹲"
+      },
+      {
+        "pos": "v.",
+        "cn": "深蹲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do three sets of squats.",
+        "cn": "做三组深蹲。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do squats",
+        "cn": "做深蹲"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180046,
+    "word": "yoga",
+    "phonetic0": "ˈjəʊɡə",
+    "phonetic1": "ˈjoʊɡə",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "瑜伽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I do yoga on Sundays.",
+        "cn": "我周日做瑜伽。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "yoga class",
+        "cn": "瑜伽课"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180047,
+    "word": "cycling",
+    "phonetic0": "ˈsaɪklɪŋ",
+    "phonetic1": "ˈsaɪklɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "骑行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cycling is my favourite exercise.",
+        "cn": "骑行是我最喜欢的运动。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go cycling",
+        "cn": "去骑行"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180048,
+    "word": "hiking",
+    "phonetic0": "ˈhaɪkɪŋ",
+    "phonetic1": "ˈhaɪkɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "徒步"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We went hiking in the mountains.",
+        "cn": "我们去山里徒步了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go hiking",
+        "cn": "去徒步"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180049,
+    "word": "calorie",
+    "phonetic0": "ˈkæləri",
+    "phonetic1": "ˈkæləri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "卡路里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Running burns a lot of calories.",
+        "cn": "跑步消耗很多卡路里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "burn calories",
+        "cn": "消耗卡路里"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1180050,
+    "word": "badminton",
+    "phonetic0": "ˈbædmɪntən",
+    "phonetic1": "ˈbædmɪntən",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "羽毛球"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you want to play badminton?",
+        "cn": "你想打羽毛球吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "play badminton",
+        "cn": "打羽毛球"
       }
     ],
     "synos": [],

@@ -1,25 +1,25 @@
 [
   {
     "id": 1060001,
-    "word": "pharmacy",
-    "phonetic0": "ˈfɑːməsi",
-    "phonetic1": "ˈfɑːrməsi",
+    "word": "before",
+    "phonetic0": "bɪˈfɔː",
+    "phonetic1": "bɪˈfɔːr",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "药店"
+        "pos": "prep.",
+        "cn": "在……之前"
       }
     ],
     "sentences": [
       {
-        "c": "Is there a pharmacy near here?",
-        "cn": "这附近有药店吗？"
+        "c": "Take it before going to bed.",
+        "cn": "睡前服用。"
       }
     ],
     "phrases": [
       {
-        "c": "24-hour pharmacy",
-        "cn": "24小时药店"
+        "c": "before meals",
+        "cn": "饭前"
       }
     ],
     "synos": [],
@@ -31,25 +31,25 @@
   },
   {
     "id": 1060002,
-    "word": "medicine",
-    "phonetic0": "ˈmedsn",
-    "phonetic1": "ˈmedɪsn",
+    "word": "water",
+    "phonetic0": "ˈwɔːtə",
+    "phonetic1": "ˈwɔːtər",
     "trans": [
       {
         "pos": "n.",
-        "cn": "药"
+        "cn": "水"
       }
     ],
     "sentences": [
       {
-        "c": "Do you have any medicine for a cold?",
-        "cn": "有治感冒的药吗？"
+        "c": "Take it with a glass of water.",
+        "cn": "用一杯水送服。"
       }
     ],
     "phrases": [
       {
-        "c": "cold medicine",
-        "cn": "感冒药"
+        "c": "warm water",
+        "cn": "温水"
       }
     ],
     "synos": [],
@@ -61,336 +61,6 @@
   },
   {
     "id": 1060003,
-    "word": "tablet",
-    "phonetic0": "ˈtæblət",
-    "phonetic1": "ˈtæblət",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "药片"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Take two tablets after meals.",
-        "cn": "饭后吃两片。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "take a tablet",
-        "cn": "吃一片药"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060004,
-    "word": "pill",
-    "phonetic0": "pɪl",
-    "phonetic1": "pɪl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "药丸"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I can't swallow big pills.",
-        "cn": "我咽不下大药丸。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "sleeping pill",
-        "cn": "安眠药"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060005,
-    "word": "dose",
-    "phonetic0": "dəʊs",
-    "phonetic1": "doʊs",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "剂量"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Don't take more than the stated dose.",
-        "cn": "不要超过规定剂量。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "daily dose",
-        "cn": "每日剂量"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060006,
-    "word": "painkiller",
-    "phonetic0": "ˈpeɪnkɪlə",
-    "phonetic1": "ˈpeɪnkɪlər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "止痛药"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can I get a painkiller for my headache?",
-        "cn": "能给我一点治头疼的止痛药吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "take a painkiller",
-        "cn": "吃止痛药"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060007,
-    "word": "pharmacist",
-    "phonetic0": "ˈfɑːməsɪst",
-    "phonetic1": "ˈfɑːrməsɪst",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "药剂师"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Ask the pharmacist for advice.",
-        "cn": "问问药剂师的建议。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "ask the pharmacist",
-        "cn": "问药剂师"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060008,
-    "word": "prescription",
-    "phonetic0": "prɪˈskrɪpʃn",
-    "phonetic1": "prɪˈskrɪpʃn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "处方"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can I buy this without a prescription?",
-        "cn": "这个不用处方能买吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "prescription drug",
-        "cn": "处方药"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060009,
-    "word": "cream",
-    "phonetic0": "kriːm",
-    "phonetic1": "kriːm",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "药膏；面霜"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Put this cream on twice a day.",
-        "cn": "这个药膏一天涂两次。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "apply cream",
-        "cn": "涂药膏"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060010,
-    "word": "plaster",
-    "phonetic0": "ˈplɑːstə",
-    "phonetic1": "ˈplæstər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "创可贴（美式 band-aid）"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I need a plaster for my finger.",
-        "cn": "我手指需要一个创可贴。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "put on a plaster",
-        "cn": "贴创可贴"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060011,
-    "word": "bandage",
-    "phonetic0": "ˈbændɪdʒ",
-    "phonetic1": "ˈbændɪdʒ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "绷带"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Wrap a bandage around it.",
-        "cn": "用绷带把它包起来。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "elastic bandage",
-        "cn": "弹力绷带"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060012,
-    "word": "vitamin",
-    "phonetic0": "ˈvɪtəmɪn",
-    "phonetic1": "ˈvaɪtəmɪn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "维生素"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I take vitamin C every day.",
-        "cn": "我每天吃维生素C。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "vitamin C",
-        "cn": "维生素C"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060013,
-    "word": "mask",
-    "phonetic0": "mɑːsk",
-    "phonetic1": "mæsk",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "口罩；面具"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Do you sell face masks?",
-        "cn": "你们卖口罩吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "face mask",
-        "cn": "口罩"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060014,
     "word": "effect",
     "phonetic0": "ɪˈfekt",
     "phonetic1": "ɪˈfekt",
@@ -420,7 +90,37 @@
     "etymology": []
   },
   {
-    "id": 1060015,
+    "id": 1060004,
+    "word": "strong",
+    "phonetic0": "strɒŋ",
+    "phonetic1": "strɔːŋ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "强效的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there anything stronger?",
+        "cn": "有药效更强的吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "strong medicine",
+        "cn": "强效药"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060005,
     "word": "drops",
     "phonetic0": "drɒps",
     "phonetic1": "drɑːps",
@@ -450,26 +150,26 @@
     "etymology": []
   },
   {
-    "id": 1060016,
-    "word": "syrup",
-    "phonetic0": "ˈsɪrəp",
-    "phonetic1": "ˈsɪrəp",
+    "id": 1060006,
+    "word": "box",
+    "phonetic0": "bɒks",
+    "phonetic1": "bɑːks",
     "trans": [
       {
         "pos": "n.",
-        "cn": "糖浆"
+        "cn": "盒"
       }
     ],
     "sentences": [
       {
-        "c": "This cough syrup works well.",
-        "cn": "这个止咳糖浆很有效。"
+        "c": "One box should be enough.",
+        "cn": "一盒应该够了。"
       }
     ],
     "phrases": [
       {
-        "c": "cough syrup",
-        "cn": "止咳糖浆"
+        "c": "a box of",
+        "cn": "一盒"
       }
     ],
     "synos": [],
@@ -480,26 +180,26 @@
     "etymology": []
   },
   {
-    "id": 1060017,
-    "word": "swallow",
-    "phonetic0": "ˈswɒləʊ",
-    "phonetic1": "ˈswɑːloʊ",
+    "id": 1060007,
+    "word": "cold",
+    "phonetic0": "kəʊld",
+    "phonetic1": "koʊld",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "吞咽"
+        "pos": "n.",
+        "cn": "感冒"
       }
     ],
     "sentences": [
       {
-        "c": "Swallow the tablet with water.",
-        "cn": "用水把药片吞下去。"
+        "c": "I need something for a cold.",
+        "cn": "我需要治感冒的药。"
       }
     ],
     "phrases": [
       {
-        "c": "hard to swallow",
-        "cn": "难以下咽"
+        "c": "catch a cold",
+        "cn": "感冒"
       }
     ],
     "synos": [],
@@ -510,7 +210,127 @@
     "etymology": []
   },
   {
-    "id": 1060018,
+    "id": 1060008,
+    "word": "pain",
+    "phonetic0": "peɪn",
+    "phonetic1": "peɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "疼痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's good for back pain.",
+        "cn": "这个对背痛有效。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "back pain",
+        "cn": "背痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060009,
+    "word": "skin",
+    "phonetic0": "skɪn",
+    "phonetic1": "skɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "皮肤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this cream safe for sensitive skin?",
+        "cn": "这个药膏敏感肌能用吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dry skin",
+        "cn": "干性皮肤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060010,
+    "word": "safe",
+    "phonetic0": "seɪf",
+    "phonetic1": "seɪf",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "安全的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is it safe to take during pregnancy?",
+        "cn": "怀孕期间吃安全吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "safe for",
+        "cn": "对……安全"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060011,
+    "word": "twice",
+    "phonetic0": "twaɪs",
+    "phonetic1": "twaɪs",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "两次"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take it twice a day.",
+        "cn": "一天吃两次。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "twice a day",
+        "cn": "一天两次"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060012,
     "word": "meal",
     "phonetic0": "miːl",
     "phonetic1": "miːl",
@@ -540,7 +360,37 @@
     "etymology": []
   },
   {
-    "id": 1060019,
+    "id": 1060013,
+    "word": "medicine",
+    "phonetic0": "ˈmedsn",
+    "phonetic1": "ˈmedɪsn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "药"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have any medicine for a cold?",
+        "cn": "有治感冒的药吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cold medicine",
+        "cn": "感冒药"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060014,
     "word": "daily",
     "phonetic0": "ˈdeɪli",
     "phonetic1": "ˈdeɪli",
@@ -574,7 +424,577 @@
     "etymology": []
   },
   {
+    "id": 1060015,
+    "word": "instructions",
+    "phonetic0": "ɪnˈstrʌkʃnz",
+    "phonetic1": "ɪnˈstrʌkʃnz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "说明，用法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Read the instructions carefully.",
+        "cn": "仔细阅读说明书。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "follow the instructions",
+        "cn": "按说明使用"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060016,
+    "word": "bottle",
+    "phonetic0": "ˈbɒtl",
+    "phonetic1": "ˈbɑːtl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "瓶子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Shake the bottle before use.",
+        "cn": "使用前摇匀。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a bottle of",
+        "cn": "一瓶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060017,
+    "word": "empty",
+    "phonetic0": "ˈempti",
+    "phonetic1": "ˈempti",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "空的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't take it on an empty stomach.",
+        "cn": "不要空腹服用。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on an empty stomach",
+        "cn": "空腹"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060018,
+    "word": "cream",
+    "phonetic0": "kriːm",
+    "phonetic1": "kriːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "药膏；面霜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put this cream on twice a day.",
+        "cn": "这个药膏一天涂两次。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "apply cream",
+        "cn": "涂药膏"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060019,
+    "word": "throat",
+    "phonetic0": "θrəʊt",
+    "phonetic1": "θroʊt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "喉咙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These sweets are good for a sore throat.",
+        "cn": "这种含片对喉咙痛有好处。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sore throat",
+        "cn": "喉咙痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
     "id": 1060020,
+    "word": "stomach",
+    "phonetic0": "ˈstʌmək",
+    "phonetic1": "ˈstʌmək",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "胃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have an upset stomach.",
+        "cn": "我肠胃不舒服。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "upset stomach",
+        "cn": "肠胃不适"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060021,
+    "word": "mask",
+    "phonetic0": "mɑːsk",
+    "phonetic1": "mæsk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "口罩；面具"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you sell face masks?",
+        "cn": "你们卖口罩吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "face mask",
+        "cn": "口罩"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060022,
+    "word": "cotton",
+    "phonetic0": "ˈkɒtn",
+    "phonetic1": "ˈkɑːtn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "棉花"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need some cotton wool.",
+        "cn": "我需要一些棉花。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cotton swab",
+        "cn": "棉签"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060023,
+    "word": "dose",
+    "phonetic0": "dəʊs",
+    "phonetic1": "doʊs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "剂量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't take more than the stated dose.",
+        "cn": "不要超过规定剂量。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "daily dose",
+        "cn": "每日剂量"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060024,
+    "word": "swallow",
+    "phonetic0": "ˈswɒləʊ",
+    "phonetic1": "ˈswɑːloʊ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "吞咽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Swallow the tablet with water.",
+        "cn": "用水把药片吞下去。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hard to swallow",
+        "cn": "难以下咽"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060025,
+    "word": "prescription",
+    "phonetic0": "prɪˈskrɪpʃn",
+    "phonetic1": "prɪˈskrɪpʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "处方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I buy this without a prescription?",
+        "cn": "这个不用处方能买吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "prescription drug",
+        "cn": "处方药"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060026,
+    "word": "pill",
+    "phonetic0": "pɪl",
+    "phonetic1": "pɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "药丸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can't swallow big pills.",
+        "cn": "我咽不下大药丸。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sleeping pill",
+        "cn": "安眠药"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060027,
+    "word": "vitamin",
+    "phonetic0": "ˈvɪtəmɪn",
+    "phonetic1": "ˈvaɪtəmɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "维生素"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I take vitamin C every day.",
+        "cn": "我每天吃维生素C。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "vitamin C",
+        "cn": "维生素C"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060028,
+    "word": "fever",
+    "phonetic0": "ˈfiːvə",
+    "phonetic1": "ˈfiːvər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "发烧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This helps bring down a fever.",
+        "cn": "这个能退烧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "high fever",
+        "cn": "高烧"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060029,
+    "word": "headache",
+    "phonetic0": "ˈhedeɪk",
+    "phonetic1": "ˈhedeɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "头痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have anything for a headache?",
+        "cn": "有治头疼的药吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bad headache",
+        "cn": "严重头痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060030,
+    "word": "tablet",
+    "phonetic0": "ˈtæblət",
+    "phonetic1": "ˈtæblət",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "药片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take two tablets after meals.",
+        "cn": "饭后吃两片。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take a tablet",
+        "cn": "吃一片药"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060031,
+    "word": "mosquito",
+    "phonetic0": "məˈskiːtəʊ",
+    "phonetic1": "məˈskiːtoʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蚊子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need something for mosquito bites.",
+        "cn": "我需要治蚊子咬的药。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mosquito bite",
+        "cn": "蚊子包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060032,
+    "word": "cough",
+    "phonetic0": "kɒf",
+    "phonetic1": "kɔːf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "咳嗽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have anything for a cough?",
+        "cn": "有止咳的药吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dry cough",
+        "cn": "干咳"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060033,
+    "word": "plaster",
+    "phonetic0": "ˈplɑːstə",
+    "phonetic1": "ˈplæstər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "创可贴（美式 band-aid）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a plaster for my finger.",
+        "cn": "我手指需要一个创可贴。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "put on a plaster",
+        "cn": "贴创可贴"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060034,
     "word": "expire",
     "phonetic0": "ɪkˈspaɪə",
     "phonetic1": "ɪkˈspaɪər",
@@ -604,26 +1024,26 @@
     "etymology": []
   },
   {
-    "id": 1060021,
-    "word": "thermometer",
-    "phonetic0": "θəˈmɒmɪtə",
-    "phonetic1": "θərˈmɑːmɪtər",
+    "id": 1060035,
+    "word": "syrup",
+    "phonetic0": "ˈsɪrəp",
+    "phonetic1": "ˈsɪrəp",
     "trans": [
       {
         "pos": "n.",
-        "cn": "体温计"
+        "cn": "糖浆"
       }
     ],
     "sentences": [
       {
-        "c": "I need a thermometer.",
-        "cn": "我需要一个体温计。"
+        "c": "This cough syrup works well.",
+        "cn": "这个止咳糖浆很有效。"
       }
     ],
     "phrases": [
       {
-        "c": "digital thermometer",
-        "cn": "电子体温计"
+        "c": "cough syrup",
+        "cn": "止咳糖浆"
       }
     ],
     "synos": [],
@@ -634,97 +1054,7 @@
     "etymology": []
   },
   {
-    "id": 1060022,
-    "word": "allergic",
-    "phonetic0": "əˈlɜːdʒɪk",
-    "phonetic1": "əˈlɜːrdʒɪk",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "过敏的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'm allergic to penicillin.",
-        "cn": "我对青霉素过敏。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "allergic reaction",
-        "cn": "过敏反应"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060023,
-    "word": "itchy",
-    "phonetic0": "ˈɪtʃi",
-    "phonetic1": "ˈɪtʃi",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "痒的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "My skin is very itchy.",
-        "cn": "我皮肤很痒。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "itchy skin",
-        "cn": "皮肤痒"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060024,
-    "word": "rash",
-    "phonetic0": "ræʃ",
-    "phonetic1": "ræʃ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "皮疹"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I have a rash on my arm.",
-        "cn": "我手臂上起了疹子。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "skin rash",
-        "cn": "皮疹"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1060025,
+    "id": 1060036,
     "word": "diarrhoea",
     "phonetic0": "ˌdaɪəˈrɪə",
     "phonetic1": "ˌdaɪəˈriːə",
@@ -754,7 +1084,7 @@
     "etymology": []
   },
   {
-    "id": 1060026,
+    "id": 1060037,
     "word": "sleepy",
     "phonetic0": "ˈsliːpi",
     "phonetic1": "ˈsliːpi",
@@ -774,6 +1104,306 @@
       {
         "c": "feel sleepy",
         "cn": "犯困"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060038,
+    "word": "times",
+    "phonetic0": "taɪmz",
+    "phonetic1": "taɪmz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "次数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How many times a day should I take it?",
+        "cn": "一天应该吃几次？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "three times a day",
+        "cn": "一天三次"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060039,
+    "word": "pharmacy",
+    "phonetic0": "ˈfɑːməsi",
+    "phonetic1": "ˈfɑːrməsi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "药店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a pharmacy near here?",
+        "cn": "这附近有药店吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "24-hour pharmacy",
+        "cn": "24小时药店"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060040,
+    "word": "rash",
+    "phonetic0": "ræʃ",
+    "phonetic1": "ræʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "皮疹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a rash on my arm.",
+        "cn": "我手臂上起了疹子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "skin rash",
+        "cn": "皮疹"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060041,
+    "word": "allergic",
+    "phonetic0": "əˈlɜːdʒɪk",
+    "phonetic1": "əˈlɜːrdʒɪk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "过敏的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm allergic to penicillin.",
+        "cn": "我对青霉素过敏。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "allergic reaction",
+        "cn": "过敏反应"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060042,
+    "word": "bandage",
+    "phonetic0": "ˈbændɪdʒ",
+    "phonetic1": "ˈbændɪdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "绷带"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wrap a bandage around it.",
+        "cn": "用绷带把它包起来。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "elastic bandage",
+        "cn": "弹力绷带"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060043,
+    "word": "thermometer",
+    "phonetic0": "θəˈmɒmɪtə",
+    "phonetic1": "θərˈmɑːmɪtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "体温计"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a thermometer.",
+        "cn": "我需要一个体温计。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "digital thermometer",
+        "cn": "电子体温计"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060044,
+    "word": "pharmacist",
+    "phonetic0": "ˈfɑːməsɪst",
+    "phonetic1": "ˈfɑːrməsɪst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "药剂师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ask the pharmacist for advice.",
+        "cn": "问问药剂师的建议。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ask the pharmacist",
+        "cn": "问药剂师"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060045,
+    "word": "painkiller",
+    "phonetic0": "ˈpeɪnkɪlə",
+    "phonetic1": "ˈpeɪnkɪlər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "止痛药"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get a painkiller for my headache?",
+        "cn": "能给我一点治头疼的止痛药吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take a painkiller",
+        "cn": "吃止痛药"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060046,
+    "word": "sunburn",
+    "phonetic0": "ˈsʌnbɜːn",
+    "phonetic1": "ˈsʌnbɜːrn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "晒伤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This cream is good for sunburn.",
+        "cn": "这个药膏对晒伤有用。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bad sunburn",
+        "cn": "严重晒伤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1060047,
+    "word": "itchy",
+    "phonetic0": "ˈɪtʃi",
+    "phonetic1": "ˈɪtʃi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "痒的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My skin is very itchy.",
+        "cn": "我皮肤很痒。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "itchy skin",
+        "cn": "皮肤痒"
       }
     ],
     "synos": [],

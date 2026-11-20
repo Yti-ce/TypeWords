@@ -1,0 +1,966 @@
+[
+  {
+    "id": 1360001,
+    "word": "system",
+    "phonetic0": "ˈsɪstəm",
+    "phonetic1": "ˈsɪstəm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "系统"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The system is down.",
+        "cn": "系统宕机了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "operating system",
+        "cn": "操作系统"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360002,
+    "word": "open",
+    "phonetic0": "ˈəʊpən",
+    "phonetic1": "ˈoʊpən",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "打开"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can't open this file.",
+        "cn": "我打不开这个文件。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "open a document",
+        "cn": "打开文档"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360003,
+    "word": "type",
+    "phonetic0": "taɪp",
+    "phonetic1": "taɪp",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "打字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I type very fast.",
+        "cn": "我打字很快。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "type in",
+        "cn": "输入"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360004,
+    "word": "computer",
+    "phonetic0": "kəmˈpjuːtə",
+    "phonetic1": "kəmˈpjuːtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电脑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My computer is very slow.",
+        "cn": "我的电脑很慢。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "computer screen",
+        "cn": "电脑屏幕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360005,
+    "word": "save",
+    "phonetic0": "seɪv",
+    "phonetic1": "seɪv",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "保存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't forget to save your work.",
+        "cn": "别忘了保存你的工作。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "save as",
+        "cn": "另存为"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360006,
+    "word": "document",
+    "phonetic0": "ˈdɒkjumənt",
+    "phonetic1": "ˈdɑːkjumənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文档"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll share the document with you.",
+        "cn": "我把文档共享给你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Word document",
+        "cn": "Word文档"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360007,
+    "word": "software",
+    "phonetic0": "ˈsɒftweə",
+    "phonetic1": "ˈsɔːftwer",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "软件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You need to install the software.",
+        "cn": "你需要安装这个软件。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "install software",
+        "cn": "安装软件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360008,
+    "word": "file",
+    "phonetic0": "faɪl",
+    "phonetic1": "faɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Save the file before you close it.",
+        "cn": "关闭前先保存文件。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "open a file",
+        "cn": "打开文件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360009,
+    "word": "copy",
+    "phonetic0": "ˈkɒpi",
+    "phonetic1": "ˈkɑːpi",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "复制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Copy and paste the text.",
+        "cn": "把文字复制粘贴。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "copy and paste",
+        "cn": "复制粘贴"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360010,
+    "word": "screen",
+    "phonetic0": "skriːn",
+    "phonetic1": "skriːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "屏幕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Share your screen, please.",
+        "cn": "请共享你的屏幕。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "share screen",
+        "cn": "共享屏幕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360011,
+    "word": "link",
+    "phonetic0": "lɪŋk",
+    "phonetic1": "lɪŋk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "链接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Click the link to join the meeting.",
+        "cn": "点链接加入会议。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "meeting link",
+        "cn": "会议链接"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360012,
+    "word": "search",
+    "phonetic0": "sɜːtʃ",
+    "phonetic1": "sɜːrtʃ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "搜索"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Search for the file by name.",
+        "cn": "按名字搜索文件。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "search engine",
+        "cn": "搜索引擎"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360013,
+    "word": "error",
+    "phonetic0": "ˈerə",
+    "phonetic1": "ˈerər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "错误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I keep getting an error message.",
+        "cn": "我一直收到错误提示。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "error message",
+        "cn": "错误信息"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360014,
+    "word": "cloud",
+    "phonetic0": "klaʊd",
+    "phonetic1": "klaʊd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "云（存储）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "All my files are in the cloud.",
+        "cn": "我所有文件都在云端。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cloud storage",
+        "cn": "云存储"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360015,
+    "word": "print",
+    "phonetic0": "prɪnt",
+    "phonetic1": "prɪnt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "打印"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you print this for me?",
+        "cn": "你能帮我打印一下吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "print out",
+        "cn": "打印出来"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360016,
+    "word": "install",
+    "phonetic0": "ɪnˈstɔːl",
+    "phonetic1": "ɪnˈstɔːl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "安装"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do I install this app?",
+        "cn": "这个应用怎么安装？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "install updates",
+        "cn": "安装更新"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360017,
+    "word": "virus",
+    "phonetic0": "ˈvaɪrəs",
+    "phonetic1": "ˈvaɪrəs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "病毒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My laptop has a virus.",
+        "cn": "我的笔记本中病毒了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "computer virus",
+        "cn": "电脑病毒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360018,
+    "word": "crash",
+    "phonetic0": "kræʃ",
+    "phonetic1": "kræʃ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "崩溃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The program crashed again.",
+        "cn": "程序又崩溃了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "system crash",
+        "cn": "系统崩溃"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360019,
+    "word": "mouse",
+    "phonetic0": "maʊs",
+    "phonetic1": "maʊs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鼠标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Right-click with the mouse.",
+        "cn": "用鼠标右键单击。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wireless mouse",
+        "cn": "无线鼠标"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360020,
+    "word": "format",
+    "phonetic0": "ˈfɔːmæt",
+    "phonetic1": "ˈfɔːrmæt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "格式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What format should I use?",
+        "cn": "我应该用什么格式？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "file format",
+        "cn": "文件格式"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360021,
+    "word": "update",
+    "phonetic0": "ˌʌpˈdeɪt",
+    "phonetic1": "ˌʌpˈdeɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "更新"
+      },
+      {
+        "pos": "v.",
+        "cn": "更新"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Restart to finish the update.",
+        "cn": "重启以完成更新。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "system update",
+        "cn": "系统更新"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360022,
+    "word": "keyboard",
+    "phonetic0": "ˈkiːbɔːd",
+    "phonetic1": "ˈkiːbɔːrd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "键盘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The keyboard is not working.",
+        "cn": "键盘不好用了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "keyboard shortcut",
+        "cn": "快捷键"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360023,
+    "word": "backup",
+    "phonetic0": "ˈbækʌp",
+    "phonetic1": "ˈbækʌp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "备份"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Always keep a backup.",
+        "cn": "一定要留备份。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "back up",
+        "cn": "备份"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360024,
+    "word": "delete",
+    "phonetic0": "dɪˈliːt",
+    "phonetic1": "dɪˈliːt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "删除"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did you delete the old version?",
+        "cn": "你删掉旧版本了吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "delete a file",
+        "cn": "删除文件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360025,
+    "word": "download",
+    "phonetic0": "ˌdaʊnˈləʊd",
+    "phonetic1": "ˈdaʊnloʊd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "下载"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Download the report as a PDF.",
+        "cn": "把报告下载成PDF。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "download a file",
+        "cn": "下载文件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360026,
+    "word": "spreadsheet",
+    "phonetic0": "ˈspredʃiːt",
+    "phonetic1": "ˈspredʃiːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电子表格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put the data in a spreadsheet.",
+        "cn": "把数据放进表格里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Excel spreadsheet",
+        "cn": "Excel表格"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360027,
+    "word": "folder",
+    "phonetic0": "ˈfəʊldə",
+    "phonetic1": "ˈfoʊldər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文件夹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put it in the shared folder.",
+        "cn": "把它放进共享文件夹。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shared folder",
+        "cn": "共享文件夹"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360028,
+    "word": "paste",
+    "phonetic0": "peɪst",
+    "phonetic1": "peɪst",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "粘贴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Paste it into the email.",
+        "cn": "把它粘贴到邮件里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cut and paste",
+        "cn": "剪切粘贴"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360029,
+    "word": "password",
+    "phonetic0": "ˈpɑːswɜːd",
+    "phonetic1": "ˈpæswɜːrd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "密码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Change your password every three months.",
+        "cn": "每三个月改一次密码。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "strong password",
+        "cn": "强密码"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360030,
+    "word": "shortcut",
+    "phonetic0": "ˈʃɔːtkʌt",
+    "phonetic1": "ˈʃɔːrtkʌt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "快捷键；捷径"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use the shortcut Ctrl+C.",
+        "cn": "用快捷键Ctrl+C。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "keyboard shortcut",
+        "cn": "快捷键"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360031,
+    "word": "upload",
+    "phonetic0": "ˌʌpˈləʊd",
+    "phonetic1": "ˈʌploʊd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "上传"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Upload the file to the drive.",
+        "cn": "把文件上传到网盘。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "upload a file",
+        "cn": "上传文件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1360032,
+    "word": "login",
+    "phonetic0": "ˈlɒɡɪn",
+    "phonetic1": "ˈlɔːɡɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "登录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I forgot my login details.",
+        "cn": "我忘了登录信息。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "login page",
+        "cn": "登录页面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

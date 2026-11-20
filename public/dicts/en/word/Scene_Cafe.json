@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1240001,
+    "word": "go",
+    "phonetic0": "ɡəʊ",
+    "phonetic1": "ɡoʊ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "走；带走"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll take it to go.",
+        "cn": "我带走。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "to go",
+        "cn": "外带"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240002,
+    "word": "here",
+    "phonetic0": "hɪə",
+    "phonetic1": "hɪr",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在这里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "For here or to go?",
+        "cn": "在这儿喝还是带走？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "for here",
+        "cn": "堂食"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240003,
+    "word": "small",
+    "phonetic0": "smɔːl",
+    "phonetic1": "smɔːl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "小的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A small cup is enough.",
+        "cn": "小杯就够了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "small size",
+        "cn": "小杯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240004,
+    "word": "large",
+    "phonetic0": "lɑːdʒ",
+    "phonetic1": "lɑːrdʒ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "大的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll have a large one.",
+        "cn": "我要大杯的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "large size",
+        "cn": "大杯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240005,
+    "word": "name",
+    "phonetic0": "neɪm",
+    "phonetic1": "neɪm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "名字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get a name for the order?",
+        "cn": "订单写什么名字？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "your name",
+        "cn": "你的名字"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240006,
+    "word": "wait",
+    "phonetic0": "weɪt",
+    "phonetic1": "weɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "等"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please wait for your number.",
+        "cn": "请等叫号。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wait a moment",
+        "cn": "稍等"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240007,
+    "word": "strong",
+    "phonetic0": "strɒŋ",
+    "phonetic1": "strɔːŋ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "浓的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Make it strong, please.",
+        "cn": "请做浓一点。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "strong coffee",
+        "cn": "浓咖啡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240008,
+    "word": "hot",
+    "phonetic0": "hɒt",
+    "phonetic1": "hɑːt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "热的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "One hot latte, please.",
+        "cn": "请来一杯热拿铁。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hot drink",
+        "cn": "热饮"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240009,
+    "word": "cup",
+    "phonetic0": "kʌp",
+    "phonetic1": "kʌp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "杯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have a large cup?",
+        "cn": "可以要大杯吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "paper cup",
+        "cn": "纸杯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240010,
+    "word": "seat",
+    "phonetic0": "siːt",
+    "phonetic1": "siːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "座位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is anyone sitting here?",
+        "cn": "这里有人坐吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "window seat",
+        "cn": "靠窗座位"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240011,
+    "word": "medium",
+    "phonetic0": "ˈmiːdiəm",
+    "phonetic1": "ˈmiːdiəm",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "中等的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Medium or large?",
+        "cn": "中杯还是大杯？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "medium size",
+        "cn": "中杯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240012,
+    "word": "tea",
+    "phonetic0": "tiː",
+    "phonetic1": "tiː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "茶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like a cup of green tea.",
+        "cn": "我想要一杯绿茶。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "milk tea",
+        "cn": "奶茶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240013,
+    "word": "ice",
+    "phonetic0": "aɪs",
+    "phonetic1": "aɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Less ice, please.",
+        "cn": "请少冰。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "less ice",
+        "cn": "少冰"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240014,
+    "word": "coffee",
+    "phonetic0": "ˈkɒfi",
+    "phonetic1": "ˈkɔːfi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "咖啡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's grab a coffee.",
+        "cn": "我们去买杯咖啡吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a cup of coffee",
+        "cn": "一杯咖啡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240015,
+    "word": "sweet",
+    "phonetic0": "swiːt",
+    "phonetic1": "swiːt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "甜的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's too sweet for me.",
+        "cn": "对我来说太甜了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "not too sweet",
+        "cn": "不要太甜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240016,
+    "word": "sugar",
+    "phonetic0": "ˈʃʊɡə",
+    "phonetic1": "ˈʃʊɡər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "糖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Half sugar, please.",
+        "cn": "请半糖。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "no sugar",
+        "cn": "无糖"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240017,
+    "word": "milk",
+    "phonetic0": "mɪlk",
+    "phonetic1": "mɪlk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "牛奶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have oat milk instead?",
+        "cn": "可以换成燕麦奶吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "oat milk",
+        "cn": "燕麦奶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240018,
+    "word": "cream",
+    "phonetic0": "kriːm",
+    "phonetic1": "kriːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "奶油"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "No cream on top, please.",
+        "cn": "上面不要奶油。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "whipped cream",
+        "cn": "鲜奶油"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240019,
+    "word": "cake",
+    "phonetic0": "keɪk",
+    "phonetic1": "keɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蛋糕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A slice of chocolate cake, please.",
+        "cn": "请来一块巧克力蛋糕。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a piece of cake",
+        "cn": "一块蛋糕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240020,
+    "word": "chocolate",
+    "phonetic0": "ˈtʃɒklət",
+    "phonetic1": "ˈtʃɑːklət",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "巧克力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll have a hot chocolate.",
+        "cn": "我要一杯热巧克力。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hot chocolate",
+        "cn": "热巧克力"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240021,
+    "word": "cookie",
+    "phonetic0": "ˈkʊki",
+    "phonetic1": "ˈkʊki",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "饼干"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have a cookie with that?",
+        "cn": "再加一块饼干可以吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "chocolate cookie",
+        "cn": "巧克力饼干"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240022,
+    "word": "sandwich",
+    "phonetic0": "ˈsænwɪtʃ",
+    "phonetic1": "ˈsænwɪtʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "三明治"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll have a chicken sandwich.",
+        "cn": "我要一个鸡肉三明治。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ham sandwich",
+        "cn": "火腿三明治"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240023,
+    "word": "stamp",
+    "phonetic0": "stæmp",
+    "phonetic1": "stæmp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "印章，积分章"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ten stamps get you a free coffee.",
+        "cn": "集满十个章送一杯咖啡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stamp card",
+        "cn": "集点卡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240024,
+    "word": "flavour",
+    "phonetic0": "ˈfleɪvə",
+    "phonetic1": "ˈfleɪvər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "口味（美式 flavor）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What flavours do you have?",
+        "cn": "你们有什么口味？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "strawberry flavour",
+        "cn": "草莓味"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240025,
+    "word": "bubble",
+    "phonetic0": "ˈbʌbl",
+    "phonetic1": "ˈbʌbl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "泡泡；珍珠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I love bubble tea.",
+        "cn": "我超爱珍珠奶茶。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bubble tea",
+        "cn": "珍珠奶茶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240026,
+    "word": "straw",
+    "phonetic0": "strɔː",
+    "phonetic1": "strɔː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "吸管"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get a straw?",
+        "cn": "可以给我一根吸管吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "paper straw",
+        "cn": "纸吸管"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240027,
+    "word": "lid",
+    "phonetic0": "lɪd",
+    "phonetic1": "lɪd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "盖子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I have a lid for my cup?",
+        "cn": "能给我的杯子一个盖子吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cup lid",
+        "cn": "杯盖"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240028,
+    "word": "socket",
+    "phonetic0": "ˈsɒkɪt",
+    "phonetic1": "ˈsɑːkɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "插座"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a socket near this table?",
+        "cn": "这张桌子附近有插座吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "power socket",
+        "cn": "电源插座"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240029,
+    "word": "pearl",
+    "phonetic0": "pɜːl",
+    "phonetic1": "pɜːrl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "珍珠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Add extra pearls, please.",
+        "cn": "请多加珍珠。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tapioca pearls",
+        "cn": "珍珠（木薯）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240030,
+    "word": "topping",
+    "phonetic0": "ˈtɒpɪŋ",
+    "phonetic1": "ˈtɑːpɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "配料，小料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What toppings would you like?",
+        "cn": "你想加什么小料？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "add toppings",
+        "cn": "加小料"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240031,
+    "word": "iced",
+    "phonetic0": "aɪst",
+    "phonetic1": "aɪst",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "冰的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "An iced americano, please.",
+        "cn": "请来一杯冰美式。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "iced coffee",
+        "cn": "冰咖啡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240032,
+    "word": "latte",
+    "phonetic0": "ˈlɑːteɪ",
+    "phonetic1": "ˈlɑːteɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "拿铁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "One vanilla latte, please.",
+        "cn": "请来一杯香草拿铁。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "iced latte",
+        "cn": "冰拿铁"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240033,
+    "word": "refill",
+    "phonetic0": "ˈriːfɪl",
+    "phonetic1": "ˈriːfɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "续杯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are refills free?",
+        "cn": "续杯免费吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "free refill",
+        "cn": "免费续杯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240034,
+    "word": "decaf",
+    "phonetic0": "ˈdiːkæf",
+    "phonetic1": "ˈdiːkæf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "低因咖啡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have decaf?",
+        "cn": "你们有低因咖啡吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "decaf coffee",
+        "cn": "低因咖啡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1240035,
+    "word": "barista",
+    "phonetic0": "bəˈriːstə",
+    "phonetic1": "bəˈriːstə",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "咖啡师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The barista made a heart in my latte.",
+        "cn": "咖啡师在我的拿铁上拉了一个心形。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "coffee barista",
+        "cn": "咖啡师"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

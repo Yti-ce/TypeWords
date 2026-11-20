@@ -1,0 +1,34 @@
+# 场景·数字与钱
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+number | ˈnʌmbə | ˈnʌmbər | n.:数字 | Pick a number from one to ten. | 从一到十选一个数。 | phone number:电话号码
+money | ˈmʌni | ˈmʌni | n.:钱 | How much money do you have? | 你有多少钱？ | save money:存钱
+hundred | ˈhʌndrəd | ˈhʌndrəd | num.:百 | It costs two hundred yuan. | 这个两百元。 | hundreds of:数以百计的
+thousand | ˈθaʊznd | ˈθaʊznd | num.:千 | Three thousand people came. | 来了三千人。 | thousands of:成千上万的
+million | ˈmɪljən | ˈmɪljən | num.:百万 | The city has ten million people. | 这座城市有一千万人。 | a million:一百万
+first | fɜːst | fɜːrst | num.:第一 | This is my first time here. | 这是我第一次来这里。 | at first:起初
+second | ˈsekənd | ˈsekənd | num.:第二; n.:秒 | Wait a second. | 等一下。 | second floor:二楼
+third | θɜːd | θɜːrd | num.:第三 | It's on the third floor. | 在三楼。 | third time:第三次
+twelve | twelv | twelv | num.:十二 | There are twelve months in a year. | 一年有十二个月。 | twelve o'clock:十二点
+twenty | ˈtwenti | ˈtwenti | num.:二十 | I'm twenty years old. | 我二十岁。 | twenty minutes:二十分钟
+fifty | ˈfɪfti | ˈfɪfti | num.:五十 | That's fifty percent off. | 打五折。 | fifty-fifty:对半分
+dozen | ˈdʌzn | ˈdʌzn | n.:一打（12个） | A dozen eggs, please. | 请来一打鸡蛋。 | half a dozen:半打
+pair | peə | per | n.:一双，一对 | I bought a pair of shoes. | 我买了一双鞋。 | a pair of:一双
+percent | pəˈsent | pərˈsent | n.:百分之…… | Prices went up ten percent. | 价格涨了百分之十。 | 20 percent:百分之二十
+half | hɑːf | hæf | n.:一半 | Cut it in half. | 把它切成两半。 | half price:半价
+double | ˈdʌbl | ˈdʌbl | adj.:双倍的 | The price has doubled. | 价格翻倍了。 | double check:再检查一遍
+count | kaʊnt | kaʊnt | v.:数 | Count the money again. | 再数一遍钱。 | count to ten:数到十
+add | æd | æd | v.:加 | Add five and seven. | 五加七。 | add up:加起来
+total | ˈtəʊtl | ˈtoʊtl | n.:总数 | The total is 86 yuan. | 总共86元。 | in total:总共
+price | praɪs | praɪs | n.:价格 | What's the price? | 价格是多少？ | half price:半价
+cheap | tʃiːp | tʃiːp | adj.:便宜的 | It's really cheap here. | 这里真便宜。 | cheap price:低价
+spend | spend | spend | v.:花（钱、时间） | I spend too much on food. | 我在吃上花太多钱了。 | spend money:花钱
+save | seɪv | seɪv | v.:节省，存 | I'm saving for a new laptop. | 我在攒钱买新电脑。 | save up:攒钱
+borrow | ˈbɒrəʊ | ˈbɑːroʊ | v.:借（入） | Can I borrow fifty yuan? | 能借我五十块吗？ | borrow money:借钱
+lend | lend | lend | v.:借（出） | Can you lend me some money? | 你能借我点钱吗？ | lend money:借钱给别人
+owe | əʊ | oʊ | v.:欠 | I owe you twenty yuan. | 我欠你二十块。 | owe money:欠钱
+afford | əˈfɔːd | əˈfɔːrd | v.:买得起 | I can't afford a new car. | 我买不起新车。 | can't afford:负担不起
+worth | wɜːθ | wɜːrθ | adj.:值…… | Is it worth the money? | 值这个价吗？ | worth it:值得
+budget | ˈbʌdʒɪt | ˈbʌdʒɪt | n.:预算 | What's your budget? | 你的预算是多少？ | on a budget:预算有限
+yuan | juˈɑːn | juˈɑːn | n.:元（人民币单位） | It's thirty yuan each. | 每个三十元。 | 100 yuan:一百元
+note | nəʊt | noʊt | n.:纸币（美式 bill） | Do you have a fifty-yuan note? | 你有五十元的纸币吗？ | bank note:钞票
+coin | kɔɪn | kɔɪn | n.:硬币 | I have some coins in my pocket. | 我口袋里有些硬币。 | one-yuan coin:一元硬币

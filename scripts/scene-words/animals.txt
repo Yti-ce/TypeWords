@@ -1,0 +1,33 @@
+# 场景·动物
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+dog | dɒɡ | dɔːɡ | n.:狗 | I walk my dog every morning. | 我每天早上遛狗。 | walk the dog:遛狗
+cat | kæt | kæt | n.:猫 | My cat sleeps all day. | 我的猫整天睡觉。 | pet cat:宠物猫
+animal | ˈænɪml | ˈænɪml | n.:动物 | What's your favourite animal? | 你最喜欢什么动物？ | wild animal:野生动物
+bird | bɜːd | bɜːrd | n.:鸟 | I can hear the birds singing. | 我能听到鸟叫。 | bird's nest:鸟巢
+fish | fɪʃ | fɪʃ | n.:鱼 | We have two fish in a tank. | 我们在鱼缸里养了两条鱼。 | fish tank:鱼缸
+horse | hɔːs | hɔːrs | n.:马 | Have you ever ridden a horse? | 你骑过马吗？ | ride a horse:骑马
+pet | pet | pet | n.:宠物 | Do you have any pets? | 你养宠物吗？ | pet shop:宠物店
+cow | kaʊ | kaʊ | n.:奶牛 | Cows give us milk. | 奶牛给我们提供牛奶。 | dairy cow:奶牛
+pig | pɪɡ | pɪɡ | n.:猪 | The farm has ten pigs. | 农场有十头猪。 | guinea pig:豚鼠
+chicken | ˈtʃɪkɪn | ˈtʃɪkɪn | n.:鸡 | The chickens lay eggs every day. | 鸡每天下蛋。 | chicken farm:养鸡场
+rabbit | ˈræbɪt | ˈræbɪt | n.:兔子 | The rabbit is eating a carrot. | 兔子在吃胡萝卜。 | white rabbit:小白兔
+mouse | maʊs | maʊs | n.:老鼠 | There's a mouse in the kitchen! | 厨房里有只老鼠！ | mice:老鼠（复数）
+bear | beə | ber | n.:熊 | We saw a bear at the zoo. | 我们在动物园看到了熊。 | polar bear:北极熊
+lion | ˈlaɪən | ˈlaɪən | n.:狮子 | The lion is the king of animals. | 狮子是百兽之王。 | lion king:狮子王
+tiger | ˈtaɪɡə | ˈtaɪɡər | n.:老虎 | Tigers are dangerous animals. | 老虎是危险的动物。 | year of the tiger:虎年
+monkey | ˈmʌŋki | ˈmʌŋki | n.:猴子 | The monkeys are very cheeky. | 猴子很调皮。 | monkey business:胡闹
+elephant | ˈelɪfənt | ˈelɪfənt | n.:大象 | Elephants have long noses. | 大象有长鼻子。 | baby elephant:小象
+panda | ˈpændə | ˈpændə | n.:熊猫 | Pandas love eating bamboo. | 熊猫爱吃竹子。 | giant panda:大熊猫
+snake | sneɪk | sneɪk | n.:蛇 | I'm afraid of snakes. | 我怕蛇。 | poisonous snake:毒蛇
+insect | ˈɪnsekt | ˈɪnsekt | n.:昆虫 | There are lots of insects in summer. | 夏天虫子很多。 | insect bite:虫咬
+bee | biː | biː | n.:蜜蜂 | A bee stung me. | 一只蜜蜂蛰了我。 | busy as a bee:非常忙碌
+duck | dʌk | dʌk | n.:鸭子 | Let's feed the ducks. | 我们去喂鸭子吧。 | roast duck:烤鸭
+sheep | ʃiːp | ʃiːp | n.:绵羊 | The sheep are on the hill. | 羊在山坡上。 | a flock of sheep:一群羊
+wolf | wʊlf | wʊlf | n.:狼 | Wolves live in groups. | 狼群居生活。 | wolf pack:狼群
+fox | fɒks | fɑːks | n.:狐狸 | The fox is very clever. | 狐狸很聪明。 | red fox:赤狐
+zoo | zuː | zuː | n.:动物园 | Let's take the kids to the zoo. | 我们带孩子去动物园吧。 | go to the zoo:去动物园
+feed | fiːd | fiːd | v.:喂 | Don't forget to feed the cat. | 别忘了喂猫。 | feed the dog:喂狗
+tail | teɪl | teɪl | n.:尾巴 | The dog is wagging its tail. | 狗在摇尾巴。 | wag its tail:摇尾巴
+bite | baɪt | baɪt | v.:咬 | Does your dog bite? | 你的狗咬人吗？ | dog bite:狗咬伤
+puppy | ˈpʌpi | ˈpʌpi | n.:小狗 | We got a new puppy. | 我们新养了只小狗。 | cute puppy:可爱的小狗
+kitten | ˈkɪtn | ˈkɪtn | n.:小猫 | The kitten is so cute. | 小猫好可爱。 | little kitten:小猫咪

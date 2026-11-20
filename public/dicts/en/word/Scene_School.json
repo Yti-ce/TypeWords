@@ -1,25 +1,25 @@
 [
   {
     "id": 1040001,
-    "word": "teacher",
-    "phonetic0": "ˈtiːtʃə",
-    "phonetic1": "ˈtiːtʃər",
+    "word": "mean",
+    "phonetic0": "miːn",
+    "phonetic1": "miːn",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "老师"
+        "pos": "v.",
+        "cn": "意思是"
       }
     ],
     "sentences": [
       {
-        "c": "Our teacher is very patient.",
-        "cn": "我们的老师很有耐心。"
+        "c": "What do you mean?",
+        "cn": "你是什么意思？"
       }
     ],
     "phrases": [
       {
-        "c": "English teacher",
-        "cn": "英语老师"
+        "c": "mean by",
+        "cn": "……的意思是"
       }
     ],
     "synos": [],
@@ -31,6 +31,66 @@
   },
   {
     "id": 1040002,
+    "word": "school",
+    "phonetic0": "skuːl",
+    "phonetic1": "skuːl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "学校"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I walk to school every day.",
+        "cn": "我每天走路上学。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "high school",
+        "cn": "高中"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040003,
+    "word": "group",
+    "phonetic0": "ɡruːp",
+    "phonetic1": "ɡruːp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小组"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Work in groups of four.",
+        "cn": "四人一组。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "group work",
+        "cn": "小组活动"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040004,
     "word": "student",
     "phonetic0": "ˈstjuːdnt",
     "phonetic1": "ˈstuːdnt",
@@ -60,26 +120,30 @@
     "etymology": []
   },
   {
-    "id": 1040003,
-    "word": "class",
-    "phonetic0": "klɑːs",
-    "phonetic1": "klæs",
+    "id": 1040005,
+    "word": "hand",
+    "phonetic0": "hænd",
+    "phonetic1": "hænd",
     "trans": [
       {
+        "pos": "v.",
+        "cn": "交"
+      },
+      {
         "pos": "n.",
-        "cn": "课；班级"
+        "cn": "手"
       }
     ],
     "sentences": [
       {
-        "c": "What time does class start?",
-        "cn": "几点上课？"
+        "c": "Hand in your homework tomorrow.",
+        "cn": "明天交作业。"
       }
     ],
     "phrases": [
       {
-        "c": "in class",
-        "cn": "在课上"
+        "c": "hand in",
+        "cn": "上交"
       }
     ],
     "synos": [],
@@ -90,7 +154,37 @@
     "etymology": []
   },
   {
-    "id": 1040004,
+    "id": 1040006,
+    "word": "word",
+    "phonetic0": "wɜːd",
+    "phonetic1": "wɜːrd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "单词"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What does this word mean?",
+        "cn": "这个词是什么意思？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new words",
+        "cn": "生词"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040007,
     "word": "question",
     "phonetic0": "ˈkwestʃən",
     "phonetic1": "ˈkwestʃən",
@@ -120,7 +214,727 @@
     "etymology": []
   },
   {
-    "id": 1040005,
+    "id": 1040008,
+    "word": "write",
+    "phonetic0": "raɪt",
+    "phonetic1": "raɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "写"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Write your name at the top.",
+        "cn": "在顶部写上你的名字。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "write down",
+        "cn": "写下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040009,
+    "word": "book",
+    "phonetic0": "bʊk",
+    "phonetic1": "bʊk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "书"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Open your books to page ten.",
+        "cn": "把书翻到第十页。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "textbook",
+        "cn": "课本"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040010,
+    "word": "study",
+    "phonetic0": "ˈstʌdi",
+    "phonetic1": "ˈstʌdi",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "学习"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I study English every evening.",
+        "cn": "我每天晚上学英语。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "study for",
+        "cn": "为……学习"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040011,
+    "word": "learn",
+    "phonetic0": "lɜːn",
+    "phonetic1": "lɜːrn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "学会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to learn more words.",
+        "cn": "我想学更多单词。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "learn by heart",
+        "cn": "背下来"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040012,
+    "word": "understand",
+    "phonetic0": "ˌʌndəˈstænd",
+    "phonetic1": "ˌʌndərˈstænd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "理解，听懂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, I don't understand.",
+        "cn": "抱歉，我没听懂。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fully understand",
+        "cn": "完全理解"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040013,
+    "word": "read",
+    "phonetic0": "riːd",
+    "phonetic1": "riːd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "读"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Read the text aloud.",
+        "cn": "把课文大声读出来。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "read aloud",
+        "cn": "朗读"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040014,
+    "word": "course",
+    "phonetic0": "kɔːs",
+    "phonetic1": "kɔːrs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "课程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm taking an English course.",
+        "cn": "我在上一门英语课。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "online course",
+        "cn": "网课"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040015,
+    "word": "subject",
+    "phonetic0": "ˈsʌbdʒɪkt",
+    "phonetic1": "ˈsʌbdʒɪkt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "科目"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your favourite subject?",
+        "cn": "你最喜欢哪个科目？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "favourite subject",
+        "cn": "最喜欢的科目"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040016,
+    "word": "teacher",
+    "phonetic0": "ˈtiːtʃə",
+    "phonetic1": "ˈtiːtʃər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "老师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our teacher is very patient.",
+        "cn": "我们的老师很有耐心。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "English teacher",
+        "cn": "英语老师"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040017,
+    "word": "class",
+    "phonetic0": "klɑːs",
+    "phonetic1": "klæs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "课；班级"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What time does class start?",
+        "cn": "几点上课？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in class",
+        "cn": "在课上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040018,
+    "word": "major",
+    "phonetic0": "ˈmeɪdʒə",
+    "phonetic1": "ˈmeɪdʒər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "专业"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your major?",
+        "cn": "你学什么专业？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "major in",
+        "cn": "主修"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040019,
+    "word": "pass",
+    "phonetic0": "pɑːs",
+    "phonetic1": "pæs",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "通过，及格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hope I pass the exam.",
+        "cn": "希望我考试能及格。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pass an exam",
+        "cn": "考试及格"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040020,
+    "word": "practice",
+    "phonetic0": "ˈpræktɪs",
+    "phonetic1": "ˈpræktɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "练习"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Speaking needs a lot of practice.",
+        "cn": "口语需要大量练习。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "practice makes perfect",
+        "cn": "熟能生巧"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040021,
+    "word": "explain",
+    "phonetic0": "ɪkˈspleɪn",
+    "phonetic1": "ɪkˈspleɪn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "解释"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you explain that again?",
+        "cn": "你能再解释一遍吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "explain to",
+        "cn": "向……解释"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040022,
+    "word": "break",
+    "phonetic0": "breɪk",
+    "phonetic1": "breɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "课间休息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have a ten-minute break.",
+        "cn": "我们有十分钟的课间休息。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lunch break",
+        "cn": "午休"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040023,
+    "word": "project",
+    "phonetic0": "ˈprɒdʒekt",
+    "phonetic1": "ˈprɑːdʒekt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "项目"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're working on a group project.",
+        "cn": "我们在做一个小组项目。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "group project",
+        "cn": "小组作业"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040024,
+    "word": "example",
+    "phonetic0": "ɪɡˈzɑːmpl",
+    "phonetic1": "ɪɡˈzæmpl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "例子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you give me an example?",
+        "cn": "你能举个例子吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "for example",
+        "cn": "例如"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040025,
+    "word": "university",
+    "phonetic0": "ˌjuːnɪˈvɜːsəti",
+    "phonetic1": "ˌjuːnɪˈvɜːrsəti",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大学"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which university do you go to?",
+        "cn": "你在哪所大学读书？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go to university",
+        "cn": "上大学"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040026,
+    "word": "test",
+    "phonetic0": "test",
+    "phonetic1": "test",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "测验"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have a test tomorrow.",
+        "cn": "我们明天有个测验。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take a test",
+        "cn": "参加测验"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040027,
+    "word": "fail",
+    "phonetic0": "feɪl",
+    "phonetic1": "feɪl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "不及格；失败"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He failed the test.",
+        "cn": "他测验没及格。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fail an exam",
+        "cn": "考试不及格"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040028,
+    "word": "page",
+    "phonetic0": "peɪdʒ",
+    "phonetic1": "peɪdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "页"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Turn to page twenty.",
+        "cn": "翻到第二十页。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on page 5",
+        "cn": "在第5页"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040029,
+    "word": "discuss",
+    "phonetic0": "dɪˈskʌs",
+    "phonetic1": "dɪˈskʌs",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "讨论"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Discuss the question with your partner.",
+        "cn": "和同伴讨论这个问题。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "discuss with",
+        "cn": "与……讨论"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040030,
+    "word": "notes",
+    "phonetic0": "nəʊts",
+    "phonetic1": "noʊts",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "笔记"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I borrow your notes?",
+        "cn": "我可以借你的笔记吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take notes",
+        "cn": "做笔记"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040031,
+    "word": "degree",
+    "phonetic0": "dɪˈɡriː",
+    "phonetic1": "dɪˈɡriː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "学位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She has a degree in computer science.",
+        "cn": "她有计算机科学学位。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bachelor's degree",
+        "cn": "学士学位"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040032,
     "word": "answer",
     "phonetic0": "ˈɑːnsə",
     "phonetic1": "ˈænsər",
@@ -154,116 +968,26 @@
     "etymology": []
   },
   {
-    "id": 1040006,
-    "word": "understand",
-    "phonetic0": "ˌʌndəˈstænd",
-    "phonetic1": "ˌʌndərˈstænd",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "理解，听懂"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Sorry, I don't understand.",
-        "cn": "抱歉，我没听懂。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "fully understand",
-        "cn": "完全理解"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040007,
-    "word": "repeat",
-    "phonetic0": "rɪˈpiːt",
-    "phonetic1": "rɪˈpiːt",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "重复"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Could you repeat that, please?",
-        "cn": "你能再说一遍吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "repeat after me",
-        "cn": "跟我读"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040008,
-    "word": "explain",
-    "phonetic0": "ɪkˈspleɪn",
-    "phonetic1": "ɪkˈspleɪn",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "解释"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Could you explain that again?",
-        "cn": "你能再解释一遍吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "explain to",
-        "cn": "向……解释"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040009,
-    "word": "homework",
-    "phonetic0": "ˈhəʊmwɜːk",
-    "phonetic1": "ˈhoʊmwɜːrk",
+    "id": 1040033,
+    "word": "holiday",
+    "phonetic0": "ˈhɒlədeɪ",
+    "phonetic1": "ˈhɑːlədeɪ",
     "trans": [
       {
         "pos": "n.",
-        "cn": "家庭作业"
+        "cn": "假期"
       }
     ],
     "sentences": [
       {
-        "c": "I haven't finished my homework.",
-        "cn": "我还没写完作业。"
+        "c": "The summer holiday starts next week.",
+        "cn": "暑假下周开始。"
       }
     ],
     "phrases": [
       {
-        "c": "do homework",
-        "cn": "做作业"
+        "c": "summer holiday",
+        "cn": "暑假"
       }
     ],
     "synos": [],
@@ -274,157 +998,7 @@
     "etymology": []
   },
   {
-    "id": 1040010,
-    "word": "exam",
-    "phonetic0": "ɪɡˈzæm",
-    "phonetic1": "ɪɡˈzæm",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "考试"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "When is the final exam?",
-        "cn": "期末考试是什么时候？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "final exam",
-        "cn": "期末考试"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040011,
-    "word": "test",
-    "phonetic0": "test",
-    "phonetic1": "test",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "测验"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We have a test tomorrow.",
-        "cn": "我们明天有个测验。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "take a test",
-        "cn": "参加测验"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040012,
-    "word": "lesson",
-    "phonetic0": "ˈlesn",
-    "phonetic1": "ˈlesn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "课"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Today's lesson is about grammar.",
-        "cn": "今天的课讲语法。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "English lesson",
-        "cn": "英语课"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040013,
-    "word": "classroom",
-    "phonetic0": "ˈklɑːsruːm",
-    "phonetic1": "ˈklæsruːm",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "教室"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Which classroom are we in?",
-        "cn": "我们在哪间教室？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in the classroom",
-        "cn": "在教室里"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040014,
-    "word": "classmate",
-    "phonetic0": "ˈklɑːsmeɪt",
-    "phonetic1": "ˈklæsmeɪt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "同学"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "She's my classmate.",
-        "cn": "她是我的同学。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "old classmate",
-        "cn": "老同学"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040015,
+    "id": 1040034,
     "word": "library",
     "phonetic0": "ˈlaɪbrəri",
     "phonetic1": "ˈlaɪbreri",
@@ -454,367 +1028,7 @@
     "etymology": []
   },
   {
-    "id": 1040016,
-    "word": "course",
-    "phonetic0": "kɔːs",
-    "phonetic1": "kɔːrs",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "课程"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'm taking an English course.",
-        "cn": "我在上一门英语课。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "online course",
-        "cn": "网课"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040017,
-    "word": "subject",
-    "phonetic0": "ˈsʌbdʒɪkt",
-    "phonetic1": "ˈsʌbdʒɪkt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "科目"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What's your favourite subject?",
-        "cn": "你最喜欢哪个科目？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "favourite subject",
-        "cn": "最喜欢的科目"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040018,
-    "word": "assignment",
-    "phonetic0": "əˈsaɪnmənt",
-    "phonetic1": "əˈsaɪnmənt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "作业，任务"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The assignment is due on Friday.",
-        "cn": "这份作业周五截止。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "hand in an assignment",
-        "cn": "交作业"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040019,
-    "word": "deadline",
-    "phonetic0": "ˈdedlaɪn",
-    "phonetic1": "ˈdedlaɪn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "截止日期"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The deadline is next Monday.",
-        "cn": "截止日期是下周一。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "meet the deadline",
-        "cn": "按时完成"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040020,
-    "word": "submit",
-    "phonetic0": "səbˈmɪt",
-    "phonetic1": "səbˈmɪt",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "提交"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Please submit your report online.",
-        "cn": "请在网上提交报告。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "submit a report",
-        "cn": "提交报告"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040021,
-    "word": "notes",
-    "phonetic0": "nəʊts",
-    "phonetic1": "noʊts",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "笔记"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can I borrow your notes?",
-        "cn": "我可以借你的笔记吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "take notes",
-        "cn": "做笔记"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040022,
-    "word": "borrow",
-    "phonetic0": "ˈbɒrəʊ",
-    "phonetic1": "ˈbɑːroʊ",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "借（入）"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can I borrow your pen?",
-        "cn": "可以借一下你的笔吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "borrow from",
-        "cn": "向……借"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040023,
-    "word": "pen",
-    "phonetic0": "pen",
-    "phonetic1": "pen",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "笔，钢笔"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I forgot my pen.",
-        "cn": "我忘带笔了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "a pen and paper",
-        "cn": "纸笔"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040024,
-    "word": "notebook",
-    "phonetic0": "ˈnəʊtbʊk",
-    "phonetic1": "ˈnoʊtbʊk",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "笔记本"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Open your notebook, please.",
-        "cn": "请打开你的笔记本。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "notebook computer",
-        "cn": "笔记本电脑"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040025,
-    "word": "dictionary",
-    "phonetic0": "ˈdɪkʃənri",
-    "phonetic1": "ˈdɪkʃəneri",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "词典"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Look it up in the dictionary.",
-        "cn": "在词典里查一下。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "look up in a dictionary",
-        "cn": "查词典"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040026,
-    "word": "timetable",
-    "phonetic0": "ˈtaɪmteɪbl",
-    "phonetic1": "ˈtaɪmteɪbl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "课程表；时刻表"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Let me check my timetable.",
-        "cn": "我看一下课表。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "class timetable",
-        "cn": "课表"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040027,
-    "word": "grade",
-    "phonetic0": "ɡreɪd",
-    "phonetic1": "ɡreɪd",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "成绩；年级"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I got a good grade in maths.",
-        "cn": "我数学成绩很好。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "good grade",
-        "cn": "好成绩"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040028,
+    "id": 1040035,
     "word": "score",
     "phonetic0": "skɔː",
     "phonetic1": "skɔːr",
@@ -844,236 +1058,26 @@
     "etymology": []
   },
   {
-    "id": 1040029,
-    "word": "pass",
-    "phonetic0": "pɑːs",
-    "phonetic1": "pæs",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "通过，及格"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I hope I pass the exam.",
-        "cn": "希望我考试能及格。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "pass an exam",
-        "cn": "考试及格"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040030,
-    "word": "fail",
-    "phonetic0": "feɪl",
-    "phonetic1": "feɪl",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "不及格；失败"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "He failed the test.",
-        "cn": "他测验没及格。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "fail an exam",
-        "cn": "考试不及格"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040031,
-    "word": "project",
-    "phonetic0": "ˈprɒdʒekt",
-    "phonetic1": "ˈprɑːdʒekt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "项目"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We're working on a group project.",
-        "cn": "我们在做一个小组项目。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "group project",
-        "cn": "小组作业"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040032,
-    "word": "presentation",
-    "phonetic0": "ˌpreznˈteɪʃn",
-    "phonetic1": "ˌpriːzenˈteɪʃn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "演讲，展示"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I have a presentation tomorrow.",
-        "cn": "我明天要做展示。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "give a presentation",
-        "cn": "做展示"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040033,
-    "word": "lecture",
-    "phonetic0": "ˈlektʃə",
-    "phonetic1": "ˈlektʃər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "讲座，讲课"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The lecture starts at nine.",
-        "cn": "讲座九点开始。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "attend a lecture",
-        "cn": "听讲座"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040034,
-    "word": "semester",
-    "phonetic0": "sɪˈmestə",
-    "phonetic1": "sɪˈmestər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "学期"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The new semester starts in March.",
-        "cn": "新学期三月开始。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "this semester",
-        "cn": "这学期"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1040035,
-    "word": "major",
-    "phonetic0": "ˈmeɪdʒə",
-    "phonetic1": "ˈmeɪdʒər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "专业"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What's your major?",
-        "cn": "你学什么专业？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "major in",
-        "cn": "主修"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
     "id": 1040036,
-    "word": "degree",
-    "phonetic0": "dɪˈɡriː",
-    "phonetic1": "dɪˈɡriː",
+    "word": "lesson",
+    "phonetic0": "ˈlesn",
+    "phonetic1": "ˈlesn",
     "trans": [
       {
         "pos": "n.",
-        "cn": "学位"
+        "cn": "课"
       }
     ],
     "sentences": [
       {
-        "c": "She has a degree in computer science.",
-        "cn": "她有计算机科学学位。"
+        "c": "Today's lesson is about grammar.",
+        "cn": "今天的课讲语法。"
       }
     ],
     "phrases": [
       {
-        "c": "bachelor's degree",
-        "cn": "学士学位"
+        "c": "English lesson",
+        "cn": "英语课"
       }
     ],
     "synos": [],
@@ -1085,6 +1089,160 @@
   },
   {
     "id": 1040037,
+    "word": "repeat",
+    "phonetic0": "rɪˈpiːt",
+    "phonetic1": "rɪˈpiːt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "重复"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you repeat that, please?",
+        "cn": "你能再说一遍吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "repeat after me",
+        "cn": "跟我读"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040038,
+    "word": "grade",
+    "phonetic0": "ɡreɪd",
+    "phonetic1": "ɡreɪd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "成绩；年级"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I got a good grade in maths.",
+        "cn": "我数学成绩很好。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "good grade",
+        "cn": "好成绩"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040039,
+    "word": "mistake",
+    "phonetic0": "mɪˈsteɪk",
+    "phonetic1": "mɪˈsteɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "错误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't worry about making mistakes.",
+        "cn": "别担心犯错。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make a mistake",
+        "cn": "犯错"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040040,
+    "word": "classroom",
+    "phonetic0": "ˈklɑːsruːm",
+    "phonetic1": "ˈklæsruːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "教室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which classroom are we in?",
+        "cn": "我们在哪间教室？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the classroom",
+        "cn": "在教室里"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040041,
+    "word": "correct",
+    "phonetic0": "kəˈrekt",
+    "phonetic1": "kəˈrekt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "正确的"
+      },
+      {
+        "pos": "v.",
+        "cn": "改正"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this answer correct?",
+        "cn": "这个答案对吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "correct answer",
+        "cn": "正确答案"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040042,
     "word": "campus",
     "phonetic0": "ˈkæmpəs",
     "phonetic1": "ˈkæmpəs",
@@ -1114,26 +1272,86 @@
     "etymology": []
   },
   {
-    "id": 1040038,
-    "word": "canteen",
-    "phonetic0": "kænˈtiːn",
-    "phonetic1": "kænˈtiːn",
+    "id": 1040043,
+    "word": "graduate",
+    "phonetic0": "ˈɡrædʒueɪt",
+    "phonetic1": "ˈɡrædʒueɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "毕业"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I will graduate next year.",
+        "cn": "我明年毕业。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "graduate from",
+        "cn": "从……毕业"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040044,
+    "word": "submit",
+    "phonetic0": "səbˈmɪt",
+    "phonetic1": "səbˈmɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "提交"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please submit your report online.",
+        "cn": "请在网上提交报告。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "submit a report",
+        "cn": "提交报告"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040045,
+    "word": "presentation",
+    "phonetic0": "ˌpreznˈteɪʃn",
+    "phonetic1": "ˌpriːzenˈteɪʃn",
     "trans": [
       {
         "pos": "n.",
-        "cn": "食堂"
+        "cn": "演讲，展示"
       }
     ],
     "sentences": [
       {
-        "c": "Let's eat in the canteen.",
-        "cn": "我们去食堂吃吧。"
+        "c": "I have a presentation tomorrow.",
+        "cn": "我明天要做展示。"
       }
     ],
     "phrases": [
       {
-        "c": "school canteen",
-        "cn": "学校食堂"
+        "c": "give a presentation",
+        "cn": "做展示"
       }
     ],
     "synos": [],
@@ -1144,26 +1362,26 @@
     "etymology": []
   },
   {
-    "id": 1040039,
-    "word": "absent",
-    "phonetic0": "ˈæbsənt",
-    "phonetic1": "ˈæbsənt",
+    "id": 1040046,
+    "word": "essay",
+    "phonetic0": "ˈeseɪ",
+    "phonetic1": "ˈeseɪ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "缺席的"
+        "pos": "n.",
+        "cn": "文章，论文"
       }
     ],
     "sentences": [
       {
-        "c": "He was absent yesterday.",
-        "cn": "他昨天缺席了。"
+        "c": "I have to write an essay on climate change.",
+        "cn": "我得写一篇关于气候变化的论文。"
       }
     ],
     "phrases": [
       {
-        "c": "absent from",
-        "cn": "缺席"
+        "c": "write an essay",
+        "cn": "写论文"
       }
     ],
     "synos": [],
@@ -1174,7 +1392,217 @@
     "etymology": []
   },
   {
-    "id": 1040040,
+    "id": 1040047,
+    "word": "lecture",
+    "phonetic0": "ˈlektʃə",
+    "phonetic1": "ˈlektʃər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "讲座，讲课"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The lecture starts at nine.",
+        "cn": "讲座九点开始。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "attend a lecture",
+        "cn": "听讲座"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040048,
+    "word": "borrow",
+    "phonetic0": "ˈbɒrəʊ",
+    "phonetic1": "ˈbɑːroʊ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "借（入）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I borrow your pen?",
+        "cn": "可以借一下你的笔吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "borrow from",
+        "cn": "向……借"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040049,
+    "word": "pen",
+    "phonetic0": "pen",
+    "phonetic1": "pen",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "笔，钢笔"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I forgot my pen.",
+        "cn": "我忘带笔了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a pen and paper",
+        "cn": "纸笔"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040050,
+    "word": "uniform",
+    "phonetic0": "ˈjuːnɪfɔːm",
+    "phonetic1": "ˈjuːnɪfɔːrm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "校服"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have to wear a school uniform.",
+        "cn": "我们必须穿校服。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "school uniform",
+        "cn": "校服"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040051,
+    "word": "scholarship",
+    "phonetic0": "ˈskɒləʃɪp",
+    "phonetic1": "ˈskɑːlərʃɪp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "奖学金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She won a scholarship.",
+        "cn": "她获得了奖学金。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "apply for a scholarship",
+        "cn": "申请奖学金"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040052,
+    "word": "assignment",
+    "phonetic0": "əˈsaɪnmənt",
+    "phonetic1": "əˈsaɪnmənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "作业，任务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The assignment is due on Friday.",
+        "cn": "这份作业周五截止。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hand in an assignment",
+        "cn": "交作业"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040053,
+    "word": "dictionary",
+    "phonetic0": "ˈdɪkʃənri",
+    "phonetic1": "ˈdɪkʃəneri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "词典"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Look it up in the dictionary.",
+        "cn": "在词典里查一下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "look up in a dictionary",
+        "cn": "查词典"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040054,
     "word": "attendance",
     "phonetic0": "əˈtendəns",
     "phonetic1": "əˈtendəns",
@@ -1204,7 +1632,7 @@
     "etymology": []
   },
   {
-    "id": 1040041,
+    "id": 1040055,
     "word": "tutor",
     "phonetic0": "ˈtjuːtə",
     "phonetic1": "ˈtuːtər",
@@ -1234,26 +1662,296 @@
     "etymology": []
   },
   {
-    "id": 1040042,
-    "word": "scholarship",
-    "phonetic0": "ˈskɒləʃɪp",
-    "phonetic1": "ˈskɑːlərʃɪp",
+    "id": 1040056,
+    "word": "deadline",
+    "phonetic0": "ˈdedlaɪn",
+    "phonetic1": "ˈdedlaɪn",
     "trans": [
       {
         "pos": "n.",
-        "cn": "奖学金"
+        "cn": "截止日期"
       }
     ],
     "sentences": [
       {
-        "c": "She won a scholarship.",
-        "cn": "她获得了奖学金。"
+        "c": "The deadline is next Monday.",
+        "cn": "截止日期是下周一。"
       }
     ],
     "phrases": [
       {
-        "c": "apply for a scholarship",
-        "cn": "申请奖学金"
+        "c": "meet the deadline",
+        "cn": "按时完成"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040057,
+    "word": "exam",
+    "phonetic0": "ɪɡˈzæm",
+    "phonetic1": "ɪɡˈzæm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "考试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When is the final exam?",
+        "cn": "期末考试是什么时候？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "final exam",
+        "cn": "期末考试"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040058,
+    "word": "absent",
+    "phonetic0": "ˈæbsənt",
+    "phonetic1": "ˈæbsənt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "缺席的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He was absent yesterday.",
+        "cn": "他昨天缺席了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "absent from",
+        "cn": "缺席"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040059,
+    "word": "notebook",
+    "phonetic0": "ˈnəʊtbʊk",
+    "phonetic1": "ˈnoʊtbʊk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "笔记本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Open your notebook, please.",
+        "cn": "请打开你的笔记本。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "notebook computer",
+        "cn": "笔记本电脑"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040060,
+    "word": "timetable",
+    "phonetic0": "ˈtaɪmteɪbl",
+    "phonetic1": "ˈtaɪmteɪbl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "课程表；时刻表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me check my timetable.",
+        "cn": "我看一下课表。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "class timetable",
+        "cn": "课表"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040061,
+    "word": "homework",
+    "phonetic0": "ˈhəʊmwɜːk",
+    "phonetic1": "ˈhoʊmwɜːrk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家庭作业"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I haven't finished my homework.",
+        "cn": "我还没写完作业。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do homework",
+        "cn": "做作业"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040062,
+    "word": "classmate",
+    "phonetic0": "ˈklɑːsmeɪt",
+    "phonetic1": "ˈklæsmeɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "同学"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's my classmate.",
+        "cn": "她是我的同学。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "old classmate",
+        "cn": "老同学"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040063,
+    "word": "semester",
+    "phonetic0": "sɪˈmestə",
+    "phonetic1": "sɪˈmestər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "学期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The new semester starts in March.",
+        "cn": "新学期三月开始。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "this semester",
+        "cn": "这学期"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040064,
+    "word": "canteen",
+    "phonetic0": "kænˈtiːn",
+    "phonetic1": "kænˈtiːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "食堂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's eat in the canteen.",
+        "cn": "我们去食堂吃吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "school canteen",
+        "cn": "学校食堂"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1040065,
+    "word": "dormitory",
+    "phonetic0": "ˈdɔːmətri",
+    "phonetic1": "ˈdɔːrmətɔːri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "宿舍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I live in the student dormitory.",
+        "cn": "我住学生宿舍。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "student dormitory",
+        "cn": "学生宿舍"
       }
     ],
     "synos": [],

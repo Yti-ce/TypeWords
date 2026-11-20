@@ -31,3 +31,20 @@ pool | puːl | puːl | n.:游泳池 | What time does the pool close? | 游泳池
 extend | ɪkˈstend | ɪkˈstend | v.:延长 | Can I extend my stay for one night? | 我可以续住一晚吗？ | extend a stay:续住
 late | leɪt | leɪt | adj.:晚的 | Is late check-out possible? | 可以延迟退房吗？ | late check-out:延迟退房
 wake | weɪk | weɪk | v.:叫醒 | Can I have a wake-up call at seven? | 七点可以叫醒我吗？ | wake-up call:叫醒服务
+stay | steɪ | steɪ | v.:住; n.:停留 | How long will you stay? | 您要住多久？ | enjoy your stay:祝您入住愉快
+name | neɪm | neɪm | n.:名字 | Can I have your name, please? | 请问您贵姓？ | under the name:以……名义
+passport | ˈpɑːspɔːt | ˈpæspɔːrt | n.:护照 | I need to see your passport. | 我需要看一下您的护照。 | passport copy:护照复印件
+price | praɪs | praɪs | n.:价格 | Does the price include tax? | 价格含税吗？ | room price:房价
+card | kɑːd | kɑːrd | n.:卡 | Your key card doesn't work. | 您的房卡不能用。 | key card:房卡
+bed | bed | bed | n.:床 | Can we have an extra bed? | 能加一张床吗？ | extra bed:加床
+bathroom | ˈbɑːθruːm | ˈbæθruːm | n.:卫生间 | The bathroom is very clean. | 卫生间很干净。 | private bathroom:独立卫浴
+service | ˈsɜːvɪs | ˈsɜːrvɪs | n.:服务 | Is there room service? | 有客房送餐服务吗？ | room service:客房服务
+hot | hɒt | hɑːt | adj.:热的 | There's no hot water in my room. | 我房间没有热水。 | hot water:热水
+safe | seɪf | seɪf | n.:保险箱 | Put your valuables in the safe. | 把贵重物品放进保险箱。 | room safe:客房保险箱
+laundry | ˈlɔːndri | ˈlɔːndri | n.:洗衣服务 | Do you have a laundry service? | 有洗衣服务吗？ | laundry service:洗衣服务
+gym | dʒɪm | dʒɪm | n.:健身房 | Where is the hotel gym? | 酒店健身房在哪里？ | hotel gym:酒店健身房
+upgrade | ˌʌpˈɡreɪd | ˌʌpˈɡreɪd | v.:升级; n.:升级 | Can I upgrade to a bigger room? | 我可以升级到更大的房间吗？ | room upgrade:房型升级
+complain | kəmˈpleɪn | kəmˈpleɪn | v.:投诉 | I'd like to complain about the noise. | 我想投诉噪音问题。 | complain about:投诉
+shuttle | ˈʃʌtl | ˈʃʌtl | n.:班车 | Is there a shuttle to the airport? | 有去机场的班车吗？ | airport shuttle:机场班车
+smoking | ˈsməʊkɪŋ | ˈsmoʊkɪŋ | n.:吸烟 | I'd like a non-smoking room. | 我要一间无烟房。 | no smoking:禁止吸烟
+housekeeping | ˈhaʊskiːpɪŋ | ˈhaʊskiːpɪŋ | n.:客房清洁部 | I'll call housekeeping for more towels. | 我打电话让客房部送毛巾来。 | call housekeeping:找客房服务

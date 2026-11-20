@@ -1,0 +1,992 @@
+[
+  {
+    "id": 1260001,
+    "word": "back",
+    "phonetic0": "bæk",
+    "phonetic1": "bæk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "背"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a pain in my back.",
+        "cn": "我背疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "back pain",
+        "cn": "背痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260002,
+    "word": "hand",
+    "phonetic0": "hænd",
+    "phonetic1": "hænd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wash your hands before eating.",
+        "cn": "吃饭前洗手。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shake hands",
+        "cn": "握手"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260003,
+    "word": "head",
+    "phonetic0": "hed",
+    "phonetic1": "hed",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My head hurts.",
+        "cn": "我头疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "head to toe",
+        "cn": "从头到脚"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260004,
+    "word": "eye",
+    "phonetic0": "aɪ",
+    "phonetic1": "aɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "眼睛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Close your eyes.",
+        "cn": "闭上眼睛。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "eye contact",
+        "cn": "眼神交流"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260005,
+    "word": "body",
+    "phonetic0": "ˈbɒdi",
+    "phonetic1": "ˈbɑːdi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "身体"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Listen to your body.",
+        "cn": "倾听你身体的感受。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "body language",
+        "cn": "肢体语言"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260006,
+    "word": "face",
+    "phonetic0": "feɪs",
+    "phonetic1": "feɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "脸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wash your face.",
+        "cn": "洗洗脸。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "face to face",
+        "cn": "面对面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260007,
+    "word": "foot",
+    "phonetic0": "fʊt",
+    "phonetic1": "fʊt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "脚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My left foot hurts.",
+        "cn": "我左脚疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on foot",
+        "cn": "步行"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260008,
+    "word": "heart",
+    "phonetic0": "hɑːt",
+    "phonetic1": "hɑːrt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "心脏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Exercise is good for your heart.",
+        "cn": "运动对心脏有好处。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "heart rate",
+        "cn": "心率"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260009,
+    "word": "arm",
+    "phonetic0": "ɑːm",
+    "phonetic1": "ɑːrm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手臂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hurt my arm.",
+        "cn": "我手臂受伤了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "arm in arm",
+        "cn": "臂挽着臂"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260010,
+    "word": "hair",
+    "phonetic0": "heə",
+    "phonetic1": "her",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "头发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She has long hair.",
+        "cn": "她留着长发。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "short hair",
+        "cn": "短发"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260011,
+    "word": "blood",
+    "phonetic0": "blʌd",
+    "phonetic1": "blʌd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "血"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's blood on your shirt.",
+        "cn": "你衬衫上有血。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "blood type",
+        "cn": "血型"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260012,
+    "word": "leg",
+    "phonetic0": "leɡ",
+    "phonetic1": "leɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "腿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My legs are tired.",
+        "cn": "我的腿很累。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "broken leg",
+        "cn": "腿骨折"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260013,
+    "word": "shoulder",
+    "phonetic0": "ˈʃəʊldə",
+    "phonetic1": "ˈʃoʊldər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "肩膀"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My shoulder hurts when I lift my arm.",
+        "cn": "我一抬胳膊肩膀就疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shoulder pain",
+        "cn": "肩痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260014,
+    "word": "mouth",
+    "phonetic0": "maʊθ",
+    "phonetic1": "maʊθ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "嘴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Open your mouth, please.",
+        "cn": "请张嘴。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "open your mouth",
+        "cn": "张嘴"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260015,
+    "word": "skin",
+    "phonetic0": "skɪn",
+    "phonetic1": "skɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "皮肤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She has very soft skin.",
+        "cn": "她的皮肤很柔软。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dry skin",
+        "cn": "干燥皮肤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260016,
+    "word": "finger",
+    "phonetic0": "ˈfɪŋɡə",
+    "phonetic1": "ˈfɪŋɡər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手指"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I cut my finger.",
+        "cn": "我割破了手指。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "little finger",
+        "cn": "小指"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260017,
+    "word": "brain",
+    "phonetic0": "breɪn",
+    "phonetic1": "breɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大脑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Reading is good for your brain.",
+        "cn": "阅读对大脑有益。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "brain power",
+        "cn": "脑力"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260018,
+    "word": "ear",
+    "phonetic0": "ɪə",
+    "phonetic1": "ɪr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "耳朵"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My ear hurts.",
+        "cn": "我耳朵疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ear infection",
+        "cn": "耳朵发炎"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260019,
+    "word": "bone",
+    "phonetic0": "bəʊn",
+    "phonetic1": "boʊn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "骨头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He broke a bone in his hand.",
+        "cn": "他手上骨折了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "broken bone",
+        "cn": "骨折"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260020,
+    "word": "lip",
+    "phonetic0": "lɪp",
+    "phonetic1": "lɪp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "嘴唇"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My lips are dry.",
+        "cn": "我嘴唇干。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lip balm",
+        "cn": "润唇膏"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260021,
+    "word": "knee",
+    "phonetic0": "niː",
+    "phonetic1": "niː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "膝盖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hurt my knee playing football.",
+        "cn": "我踢足球伤了膝盖。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "knee injury",
+        "cn": "膝伤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260022,
+    "word": "neck",
+    "phonetic0": "nek",
+    "phonetic1": "nek",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "脖子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My neck is stiff.",
+        "cn": "我脖子僵硬。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stiff neck",
+        "cn": "落枕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260023,
+    "word": "chest",
+    "phonetic0": "tʃest",
+    "phonetic1": "tʃest",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "胸部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a pain in my chest.",
+        "cn": "我胸口疼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "chest pain",
+        "cn": "胸痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260024,
+    "word": "nose",
+    "phonetic0": "nəʊz",
+    "phonetic1": "noʊz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鼻子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a runny nose.",
+        "cn": "我流鼻涕。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "runny nose",
+        "cn": "流鼻涕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260025,
+    "word": "tooth",
+    "phonetic0": "tuːθ",
+    "phonetic1": "tuːθ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "牙齿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Brush your teeth twice a day.",
+        "cn": "一天刷两次牙。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "brush teeth",
+        "cn": "刷牙"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260026,
+    "word": "stomach",
+    "phonetic0": "ˈstʌmək",
+    "phonetic1": "ˈstʌmək",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "肚子，胃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My stomach is full.",
+        "cn": "我吃饱了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stomach ache",
+        "cn": "胃痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260027,
+    "word": "lung",
+    "phonetic0": "lʌŋ",
+    "phonetic1": "lʌŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "肺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Smoking is bad for your lungs.",
+        "cn": "吸烟对肺不好。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lung cancer",
+        "cn": "肺癌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260028,
+    "word": "toe",
+    "phonetic0": "təʊ",
+    "phonetic1": "toʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "脚趾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hit my toe on the table.",
+        "cn": "我的脚趾撞到桌子了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "big toe",
+        "cn": "大脚趾"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260029,
+    "word": "elbow",
+    "phonetic0": "ˈelbəʊ",
+    "phonetic1": "ˈelboʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手肘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't put your elbows on the table.",
+        "cn": "别把手肘放在桌上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "elbow pain",
+        "cn": "手肘痛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260030,
+    "word": "wrist",
+    "phonetic0": "rɪst",
+    "phonetic1": "rɪst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手腕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I wear my watch on my left wrist.",
+        "cn": "我把手表戴在左手腕上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wrist watch",
+        "cn": "手表"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260031,
+    "word": "thumb",
+    "phonetic0": "θʌm",
+    "phonetic1": "θʌm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "拇指"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Give it a thumbs up.",
+        "cn": "给它点个赞。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "thumbs up",
+        "cn": "点赞"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260032,
+    "word": "ankle",
+    "phonetic0": "ˈæŋkl",
+    "phonetic1": "ˈæŋkl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "脚踝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I twisted my ankle.",
+        "cn": "我扭了脚踝。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "twist an ankle",
+        "cn": "扭伤脚踝"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1260033,
+    "word": "waist",
+    "phonetic0": "weɪst",
+    "phonetic1": "weɪst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "腰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These trousers are too big at the waist.",
+        "cn": "这条裤子腰太大了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "waist size",
+        "cn": "腰围"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

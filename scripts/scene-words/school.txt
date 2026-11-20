@@ -42,3 +42,26 @@ absent | ˈæbsənt | ˈæbsənt | adj.:缺席的 | He was absent yesterday. | �
 attendance | əˈtendəns | əˈtendəns | n.:出勤 | Attendance is compulsory. | 必须出勤。 | take attendance:点名
 tutor | ˈtjuːtə | ˈtuːtər | n.:导师，家教 | My tutor helps me with writing. | 我的导师帮我练写作。 | private tutor:私人家教
 scholarship | ˈskɒləʃɪp | ˈskɑːlərʃɪp | n.:奖学金 | She won a scholarship. | 她获得了奖学金。 | apply for a scholarship:申请奖学金
+school | skuːl | skuːl | n.:学校 | I walk to school every day. | 我每天走路上学。 | high school:高中
+university | ˌjuːnɪˈvɜːsəti | ˌjuːnɪˈvɜːrsəti | n.:大学 | Which university do you go to? | 你在哪所大学读书？ | go to university:上大学
+study | ˈstʌdi | ˈstʌdi | v.:学习 | I study English every evening. | 我每天晚上学英语。 | study for:为……学习
+learn | lɜːn | lɜːrn | v.:学会 | I want to learn more words. | 我想学更多单词。 | learn by heart:背下来
+read | riːd | riːd | v.:读 | Read the text aloud. | 把课文大声读出来。 | read aloud:朗读
+write | raɪt | raɪt | v.:写 | Write your name at the top. | 在顶部写上你的名字。 | write down:写下
+book | bʊk | bʊk | n.:书 | Open your books to page ten. | 把书翻到第十页。 | textbook:课本
+page | peɪdʒ | peɪdʒ | n.:页 | Turn to page twenty. | 翻到第二十页。 | on page 5:在第5页
+word | wɜːd | wɜːrd | n.:单词 | What does this word mean? | 这个词是什么意思？ | new words:生词
+mean | miːn | miːn | v.:意思是 | What do you mean? | 你是什么意思？ | mean by:……的意思是
+example | ɪɡˈzɑːmpl | ɪɡˈzæmpl | n.:例子 | Can you give me an example? | 你能举个例子吗？ | for example:例如
+practice | ˈpræktɪs | ˈpræktɪs | n.:练习 | Speaking needs a lot of practice. | 口语需要大量练习。 | practice makes perfect:熟能生巧
+mistake | mɪˈsteɪk | mɪˈsteɪk | n.:错误 | Don't worry about making mistakes. | 别担心犯错。 | make a mistake:犯错
+correct | kəˈrekt | kəˈrekt | adj.:正确的; v.:改正 | Is this answer correct? | 这个答案对吗？ | correct answer:正确答案
+group | ɡruːp | ɡruːp | n.:小组 | Work in groups of four. | 四人一组。 | group work:小组活动
+discuss | dɪˈskʌs | dɪˈskʌs | v.:讨论 | Discuss the question with your partner. | 和同伴讨论这个问题。 | discuss with:与……讨论
+hand | hænd | hænd | v.:交; n.:手 | Hand in your homework tomorrow. | 明天交作业。 | hand in:上交
+break | breɪk | breɪk | n.:课间休息 | We have a ten-minute break. | 我们有十分钟的课间休息。 | lunch break:午休
+uniform | ˈjuːnɪfɔːm | ˈjuːnɪfɔːrm | n.:校服 | We have to wear a school uniform. | 我们必须穿校服。 | school uniform:校服
+holiday | ˈhɒlədeɪ | ˈhɑːlədeɪ | n.:假期 | The summer holiday starts next week. | 暑假下周开始。 | summer holiday:暑假
+graduate | ˈɡrædʒueɪt | ˈɡrædʒueɪt | v.:毕业 | I will graduate next year. | 我明年毕业。 | graduate from:从……毕业
+dormitory | ˈdɔːmətri | ˈdɔːrmətɔːri | n.:宿舍 | I live in the student dormitory. | 我住学生宿舍。 | student dormitory:学生宿舍
+essay | ˈeseɪ | ˈeseɪ | n.:文章，论文 | I have to write an essay on climate change. | 我得写一篇关于气候变化的论文。 | write an essay:写论文

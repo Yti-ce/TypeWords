@@ -1,25 +1,25 @@
 [
   {
     "id": 1170001,
-    "word": "weather",
-    "phonetic0": "ˈweðə",
-    "phonetic1": "ˈweðər",
+    "word": "day",
+    "phonetic0": "deɪ",
+    "phonetic1": "deɪ",
     "trans": [
       {
         "pos": "n.",
-        "cn": "天气"
+        "cn": "天，白天"
       }
     ],
     "sentences": [
       {
-        "c": "What's the weather like today?",
-        "cn": "今天天气怎么样？"
+        "c": "What a beautiful day!",
+        "cn": "天气真好！"
       }
     ],
     "phrases": [
       {
-        "c": "weather forecast",
-        "cn": "天气预报"
+        "c": "all day",
+        "cn": "一整天"
       }
     ],
     "synos": [],
@@ -31,6 +31,190 @@
   },
   {
     "id": 1170002,
+    "word": "change",
+    "phonetic0": "tʃeɪndʒ",
+    "phonetic1": "tʃeɪndʒ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "变化"
+      },
+      {
+        "pos": "n.",
+        "cn": "变化"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The weather changes quickly here.",
+        "cn": "这里天气变得很快。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "climate change",
+        "cn": "气候变化"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170003,
+    "word": "air",
+    "phonetic0": "eə",
+    "phonetic1": "er",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "空气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The air is fresh after the rain.",
+        "cn": "雨后空气很清新。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fresh air",
+        "cn": "新鲜空气"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170004,
+    "word": "clear",
+    "phonetic0": "klɪə",
+    "phonetic1": "klɪr",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "晴朗的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It will be clear tomorrow.",
+        "cn": "明天天晴。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "clear sky",
+        "cn": "晴空"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170005,
+    "word": "light",
+    "phonetic0": "laɪt",
+    "phonetic1": "laɪt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "小的，轻的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's light rain this morning.",
+        "cn": "今早下着小雨。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "light rain",
+        "cn": "小雨"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170006,
+    "word": "season",
+    "phonetic0": "ˈsiːzn",
+    "phonetic1": "ˈsiːzn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "季节"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your favourite season?",
+        "cn": "你最喜欢哪个季节？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rainy season",
+        "cn": "雨季"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170007,
+    "word": "summer",
+    "phonetic0": "ˈsʌmə",
+    "phonetic1": "ˈsʌmər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "夏天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Summer is very hot here.",
+        "cn": "这里夏天很热。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "summer holiday",
+        "cn": "暑假"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170008,
     "word": "hot",
     "phonetic0": "hɒt",
     "phonetic1": "hɑːt",
@@ -60,7 +244,67 @@
     "etymology": []
   },
   {
-    "id": 1170003,
+    "id": 1170009,
+    "word": "degree",
+    "phonetic0": "dɪˈɡriː",
+    "phonetic1": "dɪˈɡriː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's minus five degrees.",
+        "cn": "零下五度。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "20 degrees",
+        "cn": "20度"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170010,
+    "word": "sun",
+    "phonetic0": "sʌn",
+    "phonetic1": "sʌn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "太阳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sun is very strong today.",
+        "cn": "今天太阳很晒。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the sun",
+        "cn": "在阳光下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170011,
     "word": "cold",
     "phonetic0": "kəʊld",
     "phonetic1": "koʊld",
@@ -90,7 +334,157 @@
     "etymology": []
   },
   {
-    "id": 1170004,
+    "id": 1170012,
+    "word": "spring",
+    "phonetic0": "sprɪŋ",
+    "phonetic1": "sprɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "春天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Flowers bloom in spring.",
+        "cn": "春天花开。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in spring",
+        "cn": "在春天"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170013,
+    "word": "heavy",
+    "phonetic0": "ˈhevi",
+    "phonetic1": "ˈhevi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "大的，猛烈的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There was heavy rain last night.",
+        "cn": "昨晚下了大雨。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "heavy rain",
+        "cn": "大雨"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170014,
+    "word": "wind",
+    "phonetic0": "wɪnd",
+    "phonetic1": "wɪnd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "风"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The wind is very strong today.",
+        "cn": "今天风很大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "strong wind",
+        "cn": "大风"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170015,
+    "word": "sky",
+    "phonetic0": "skaɪ",
+    "phonetic1": "skaɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "天空"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sky is clear tonight.",
+        "cn": "今晚天空很晴朗。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "blue sky",
+        "cn": "蓝天"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170016,
+    "word": "winter",
+    "phonetic0": "ˈwɪntə",
+    "phonetic1": "ˈwɪntər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冬天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's very cold in winter.",
+        "cn": "冬天很冷。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in winter",
+        "cn": "在冬天"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170017,
     "word": "warm",
     "phonetic0": "wɔːm",
     "phonetic1": "wɔːrm",
@@ -120,7 +514,7 @@
     "etymology": []
   },
   {
-    "id": 1170005,
+    "id": 1170018,
     "word": "cool",
     "phonetic0": "kuːl",
     "phonetic1": "kuːl",
@@ -150,7 +544,7 @@
     "etymology": []
   },
   {
-    "id": 1170006,
+    "id": 1170019,
     "word": "rain",
     "phonetic0": "reɪn",
     "phonetic1": "reɪn",
@@ -184,26 +578,26 @@
     "etymology": []
   },
   {
-    "id": 1170007,
-    "word": "sunny",
-    "phonetic0": "ˈsʌni",
-    "phonetic1": "ˈsʌni",
+    "id": 1170020,
+    "word": "dry",
+    "phonetic0": "draɪ",
+    "phonetic1": "draɪ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "晴朗的"
+        "cn": "干燥的"
       }
     ],
     "sentences": [
       {
-        "c": "It's a sunny day.",
-        "cn": "今天是个晴天。"
+        "c": "The air is very dry.",
+        "cn": "空气很干燥。"
       }
     ],
     "phrases": [
       {
-        "c": "sunny day",
-        "cn": "晴天"
+        "c": "dry season",
+        "cn": "旱季"
       }
     ],
     "synos": [],
@@ -214,140 +608,20 @@
     "etymology": []
   },
   {
-    "id": 1170008,
-    "word": "cloudy",
-    "phonetic0": "ˈklaʊdi",
-    "phonetic1": "ˈklaʊdi",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "多云的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's cloudy but not raining.",
-        "cn": "天阴但没下雨。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "cloudy sky",
-        "cn": "阴天"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170009,
-    "word": "umbrella",
-    "phonetic0": "ʌmˈbrelə",
-    "phonetic1": "ʌmˈbrelə",
+    "id": 1170021,
+    "word": "weather",
+    "phonetic0": "ˈweðə",
+    "phonetic1": "ˈweðər",
     "trans": [
       {
         "pos": "n.",
-        "cn": "雨伞"
+        "cn": "天气"
       }
     ],
     "sentences": [
       {
-        "c": "Don't forget your umbrella.",
-        "cn": "别忘了带伞。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "take an umbrella",
-        "cn": "带伞"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170010,
-    "word": "wind",
-    "phonetic0": "wɪnd",
-    "phonetic1": "wɪnd",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "风"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The wind is very strong today.",
-        "cn": "今天风很大。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "strong wind",
-        "cn": "大风"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170011,
-    "word": "windy",
-    "phonetic0": "ˈwɪndi",
-    "phonetic1": "ˈwɪndi",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "刮风的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's very windy outside.",
-        "cn": "外面风很大。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "windy day",
-        "cn": "大风天"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170012,
-    "word": "forecast",
-    "phonetic0": "ˈfɔːkɑːst",
-    "phonetic1": "ˈfɔːrkæst",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "预报"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The forecast says it will be sunny.",
-        "cn": "天气预报说会是晴天。"
+        "c": "What's the weather like today?",
+        "cn": "今天天气怎么样？"
       }
     ],
     "phrases": [
@@ -364,7 +638,7 @@
     "etymology": []
   },
   {
-    "id": 1170013,
+    "id": 1170022,
     "word": "temperature",
     "phonetic0": "ˈtemprətʃə",
     "phonetic1": "ˈtemprətʃər",
@@ -394,67 +668,7 @@
     "etymology": []
   },
   {
-    "id": 1170014,
-    "word": "degree",
-    "phonetic0": "dɪˈɡriː",
-    "phonetic1": "dɪˈɡriː",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "度"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's minus five degrees.",
-        "cn": "零下五度。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "20 degrees",
-        "cn": "20度"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170015,
-    "word": "humid",
-    "phonetic0": "ˈhjuːmɪd",
-    "phonetic1": "ˈhjuːmɪd",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "潮湿的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's hot and humid in summer.",
-        "cn": "夏天又热又潮湿。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "humid weather",
-        "cn": "潮湿天气"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170016,
+    "id": 1170023,
     "word": "storm",
     "phonetic0": "stɔːm",
     "phonetic1": "stɔːrm",
@@ -484,37 +698,7 @@
     "etymology": []
   },
   {
-    "id": 1170017,
-    "word": "thunder",
-    "phonetic0": "ˈθʌndə",
-    "phonetic1": "ˈθʌndər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "雷"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I heard thunder last night.",
-        "cn": "我昨晚听到打雷了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "thunder and lightning",
-        "cn": "雷电"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170018,
+    "id": 1170024,
     "word": "snow",
     "phonetic0": "snəʊ",
     "phonetic1": "snoʊ",
@@ -548,187 +732,157 @@
     "etymology": []
   },
   {
-    "id": 1170019,
-    "word": "fog",
-    "phonetic0": "fɒɡ",
-    "phonetic1": "fɑːɡ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "雾"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The fog is very thick this morning.",
-        "cn": "今天早上雾很大。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "thick fog",
-        "cn": "浓雾"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170020,
-    "word": "wet",
-    "phonetic0": "wet",
-    "phonetic1": "wet",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "湿的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I got wet in the rain.",
-        "cn": "我被雨淋湿了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "get wet",
-        "cn": "淋湿"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170021,
-    "word": "dry",
-    "phonetic0": "draɪ",
-    "phonetic1": "draɪ",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "干燥的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The air is very dry.",
-        "cn": "空气很干燥。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "dry season",
-        "cn": "旱季"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170022,
-    "word": "season",
-    "phonetic0": "ˈsiːzn",
-    "phonetic1": "ˈsiːzn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "季节"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What's your favourite season?",
-        "cn": "你最喜欢哪个季节？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "rainy season",
-        "cn": "雨季"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170023,
-    "word": "spring",
-    "phonetic0": "sprɪŋ",
-    "phonetic1": "sprɪŋ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "春天"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Flowers bloom in spring.",
-        "cn": "春天花开。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in spring",
-        "cn": "在春天"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1170024,
-    "word": "summer",
-    "phonetic0": "ˈsʌmə",
-    "phonetic1": "ˈsʌmər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "夏天"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Summer is very hot here.",
-        "cn": "这里夏天很热。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "summer holiday",
-        "cn": "暑假"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
     "id": 1170025,
+    "word": "warning",
+    "phonetic0": "ˈwɔːnɪŋ",
+    "phonetic1": "ˈwɔːrnɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "预警"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's a heavy rain warning.",
+        "cn": "有暴雨预警。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "weather warning",
+        "cn": "天气预警"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170026,
+    "word": "cloud",
+    "phonetic0": "klaʊd",
+    "phonetic1": "klaʊd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "云"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There isn't a cloud in the sky.",
+        "cn": "天上一片云都没有。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dark clouds",
+        "cn": "乌云"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170027,
+    "word": "climate",
+    "phonetic0": "ˈklaɪmət",
+    "phonetic1": "ˈklaɪmət",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "气候"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I like the climate here.",
+        "cn": "我喜欢这里的气候。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "climate change",
+        "cn": "气候变化"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170028,
+    "word": "coat",
+    "phonetic0": "kəʊt",
+    "phonetic1": "koʊt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "外套"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take a coat, it's cold.",
+        "cn": "带件外套，天冷。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "winter coat",
+        "cn": "冬衣"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170029,
+    "word": "pollution",
+    "phonetic0": "pəˈluːʃn",
+    "phonetic1": "pəˈluːʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "污染"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Air pollution is bad today.",
+        "cn": "今天空气污染很严重。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "air pollution",
+        "cn": "空气污染"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170030,
     "word": "autumn",
     "phonetic0": "ˈɔːtəm",
     "phonetic1": "ˈɔːtəm",
@@ -758,26 +912,26 @@
     "etymology": []
   },
   {
-    "id": 1170026,
-    "word": "winter",
-    "phonetic0": "ˈwɪntə",
-    "phonetic1": "ˈwɪntər",
+    "id": 1170031,
+    "word": "wet",
+    "phonetic0": "wet",
+    "phonetic1": "wet",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "冬天"
+        "pos": "adj.",
+        "cn": "湿的"
       }
     ],
     "sentences": [
       {
-        "c": "It's very cold in winter.",
-        "cn": "冬天很冷。"
+        "c": "I got wet in the rain.",
+        "cn": "我被雨淋湿了。"
       }
     ],
     "phrases": [
       {
-        "c": "in winter",
-        "cn": "在冬天"
+        "c": "get wet",
+        "cn": "淋湿"
       }
     ],
     "synos": [],
@@ -788,7 +942,187 @@
     "etymology": []
   },
   {
-    "id": 1170027,
+    "id": 1170032,
+    "word": "shower",
+    "phonetic0": "ˈʃaʊə",
+    "phonetic1": "ˈʃaʊər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "阵雨"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There may be showers this afternoon.",
+        "cn": "下午可能有阵雨。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rain shower",
+        "cn": "阵雨"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170033,
+    "word": "forecast",
+    "phonetic0": "ˈfɔːkɑːst",
+    "phonetic1": "ˈfɔːrkæst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "预报"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The forecast says it will be sunny.",
+        "cn": "天气预报说会是晴天。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "weather forecast",
+        "cn": "天气预报"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170034,
+    "word": "lightning",
+    "phonetic0": "ˈlaɪtnɪŋ",
+    "phonetic1": "ˈlaɪtnɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "闪电"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There was thunder and lightning all night.",
+        "cn": "电闪雷鸣了一整夜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "thunder and lightning",
+        "cn": "雷电"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170035,
+    "word": "sunny",
+    "phonetic0": "ˈsʌni",
+    "phonetic1": "ˈsʌni",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "晴朗的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's a sunny day.",
+        "cn": "今天是个晴天。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sunny day",
+        "cn": "晴天"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170036,
+    "word": "fog",
+    "phonetic0": "fɒɡ",
+    "phonetic1": "fɑːɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "雾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fog is very thick this morning.",
+        "cn": "今天早上雾很大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "thick fog",
+        "cn": "浓雾"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170037,
+    "word": "umbrella",
+    "phonetic0": "ʌmˈbrelə",
+    "phonetic1": "ʌmˈbrelə",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "雨伞"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't forget your umbrella.",
+        "cn": "别忘了带伞。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take an umbrella",
+        "cn": "带伞"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170038,
     "word": "freezing",
     "phonetic0": "ˈfriːzɪŋ",
     "phonetic1": "ˈfriːzɪŋ",
@@ -818,7 +1152,97 @@
     "etymology": []
   },
   {
-    "id": 1170028,
+    "id": 1170039,
+    "word": "thunder",
+    "phonetic0": "ˈθʌndə",
+    "phonetic1": "ˈθʌndər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "雷"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I heard thunder last night.",
+        "cn": "我昨晚听到打雷了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "thunder and lightning",
+        "cn": "雷电"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170040,
+    "word": "rainy",
+    "phonetic0": "ˈreɪni",
+    "phonetic1": "ˈreɪni",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "下雨的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's a rainy day.",
+        "cn": "今天是雨天。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rainy season",
+        "cn": "雨季"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170041,
+    "word": "windy",
+    "phonetic0": "ˈwɪndi",
+    "phonetic1": "ˈwɪndi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "刮风的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's very windy outside.",
+        "cn": "外面风很大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "windy day",
+        "cn": "大风天"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170042,
     "word": "sunscreen",
     "phonetic0": "ˈsʌnskriːn",
     "phonetic1": "ˈsʌnskriːn",
@@ -838,6 +1262,96 @@
       {
         "c": "wear sunscreen",
         "cn": "涂防晒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170043,
+    "word": "cloudy",
+    "phonetic0": "ˈklaʊdi",
+    "phonetic1": "ˈklaʊdi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "多云的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's cloudy but not raining.",
+        "cn": "天阴但没下雨。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cloudy sky",
+        "cn": "阴天"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170044,
+    "word": "humid",
+    "phonetic0": "ˈhjuːmɪd",
+    "phonetic1": "ˈhjuːmɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "潮湿的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's hot and humid in summer.",
+        "cn": "夏天又热又潮湿。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "humid weather",
+        "cn": "潮湿天气"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1170045,
+    "word": "typhoon",
+    "phonetic0": "taɪˈfuːn",
+    "phonetic1": "taɪˈfuːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "台风"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A typhoon is coming this weekend.",
+        "cn": "这周末有台风。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "typhoon warning",
+        "cn": "台风预警"
       }
     ],
     "synos": [],

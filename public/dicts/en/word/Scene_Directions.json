@@ -1,6 +1,126 @@
 [
   {
     "id": 1110001,
+    "word": "there",
+    "phonetic0": "ðeə",
+    "phonetic1": "ðer",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "那里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do I get there?",
+        "cn": "我怎么去那里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "over there",
+        "cn": "在那边"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110002,
+    "word": "way",
+    "phonetic0": "weɪ",
+    "phonetic1": "weɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "路；方式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you tell me the way to the museum?",
+        "cn": "你能告诉我去博物馆怎么走吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "the way to",
+        "cn": "去……的路"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110003,
+    "word": "here",
+    "phonetic0": "hɪə",
+    "phonetic1": "hɪr",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "这里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a bank around here?",
+        "cn": "这附近有银行吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "around here",
+        "cn": "这附近"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110004,
+    "word": "between",
+    "phonetic0": "bɪˈtwiːn",
+    "phonetic1": "bɪˈtwiːn",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在……之间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's between the bank and the café.",
+        "cn": "它在银行和咖啡馆之间。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in between",
+        "cn": "在中间"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110005,
     "word": "where",
     "phonetic0": "weə",
     "phonetic1": "wer",
@@ -30,30 +150,26 @@
     "etymology": []
   },
   {
-    "id": 1110002,
-    "word": "left",
-    "phonetic0": "left",
-    "phonetic1": "left",
+    "id": 1110006,
+    "word": "turn",
+    "phonetic0": "tɜːn",
+    "phonetic1": "tɜːrn",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "左边"
-      },
-      {
-        "pos": "adv.",
-        "cn": "向左"
+        "pos": "v.",
+        "cn": "转弯"
       }
     ],
     "sentences": [
       {
-        "c": "Turn left at the corner.",
-        "cn": "在拐角处左转。"
+        "c": "Turn right at the bank.",
+        "cn": "在银行那儿右转。"
       }
     ],
     "phrases": [
       {
-        "c": "turn left",
-        "cn": "左转"
+        "c": "turn around",
+        "cn": "掉头"
       }
     ],
     "synos": [],
@@ -64,7 +180,37 @@
     "etymology": []
   },
   {
-    "id": 1110003,
+    "id": 1110007,
+    "word": "end",
+    "phonetic0": "end",
+    "phonetic1": "end",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "尽头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's at the end of the street.",
+        "cn": "在这条街的尽头。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at the end of",
+        "cn": "在……尽头"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110008,
     "word": "right",
     "phonetic0": "raɪt",
     "phonetic1": "raɪt",
@@ -98,26 +244,26 @@
     "etymology": []
   },
   {
-    "id": 1110004,
-    "word": "straight",
-    "phonetic0": "streɪt",
-    "phonetic1": "streɪt",
+    "id": 1110009,
+    "word": "next",
+    "phonetic0": "nekst",
+    "phonetic1": "nekst",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "笔直地"
+        "pos": "adj.",
+        "cn": "下一个；旁边的"
       }
     ],
     "sentences": [
       {
-        "c": "Go straight ahead.",
-        "cn": "一直往前走。"
+        "c": "It's next to the cinema.",
+        "cn": "它在电影院旁边。"
       }
     ],
     "phrases": [
       {
-        "c": "go straight",
-        "cn": "直走"
+        "c": "next to",
+        "cn": "紧挨着"
       }
     ],
     "synos": [],
@@ -128,26 +274,26 @@
     "etymology": []
   },
   {
-    "id": 1110005,
-    "word": "turn",
-    "phonetic0": "tɜːn",
-    "phonetic1": "tɜːrn",
+    "id": 1110010,
+    "word": "side",
+    "phonetic0": "saɪd",
+    "phonetic1": "saɪd",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "转弯"
+        "pos": "n.",
+        "cn": "边"
       }
     ],
     "sentences": [
       {
-        "c": "Turn right at the bank.",
-        "cn": "在银行那儿右转。"
+        "c": "It's on the other side of the road.",
+        "cn": "在马路对面。"
       }
     ],
     "phrases": [
       {
-        "c": "turn around",
-        "cn": "掉头"
+        "c": "the other side",
+        "cn": "另一边"
       }
     ],
     "synos": [],
@@ -158,7 +304,397 @@
     "etymology": []
   },
   {
-    "id": 1110006,
+    "id": 1110011,
+    "word": "far",
+    "phonetic0": "fɑː",
+    "phonetic1": "fɑːr",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "远的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is it far from here?",
+        "cn": "离这儿远吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "how far",
+        "cn": "多远"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110012,
+    "word": "road",
+    "phonetic0": "rəʊd",
+    "phonetic1": "roʊd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Follow this road for five minutes.",
+        "cn": "沿这条路走五分钟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "main road",
+        "cn": "大路"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110013,
+    "word": "towards",
+    "phonetic0": "təˈwɔːdz",
+    "phonetic1": "tɔːrdz",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "朝着"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Walk towards the tall building.",
+        "cn": "朝那栋高楼走。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "towards the station",
+        "cn": "朝车站方向"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110014,
+    "word": "across",
+    "phonetic0": "əˈkrɒs",
+    "phonetic1": "əˈkrɔːs",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在对面；穿过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bank is across the street.",
+        "cn": "银行在街对面。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "across from",
+        "cn": "在……对面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110015,
+    "word": "street",
+    "phonetic0": "striːt",
+    "phonetic1": "striːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "街道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's on Main Street.",
+        "cn": "在主街上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "across the street",
+        "cn": "街对面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110016,
+    "word": "building",
+    "phonetic0": "ˈbɪldɪŋ",
+    "phonetic1": "ˈbɪldɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "建筑物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's the tall white building.",
+        "cn": "是那栋高高的白色建筑。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "office building",
+        "cn": "写字楼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110017,
+    "word": "behind",
+    "phonetic0": "bɪˈhaɪnd",
+    "phonetic1": "bɪˈhaɪnd",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在……后面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The car park is behind the mall.",
+        "cn": "停车场在商场后面。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "right behind",
+        "cn": "就在后面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110018,
+    "word": "along",
+    "phonetic0": "əˈlɒŋ",
+    "phonetic1": "əˈlɔːŋ",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "沿着"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Walk along the river.",
+        "cn": "沿着河走。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go along",
+        "cn": "沿着走"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110019,
+    "word": "north",
+    "phonetic0": "nɔːθ",
+    "phonetic1": "nɔːrθ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "北方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Head north for one kilometre.",
+        "cn": "往北走一公里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go north",
+        "cn": "往北走"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110020,
+    "word": "south",
+    "phonetic0": "saʊθ",
+    "phonetic1": "saʊθ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "南方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The beach is to the south.",
+        "cn": "海滩在南边。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the south",
+        "cn": "在南部"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110021,
+    "word": "floor",
+    "phonetic0": "flɔː",
+    "phonetic1": "flɔːr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "楼层"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's on the third floor.",
+        "cn": "在三楼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "first floor",
+        "cn": "二楼（英式）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110022,
+    "word": "west",
+    "phonetic0": "west",
+    "phonetic1": "west",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "西方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Go west along this road.",
+        "cn": "沿着这条路往西走。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "to the west",
+        "cn": "在西边"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110023,
+    "word": "past",
+    "phonetic0": "pɑːst",
+    "phonetic1": "pæst",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "经过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Go past the school.",
+        "cn": "走过学校。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "walk past",
+        "cn": "走过"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110024,
     "word": "near",
     "phonetic0": "nɪə",
     "phonetic1": "nɪr",
@@ -192,577 +728,7 @@
     "etymology": []
   },
   {
-    "id": 1110007,
-    "word": "far",
-    "phonetic0": "fɑː",
-    "phonetic1": "fɑːr",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "远的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Is it far from here?",
-        "cn": "离这儿远吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "how far",
-        "cn": "多远"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110008,
-    "word": "street",
-    "phonetic0": "striːt",
-    "phonetic1": "striːt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "街道"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's on Main Street.",
-        "cn": "在主街上。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "across the street",
-        "cn": "街对面"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110009,
-    "word": "road",
-    "phonetic0": "rəʊd",
-    "phonetic1": "roʊd",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "路"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Follow this road for five minutes.",
-        "cn": "沿这条路走五分钟。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "main road",
-        "cn": "大路"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110010,
-    "word": "corner",
-    "phonetic0": "ˈkɔːnə",
-    "phonetic1": "ˈkɔːrnər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "拐角"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The shop is on the corner.",
-        "cn": "那家店在拐角。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "around the corner",
-        "cn": "在拐角处"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110011,
-    "word": "opposite",
-    "phonetic0": "ˈɒpəzɪt",
-    "phonetic1": "ˈɑːpəzɪt",
-    "trans": [
-      {
-        "pos": "prep.",
-        "cn": "在……对面"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's opposite the bank.",
-        "cn": "它在银行对面。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "opposite to",
-        "cn": "在对面"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110012,
-    "word": "next",
-    "phonetic0": "nekst",
-    "phonetic1": "nekst",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "下一个；旁边的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's next to the cinema.",
-        "cn": "它在电影院旁边。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "next to",
-        "cn": "紧挨着"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110013,
-    "word": "between",
-    "phonetic0": "bɪˈtwiːn",
-    "phonetic1": "bɪˈtwiːn",
-    "trans": [
-      {
-        "pos": "prep.",
-        "cn": "在……之间"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's between the bank and the café.",
-        "cn": "它在银行和咖啡馆之间。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in between",
-        "cn": "在中间"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110014,
-    "word": "behind",
-    "phonetic0": "bɪˈhaɪnd",
-    "phonetic1": "bɪˈhaɪnd",
-    "trans": [
-      {
-        "pos": "prep.",
-        "cn": "在……后面"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The car park is behind the mall.",
-        "cn": "停车场在商场后面。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "right behind",
-        "cn": "就在后面"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110015,
-    "word": "front",
-    "phonetic0": "frʌnt",
-    "phonetic1": "frʌnt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "前面"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Meet me in front of the station.",
-        "cn": "在车站前面等我。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in front of",
-        "cn": "在……前面"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110016,
-    "word": "block",
-    "phonetic0": "blɒk",
-    "phonetic1": "blɑːk",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "街区"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Walk two blocks and turn left.",
-        "cn": "走两个街区后左转。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "two blocks",
-        "cn": "两个街区"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110017,
-    "word": "map",
-    "phonetic0": "mæp",
-    "phonetic1": "mæp",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "地图"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can you show me on the map?",
-        "cn": "你能在地图上指给我看吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "check the map",
-        "cn": "看地图"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110018,
-    "word": "lost",
-    "phonetic0": "lɒst",
-    "phonetic1": "lɔːst",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "迷路的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I think I'm lost.",
-        "cn": "我好像迷路了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "get lost",
-        "cn": "迷路"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110019,
-    "word": "way",
-    "phonetic0": "weɪ",
-    "phonetic1": "weɪ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "路；方式"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Could you tell me the way to the museum?",
-        "cn": "你能告诉我去博物馆怎么走吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "the way to",
-        "cn": "去……的路"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110020,
-    "word": "across",
-    "phonetic0": "əˈkrɒs",
-    "phonetic1": "əˈkrɔːs",
-    "trans": [
-      {
-        "pos": "prep.",
-        "cn": "在对面；穿过"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The bank is across the street.",
-        "cn": "银行在街对面。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "across from",
-        "cn": "在……对面"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110021,
-    "word": "bridge",
-    "phonetic0": "brɪdʒ",
-    "phonetic1": "brɪdʒ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "桥"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Cross the bridge and keep going.",
-        "cn": "过桥后继续走。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "cross the bridge",
-        "cn": "过桥"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110022,
-    "word": "entrance",
-    "phonetic0": "ˈentrəns",
-    "phonetic1": "ˈentrəns",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "入口"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Where is the main entrance?",
-        "cn": "正门在哪里？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "main entrance",
-        "cn": "正门"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110023,
-    "word": "exit",
-    "phonetic0": "ˈeksɪt",
-    "phonetic1": "ˈeksɪt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "出口"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Take exit B.",
-        "cn": "走B出口。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "emergency exit",
-        "cn": "紧急出口"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110024,
-    "word": "north",
-    "phonetic0": "nɔːθ",
-    "phonetic1": "nɔːrθ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "北方"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Head north for one kilometre.",
-        "cn": "往北走一公里。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "go north",
-        "cn": "往北走"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
     "id": 1110025,
-    "word": "south",
-    "phonetic0": "saʊθ",
-    "phonetic1": "saʊθ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "南方"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The beach is to the south.",
-        "cn": "海滩在南边。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in the south",
-        "cn": "在南部"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110026,
     "word": "east",
     "phonetic0": "iːst",
     "phonetic1": "iːst",
@@ -792,37 +758,7 @@
     "etymology": []
   },
   {
-    "id": 1110027,
-    "word": "west",
-    "phonetic0": "west",
-    "phonetic1": "west",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "西方"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Go west along this road.",
-        "cn": "沿着这条路往西走。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "to the west",
-        "cn": "在西边"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1110028,
+    "id": 1110026,
     "word": "sign",
     "phonetic0": "saɪn",
     "phonetic1": "saɪn",
@@ -842,6 +778,640 @@
       {
         "c": "road sign",
         "cn": "路标"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110027,
+    "word": "left",
+    "phonetic0": "left",
+    "phonetic1": "left",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "左边"
+      },
+      {
+        "pos": "adv.",
+        "cn": "向左"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Turn left at the corner.",
+        "cn": "在拐角处左转。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "turn left",
+        "cn": "左转"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110028,
+    "word": "outside",
+    "phonetic0": "ˌaʊtˈsaɪd",
+    "phonetic1": "ˌaʊtˈsaɪd",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在外面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm waiting outside the station.",
+        "cn": "我在车站外面等。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "outside the door",
+        "cn": "门外"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110029,
+    "word": "park",
+    "phonetic0": "pɑːk",
+    "phonetic1": "pɑːrk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "公园"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Walk through the park.",
+        "cn": "穿过公园。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the park",
+        "cn": "在公园里"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110030,
+    "word": "inside",
+    "phonetic0": "ˌɪnˈsaɪd",
+    "phonetic1": "ˌɪnˈsaɪd",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在里面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wait for me inside.",
+        "cn": "在里面等我。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "inside the mall",
+        "cn": "商场里"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110031,
+    "word": "front",
+    "phonetic0": "frʌnt",
+    "phonetic1": "frʌnt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "前面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Meet me in front of the station.",
+        "cn": "在车站前面等我。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in front of",
+        "cn": "在……前面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110032,
+    "word": "corner",
+    "phonetic0": "ˈkɔːnə",
+    "phonetic1": "ˈkɔːrnər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "拐角"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shop is on the corner.",
+        "cn": "那家店在拐角。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "around the corner",
+        "cn": "在拐角处"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110033,
+    "word": "block",
+    "phonetic0": "blɒk",
+    "phonetic1": "blɑːk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "街区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Walk two blocks and turn left.",
+        "cn": "走两个街区后左转。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "two blocks",
+        "cn": "两个街区"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110034,
+    "word": "bridge",
+    "phonetic0": "brɪdʒ",
+    "phonetic1": "brɪdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "桥"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cross the bridge and keep going.",
+        "cn": "过桥后继续走。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cross the bridge",
+        "cn": "过桥"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110035,
+    "word": "map",
+    "phonetic0": "mæp",
+    "phonetic1": "mæp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "地图"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you show me on the map?",
+        "cn": "你能在地图上指给我看吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "check the map",
+        "cn": "看地图"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110036,
+    "word": "straight",
+    "phonetic0": "streɪt",
+    "phonetic1": "streɪt",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "笔直地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Go straight ahead.",
+        "cn": "一直往前走。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go straight",
+        "cn": "直走"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110037,
+    "word": "square",
+    "phonetic0": "skweə",
+    "phonetic1": "skwer",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "广场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Meet me in the main square.",
+        "cn": "在中心广场等我。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "town square",
+        "cn": "市中心广场"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110038,
+    "word": "opposite",
+    "phonetic0": "ˈɒpəzɪt",
+    "phonetic1": "ˈɑːpəzɪt",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在……对面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's opposite the bank.",
+        "cn": "它在银行对面。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "opposite to",
+        "cn": "在对面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110039,
+    "word": "entrance",
+    "phonetic0": "ˈentrəns",
+    "phonetic1": "ˈentrəns",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "入口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the main entrance?",
+        "cn": "正门在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "main entrance",
+        "cn": "正门"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110040,
+    "word": "lost",
+    "phonetic0": "lɒst",
+    "phonetic1": "lɔːst",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "迷路的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I think I'm lost.",
+        "cn": "我好像迷路了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get lost",
+        "cn": "迷路"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110041,
+    "word": "upstairs",
+    "phonetic0": "ˌʌpˈsteəz",
+    "phonetic1": "ˌʌpˈsterz",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在楼上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The toilets are upstairs.",
+        "cn": "洗手间在楼上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go upstairs",
+        "cn": "上楼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110042,
+    "word": "toilet",
+    "phonetic0": "ˈtɔɪlət",
+    "phonetic1": "ˈtɔɪlət",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "厕所，洗手间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the toilet, please?",
+        "cn": "请问洗手间在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "public toilet",
+        "cn": "公共厕所"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110043,
+    "word": "exit",
+    "phonetic0": "ˈeksɪt",
+    "phonetic1": "ˈeksɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "出口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take exit B.",
+        "cn": "走B出口。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "emergency exit",
+        "cn": "紧急出口"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110044,
+    "word": "downstairs",
+    "phonetic0": "ˌdaʊnˈsteəz",
+    "phonetic1": "ˌdaʊnˈsterz",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在楼下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The café is downstairs.",
+        "cn": "咖啡馆在楼下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go downstairs",
+        "cn": "下楼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110045,
+    "word": "kilometre",
+    "phonetic0": "ˈkɪləmiːtə",
+    "phonetic1": "kɪˈlɑːmɪtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "公里（美式 kilometer）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's about two kilometres from here.",
+        "cn": "离这儿大约两公里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a kilometre away",
+        "cn": "一公里外"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110046,
+    "word": "crossing",
+    "phonetic0": "ˈkrɒsɪŋ",
+    "phonetic1": "ˈkrɔːsɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "人行横道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use the pedestrian crossing.",
+        "cn": "走人行横道。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "zebra crossing",
+        "cn": "斑马线"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1110047,
+    "word": "roundabout",
+    "phonetic0": "ˈraʊndəbaʊt",
+    "phonetic1": "ˈraʊndəbaʊt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "环岛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take the second exit at the roundabout.",
+        "cn": "在环岛走第二个出口。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at the roundabout",
+        "cn": "在环岛"
       }
     ],
     "synos": [],

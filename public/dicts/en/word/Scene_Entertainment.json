@@ -1,0 +1,936 @@
+[
+  {
+    "id": 1340001,
+    "word": "show",
+    "phonetic0": "ʃəʊ",
+    "phonetic1": "ʃoʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "节目；演出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your favourite TV show?",
+        "cn": "你最喜欢哪个电视节目？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "TV show",
+        "cn": "电视节目"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340002,
+    "word": "story",
+    "phonetic0": "ˈstɔːri",
+    "phonetic1": "ˈstɔːri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "故事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The story is really touching.",
+        "cn": "这个故事很感人。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "true story",
+        "cn": "真实故事"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340003,
+    "word": "game",
+    "phonetic0": "ɡeɪm",
+    "phonetic1": "ɡeɪm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "游戏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you play video games?",
+        "cn": "你玩电子游戏吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "video game",
+        "cn": "电子游戏"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340004,
+    "word": "watch",
+    "phonetic0": "wɒtʃ",
+    "phonetic1": "wɑːtʃ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "看"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I watched a great series last week.",
+        "cn": "我上周看了一部很棒的剧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "watch TV",
+        "cn": "看电视"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340005,
+    "word": "music",
+    "phonetic0": "ˈmjuːzɪk",
+    "phonetic1": "ˈmjuːzɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音乐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What kind of music do you like?",
+        "cn": "你喜欢什么类型的音乐？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "listen to music",
+        "cn": "听音乐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340006,
+    "word": "star",
+    "phonetic0": "stɑː",
+    "phonetic1": "stɑːr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "明星"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's a big movie star.",
+        "cn": "她是个大影星。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pop star",
+        "cn": "流行歌星"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340007,
+    "word": "movie",
+    "phonetic0": "ˈmuːvi",
+    "phonetic1": "ˈmuːvi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电影"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's watch a movie tonight.",
+        "cn": "我们今晚看部电影吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "watch a movie",
+        "cn": "看电影"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340008,
+    "word": "film",
+    "phonetic0": "fɪlm",
+    "phonetic1": "fɪlm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电影"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have you seen this film?",
+        "cn": "你看过这部电影吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "film star",
+        "cn": "影星"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340009,
+    "word": "series",
+    "phonetic0": "ˈsɪəriːz",
+    "phonetic1": "ˈsɪriːz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "剧集，系列"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm watching a Korean series.",
+        "cn": "我在追一部韩剧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "TV series",
+        "cn": "电视剧"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340010,
+    "word": "song",
+    "phonetic0": "sɒŋ",
+    "phonetic1": "sɔːŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "歌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I love this song.",
+        "cn": "我很喜欢这首歌。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sing a song",
+        "cn": "唱歌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340011,
+    "word": "seat",
+    "phonetic0": "siːt",
+    "phonetic1": "siːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "座位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our seats are in row F.",
+        "cn": "我们的座位在F排。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "front seat",
+        "cn": "前排座位"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340012,
+    "word": "review",
+    "phonetic0": "rɪˈvjuː",
+    "phonetic1": "rɪˈvjuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "评价"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The film got great reviews.",
+        "cn": "这部电影口碑很好。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "good reviews",
+        "cn": "好评"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340013,
+    "word": "band",
+    "phonetic0": "bænd",
+    "phonetic1": "bænd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "乐队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My brother plays in a band.",
+        "cn": "我哥哥在一个乐队里演奏。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rock band",
+        "cn": "摇滚乐队"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340014,
+    "word": "screen",
+    "phonetic0": "skriːn",
+    "phonetic1": "skriːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "银幕，屏幕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The screen is huge.",
+        "cn": "银幕好大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "big screen",
+        "cn": "大银幕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340015,
+    "word": "actor",
+    "phonetic0": "ˈæktə",
+    "phonetic1": "ˈæktər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "演员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who is your favourite actor?",
+        "cn": "你最喜欢哪个演员？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "famous actor",
+        "cn": "著名演员"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340016,
+    "word": "ticket",
+    "phonetic0": "ˈtɪkɪt",
+    "phonetic1": "ˈtɪkɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I booked two movie tickets.",
+        "cn": "我订了两张电影票。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "movie ticket",
+        "cn": "电影票"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340017,
+    "word": "recommend",
+    "phonetic0": "ˌrekəˈmend",
+    "phonetic1": "ˌrekəˈmend",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "推荐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you recommend a good movie?",
+        "cn": "你能推荐一部好电影吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "highly recommend",
+        "cn": "强烈推荐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340018,
+    "word": "dance",
+    "phonetic0": "dɑːns",
+    "phonetic1": "dæns",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "跳舞"
+      },
+      {
+        "pos": "n.",
+        "cn": "舞蹈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you like to dance?",
+        "cn": "你喜欢跳舞吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dance class",
+        "cn": "舞蹈课"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340019,
+    "word": "funny",
+    "phonetic0": "ˈfʌni",
+    "phonetic1": "ˈfʌni",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "好笑的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That film was so funny.",
+        "cn": "那部电影太搞笑了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "funny story",
+        "cn": "趣事"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340020,
+    "word": "stream",
+    "phonetic0": "striːm",
+    "phonetic1": "striːm",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "在线观看/播放"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You can stream it online.",
+        "cn": "你可以在网上看。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "live stream",
+        "cn": "直播"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340021,
+    "word": "concert",
+    "phonetic0": "ˈkɒnsət",
+    "phonetic1": "ˈkɑːnsərt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音乐会，演唱会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're going to a concert on Saturday.",
+        "cn": "我们周六去听演唱会。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "live concert",
+        "cn": "现场演唱会"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340022,
+    "word": "singer",
+    "phonetic0": "ˈsɪŋə",
+    "phonetic1": "ˈsɪŋər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "歌手"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's my favourite singer.",
+        "cn": "她是我最喜欢的歌手。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pop singer",
+        "cn": "流行歌手"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340023,
+    "word": "episode",
+    "phonetic0": "ˈepɪsəʊd",
+    "phonetic1": "ˈepɪsoʊd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一集"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I watched three episodes last night.",
+        "cn": "我昨晚看了三集。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new episode",
+        "cn": "新一集"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340024,
+    "word": "horror",
+    "phonetic0": "ˈhɒrə",
+    "phonetic1": "ˈhɔːrər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "恐怖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I don't watch horror films.",
+        "cn": "我不看恐怖片。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "horror movie",
+        "cn": "恐怖片"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340025,
+    "word": "comedy",
+    "phonetic0": "ˈkɒmədi",
+    "phonetic1": "ˈkɑːmədi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "喜剧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I prefer comedies.",
+        "cn": "我更喜欢喜剧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "romantic comedy",
+        "cn": "爱情喜剧"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340026,
+    "word": "cinema",
+    "phonetic0": "ˈsɪnəmə",
+    "phonetic1": "ˈsɪnəmə",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电影院（美式 movie theater）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's go to the cinema.",
+        "cn": "我们去电影院吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go to the cinema",
+        "cn": "去看电影"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340027,
+    "word": "boring",
+    "phonetic0": "ˈbɔːrɪŋ",
+    "phonetic1": "ˈbɔːrɪŋ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "无聊的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The film was a bit boring.",
+        "cn": "那部电影有点无聊。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "boring film",
+        "cn": "无聊的电影"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340028,
+    "word": "ending",
+    "phonetic0": "ˈendɪŋ",
+    "phonetic1": "ˈendɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "结局"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I didn't like the ending.",
+        "cn": "我不喜欢那个结局。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "happy ending",
+        "cn": "圆满结局"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340029,
+    "word": "popcorn",
+    "phonetic0": "ˈpɒpkɔːn",
+    "phonetic1": "ˈpɑːpkɔːrn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "爆米花"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's get some popcorn.",
+        "cn": "我们买点爆米花吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sweet popcorn",
+        "cn": "甜爆米花"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340030,
+    "word": "subtitle",
+    "phonetic0": "ˈsʌbtaɪtl",
+    "phonetic1": "ˈsʌbtaɪtl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "字幕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Turn on the English subtitles.",
+        "cn": "打开英文字幕。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "English subtitles",
+        "cn": "英文字幕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1340031,
+    "word": "karaoke",
+    "phonetic0": "ˌkæriˈəʊki",
+    "phonetic1": "ˌkæriˈoʊki",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "卡拉OK"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's go to karaoke tonight!",
+        "cn": "我们今晚去唱K吧！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sing karaoke",
+        "cn": "唱K"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

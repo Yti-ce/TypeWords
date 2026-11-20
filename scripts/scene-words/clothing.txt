@@ -1,0 +1,38 @@
+# 场景·衣服穿着
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+wear | weə | wer | v.:穿，戴 | What should I wear today? | 我今天该穿什么？ | wear glasses:戴眼镜
+clothes | kləʊðz | kloʊðz | n.:衣服 | I need some new clothes. | 我需要一些新衣服。 | change clothes:换衣服
+shirt | ʃɜːt | ʃɜːrt | n.:衬衫 | He's wearing a white shirt. | 他穿着一件白衬衫。 | T-shirt:T恤
+dress | dres | dres | n.:连衣裙; v.:穿衣 | She looks great in that dress. | 她穿那条裙子很好看。 | get dressed:穿好衣服
+coat | kəʊt | koʊt | n.:外套，大衣 | Put on your coat, it's cold. | 穿上外套，外面冷。 | winter coat:冬季外套
+jacket | ˈdʒækɪt | ˈdʒækɪt | n.:夹克 | Take a jacket in case it gets cold. | 带件夹克以防变冷。 | denim jacket:牛仔夹克
+shoes | ʃuːz | ʃuːz | n.:鞋 | Take off your shoes, please. | 请脱鞋。 | running shoes:跑鞋
+trousers | ˈtraʊzəz | ˈtraʊzərz | n.:裤子（美式 pants） | These trousers are too long. | 这条裤子太长了。 | a pair of trousers:一条裤子
+jeans | dʒiːnz | dʒiːnz | n.:牛仔裤 | I usually wear jeans. | 我平时穿牛仔裤。 | blue jeans:蓝色牛仔裤
+skirt | skɜːt | skɜːrt | n.:裙子 | I like your skirt. | 我喜欢你的裙子。 | long skirt:长裙
+shorts | ʃɔːts | ʃɔːrts | n.:短裤 | It's hot, I'll wear shorts. | 天热，我穿短裤。 | a pair of shorts:一条短裤
+sweater | ˈswetə | ˈswetər | n.:毛衣 | This sweater is very warm. | 这件毛衣很暖和。 | wool sweater:羊毛衫
+hat | hæt | hæt | n.:帽子 | Wear a hat in the sun. | 太阳下戴顶帽子。 | sun hat:遮阳帽
+socks | sɒks | sɑːks | n.:袜子 | I need a new pair of socks. | 我需要一双新袜子。 | a pair of socks:一双袜子
+boots | buːts | buːts | n.:靴子 | Wear boots, it's snowing. | 穿靴子，下雪了。 | rain boots:雨靴
+suit | suːt | suːt | n.:西装; v.:适合 | He wore a suit to the interview. | 他穿西装去面试。 | business suit:西服
+tie | taɪ | taɪ | n.:领带 | Do I need to wear a tie? | 我需要打领带吗？ | wear a tie:打领带
+belt | belt | belt | n.:腰带 | This belt is too tight. | 这根腰带太紧了。 | leather belt:皮带
+pocket | ˈpɒkɪt | ˈpɑːkɪt | n.:口袋 | My phone is in my pocket. | 我的手机在口袋里。 | in my pocket:在我口袋里
+button | ˈbʌtn | ˈbʌtn | n.:纽扣 | A button came off my shirt. | 我衬衫掉了一颗扣子。 | press the button:按按钮
+zip | zɪp | zɪp | n.:拉链（美式 zipper） | The zip is broken. | 拉链坏了。 | do up the zip:拉上拉链
+sleeve | sliːv | sliːv | n.:袖子 | I prefer short sleeves in summer. | 夏天我喜欢短袖。 | short sleeves:短袖
+tight | taɪt | taɪt | adj.:紧的 | These jeans are too tight. | 这条牛仔裤太紧了。 | too tight:太紧
+loose | luːs | luːs | adj.:宽松的 | I like loose clothes. | 我喜欢宽松的衣服。 | loose fit:宽松款
+cotton | ˈkɒtn | ˈkɑːtn | n.:棉 | Is this shirt cotton? | 这件衬衫是棉的吗？ | pure cotton:纯棉
+wool | wʊl | wʊl | n.:羊毛 | This scarf is made of wool. | 这条围巾是羊毛的。 | wool coat:羊毛大衣
+scarf | skɑːf | skɑːrf | n.:围巾 | Wear a scarf, it's windy. | 戴条围巾，风大。 | wool scarf:羊毛围巾
+gloves | ɡlʌvz | ɡlʌvz | n.:手套 | I lost one of my gloves. | 我丢了一只手套。 | a pair of gloves:一副手套
+glasses | ˈɡlɑːsɪz | ˈɡlæsɪz | n.:眼镜 | I can't see without my glasses. | 没有眼镜我看不清。 | wear glasses:戴眼镜
+pyjamas | pəˈdʒɑːməz | pəˈdʒæməz | n.:睡衣（美式 pajamas） | I'm still in my pyjamas. | 我还穿着睡衣。 | in pyjamas:穿着睡衣
+uniform | ˈjuːnɪfɔːm | ˈjuːnɪfɔːrm | n.:制服 | Staff must wear a uniform. | 员工必须穿制服。 | school uniform:校服
+fashion | ˈfæʃn | ˈfæʃn | n.:时尚 | She loves fashion. | 她热爱时尚。 | in fashion:流行
+casual | ˈkæʒuəl | ˈkæʒuəl | adj.:休闲的 | Casual clothes are fine on Fridays. | 周五穿便装就行。 | casual wear:休闲装
+formal | ˈfɔːml | ˈfɔːrml | adj.:正式的 | Is it a formal dinner? | 是正式晚宴吗？ | formal dress:正装
+put | pʊt | pʊt | v.:穿上（put on） | Put on your shoes. | 穿上鞋。 | put on:穿上
+take | teɪk | teɪk | v.:脱下（take off） | Take off your coat. | 把外套脱了。 | take off:脱下

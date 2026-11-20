@@ -30,3 +30,21 @@ liquid | ˈlɪkwɪd | ˈlɪkwɪd | n.:液体 | No liquids over 100 ml. | 液体�
 overweight | ˌəʊvəˈweɪt | ˌoʊvərˈweɪt | adj.:超重的 | Your bag is overweight. | 您的包超重了。 | overweight baggage:超重行李
 seatbelt | ˈsiːtbelt | ˈsiːtbelt | n.:安全带 | Please fasten your seatbelt. | 请系好安全带。 | fasten your seatbelt:系好安全带
 landing | ˈlændɪŋ | ˈlændɪŋ | n.:着陆 | We'll be landing in twenty minutes. | 我们将在二十分钟后降落。 | landing time:降落时间
+plane | pleɪn | pleɪn | n.:飞机 | The plane is about to take off. | 飞机马上要起飞了。 | by plane:坐飞机
+time | taɪm | taɪm | n.:时间 | What time does the flight leave? | 航班几点起飞？ | on time:准时
+late | leɪt | leɪt | adj.:晚的，迟的 | Sorry, we're running late. | 抱歉，我们要晚了。 | be late:迟到
+bag | bæɡ | bæɡ | n.:包 | Is this your bag? | 这是你的包吗？ | carry-on bag:随身包
+desk | desk | desk | n.:柜台 | Please go to the check-in desk. | 请去值机柜台。 | information desk:问询处
+window | ˈwɪndəʊ | ˈwɪndoʊ | n.:窗户 | I'd like a seat by the window. | 我想坐靠窗的位子。 | window seat:靠窗座位
+pilot | ˈpaɪlət | ˈpaɪlət | n.:飞行员 | The pilot says we'll land soon. | 机长说我们快降落了。 | airline pilot:民航飞行员
+crew | kruː | kruː | n.:机组人员 | The crew will serve drinks soon. | 乘务员马上会提供饮品。 | cabin crew:乘务员
+announcement | əˈnaʊnsmənt | əˈnaʊnsmənt | n.:广播通知 | Listen to the announcement. | 听一下广播。 | gate announcement:登机口广播
+immigration | ˌɪmɪˈɡreɪʃn | ˌɪmɪˈɡreɪʃn | n.:入境检查 | Go to immigration first. | 先去入境检查。 | immigration form:入境卡
+purpose | ˈpɜːpəs | ˈpɜːrpəs | n.:目的 | What's the purpose of your visit? | 您此行的目的是什么？ | purpose of visit:来访目的
+business | ˈbɪznəs | ˈbɪznəs | n.:商务 | I'm here on business. | 我是来出差的。 | on business:出差
+claim | kleɪm | kleɪm | v.:领取; n.:索赔 | Where can I claim my luggage? | 我在哪里取行李？ | baggage claim:行李提取处
+trolley | ˈtrɒli | ˈtrɑːli | n.:行李推车 | Let's get a luggage trolley. | 我们拿个行李推车吧。 | luggage trolley:行李推车
+domestic | dəˈmestɪk | dəˈmestɪk | adj.:国内的 | Domestic flights leave from Terminal 1. | 国内航班从1号航站楼出发。 | domestic flight:国内航班
+international | ˌɪntəˈnæʃnəl | ˌɪntərˈnæʃnəl | adj.:国际的 | Where are international departures? | 国际出发在哪里？ | international flight:国际航班
+jet | dʒet | dʒet | n.:喷气式飞机 | I still have jet lag. | 我还在倒时差。 | jet lag:时差反应
+takeoff | ˈteɪkɒf | ˈteɪkɔːf | n.:起飞 | Please turn off your phone before takeoff. | 起飞前请关闭手机。 | during takeoff:起飞时

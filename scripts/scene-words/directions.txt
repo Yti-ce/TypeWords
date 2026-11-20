@@ -28,3 +28,22 @@ south | saʊθ | saʊθ | n.:南方 | The beach is to the south. | 海滩在南�
 east | iːst | iːst | n.:东方 | The sun rises in the east. | 太阳从东边升起。 | to the east:在东边
 west | west | west | n.:西方 | Go west along this road. | 沿着这条路往西走。 | to the west:在西边
 sign | saɪn | saɪn | n.:路标；标志 | Follow the signs to the airport. | 跟着路标去机场。 | road sign:路标
+here | hɪə | hɪr | adv.:这里 | Is there a bank around here? | 这附近有银行吗？ | around here:这附近
+there | ðeə | ðer | adv.:那里 | How do I get there? | 我怎么去那里？ | over there:在那边
+along | əˈlɒŋ | əˈlɔːŋ | prep.:沿着 | Walk along the river. | 沿着河走。 | go along:沿着走
+past | pɑːst | pæst | prep.:经过 | Go past the school. | 走过学校。 | walk past:走过
+towards | təˈwɔːdz | tɔːrdz | prep.:朝着 | Walk towards the tall building. | 朝那栋高楼走。 | towards the station:朝车站方向
+end | end | end | n.:尽头 | It's at the end of the street. | 在这条街的尽头。 | at the end of:在……尽头
+side | saɪd | saɪd | n.:边 | It's on the other side of the road. | 在马路对面。 | the other side:另一边
+building | ˈbɪldɪŋ | ˈbɪldɪŋ | n.:建筑物 | It's the tall white building. | 是那栋高高的白色建筑。 | office building:写字楼
+square | skweə | skwer | n.:广场 | Meet me in the main square. | 在中心广场等我。 | town square:市中心广场
+park | pɑːk | pɑːrk | n.:公园 | Walk through the park. | 穿过公园。 | in the park:在公园里
+crossing | ˈkrɒsɪŋ | ˈkrɔːsɪŋ | n.:人行横道 | Use the pedestrian crossing. | 走人行横道。 | zebra crossing:斑马线
+roundabout | ˈraʊndəbaʊt | ˈraʊndəbaʊt | n.:环岛 | Take the second exit at the roundabout. | 在环岛走第二个出口。 | at the roundabout:在环岛
+upstairs | ˌʌpˈsteəz | ˌʌpˈsterz | adv.:在楼上 | The toilets are upstairs. | 洗手间在楼上。 | go upstairs:上楼
+downstairs | ˌdaʊnˈsteəz | ˌdaʊnˈsterz | adv.:在楼下 | The café is downstairs. | 咖啡馆在楼下。 | go downstairs:下楼
+toilet | ˈtɔɪlət | ˈtɔɪlət | n.:厕所，洗手间 | Where is the toilet, please? | 请问洗手间在哪里？ | public toilet:公共厕所
+inside | ˌɪnˈsaɪd | ˌɪnˈsaɪd | adv.:在里面 | Wait for me inside. | 在里面等我。 | inside the mall:商场里
+outside | ˌaʊtˈsaɪd | ˌaʊtˈsaɪd | adv.:在外面 | I'm waiting outside the station. | 我在车站外面等。 | outside the door:门外
+floor | flɔː | flɔːr | n.:楼层 | It's on the third floor. | 在三楼。 | first floor:二楼（英式）
+kilometre | ˈkɪləmiːtə | kɪˈlɑːmɪtər | n.:公里（美式 kilometer） | It's about two kilometres from here. | 离这儿大约两公里。 | a kilometre away:一公里外

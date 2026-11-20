@@ -1,0 +1,1000 @@
+[
+  {
+    "id": 1290001,
+    "word": "time",
+    "phonetic0": "taɪm",
+    "phonetic1": "taɪm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What time is it?",
+        "cn": "现在几点？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on time",
+        "cn": "准时"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290002,
+    "word": "year",
+    "phonetic0": "jɪə",
+    "phonetic1": "jɪr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "年"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Happy New Year!",
+        "cn": "新年快乐！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "this year",
+        "cn": "今年"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290003,
+    "word": "now",
+    "phonetic0": "naʊ",
+    "phonetic1": "naʊ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "现在"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm leaving now.",
+        "cn": "我现在走。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "right now",
+        "cn": "立刻"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290004,
+    "word": "day",
+    "phonetic0": "deɪ",
+    "phonetic1": "deɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What day is it today?",
+        "cn": "今天星期几？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "every day",
+        "cn": "每天"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290005,
+    "word": "week",
+    "phonetic0": "wiːk",
+    "phonetic1": "wiːk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "周"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll finish it next week.",
+        "cn": "我下周完成。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "next week",
+        "cn": "下周"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290006,
+    "word": "during",
+    "phonetic0": "ˈdjʊərɪŋ",
+    "phonetic1": "ˈdʊrɪŋ",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在……期间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I slept during the flight.",
+        "cn": "我在飞机上睡了一觉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "during the day",
+        "cn": "白天"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290007,
+    "word": "today",
+    "phonetic0": "təˈdeɪ",
+    "phonetic1": "təˈdeɪ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "今天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm busy today.",
+        "cn": "我今天很忙。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "today's date",
+        "cn": "今天的日期"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290008,
+    "word": "month",
+    "phonetic0": "mʌnθ",
+    "phonetic1": "mʌnθ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I moved here last month.",
+        "cn": "我上个月搬来的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "last month",
+        "cn": "上个月"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290009,
+    "word": "early",
+    "phonetic0": "ˈɜːli",
+    "phonetic1": "ˈɜːrli",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "早的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "早"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I got up early today.",
+        "cn": "我今天起得早。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "early morning",
+        "cn": "清晨"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290010,
+    "word": "already",
+    "phonetic0": "ɔːlˈredi",
+    "phonetic1": "ɔːlˈredi",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "已经"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I've already eaten.",
+        "cn": "我已经吃过了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "already done",
+        "cn": "已经做完"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290011,
+    "word": "yet",
+    "phonetic0": "jet",
+    "phonetic1": "jet",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "还（没）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I haven't finished yet.",
+        "cn": "我还没完成。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "not yet",
+        "cn": "还没有"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290012,
+    "word": "until",
+    "phonetic0": "ənˈtɪl",
+    "phonetic1": "ənˈtɪl",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "直到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shop is open until ten.",
+        "cn": "商店营业到十点。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "until now",
+        "cn": "直到现在"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290013,
+    "word": "hour",
+    "phonetic0": "ˈaʊə",
+    "phonetic1": "ˈaʊər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll be back in an hour.",
+        "cn": "我一小时后回来。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "half an hour",
+        "cn": "半小时"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290014,
+    "word": "late",
+    "phonetic0": "leɪt",
+    "phonetic1": "leɪt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "晚的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "晚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's too late now.",
+        "cn": "现在太晚了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stay up late",
+        "cn": "熬夜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290015,
+    "word": "minute",
+    "phonetic0": "ˈmɪnɪt",
+    "phonetic1": "ˈmɪnɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "分钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wait a minute.",
+        "cn": "等一下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in a minute",
+        "cn": "马上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290016,
+    "word": "ago",
+    "phonetic0": "əˈɡəʊ",
+    "phonetic1": "əˈɡoʊ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "以前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I arrived two days ago.",
+        "cn": "我两天前到的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "long ago",
+        "cn": "很久以前"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290017,
+    "word": "century",
+    "phonetic0": "ˈsentʃəri",
+    "phonetic1": "ˈsentʃəri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "世纪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This building is from the 19th century.",
+        "cn": "这栋建筑是19世纪的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "21st century",
+        "cn": "21世纪"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290018,
+    "word": "half",
+    "phonetic0": "hɑːf",
+    "phonetic1": "hæf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一半"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's half past six.",
+        "cn": "现在六点半。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "half past",
+        "cn": "……点半"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290019,
+    "word": "yesterday",
+    "phonetic0": "ˈjestədeɪ",
+    "phonetic1": "ˈjestərdeɪ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "昨天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I saw her yesterday.",
+        "cn": "我昨天见到她了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "yesterday afternoon",
+        "cn": "昨天下午"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290020,
+    "word": "date",
+    "phonetic0": "deɪt",
+    "phonetic1": "deɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the date today?",
+        "cn": "今天几号？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "due date",
+        "cn": "截止日期"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290021,
+    "word": "soon",
+    "phonetic0": "suːn",
+    "phonetic1": "suːn",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "很快"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "See you soon!",
+        "cn": "回头见！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "as soon as possible",
+        "cn": "尽快"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290022,
+    "word": "Sunday",
+    "phonetic0": "ˈsʌndeɪ",
+    "phonetic1": "ˈsʌndeɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "星期日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We go to the park on Sundays.",
+        "cn": "我们周日去公园。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on Sundays",
+        "cn": "每周日"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290023,
+    "word": "tomorrow",
+    "phonetic0": "təˈmɒrəʊ",
+    "phonetic1": "təˈmɑːroʊ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "明天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "See you tomorrow.",
+        "cn": "明天见。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tomorrow morning",
+        "cn": "明天早上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290024,
+    "word": "quarter",
+    "phonetic0": "ˈkwɔːtə",
+    "phonetic1": "ˈkwɔːrtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一刻钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's a quarter to nine.",
+        "cn": "现在差一刻九点。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "quarter past",
+        "cn": "……点过一刻"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290025,
+    "word": "afternoon",
+    "phonetic0": "ˌɑːftəˈnuːn",
+    "phonetic1": "ˌæftərˈnuːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "下午"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a meeting this afternoon.",
+        "cn": "我今天下午有个会。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "this afternoon",
+        "cn": "今天下午"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290026,
+    "word": "weekend",
+    "phonetic0": "ˌwiːkˈend",
+    "phonetic1": "ˈwiːkend",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "周末"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What are you doing this weekend?",
+        "cn": "你这周末做什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "this weekend",
+        "cn": "这周末"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290027,
+    "word": "Friday",
+    "phonetic0": "ˈfraɪdeɪ",
+    "phonetic1": "ˈfraɪdeɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "星期五"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thank God it's Friday!",
+        "cn": "终于到周五了！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Friday night",
+        "cn": "周五晚上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290028,
+    "word": "Monday",
+    "phonetic0": "ˈmʌndeɪ",
+    "phonetic1": "ˈmʌndeɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "星期一"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I start work on Monday.",
+        "cn": "我周一开始上班。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on Monday",
+        "cn": "在周一"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290029,
+    "word": "birthday",
+    "phonetic0": "ˈbɜːθdeɪ",
+    "phonetic1": "ˈbɜːrθdeɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "生日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When is your birthday?",
+        "cn": "你生日是什么时候？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "birthday party",
+        "cn": "生日聚会"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290030,
+    "word": "clock",
+    "phonetic0": "klɒk",
+    "phonetic1": "klɑːk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "时钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The clock is five minutes fast.",
+        "cn": "这个钟快了五分钟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "alarm clock",
+        "cn": "闹钟"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290031,
+    "word": "midnight",
+    "phonetic0": "ˈmɪdnaɪt",
+    "phonetic1": "ˈmɪdnaɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "午夜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I went to bed at midnight.",
+        "cn": "我半夜十二点才睡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at midnight",
+        "cn": "在午夜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290032,
+    "word": "noon",
+    "phonetic0": "nuːn",
+    "phonetic1": "nuːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "中午"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's meet at noon.",
+        "cn": "我们中午见。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at noon",
+        "cn": "在中午"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1290033,
+    "word": "calendar",
+    "phonetic0": "ˈkælɪndə",
+    "phonetic1": "ˈkælɪndər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "日历"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me check my calendar.",
+        "cn": "我看一下日历。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lunar calendar",
+        "cn": "农历"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

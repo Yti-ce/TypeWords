@@ -28,3 +28,23 @@ viewing | ˈvjuːɪŋ | ˈvjuːɪŋ | n.:看房 | Can I arrange a viewing? | 我
 agent | ˈeɪdʒənt | ˈeɪdʒənt | n.:中介 | The agent will show you the flat. | 中介会带你看房。 | estate agent:房产中介
 roommate | ˈruːmmeɪt | ˈruːmmeɪt | n.:室友 | I share a flat with two roommates. | 我和两个室友合租。 | find a roommate:找室友
 rubbish | ˈrʌbɪʃ | ˈrʌbɪʃ | n.:垃圾（美式 trash） | Take out the rubbish, please. | 请把垃圾拿出去。 | rubbish bin:垃圾桶
+home | həʊm | hoʊm | n.:家 | I work from home on Fridays. | 我周五在家办公。 | at home:在家
+room | ruːm | ruːm | n.:房间 | I'm looking for a room to rent. | 我在找房间出租。 | single room:单人房
+live | lɪv | lɪv | v.:住 | Where do you live? | 你住在哪里？ | live in:住在
+month | mʌnθ | mʌnθ | n.:月 | The rent is due at the start of each month. | 房租每月初交。 | per month:每月
+pay | peɪ | peɪ | v.:支付 | I pay the rent by bank transfer. | 我用银行转账交房租。 | pay rent:交房租
+water | ˈwɔːtə | ˈwɔːtər | n.:水 | There's no hot water. | 没有热水。 | hot water:热水
+gas | ɡæs | ɡæs | n.:燃气 | Is gas included in the rent? | 房租包燃气费吗？ | gas bill:燃气费
+key | kiː | kiː | n.:钥匙 | I lost my house key. | 我把家门钥匙丢了。 | spare key:备用钥匙
+floor | flɔː | flɔːr | n.:楼层 | The flat is on the tenth floor. | 公寓在十楼。 | top floor:顶楼
+lift | lɪft | lɪft | n.:电梯 | Is there a lift in the building? | 楼里有电梯吗？ | take the lift:坐电梯
+quiet | ˈkwaɪət | ˈkwaɪət | adj.:安静的 | The area is very quiet at night. | 这一片晚上很安静。 | quiet area:安静的地区
+area | ˈeəriə | ˈeriə | n.:地区 | Is this a safe area? | 这一片安全吗？ | local area:本地区
+size | saɪz | saɪz | n.:面积，大小 | What's the size of the flat? | 公寓多大面积？ | room size:房间大小
+broken | ˈbrəʊkən | ˈbroʊkən | adj.:坏的 | The washing machine is broken. | 洗衣机坏了。 | broken window:破窗
+heating | ˈhiːtɪŋ | ˈhiːtɪŋ | n.:暖气 | The heating doesn't work. | 暖气不热。 | central heating:集中供暖
+tap | tæp | tæp | n.:水龙头（美式 faucet） | The tap is dripping. | 水龙头在滴水。 | turn off the tap:关水龙头
+toilet | ˈtɔɪlət | ˈtɔɪlət | n.:马桶；厕所 | The toilet is blocked. | 马桶堵了。 | flush the toilet:冲马桶
+notice | ˈnəʊtɪs | ˈnoʊtɪs | n.:通知；提前告知 | I need to give one month's notice before moving out. | 搬走前要提前一个月通知。 | give notice:提前通知
+pet | pet | pet | n.:宠物 | Are pets allowed? | 可以养宠物吗？ | no pets:禁止宠物
+share | ʃeə | ʃer | v.:合租，共用 | I share the flat with a friend. | 我和一个朋友合租。 | share a flat:合租

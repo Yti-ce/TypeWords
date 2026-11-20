@@ -1,0 +1,32 @@
+# 场景·家庭关系
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+family | ˈfæməli | ˈfæməli | n.:家庭，家人 | I live with my family. | 我和家人住在一起。 | family member:家庭成员
+mother | ˈmʌðə | ˈmʌðər | n.:母亲 | My mother is a teacher. | 我妈妈是老师。 | mother-in-law:婆婆，岳母
+father | ˈfɑːðə | ˈfɑːðər | n.:父亲 | My father works in a bank. | 我爸爸在银行工作。 | father-in-law:公公，岳父
+parents | ˈpeərənts | ˈperənts | n.:父母 | I call my parents every week. | 我每周给父母打电话。 | my parents:我的父母
+child | tʃaɪld | tʃaɪld | n.:孩子 | They have one child. | 他们有一个孩子。 | only child:独生子女
+children | ˈtʃɪldrən | ˈtʃɪldrən | n.:孩子们 | Do you have any children? | 你有孩子吗？ | young children:小孩
+son | sʌn | sʌn | n.:儿子 | Their son is five years old. | 他们的儿子五岁了。 | only son:独子
+daughter | ˈdɔːtə | ˈdɔːtər | n.:女儿 | My daughter loves drawing. | 我女儿喜欢画画。 | eldest daughter:长女
+brother | ˈbrʌðə | ˈbrʌðər | n.:兄弟 | I have an older brother. | 我有个哥哥。 | younger brother:弟弟
+sister | ˈsɪstə | ˈsɪstər | n.:姐妹 | My sister lives in Shanghai. | 我姐姐住在上海。 | little sister:妹妹
+wife | waɪf | waɪf | n.:妻子 | This is my wife, Lily. | 这是我妻子莉莉。 | husband and wife:夫妻
+husband | ˈhʌzbənd | ˈhʌzbənd | n.:丈夫 | Her husband is a doctor. | 她丈夫是医生。 | my husband:我丈夫
+baby | ˈbeɪbi | ˈbeɪbi | n.:婴儿 | The baby is sleeping. | 宝宝在睡觉。 | have a baby:生孩子
+grandmother | ˈɡrænmʌðə | ˈɡrænmʌðər | n.:祖母，外祖母 | My grandmother is 80. | 我奶奶80岁了。 | grandma:奶奶，外婆
+grandfather | ˈɡrænfɑːðə | ˈɡrænfɑːðər | n.:祖父，外祖父 | My grandfather tells great stories. | 我爷爷很会讲故事。 | grandpa:爷爷，外公
+uncle | ˈʌŋkl | ˈʌŋkl | n.:叔叔，舅舅 | My uncle lives abroad. | 我叔叔住在国外。 | my uncle:我叔叔
+aunt | ɑːnt | ænt | n.:阿姨，姑姑 | My aunt is visiting us. | 我姑姑来看我们了。 | my aunt:我阿姨
+cousin | ˈkʌzn | ˈkʌzn | n.:堂/表兄弟姐妹 | My cousin is my best friend. | 我表妹是我最好的朋友。 | first cousin:堂/表亲
+kid | kɪd | kɪd | n.:小孩 | The kids are playing outside. | 孩子们在外面玩。 | kids:孩子们
+relative | ˈrelətɪv | ˈrelətɪv | n.:亲戚 | We visit our relatives at New Year. | 我们过年走亲戚。 | close relative:近亲
+marry | ˈmæri | ˈmæri | v.:结婚 | They married last year. | 他们去年结婚了。 | get married:结婚
+wedding | ˈwedɪŋ | ˈwedɪŋ | n.:婚礼 | We're going to a wedding this weekend. | 我们这周末去参加婚礼。 | wedding party:婚宴
+boyfriend | ˈbɔɪfrend | ˈbɔɪfrend | n.:男朋友 | Her boyfriend is very tall. | 她男朋友很高。 | my boyfriend:我男朋友
+girlfriend | ˈɡɜːlfrend | ˈɡɜːrlfrend | n.:女朋友 | He's meeting his girlfriend's parents. | 他要去见女朋友的父母。 | my girlfriend:我女朋友
+twin | twɪn | twɪn | n.:双胞胎之一 | She has a twin sister. | 她有个双胞胎妹妹。 | twin brother:双胞胎兄弟
+divorce | dɪˈvɔːs | dɪˈvɔːrs | n.:离婚; v.:离婚 | Her parents got divorced. | 她父母离婚了。 | get divorced:离婚
+raise | reɪz | reɪz | v.:抚养 | My grandparents raised me. | 我是爷爷奶奶带大的。 | raise a child:养孩子
+nephew | ˈnefjuː | ˈnefjuː | n.:侄子，外甥 | My nephew starts school this year. | 我侄子今年上学。 | my nephew:我侄子
+niece | niːs | niːs | n.:侄女，外甥女 | My niece is very clever. | 我外甥女很聪明。 | my niece:我侄女
+generation | ˌdʒenəˈreɪʃn | ˌdʒenəˈreɪʃn | n.:一代人 | Three generations live in this house. | 这房子里住着三代人。 | younger generation:年轻一代
