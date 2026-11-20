@@ -1,156 +1,6 @@
 [
   {
     "id": 1020001,
-    "word": "buy",
-    "phonetic0": "baɪ",
-    "phonetic1": "baɪ",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "买"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I want to buy a pair of shoes.",
-        "cn": "我想买一双鞋。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "buy online",
-        "cn": "网购"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020002,
-    "word": "price",
-    "phonetic0": "praɪs",
-    "phonetic1": "praɪs",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "价格"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What's the price of this jacket?",
-        "cn": "这件夹克多少钱？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "full price",
-        "cn": "原价"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020003,
-    "word": "pay",
-    "phonetic0": "peɪ",
-    "phonetic1": "peɪ",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "付钱"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "How would you like to pay?",
-        "cn": "您想怎么付款？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "pay by card",
-        "cn": "刷卡付款"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020004,
-    "word": "cheap",
-    "phonetic0": "tʃiːp",
-    "phonetic1": "tʃiːp",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "便宜的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "This one is cheaper.",
-        "cn": "这个更便宜。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "cheap and cheerful",
-        "cn": "便宜又好用"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020005,
-    "word": "expensive",
-    "phonetic0": "ɪkˈspensɪv",
-    "phonetic1": "ɪkˈspensɪv",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "昂贵的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "It's too expensive for me.",
-        "cn": "这对我来说太贵了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "too expensive",
-        "cn": "太贵"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020006,
     "word": "look",
     "phonetic0": "lʊk",
     "phonetic1": "lʊk",
@@ -180,37 +30,7 @@
     "etymology": []
   },
   {
-    "id": 1020007,
-    "word": "size",
-    "phonetic0": "saɪz",
-    "phonetic1": "saɪz",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "尺码，大小"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What size do you wear?",
-        "cn": "你穿多大码？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "a bigger size",
-        "cn": "大一号"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020008,
+    "id": 1020002,
     "word": "try",
     "phonetic0": "traɪ",
     "phonetic1": "traɪ",
@@ -240,37 +60,7 @@
     "etymology": []
   },
   {
-    "id": 1020009,
-    "word": "fit",
-    "phonetic0": "fɪt",
-    "phonetic1": "fɪt",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "合身"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "These jeans fit me well.",
-        "cn": "这条牛仔裤我穿着很合身。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "fit well",
-        "cn": "很合身"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020010,
+    "id": 1020003,
     "word": "small",
     "phonetic0": "smɔːl",
     "phonetic1": "smɔːl",
@@ -300,7 +90,7 @@
     "etymology": []
   },
   {
-    "id": 1020011,
+    "id": 1020004,
     "word": "large",
     "phonetic0": "lɑːdʒ",
     "phonetic1": "lɑːrdʒ",
@@ -330,26 +120,26 @@
     "etymology": []
   },
   {
-    "id": 1020012,
-    "word": "colour",
-    "phonetic0": "ˈkʌlə",
-    "phonetic1": "ˈkʌlər",
+    "id": 1020005,
+    "word": "member",
+    "phonetic0": "ˈmembə",
+    "phonetic1": "ˈmembər",
     "trans": [
       {
         "pos": "n.",
-        "cn": "颜色（美式拼写 color）"
+        "cn": "会员"
       }
     ],
     "sentences": [
       {
-        "c": "Do you have this in another colour?",
-        "cn": "这个有别的颜色吗？"
+        "c": "Are you a member?",
+        "cn": "您是会员吗？"
       }
     ],
     "phrases": [
       {
-        "c": "dark colour",
-        "cn": "深色"
+        "c": "membership card",
+        "cn": "会员卡"
       }
     ],
     "synos": [],
@@ -360,26 +150,26 @@
     "etymology": []
   },
   {
-    "id": 1020013,
-    "word": "discount",
-    "phonetic0": "ˈdɪskaʊnt",
-    "phonetic1": "ˈdɪskaʊnt",
+    "id": 1020006,
+    "word": "change",
+    "phonetic0": "tʃeɪndʒ",
+    "phonetic1": "tʃeɪndʒ",
     "trans": [
       {
         "pos": "n.",
-        "cn": "折扣"
+        "cn": "找零"
       }
     ],
     "sentences": [
       {
-        "c": "Is there any discount?",
-        "cn": "有折扣吗？"
+        "c": "Here's your change.",
+        "cn": "这是找您的零钱。"
       }
     ],
     "phrases": [
       {
-        "c": "student discount",
-        "cn": "学生折扣"
+        "c": "keep the change",
+        "cn": "不用找了"
       }
     ],
     "synos": [],
@@ -390,26 +180,26 @@
     "etymology": []
   },
   {
-    "id": 1020014,
-    "word": "sale",
-    "phonetic0": "seɪl",
-    "phonetic1": "seɪl",
+    "id": 1020007,
+    "word": "pay",
+    "phonetic0": "peɪ",
+    "phonetic1": "peɪ",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "促销；出售"
+        "pos": "v.",
+        "cn": "付钱"
       }
     ],
     "sentences": [
       {
-        "c": "These shoes are on sale.",
-        "cn": "这些鞋在打折。"
+        "c": "How would you like to pay?",
+        "cn": "您想怎么付款？"
       }
     ],
     "phrases": [
       {
-        "c": "on sale",
-        "cn": "打折出售"
+        "c": "pay by card",
+        "cn": "刷卡付款"
       }
     ],
     "synos": [],
@@ -420,7 +210,37 @@
     "etymology": []
   },
   {
-    "id": 1020015,
+    "id": 1020008,
+    "word": "money",
+    "phonetic0": "ˈmʌni",
+    "phonetic1": "ˈmʌni",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "钱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I spent too much money today.",
+        "cn": "我今天花了太多钱。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "spend money",
+        "cn": "花钱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020009,
     "word": "offer",
     "phonetic0": "ˈɒfə",
     "phonetic1": "ˈɔːfər",
@@ -440,6 +260,194 @@
       {
         "c": "special offer",
         "cn": "特价"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020010,
+    "word": "price",
+    "phonetic0": "praɪs",
+    "phonetic1": "praɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "价格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the price of this jacket?",
+        "cn": "这件夹克多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "full price",
+        "cn": "原价"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020011,
+    "word": "cost",
+    "phonetic0": "kɒst",
+    "phonetic1": "kɔːst",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "花费"
+      },
+      {
+        "pos": "n.",
+        "cn": "成本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much does it cost?",
+        "cn": "这个多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cost a lot",
+        "cn": "很贵"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020012,
+    "word": "buy",
+    "phonetic0": "baɪ",
+    "phonetic1": "baɪ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "买"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to buy a pair of shoes.",
+        "cn": "我想买一双鞋。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "buy online",
+        "cn": "网购"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020013,
+    "word": "open",
+    "phonetic0": "ˈəʊpən",
+    "phonetic1": "ˈoʊpən",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "营业的"
+      },
+      {
+        "pos": "v.",
+        "cn": "开"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What time do you open?",
+        "cn": "你们几点开门？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "open until ten",
+        "cn": "营业到十点"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020014,
+    "word": "return",
+    "phonetic0": "rɪˈtɜːn",
+    "phonetic1": "rɪˈtɜːrn",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "退货；归还"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I return this if it doesn't fit?",
+        "cn": "如果不合身可以退吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "return policy",
+        "cn": "退货政策"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020015,
+    "word": "sell",
+    "phonetic0": "sel",
+    "phonetic1": "sel",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "卖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you sell phone cases here?",
+        "cn": "这里卖手机壳吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sold out",
+        "cn": "卖完了"
       }
     ],
     "synos": [],
@@ -481,29 +489,25 @@
   },
   {
     "id": 1020017,
-    "word": "total",
-    "phonetic0": "ˈtəʊtl",
-    "phonetic1": "ˈtoʊtl",
+    "word": "material",
+    "phonetic0": "məˈtɪəriəl",
+    "phonetic1": "məˈtɪriəl",
     "trans": [
       {
         "pos": "n.",
-        "cn": "总数"
-      },
-      {
-        "pos": "adj.",
-        "cn": "总的"
+        "cn": "材料，面料"
       }
     ],
     "sentences": [
       {
-        "c": "What's the total?",
-        "cn": "一共多少钱？"
+        "c": "What material is this?",
+        "cn": "这是什么面料的？"
       }
     ],
     "phrases": [
       {
-        "c": "in total",
-        "cn": "总共"
+        "c": "soft material",
+        "cn": "柔软的面料"
       }
     ],
     "synos": [],
@@ -515,25 +519,25 @@
   },
   {
     "id": 1020018,
-    "word": "cashier",
-    "phonetic0": "kæˈʃɪə",
-    "phonetic1": "kæˈʃɪr",
+    "word": "quality",
+    "phonetic0": "ˈkwɒləti",
+    "phonetic1": "ˈkwɑːləti",
     "trans": [
       {
         "pos": "n.",
-        "cn": "收银员；收银台"
+        "cn": "质量"
       }
     ],
     "sentences": [
       {
-        "c": "Please pay at the cashier.",
-        "cn": "请到收银台付款。"
+        "c": "The quality is very good.",
+        "cn": "质量很好。"
       }
     ],
     "phrases": [
       {
-        "c": "cashier desk",
-        "cn": "收银台"
+        "c": "high quality",
+        "cn": "高质量"
       }
     ],
     "synos": [],
@@ -545,25 +549,25 @@
   },
   {
     "id": 1020019,
-    "word": "bag",
-    "phonetic0": "bæɡ",
-    "phonetic1": "bæɡ",
+    "word": "floor",
+    "phonetic0": "flɔː",
+    "phonetic1": "flɔːr",
     "trans": [
       {
         "pos": "n.",
-        "cn": "袋子，包"
+        "cn": "楼层；地板"
       }
     ],
     "sentences": [
       {
-        "c": "Do you need a bag?",
-        "cn": "你需要袋子吗？"
+        "c": "The food court is on the top floor.",
+        "cn": "美食广场在顶楼。"
       }
     ],
     "phrases": [
       {
-        "c": "shopping bag",
-        "cn": "购物袋"
+        "c": "ground floor",
+        "cn": "一楼（英式）"
       }
     ],
     "synos": [],
@@ -575,29 +579,25 @@
   },
   {
     "id": 1020020,
-    "word": "refund",
-    "phonetic0": "ˈriːfʌnd",
-    "phonetic1": "ˈriːfʌnd",
+    "word": "colour",
+    "phonetic0": "ˈkʌlə",
+    "phonetic1": "ˈkʌlər",
     "trans": [
       {
         "pos": "n.",
-        "cn": "退款"
-      },
-      {
-        "pos": "v.",
-        "cn": "退款"
+        "cn": "颜色（美式拼写 color）"
       }
     ],
     "sentences": [
       {
-        "c": "I'd like a refund, please.",
-        "cn": "我想要退款。"
+        "c": "Do you have this in another colour?",
+        "cn": "这个有别的颜色吗？"
       }
     ],
     "phrases": [
       {
-        "c": "get a refund",
-        "cn": "拿到退款"
+        "c": "dark colour",
+        "cn": "深色"
       }
     ],
     "synos": [],
@@ -609,25 +609,25 @@
   },
   {
     "id": 1020021,
-    "word": "return",
-    "phonetic0": "rɪˈtɜːn",
-    "phonetic1": "rɪˈtɜːrn",
+    "word": "close",
+    "phonetic0": "kləʊz",
+    "phonetic1": "kloʊz",
     "trans": [
       {
         "pos": "v.",
-        "cn": "退货；归还"
+        "cn": "关门"
       }
     ],
     "sentences": [
       {
-        "c": "Can I return this if it doesn't fit?",
-        "cn": "如果不合身可以退吗？"
+        "c": "The mall closes at ten p.m.",
+        "cn": "商场晚上十点关门。"
       }
     ],
     "phrases": [
       {
-        "c": "return policy",
-        "cn": "退货政策"
+        "c": "close early",
+        "cn": "提早关门"
       }
     ],
     "synos": [],
@@ -639,66 +639,6 @@
   },
   {
     "id": 1020022,
-    "word": "stock",
-    "phonetic0": "stɒk",
-    "phonetic1": "stɑːk",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "库存"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Sorry, it's out of stock.",
-        "cn": "抱歉，这个没货了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "out of stock",
-        "cn": "缺货"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020023,
-    "word": "fitting",
-    "phonetic0": "ˈfɪtɪŋ",
-    "phonetic1": "ˈfɪtɪŋ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "试穿"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Where is the fitting room?",
-        "cn": "试衣间在哪里？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "fitting room",
-        "cn": "试衣间"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020024,
     "word": "shop",
     "phonetic0": "ʃɒp",
     "phonetic1": "ʃɑːp",
@@ -732,26 +672,90 @@
     "etymology": []
   },
   {
-    "id": 1020025,
-    "word": "mall",
-    "phonetic0": "mɔːl",
-    "phonetic1": "mɔːl",
+    "id": 1020023,
+    "word": "size",
+    "phonetic0": "saɪz",
+    "phonetic1": "saɪz",
     "trans": [
       {
         "pos": "n.",
-        "cn": "购物中心，商场"
+        "cn": "尺码，大小"
       }
     ],
     "sentences": [
       {
-        "c": "Let's meet at the mall.",
-        "cn": "我们在商场见吧。"
+        "c": "What size do you wear?",
+        "cn": "你穿多大码？"
       }
     ],
     "phrases": [
       {
-        "c": "shopping mall",
-        "cn": "购物中心"
+        "c": "a bigger size",
+        "cn": "大一号"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020024,
+    "word": "stock",
+    "phonetic0": "stɒk",
+    "phonetic1": "stɑːk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "库存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, it's out of stock.",
+        "cn": "抱歉，这个没货了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "out of stock",
+        "cn": "缺货"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020025,
+    "word": "total",
+    "phonetic0": "ˈtəʊtl",
+    "phonetic1": "ˈtoʊtl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "总数"
+      },
+      {
+        "pos": "adj.",
+        "cn": "总的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the total?",
+        "cn": "一共多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in total",
+        "cn": "总共"
       }
     ],
     "synos": [],
@@ -763,160 +767,6 @@
   },
   {
     "id": 1020026,
-    "word": "open",
-    "phonetic0": "ˈəʊpən",
-    "phonetic1": "ˈoʊpən",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "营业的"
-      },
-      {
-        "pos": "v.",
-        "cn": "开"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What time do you open?",
-        "cn": "你们几点开门？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "open until ten",
-        "cn": "营业到十点"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020027,
-    "word": "close",
-    "phonetic0": "kləʊz",
-    "phonetic1": "kloʊz",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "关门"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The mall closes at ten p.m.",
-        "cn": "商场晚上十点关门。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "close early",
-        "cn": "提早关门"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020028,
-    "word": "floor",
-    "phonetic0": "flɔː",
-    "phonetic1": "flɔːr",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "楼层；地板"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The food court is on the top floor.",
-        "cn": "美食广场在顶楼。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "ground floor",
-        "cn": "一楼（英式）"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020029,
-    "word": "lift",
-    "phonetic0": "lɪft",
-    "phonetic1": "lɪft",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "电梯（美式 elevator）"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Let's take the lift.",
-        "cn": "我们坐电梯吧。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "take the lift",
-        "cn": "坐电梯"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020030,
-    "word": "escalator",
-    "phonetic0": "ˈeskəleɪtə",
-    "phonetic1": "ˈeskəleɪtər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "自动扶梯"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The escalator is next to the shop.",
-        "cn": "自动扶梯在那家店旁边。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "take the escalator",
-        "cn": "坐扶梯"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1020031,
     "word": "customer",
     "phonetic0": "ˈkʌstəmə",
     "phonetic1": "ˈkʌstəmər",
@@ -946,26 +796,176 @@
     "etymology": []
   },
   {
-    "id": 1020032,
-    "word": "member",
-    "phonetic0": "ˈmembə",
-    "phonetic1": "ˈmembər",
+    "id": 1020027,
+    "word": "card",
+    "phonetic0": "kɑːd",
+    "phonetic1": "kɑːrd",
     "trans": [
       {
         "pos": "n.",
-        "cn": "会员"
+        "cn": "卡"
       }
     ],
     "sentences": [
       {
-        "c": "Are you a member?",
-        "cn": "您是会员吗？"
+        "c": "Can I pay by card?",
+        "cn": "可以刷卡吗？"
       }
     ],
     "phrases": [
       {
-        "c": "membership card",
-        "cn": "会员卡"
+        "c": "pay by card",
+        "cn": "刷卡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020028,
+    "word": "item",
+    "phonetic0": "ˈaɪtəm",
+    "phonetic1": "ˈaɪtəm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "商品，物品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This item is not for sale.",
+        "cn": "这件商品不出售。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sale item",
+        "cn": "打折商品"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020029,
+    "word": "bag",
+    "phonetic0": "bæɡ",
+    "phonetic1": "bæɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "袋子，包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you need a bag?",
+        "cn": "你需要袋子吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shopping bag",
+        "cn": "购物袋"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020030,
+    "word": "fit",
+    "phonetic0": "fɪt",
+    "phonetic1": "fɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "合身"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These jeans fit me well.",
+        "cn": "这条牛仔裤我穿着很合身。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fit well",
+        "cn": "很合身"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020031,
+    "word": "sale",
+    "phonetic0": "seɪl",
+    "phonetic1": "seɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "促销；出售"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These shoes are on sale.",
+        "cn": "这些鞋在打折。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on sale",
+        "cn": "打折出售"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020032,
+    "word": "cash",
+    "phonetic0": "kæʃ",
+    "phonetic1": "kæʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "现金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We only take cash.",
+        "cn": "我们只收现金。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pay in cash",
+        "cn": "付现金"
       }
     ],
     "synos": [],
@@ -977,25 +977,25 @@
   },
   {
     "id": 1020033,
-    "word": "supermarket",
-    "phonetic0": "ˈsuːpəmɑːkɪt",
-    "phonetic1": "ˈsuːpərmɑːrkɪt",
+    "word": "deliver",
+    "phonetic0": "dɪˈlɪvə",
+    "phonetic1": "dɪˈlɪvər",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "超市"
+        "pos": "v.",
+        "cn": "送货"
       }
     ],
     "sentences": [
       {
-        "c": "I buy groceries at the supermarket.",
-        "cn": "我在超市买日用品。"
+        "c": "Can you deliver it to my home?",
+        "cn": "能送货上门吗？"
       }
     ],
     "phrases": [
       {
-        "c": "go to the supermarket",
-        "cn": "去超市"
+        "c": "free delivery",
+        "cn": "免费送货"
       }
     ],
     "synos": [],
@@ -1007,25 +1007,25 @@
   },
   {
     "id": 1020034,
-    "word": "basket",
-    "phonetic0": "ˈbɑːskɪt",
-    "phonetic1": "ˈbæskɪt",
+    "word": "clothes",
+    "phonetic0": "kləʊðz",
+    "phonetic1": "kloʊðz",
     "trans": [
       {
         "pos": "n.",
-        "cn": "篮子"
+        "cn": "衣服"
       }
     ],
     "sentences": [
       {
-        "c": "I only need a basket.",
-        "cn": "我只需要一个篮子。"
+        "c": "This shop sells children's clothes.",
+        "cn": "这家店卖童装。"
       }
     ],
     "phrases": [
       {
-        "c": "shopping basket",
-        "cn": "购物篮"
+        "c": "buy clothes",
+        "cn": "买衣服"
       }
     ],
     "synos": [],
@@ -1037,25 +1037,25 @@
   },
   {
     "id": 1020035,
-    "word": "trolley",
-    "phonetic0": "ˈtrɒli",
-    "phonetic1": "ˈtrɑːli",
+    "word": "lift",
+    "phonetic0": "lɪft",
+    "phonetic1": "lɪft",
     "trans": [
       {
         "pos": "n.",
-        "cn": "购物车（美式 cart）"
+        "cn": "电梯（美式 elevator）"
       }
     ],
     "sentences": [
       {
-        "c": "Can you get a trolley?",
-        "cn": "你能去拿一辆购物车吗？"
+        "c": "Let's take the lift.",
+        "cn": "我们坐电梯吧。"
       }
     ],
     "phrases": [
       {
-        "c": "shopping trolley",
-        "cn": "购物车"
+        "c": "take the lift",
+        "cn": "坐电梯"
       }
     ],
     "synos": [],
@@ -1097,25 +1097,25 @@
   },
   {
     "id": 1020037,
-    "word": "wrap",
-    "phonetic0": "ræp",
-    "phonetic1": "ræp",
+    "word": "cheap",
+    "phonetic0": "tʃiːp",
+    "phonetic1": "tʃiːp",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "包装"
+        "pos": "adj.",
+        "cn": "便宜的"
       }
     ],
     "sentences": [
       {
-        "c": "Could you wrap it as a gift?",
-        "cn": "能帮我包成礼物吗？"
+        "c": "This one is cheaper.",
+        "cn": "这个更便宜。"
       }
     ],
     "phrases": [
       {
-        "c": "gift wrap",
-        "cn": "礼品包装"
+        "c": "cheap and cheerful",
+        "cn": "便宜又好用"
       }
     ],
     "synos": [],
@@ -1127,25 +1127,25 @@
   },
   {
     "id": 1020038,
-    "word": "brand",
-    "phonetic0": "brænd",
-    "phonetic1": "brænd",
+    "word": "shoes",
+    "phonetic0": "ʃuːz",
+    "phonetic1": "ʃuːz",
     "trans": [
       {
         "pos": "n.",
-        "cn": "品牌"
+        "cn": "鞋"
       }
     ],
     "sentences": [
       {
-        "c": "Which brand do you prefer?",
-        "cn": "你喜欢哪个牌子？"
+        "c": "I need a new pair of shoes.",
+        "cn": "我需要一双新鞋。"
       }
     ],
     "phrases": [
       {
-        "c": "famous brand",
-        "cn": "名牌"
+        "c": "a pair of shoes",
+        "cn": "一双鞋"
       }
     ],
     "synos": [],
@@ -1157,25 +1157,25 @@
   },
   {
     "id": 1020039,
-    "word": "quality",
-    "phonetic0": "ˈkwɒləti",
-    "phonetic1": "ˈkwɑːləti",
+    "word": "dress",
+    "phonetic0": "dres",
+    "phonetic1": "dres",
     "trans": [
       {
         "pos": "n.",
-        "cn": "质量"
+        "cn": "连衣裙"
       }
     ],
     "sentences": [
       {
-        "c": "The quality is very good.",
-        "cn": "质量很好。"
+        "c": "That dress looks great on you.",
+        "cn": "那条裙子你穿很好看。"
       }
     ],
     "phrases": [
       {
-        "c": "high quality",
-        "cn": "高质量"
+        "c": "evening dress",
+        "cn": "晚礼服"
       }
     ],
     "synos": [],
@@ -1187,25 +1187,25 @@
   },
   {
     "id": 1020040,
-    "word": "material",
-    "phonetic0": "məˈtɪəriəl",
-    "phonetic1": "məˈtɪriəl",
+    "word": "expensive",
+    "phonetic0": "ɪkˈspensɪv",
+    "phonetic1": "ɪkˈspensɪv",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "材料，面料"
+        "pos": "adj.",
+        "cn": "昂贵的"
       }
     ],
     "sentences": [
       {
-        "c": "What material is this?",
-        "cn": "这是什么面料的？"
+        "c": "It's too expensive for me.",
+        "cn": "这对我来说太贵了。"
       }
     ],
     "phrases": [
       {
-        "c": "soft material",
-        "cn": "柔软的面料"
+        "c": "too expensive",
+        "cn": "太贵"
       }
     ],
     "synos": [],
@@ -1247,6 +1247,430 @@
   },
   {
     "id": 1020042,
+    "word": "shirt",
+    "phonetic0": "ʃɜːt",
+    "phonetic1": "ʃɜːrt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "衬衫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Does this shirt come in white?",
+        "cn": "这件衬衫有白色的吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "T-shirt",
+        "cn": "T恤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020043,
+    "word": "wrap",
+    "phonetic0": "ræp",
+    "phonetic1": "ræp",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "包装"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you wrap it as a gift?",
+        "cn": "能帮我包成礼物吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "gift wrap",
+        "cn": "礼品包装"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020044,
+    "word": "jacket",
+    "phonetic0": "ˈdʒækɪt",
+    "phonetic1": "ˈdʒækɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "夹克"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This jacket is waterproof.",
+        "cn": "这件夹克防水。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "leather jacket",
+        "cn": "皮夹克"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020045,
+    "word": "online",
+    "phonetic0": "ˌɒnˈlaɪn",
+    "phonetic1": "ˌɑːnˈlaɪn",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在网上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's cheaper online.",
+        "cn": "网上更便宜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shop online",
+        "cn": "网购"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020046,
+    "word": "guarantee",
+    "phonetic0": "ˌɡærənˈtiː",
+    "phonetic1": "ˌɡærənˈtiː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "保修"
+      },
+      {
+        "pos": "v.",
+        "cn": "保证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It comes with a one-year guarantee.",
+        "cn": "这个保修一年。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "under guarantee",
+        "cn": "在保修期内"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020047,
+    "word": "brand",
+    "phonetic0": "brænd",
+    "phonetic1": "brænd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "品牌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which brand do you prefer?",
+        "cn": "你喜欢哪个牌子？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "famous brand",
+        "cn": "名牌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020048,
+    "word": "assistant",
+    "phonetic0": "əˈsɪstənt",
+    "phonetic1": "əˈsɪstənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "店员，助手"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shop assistant was very helpful.",
+        "cn": "店员很热心。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shop assistant",
+        "cn": "店员"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020049,
+    "word": "counter",
+    "phonetic0": "ˈkaʊntə",
+    "phonetic1": "ˈkaʊntər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "柜台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please ask at the counter.",
+        "cn": "请到柜台问一下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "service counter",
+        "cn": "服务台"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020050,
+    "word": "mall",
+    "phonetic0": "mɔːl",
+    "phonetic1": "mɔːl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "购物中心，商场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's meet at the mall.",
+        "cn": "我们在商场见吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shopping mall",
+        "cn": "购物中心"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020051,
+    "word": "discount",
+    "phonetic0": "ˈdɪskaʊnt",
+    "phonetic1": "ˈdɪskaʊnt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "折扣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there any discount?",
+        "cn": "有折扣吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "student discount",
+        "cn": "学生折扣"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020052,
+    "word": "basket",
+    "phonetic0": "ˈbɑːskɪt",
+    "phonetic1": "ˈbæskɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "篮子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I only need a basket.",
+        "cn": "我只需要一个篮子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shopping basket",
+        "cn": "购物篮"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020053,
+    "word": "receipt",
+    "phonetic0": "rɪˈsiːt",
+    "phonetic1": "rɪˈsiːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收据，小票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Keep the receipt in case you need to return it.",
+        "cn": "留着小票，万一要退货。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "keep the receipt",
+        "cn": "保留小票"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020054,
+    "word": "supermarket",
+    "phonetic0": "ˈsuːpəmɑːkɪt",
+    "phonetic1": "ˈsuːpərmɑːrkɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "超市"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I buy groceries at the supermarket.",
+        "cn": "我在超市买日用品。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go to the supermarket",
+        "cn": "去超市"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020055,
+    "word": "fitting",
+    "phonetic0": "ˈfɪtɪŋ",
+    "phonetic1": "ˈfɪtɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "试穿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the fitting room?",
+        "cn": "试衣间在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fitting room",
+        "cn": "试衣间"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020056,
     "word": "bargain",
     "phonetic0": "ˈbɑːɡən",
     "phonetic1": "ˈbɑːrɡən",
@@ -1270,6 +1694,164 @@
       {
         "c": "a good bargain",
         "cn": "很划算"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020057,
+    "word": "queue",
+    "phonetic0": "kjuː",
+    "phonetic1": "kjuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "队伍"
+      },
+      {
+        "pos": "v.",
+        "cn": "排队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The queue for the cashier is long.",
+        "cn": "收银台排队很长。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "join the queue",
+        "cn": "排队"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020058,
+    "word": "trolley",
+    "phonetic0": "ˈtrɒli",
+    "phonetic1": "ˈtrɑːli",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "购物车（美式 cart）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you get a trolley?",
+        "cn": "你能去拿一辆购物车吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shopping trolley",
+        "cn": "购物车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020059,
+    "word": "refund",
+    "phonetic0": "ˈriːfʌnd",
+    "phonetic1": "ˈriːfʌnd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "退款"
+      },
+      {
+        "pos": "v.",
+        "cn": "退款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like a refund, please.",
+        "cn": "我想要退款。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get a refund",
+        "cn": "拿到退款"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020060,
+    "word": "cashier",
+    "phonetic0": "kæˈʃɪə",
+    "phonetic1": "kæˈʃɪr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收银员；收银台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please pay at the cashier.",
+        "cn": "请到收银台付款。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cashier desk",
+        "cn": "收银台"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1020061,
+    "word": "escalator",
+    "phonetic0": "ˈeskəleɪtə",
+    "phonetic1": "ˈeskəleɪtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自动扶梯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The escalator is next to the shop.",
+        "cn": "自动扶梯在那家店旁边。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take the escalator",
+        "cn": "坐扶梯"
       }
     ],
     "synos": [],

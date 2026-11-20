@@ -1,0 +1,33 @@
+# 场景·电影娱乐
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+movie | ˈmuːvi | ˈmuːvi | n.:电影 | Let's watch a movie tonight. | 我们今晚看部电影吧。 | watch a movie:看电影
+film | fɪlm | fɪlm | n.:电影 | Have you seen this film? | 你看过这部电影吗？ | film star:影星
+music | ˈmjuːzɪk | ˈmjuːzɪk | n.:音乐 | What kind of music do you like? | 你喜欢什么类型的音乐？ | listen to music:听音乐
+song | sɒŋ | sɔːŋ | n.:歌 | I love this song. | 我很喜欢这首歌。 | sing a song:唱歌
+show | ʃəʊ | ʃoʊ | n.:节目；演出 | What's your favourite TV show? | 你最喜欢哪个电视节目？ | TV show:电视节目
+game | ɡeɪm | ɡeɪm | n.:游戏 | Do you play video games? | 你玩电子游戏吗？ | video game:电子游戏
+watch | wɒtʃ | wɑːtʃ | v.:看 | I watched a great series last week. | 我上周看了一部很棒的剧。 | watch TV:看电视
+ticket | ˈtɪkɪt | ˈtɪkɪt | n.:票 | I booked two movie tickets. | 我订了两张电影票。 | movie ticket:电影票
+cinema | ˈsɪnəmə | ˈsɪnəmə | n.:电影院（美式 movie theater） | Let's go to the cinema. | 我们去电影院吧。 | go to the cinema:去看电影
+concert | ˈkɒnsət | ˈkɑːnsərt | n.:音乐会，演唱会 | We're going to a concert on Saturday. | 我们周六去听演唱会。 | live concert:现场演唱会
+actor | ˈæktə | ˈæktər | n.:演员 | Who is your favourite actor? | 你最喜欢哪个演员？ | famous actor:著名演员
+star | stɑː | stɑːr | n.:明星 | She's a big movie star. | 她是个大影星。 | pop star:流行歌星
+story | ˈstɔːri | ˈstɔːri | n.:故事 | The story is really touching. | 这个故事很感人。 | true story:真实故事
+series | ˈsɪəriːz | ˈsɪriːz | n.:剧集，系列 | I'm watching a Korean series. | 我在追一部韩剧。 | TV series:电视剧
+episode | ˈepɪsəʊd | ˈepɪsoʊd | n.:一集 | I watched three episodes last night. | 我昨晚看了三集。 | new episode:新一集
+funny | ˈfʌni | ˈfʌni | adj.:好笑的 | That film was so funny. | 那部电影太搞笑了。 | funny story:趣事
+boring | ˈbɔːrɪŋ | ˈbɔːrɪŋ | adj.:无聊的 | The film was a bit boring. | 那部电影有点无聊。 | boring film:无聊的电影
+comedy | ˈkɒmədi | ˈkɑːmədi | n.:喜剧 | I prefer comedies. | 我更喜欢喜剧。 | romantic comedy:爱情喜剧
+horror | ˈhɒrə | ˈhɔːrər | n.:恐怖 | I don't watch horror films. | 我不看恐怖片。 | horror movie:恐怖片
+seat | siːt | siːt | n.:座位 | Our seats are in row F. | 我们的座位在F排。 | front seat:前排座位
+screen | skriːn | skriːn | n.:银幕，屏幕 | The screen is huge. | 银幕好大。 | big screen:大银幕
+popcorn | ˈpɒpkɔːn | ˈpɑːpkɔːrn | n.:爆米花 | Let's get some popcorn. | 我们买点爆米花吧。 | sweet popcorn:甜爆米花
+subtitle | ˈsʌbtaɪtl | ˈsʌbtaɪtl | n.:字幕 | Turn on the English subtitles. | 打开英文字幕。 | English subtitles:英文字幕
+singer | ˈsɪŋə | ˈsɪŋər | n.:歌手 | She's my favourite singer. | 她是我最喜欢的歌手。 | pop singer:流行歌手
+band | bænd | bænd | n.:乐队 | My brother plays in a band. | 我哥哥在一个乐队里演奏。 | rock band:摇滚乐队
+dance | dɑːns | dæns | v.:跳舞; n.:舞蹈 | Do you like to dance? | 你喜欢跳舞吗？ | dance class:舞蹈课
+stream | striːm | striːm | v.:在线观看/播放 | You can stream it online. | 你可以在网上看。 | live stream:直播
+ending | ˈendɪŋ | ˈendɪŋ | n.:结局 | I didn't like the ending. | 我不喜欢那个结局。 | happy ending:圆满结局
+review | rɪˈvjuː | rɪˈvjuː | n.:评价 | The film got great reviews. | 这部电影口碑很好。 | good reviews:好评
+recommend | ˌrekəˈmend | ˌrekəˈmend | v.:推荐 | Can you recommend a good movie? | 你能推荐一部好电影吗？ | highly recommend:强烈推荐
+karaoke | ˌkæriˈəʊki | ˌkæriˈoʊki | n.:卡拉OK | Let's go to karaoke tonight! | 我们今晚去唱K吧！ | sing karaoke:唱K

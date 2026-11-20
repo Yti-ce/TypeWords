@@ -30,3 +30,25 @@ voice | vɔɪs | vɔɪs | n.:声音；语音 | I'll send you a voice message. | 
 video | ˈvɪdiəʊ | ˈvɪdioʊ | n.:视频 | Let's have a video call. | 我们视频通话吧。 | video call:视频通话
 busy | ˈbɪzi | ˈbɪzi | adj.:忙的；占线的 | The line is busy. | 电话占线。 | busy line:占线
 hang | hæŋ | hæŋ | v.:挂（hang up 挂电话） | Don't hang up! | 别挂电话！ | hang up:挂断
+number | ˈnʌmbə | ˈnʌmbər | n.:号码 | What's your phone number? | 你的电话号码是多少？ | phone number:电话号码
+answer | ˈɑːnsə | ˈænsər | v.:接（电话）；回答 | Why didn't you answer the phone? | 你怎么不接电话？ | answer the phone:接电话
+reply | rɪˈplaɪ | rɪˈplaɪ | v.:回复; n.:回复 | Sorry for the late reply. | 抱歉回复晚了。 | reply to:回复
+send | send | send | v.:发送 | I'll send you the photo. | 我把照片发给你。 | send a message:发消息
+photo | ˈfəʊtəʊ | ˈfoʊtoʊ | n.:照片 | Can you send me that photo? | 你能把那张照片发给我吗？ | take a photo:拍照
+camera | ˈkæmərə | ˈkæmərə | n.:相机，摄像头 | The camera on this phone is great. | 这部手机的摄像头很好。 | front camera:前置摄像头
+group | ɡruːp | ɡruːp | n.:群组 | I'll add you to the group chat. | 我把你拉进群聊。 | group chat:群聊
+add | æd | æd | v.:添加 | Can I add you on WeChat? | 我可以加你微信吗？ | add a friend:加好友
+delete | dɪˈliːt | dɪˈliːt | v.:删除 | I accidentally deleted the message. | 我不小心删了那条消息。 | delete a file:删除文件
+save | seɪv | seɪv | v.:保存 | Save my number in your phone. | 把我的号码存进你手机里。 | save a file:保存文件
+search | sɜːtʃ | sɜːrtʃ | v.:搜索; n.:搜索 | Search for it online. | 在网上搜一下。 | search for:搜索
+website | ˈwebsaɪt | ˈwebsaɪt | n.:网站 | Check the website for details. | 详情请查看网站。 | official website:官网
+slow | sləʊ | sloʊ | adj.:慢的 | My phone is really slow. | 我的手机很卡。 | slow internet:网速慢
+turn | tɜːn | tɜːrn | v.:打开/关闭（turn on/off） | Please turn off your phone. | 请关机。 | turn on:打开
+restart | ˌriːˈstɑːt | ˌriːˈstɑːrt | v.:重启 | Try restarting your phone. | 试试重启手机。 | restart the phone:重启手机
+setting | ˈsetɪŋ | ˈsetɪŋ | n.:设置 | Go to the settings and turn on wifi. | 进设置打开无线网。 | privacy settings:隐私设置
+notification | ˌnəʊtɪfɪˈkeɪʃn | ˌnoʊtɪfɪˈkeɪʃn | n.:通知 | Turn off the notifications. | 把通知关掉。 | push notification:推送通知
+username | ˈjuːzəneɪm | ˈjuːzərneɪm | n.:用户名 | Enter your username and password. | 输入用户名和密码。 | choose a username:取用户名
+mute | mjuːt | mjuːt | v.:静音 | I muted the group chat. | 我把群聊设成免打扰了。 | on mute:静音
+silent | ˈsaɪlənt | ˈsaɪlənt | adj.:静音的 | Put your phone on silent. | 把手机调成静音。 | silent mode:静音模式
+wireless | ˈwaɪələs | ˈwaɪərləs | adj.:无线的 | I use wireless earphones. | 我用无线耳机。 | wireless network:无线网络
+earphones | ˈɪəfəʊnz | ˈɪrfoʊnz | n.:耳机 | I forgot my earphones. | 我忘带耳机了。 | wireless earphones:无线耳机

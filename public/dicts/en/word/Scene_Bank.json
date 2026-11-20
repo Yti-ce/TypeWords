@@ -1,25 +1,29 @@
 [
   {
     "id": 1010001,
-    "word": "bank",
-    "phonetic0": "bæŋk",
-    "phonetic1": "bæŋk",
+    "word": "change",
+    "phonetic0": "tʃeɪndʒ",
+    "phonetic1": "tʃeɪndʒ",
     "trans": [
       {
         "pos": "n.",
-        "cn": "银行"
+        "cn": "零钱；改变"
+      },
+      {
+        "pos": "v.",
+        "cn": "兑换"
       }
     ],
     "sentences": [
       {
-        "c": "I need to go to the bank this afternoon.",
-        "cn": "我今天下午需要去一趟银行。"
+        "c": "Do you have change for a fifty?",
+        "cn": "你能把五十的换成零钱吗？"
       }
     ],
     "phrases": [
       {
-        "c": "bank account",
-        "cn": "银行账户"
+        "c": "small change",
+        "cn": "零钱"
       }
     ],
     "synos": [],
@@ -31,25 +35,25 @@
   },
   {
     "id": 1010002,
-    "word": "account",
-    "phonetic0": "əˈkaʊnt",
-    "phonetic1": "əˈkaʊnt",
+    "word": "interest",
+    "phonetic0": "ˈɪntrəst",
+    "phonetic1": "ˈɪntrəst",
     "trans": [
       {
         "pos": "n.",
-        "cn": "账户"
+        "cn": "利息；兴趣"
       }
     ],
     "sentences": [
       {
-        "c": "I'd like to open an account.",
-        "cn": "我想开一个账户。"
+        "c": "What is the interest rate?",
+        "cn": "利率是多少？"
       }
     ],
     "phrases": [
       {
-        "c": "open an account",
-        "cn": "开户"
+        "c": "interest rate",
+        "cn": "利率"
       }
     ],
     "synos": [],
@@ -91,254 +95,6 @@
   },
   {
     "id": 1010004,
-    "word": "cash",
-    "phonetic0": "kæʃ",
-    "phonetic1": "kæʃ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "现金"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can I pay in cash?",
-        "cn": "我可以付现金吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in cash",
-        "cn": "用现金"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010005,
-    "word": "card",
-    "phonetic0": "kɑːd",
-    "phonetic1": "kɑːrd",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "卡，银行卡"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Please insert your card.",
-        "cn": "请插入您的卡。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "bank card",
-        "cn": "银行卡"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010006,
-    "word": "password",
-    "phonetic0": "ˈpɑːswɜːd",
-    "phonetic1": "ˈpæswɜːrd",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "密码"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Please enter your password.",
-        "cn": "请输入您的密码。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "change the password",
-        "cn": "修改密码"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010007,
-    "word": "balance",
-    "phonetic0": "ˈbæləns",
-    "phonetic1": "ˈbæləns",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "余额；平衡"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can you check my balance, please?",
-        "cn": "请帮我查一下余额好吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "account balance",
-        "cn": "账户余额"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010008,
-    "word": "withdraw",
-    "phonetic0": "wɪðˈdrɔː",
-    "phonetic1": "wɪðˈdrɔː",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "取（钱）；撤回"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'd like to withdraw some cash.",
-        "cn": "我想取一些现金。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "withdraw money",
-        "cn": "取钱"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010009,
-    "word": "deposit",
-    "phonetic0": "dɪˈpɒzɪt",
-    "phonetic1": "dɪˈpɑːzɪt",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "存（钱）"
-      },
-      {
-        "pos": "n.",
-        "cn": "存款；押金"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I want to deposit this money into my account.",
-        "cn": "我想把这笔钱存进我的账户。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "make a deposit",
-        "cn": "存款"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010010,
-    "word": "transfer",
-    "phonetic0": "trænsˈfɜː",
-    "phonetic1": "trænsˈfɜːr",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "转账；转移"
-      },
-      {
-        "pos": "n.",
-        "cn": "转账"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I want to transfer money to my friend.",
-        "cn": "我想给我朋友转账。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "bank transfer",
-        "cn": "银行转账"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010011,
-    "word": "fee",
-    "phonetic0": "fiː",
-    "phonetic1": "fiː",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "费用，手续费"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Is there a fee for this service?",
-        "cn": "这项服务要收手续费吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "service fee",
-        "cn": "服务费"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010012,
     "word": "form",
     "phonetic0": "fɔːm",
     "phonetic1": "fɔːrm",
@@ -368,7 +124,341 @@
     "etymology": []
   },
   {
+    "id": 1010005,
+    "word": "cost",
+    "phonetic0": "kɒst",
+    "phonetic1": "kɔːst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "费用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there any extra cost?",
+        "cn": "有额外费用吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "extra cost",
+        "cn": "额外费用"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010006,
+    "word": "open",
+    "phonetic0": "ˈəʊpən",
+    "phonetic1": "ˈoʊpən",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "开（户）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to open a savings account.",
+        "cn": "我想开个储蓄账户。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "open an account",
+        "cn": "开户"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010007,
+    "word": "bank",
+    "phonetic0": "bæŋk",
+    "phonetic1": "bæŋk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "银行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to go to the bank this afternoon.",
+        "cn": "我今天下午需要去一趟银行。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bank account",
+        "cn": "银行账户"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010008,
+    "word": "account",
+    "phonetic0": "əˈkaʊnt",
+    "phonetic1": "əˈkaʊnt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "账户"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to open an account.",
+        "cn": "我想开一个账户。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "open an account",
+        "cn": "开户"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010009,
+    "word": "phone",
+    "phonetic0": "fəʊn",
+    "phonetic1": "foʊn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use your phone to confirm the payment.",
+        "cn": "用手机确认付款。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mobile phone",
+        "cn": "手机"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010010,
+    "word": "amount",
+    "phonetic0": "əˈmaʊnt",
+    "phonetic1": "əˈmaʊnt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "金额"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please enter the amount.",
+        "cn": "请输入金额。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "total amount",
+        "cn": "总金额"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010011,
+    "word": "foreign",
+    "phonetic0": "ˈfɒrən",
+    "phonetic1": "ˈfɔːrən",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "外国的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I use this card in foreign countries?",
+        "cn": "这张卡能在国外用吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "foreign currency",
+        "cn": "外币"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010012,
+    "word": "security",
+    "phonetic0": "sɪˈkjʊərəti",
+    "phonetic1": "səˈkjʊrəti",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "安全"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "For security, never share your password.",
+        "cn": "为了安全，不要把密码告诉别人。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "security question",
+        "cn": "安全问题"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
     "id": 1010013,
+    "word": "close",
+    "phonetic0": "kləʊz",
+    "phonetic1": "kloʊz",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "关闭，销户"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to close my account.",
+        "cn": "我想销户。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "close an account",
+        "cn": "销户"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010014,
+    "word": "charge",
+    "phonetic0": "tʃɑːdʒ",
+    "phonetic1": "tʃɑːrdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "费用"
+      },
+      {
+        "pos": "v.",
+        "cn": "收费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There is no charge for this.",
+        "cn": "这个不收费。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "free of charge",
+        "cn": "免费"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010015,
+    "word": "statement",
+    "phonetic0": "ˈsteɪtmənt",
+    "phonetic1": "ˈsteɪtmənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "对账单；声明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get a bank statement?",
+        "cn": "我可以拿一份银行流水吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bank statement",
+        "cn": "银行对账单"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010016,
     "word": "sign",
     "phonetic0": "saɪn",
     "phonetic1": "saɪn",
@@ -402,120 +492,26 @@
     "etymology": []
   },
   {
-    "id": 1010014,
-    "word": "receipt",
-    "phonetic0": "rɪˈsiːt",
-    "phonetic1": "rɪˈsiːt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "收据，回单"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Would you like a receipt?",
-        "cn": "您需要收据吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "keep the receipt",
-        "cn": "保留收据"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010015,
-    "word": "counter",
-    "phonetic0": "ˈkaʊntə",
-    "phonetic1": "ˈkaʊntər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "柜台"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Please go to counter three.",
-        "cn": "请到三号柜台。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "service counter",
-        "cn": "服务台"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010016,
-    "word": "queue",
-    "phonetic0": "kjuː",
-    "phonetic1": "kjuː",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "队伍"
-      },
-      {
-        "pos": "v.",
-        "cn": "排队"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Please take a number and queue here.",
-        "cn": "请取号并在这里排队。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in the queue",
-        "cn": "在排队"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
     "id": 1010017,
-    "word": "passport",
-    "phonetic0": "ˈpɑːspɔːt",
-    "phonetic1": "ˈpæspɔːrt",
+    "word": "machine",
+    "phonetic0": "məˈʃiːn",
+    "phonetic1": "məˈʃiːn",
     "trans": [
       {
         "pos": "n.",
-        "cn": "护照"
+        "cn": "机器"
       }
     ],
     "sentences": [
       {
-        "c": "May I see your passport?",
-        "cn": "可以看一下您的护照吗？"
+        "c": "The cash machine is out of order.",
+        "cn": "自动取款机坏了。"
       }
     ],
     "phrases": [
       {
-        "c": "passport number",
-        "cn": "护照号码"
+        "c": "cash machine",
+        "cn": "取款机"
       }
     ],
     "synos": [],
@@ -527,25 +523,25 @@
   },
   {
     "id": 1010018,
-    "word": "identity",
-    "phonetic0": "aɪˈdentəti",
-    "phonetic1": "aɪˈdentəti",
+    "word": "total",
+    "phonetic0": "ˈtəʊtl",
+    "phonetic1": "ˈtoʊtl",
     "trans": [
       {
         "pos": "n.",
-        "cn": "身份"
+        "cn": "总额"
       }
     ],
     "sentences": [
       {
-        "c": "Please bring your identity card.",
-        "cn": "请带上您的身份证。"
+        "c": "The total is shown at the bottom.",
+        "cn": "总额显示在底部。"
       }
     ],
     "phrases": [
       {
-        "c": "identity card",
-        "cn": "身份证"
+        "c": "in total",
+        "cn": "总共"
       }
     ],
     "synos": [],
@@ -557,25 +553,25 @@
   },
   {
     "id": 1010019,
-    "word": "code",
-    "phonetic0": "kəʊd",
-    "phonetic1": "koʊd",
+    "word": "bill",
+    "phonetic0": "bɪl",
+    "phonetic1": "bɪl",
     "trans": [
       {
         "pos": "n.",
-        "cn": "验证码；代码"
+        "cn": "账单；（美）纸币"
       }
     ],
     "sentences": [
       {
-        "c": "Please enter the code sent to your phone.",
-        "cn": "请输入发到您手机上的验证码。"
+        "c": "I need to pay my phone bill.",
+        "cn": "我需要交电话费。"
       }
     ],
     "phrases": [
       {
-        "c": "verification code",
-        "cn": "验证码"
+        "c": "pay the bill",
+        "cn": "付账"
       }
     ],
     "synos": [],
@@ -587,25 +583,25 @@
   },
   {
     "id": 1010020,
-    "word": "verify",
-    "phonetic0": "ˈverɪfaɪ",
-    "phonetic1": "ˈverɪfaɪ",
+    "word": "card",
+    "phonetic0": "kɑːd",
+    "phonetic1": "kɑːrd",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "核实，验证"
+        "pos": "n.",
+        "cn": "卡，银行卡"
       }
     ],
     "sentences": [
       {
-        "c": "We need to verify your identity.",
-        "cn": "我们需要核实您的身份。"
+        "c": "Please insert your card.",
+        "cn": "请插入您的卡。"
       }
     ],
     "phrases": [
       {
-        "c": "verify your account",
-        "cn": "验证账户"
+        "c": "bank card",
+        "cn": "银行卡"
       }
     ],
     "synos": [],
@@ -647,25 +643,25 @@
   },
   {
     "id": 1010022,
-    "word": "bill",
-    "phonetic0": "bɪl",
-    "phonetic1": "bɪl",
+    "word": "address",
+    "phonetic0": "əˈdres",
+    "phonetic1": "ˈædres",
     "trans": [
       {
         "pos": "n.",
-        "cn": "账单；（美）纸币"
+        "cn": "地址"
       }
     ],
     "sentences": [
       {
-        "c": "I need to pay my phone bill.",
-        "cn": "我需要交电话费。"
+        "c": "I need to change my address.",
+        "cn": "我需要改一下地址。"
       }
     ],
     "phrases": [
       {
-        "c": "pay the bill",
-        "cn": "付账"
+        "c": "change of address",
+        "cn": "地址变更"
       }
     ],
     "synos": [],
@@ -677,29 +673,25 @@
   },
   {
     "id": 1010023,
-    "word": "change",
-    "phonetic0": "tʃeɪndʒ",
-    "phonetic1": "tʃeɪndʒ",
+    "word": "document",
+    "phonetic0": "ˈdɒkjumənt",
+    "phonetic1": "ˈdɑːkjumənt",
     "trans": [
       {
         "pos": "n.",
-        "cn": "零钱；改变"
-      },
-      {
-        "pos": "v.",
-        "cn": "兑换"
+        "cn": "证件；文件"
       }
     ],
     "sentences": [
       {
-        "c": "Do you have change for a fifty?",
-        "cn": "你能把五十的换成零钱吗？"
+        "c": "What documents do I need?",
+        "cn": "我需要带什么证件？"
       }
     ],
     "phrases": [
       {
-        "c": "small change",
-        "cn": "零钱"
+        "c": "ID document",
+        "cn": "身份证件"
       }
     ],
     "synos": [],
@@ -711,36 +703,6 @@
   },
   {
     "id": 1010024,
-    "word": "coin",
-    "phonetic0": "kɔɪn",
-    "phonetic1": "kɔɪn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "硬币"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "This machine doesn't take coins.",
-        "cn": "这台机器不收硬币。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "coin machine",
-        "cn": "投币机"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010025,
     "word": "exchange",
     "phonetic0": "ɪksˈtʃeɪndʒ",
     "phonetic1": "ɪksˈtʃeɪndʒ",
@@ -774,97 +736,7 @@
     "etymology": []
   },
   {
-    "id": 1010026,
-    "word": "currency",
-    "phonetic0": "ˈkʌrənsi",
-    "phonetic1": "ˈkɜːrənsi",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "货币"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Which currency do you need?",
-        "cn": "您需要哪种货币？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "foreign currency",
-        "cn": "外币"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010027,
-    "word": "interest",
-    "phonetic0": "ˈɪntrəst",
-    "phonetic1": "ˈɪntrəst",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "利息；兴趣"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What is the interest rate?",
-        "cn": "利率是多少？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "interest rate",
-        "cn": "利率"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010028,
-    "word": "savings",
-    "phonetic0": "ˈseɪvɪŋz",
-    "phonetic1": "ˈseɪvɪŋz",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "储蓄，积蓄"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I keep my savings in this bank.",
-        "cn": "我把积蓄存在这家银行。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "savings account",
-        "cn": "储蓄账户"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010029,
+    "id": 1010025,
     "word": "credit",
     "phonetic0": "ˈkredɪt",
     "phonetic1": "ˈkredɪt",
@@ -894,30 +766,26 @@
     "etymology": []
   },
   {
-    "id": 1010030,
-    "word": "debit",
-    "phonetic0": "ˈdebɪt",
-    "phonetic1": "ˈdebɪt",
+    "id": 1010026,
+    "word": "confirm",
+    "phonetic0": "kənˈfɜːm",
+    "phonetic1": "kənˈfɜːrm",
     "trans": [
-      {
-        "pos": "n.",
-        "cn": "借记"
-      },
       {
         "pos": "v.",
-        "cn": "从账户扣款"
+        "cn": "确认"
       }
     ],
     "sentences": [
       {
-        "c": "I usually pay with my debit card.",
-        "cn": "我通常用借记卡付款。"
+        "c": "Please confirm the transfer.",
+        "cn": "请确认转账。"
       }
     ],
     "phrases": [
       {
-        "c": "debit card",
-        "cn": "借记卡"
+        "c": "confirm payment",
+        "cn": "确认付款"
       }
     ],
     "synos": [],
@@ -928,26 +796,26 @@
     "etymology": []
   },
   {
-    "id": 1010031,
-    "word": "limit",
-    "phonetic0": "ˈlɪmɪt",
-    "phonetic1": "ˈlɪmɪt",
+    "id": 1010027,
+    "word": "balance",
+    "phonetic0": "ˈbæləns",
+    "phonetic1": "ˈbæləns",
     "trans": [
       {
         "pos": "n.",
-        "cn": "限额，限制"
+        "cn": "余额；平衡"
       }
     ],
     "sentences": [
       {
-        "c": "What is the daily withdrawal limit?",
-        "cn": "每日取款限额是多少？"
+        "c": "Can you check my balance, please?",
+        "cn": "请帮我查一下余额好吗？"
       }
     ],
     "phrases": [
       {
-        "c": "credit limit",
-        "cn": "信用额度"
+        "c": "account balance",
+        "cn": "账户余额"
       }
     ],
     "synos": [],
@@ -958,37 +826,7 @@
     "etymology": []
   },
   {
-    "id": 1010032,
-    "word": "statement",
-    "phonetic0": "ˈsteɪtmənt",
-    "phonetic1": "ˈsteɪtmənt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "对账单；声明"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can I get a bank statement?",
-        "cn": "我可以拿一份银行流水吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "bank statement",
-        "cn": "银行对账单"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010033,
+    "id": 1010028,
     "word": "branch",
     "phonetic0": "brɑːntʃ",
     "phonetic1": "bræntʃ",
@@ -1018,26 +856,26 @@
     "etymology": []
   },
   {
-    "id": 1010034,
-    "word": "appointment",
-    "phonetic0": "əˈpɔɪntmənt",
-    "phonetic1": "əˈpɔɪntmənt",
+    "id": 1010029,
+    "word": "insurance",
+    "phonetic0": "ɪnˈʃʊərəns",
+    "phonetic1": "ɪnˈʃʊrəns",
     "trans": [
       {
         "pos": "n.",
-        "cn": "预约"
+        "cn": "保险"
       }
     ],
     "sentences": [
       {
-        "c": "Do I need an appointment?",
-        "cn": "我需要预约吗？"
+        "c": "Does this card include travel insurance?",
+        "cn": "这张卡包含旅行保险吗？"
       }
     ],
     "phrases": [
       {
-        "c": "make an appointment",
-        "cn": "预约"
+        "c": "travel insurance",
+        "cn": "旅行保险"
       }
     ],
     "synos": [],
@@ -1048,86 +886,26 @@
     "etymology": []
   },
   {
-    "id": 1010035,
-    "word": "activate",
-    "phonetic0": "ˈæktɪveɪt",
-    "phonetic1": "ˈæktɪveɪt",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "激活，开通"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "How do I activate my new card?",
-        "cn": "我怎么激活新卡？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "activate a card",
-        "cn": "激活银行卡"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010036,
-    "word": "freeze",
-    "phonetic0": "friːz",
-    "phonetic1": "friːz",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "冻结"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I lost my card. Please freeze it.",
-        "cn": "我的卡丢了，请帮我冻结。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "freeze an account",
-        "cn": "冻结账户"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1010037,
-    "word": "security",
-    "phonetic0": "sɪˈkjʊərəti",
-    "phonetic1": "səˈkjʊrəti",
+    "id": 1010030,
+    "word": "cash",
+    "phonetic0": "kæʃ",
+    "phonetic1": "kæʃ",
     "trans": [
       {
         "pos": "n.",
-        "cn": "安全"
+        "cn": "现金"
       }
     ],
     "sentences": [
       {
-        "c": "For security, never share your password.",
-        "cn": "为了安全，不要把密码告诉别人。"
+        "c": "Can I pay in cash?",
+        "cn": "我可以付现金吗？"
       }
     ],
     "phrases": [
       {
-        "c": "security question",
-        "cn": "安全问题"
+        "c": "in cash",
+        "cn": "用现金"
       }
     ],
     "synos": [],
@@ -1138,7 +916,67 @@
     "etymology": []
   },
   {
-    "id": 1010038,
+    "id": 1010031,
+    "word": "identity",
+    "phonetic0": "aɪˈdentəti",
+    "phonetic1": "aɪˈdentəti",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "身份"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please bring your identity card.",
+        "cn": "请带上您的身份证。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "identity card",
+        "cn": "身份证"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010032,
+    "word": "limit",
+    "phonetic0": "ˈlɪmɪt",
+    "phonetic1": "ˈlɪmɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "限额，限制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What is the daily withdrawal limit?",
+        "cn": "每日取款限额是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "credit limit",
+        "cn": "信用额度"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010033,
     "word": "loan",
     "phonetic0": "ləʊn",
     "phonetic1": "loʊn",
@@ -1172,26 +1010,180 @@
     "etymology": []
   },
   {
-    "id": 1010039,
-    "word": "cheque",
-    "phonetic0": "tʃek",
-    "phonetic1": "tʃek",
+    "id": 1010034,
+    "word": "code",
+    "phonetic0": "kəʊd",
+    "phonetic1": "koʊd",
     "trans": [
       {
         "pos": "n.",
-        "cn": "支票（美式拼写 check）"
+        "cn": "验证码；代码"
       }
     ],
     "sentences": [
       {
-        "c": "Can I pay by cheque?",
-        "cn": "我可以用支票付款吗？"
+        "c": "Please enter the code sent to your phone.",
+        "cn": "请输入发到您手机上的验证码。"
       }
     ],
     "phrases": [
       {
-        "c": "cash a cheque",
-        "cn": "兑现支票"
+        "c": "verification code",
+        "cn": "验证码"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010035,
+    "word": "appointment",
+    "phonetic0": "əˈpɔɪntmənt",
+    "phonetic1": "əˈpɔɪntmənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "预约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do I need an appointment?",
+        "cn": "我需要预约吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make an appointment",
+        "cn": "预约"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010036,
+    "word": "transfer",
+    "phonetic0": "trænsˈfɜː",
+    "phonetic1": "trænsˈfɜːr",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "转账；转移"
+      },
+      {
+        "pos": "n.",
+        "cn": "转账"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to transfer money to my friend.",
+        "cn": "我想给我朋友转账。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bank transfer",
+        "cn": "银行转账"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010037,
+    "word": "fee",
+    "phonetic0": "fiː",
+    "phonetic1": "fiː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "费用，手续费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a fee for this service?",
+        "cn": "这项服务要收手续费吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "service fee",
+        "cn": "服务费"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010038,
+    "word": "withdraw",
+    "phonetic0": "wɪðˈdrɔː",
+    "phonetic1": "wɪðˈdrɔː",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "取（钱）；撤回"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to withdraw some cash.",
+        "cn": "我想取一些现金。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "withdraw money",
+        "cn": "取钱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010039,
+    "word": "invest",
+    "phonetic0": "ɪnˈvest",
+    "phonetic1": "ɪnˈvest",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "投资"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to invest some of my savings.",
+        "cn": "我想把一部分积蓄拿去投资。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "invest in",
+        "cn": "投资于"
       }
     ],
     "synos": [],
@@ -1203,25 +1195,25 @@
   },
   {
     "id": 1010040,
-    "word": "insurance",
-    "phonetic0": "ɪnˈʃʊərəns",
-    "phonetic1": "ɪnˈʃʊrəns",
+    "word": "currency",
+    "phonetic0": "ˈkʌrənsi",
+    "phonetic1": "ˈkɜːrənsi",
     "trans": [
       {
         "pos": "n.",
-        "cn": "保险"
+        "cn": "货币"
       }
     ],
     "sentences": [
       {
-        "c": "Does this card include travel insurance?",
-        "cn": "这张卡包含旅行保险吗？"
+        "c": "Which currency do you need?",
+        "cn": "您需要哪种货币？"
       }
     ],
     "phrases": [
       {
-        "c": "travel insurance",
-        "cn": "旅行保险"
+        "c": "foreign currency",
+        "cn": "外币"
       }
     ],
     "synos": [],
@@ -1233,6 +1225,130 @@
   },
   {
     "id": 1010041,
+    "word": "savings",
+    "phonetic0": "ˈseɪvɪŋz",
+    "phonetic1": "ˈseɪvɪŋz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "储蓄，积蓄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I keep my savings in this bank.",
+        "cn": "我把积蓄存在这家银行。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "savings account",
+        "cn": "储蓄账户"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010042,
+    "word": "dollar",
+    "phonetic0": "ˈdɒlə",
+    "phonetic1": "ˈdɑːlər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "美元"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the rate for US dollars today?",
+        "cn": "今天美元汇率是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "US dollar",
+        "cn": "美元"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010043,
+    "word": "deposit",
+    "phonetic0": "dɪˈpɒzɪt",
+    "phonetic1": "dɪˈpɑːzɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "存（钱）"
+      },
+      {
+        "pos": "n.",
+        "cn": "存款；押金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to deposit this money into my account.",
+        "cn": "我想把这笔钱存进我的账户。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make a deposit",
+        "cn": "存款"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010044,
+    "word": "salary",
+    "phonetic0": "ˈsæləri",
+    "phonetic1": "ˈsæləri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "工资"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My salary goes into this account.",
+        "cn": "我的工资打到这个账户。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "monthly salary",
+        "cn": "月薪"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010045,
     "word": "mortgage",
     "phonetic0": "ˈmɔːɡɪdʒ",
     "phonetic1": "ˈmɔːrɡɪdʒ",
@@ -1262,7 +1378,401 @@
     "etymology": []
   },
   {
-    "id": 1010042,
+    "id": 1010046,
+    "word": "online",
+    "phonetic0": "ˌɒnˈlaɪn",
+    "phonetic1": "ˌɑːnˈlaɪn",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "网上的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I use online banking.",
+        "cn": "我用网上银行。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "online banking",
+        "cn": "网上银行"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010047,
+    "word": "cheque",
+    "phonetic0": "tʃek",
+    "phonetic1": "tʃek",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "支票（美式拼写 check）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I pay by cheque?",
+        "cn": "我可以用支票付款吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cash a cheque",
+        "cn": "兑现支票"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010048,
+    "word": "freeze",
+    "phonetic0": "friːz",
+    "phonetic1": "friːz",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "冻结"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I lost my card. Please freeze it.",
+        "cn": "我的卡丢了，请帮我冻结。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "freeze an account",
+        "cn": "冻结账户"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010049,
+    "word": "counter",
+    "phonetic0": "ˈkaʊntə",
+    "phonetic1": "ˈkaʊntər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "柜台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please go to counter three.",
+        "cn": "请到三号柜台。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "service counter",
+        "cn": "服务台"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010050,
+    "word": "coin",
+    "phonetic0": "kɔɪn",
+    "phonetic1": "kɔɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "硬币"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This machine doesn't take coins.",
+        "cn": "这台机器不收硬币。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "coin machine",
+        "cn": "投币机"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010051,
+    "word": "cancel",
+    "phonetic0": "ˈkænsl",
+    "phonetic1": "ˈkænsl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "取消"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I cancel this payment?",
+        "cn": "我能取消这笔付款吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cancel a card",
+        "cn": "注销卡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010052,
+    "word": "fraud",
+    "phonetic0": "frɔːd",
+    "phonetic1": "frɔːd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "诈骗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I think this is a fraud call.",
+        "cn": "我觉得这是诈骗电话。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bank fraud",
+        "cn": "银行诈骗"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010053,
+    "word": "receipt",
+    "phonetic0": "rɪˈsiːt",
+    "phonetic1": "rɪˈsiːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收据，回单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would you like a receipt?",
+        "cn": "您需要收据吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "keep the receipt",
+        "cn": "保留收据"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010054,
+    "word": "pin",
+    "phonetic0": "pɪn",
+    "phonetic1": "pɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "密码（PIN码）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Never tell anyone your PIN.",
+        "cn": "不要把密码告诉任何人。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "PIN number",
+        "cn": "密码"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010055,
+    "word": "activate",
+    "phonetic0": "ˈæktɪveɪt",
+    "phonetic1": "ˈæktɪveɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "激活，开通"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do I activate my new card?",
+        "cn": "我怎么激活新卡？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "activate a card",
+        "cn": "激活银行卡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010056,
+    "word": "queue",
+    "phonetic0": "kjuː",
+    "phonetic1": "kjuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "队伍"
+      },
+      {
+        "pos": "v.",
+        "cn": "排队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please take a number and queue here.",
+        "cn": "请取号并在这里排队。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the queue",
+        "cn": "在排队"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010057,
+    "word": "passport",
+    "phonetic0": "ˈpɑːspɔːt",
+    "phonetic1": "ˈpæspɔːrt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "护照"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "May I see your passport?",
+        "cn": "可以看一下您的护照吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "passport number",
+        "cn": "护照号码"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010058,
+    "word": "verify",
+    "phonetic0": "ˈverɪfaɪ",
+    "phonetic1": "ˈverɪfaɪ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "核实，验证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to verify your identity.",
+        "cn": "我们需要核实您的身份。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "verify your account",
+        "cn": "验证账户"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010059,
     "word": "overdraft",
     "phonetic0": "ˈəʊvədrɑːft",
     "phonetic1": "ˈoʊvərdræft",
@@ -1292,26 +1802,60 @@
     "etymology": []
   },
   {
-    "id": 1010043,
-    "word": "invest",
-    "phonetic0": "ɪnˈvest",
-    "phonetic1": "ɪnˈvest",
+    "id": 1010060,
+    "word": "password",
+    "phonetic0": "ˈpɑːswɜːd",
+    "phonetic1": "ˈpæswɜːrd",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "投资"
+        "pos": "n.",
+        "cn": "密码"
       }
     ],
     "sentences": [
       {
-        "c": "I want to invest some of my savings.",
-        "cn": "我想把一部分积蓄拿去投资。"
+        "c": "Please enter your password.",
+        "cn": "请输入您的密码。"
       }
     ],
     "phrases": [
       {
-        "c": "invest in",
-        "cn": "投资于"
+        "c": "change the password",
+        "cn": "修改密码"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1010061,
+    "word": "debit",
+    "phonetic0": "ˈdebɪt",
+    "phonetic1": "ˈdebɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "借记"
+      },
+      {
+        "pos": "v.",
+        "cn": "从账户扣款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I usually pay with my debit card.",
+        "cn": "我通常用借记卡付款。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "debit card",
+        "cn": "借记卡"
       }
     ],
     "synos": [],

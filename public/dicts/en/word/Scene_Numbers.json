@@ -1,0 +1,966 @@
+[
+  {
+    "id": 1300001,
+    "word": "first",
+    "phonetic0": "fɜːst",
+    "phonetic1": "fɜːrst",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "第一"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is my first time here.",
+        "cn": "这是我第一次来这里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at first",
+        "cn": "起初"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300002,
+    "word": "number",
+    "phonetic0": "ˈnʌmbə",
+    "phonetic1": "ˈnʌmbər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "数字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pick a number from one to ten.",
+        "cn": "从一到十选一个数。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "phone number",
+        "cn": "电话号码"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300003,
+    "word": "million",
+    "phonetic0": "ˈmɪljən",
+    "phonetic1": "ˈmɪljən",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "百万"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The city has ten million people.",
+        "cn": "这座城市有一千万人。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a million",
+        "cn": "一百万"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300004,
+    "word": "money",
+    "phonetic0": "ˈmʌni",
+    "phonetic1": "ˈmʌni",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "钱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much money do you have?",
+        "cn": "你有多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "save money",
+        "cn": "存钱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300005,
+    "word": "second",
+    "phonetic0": "ˈsekənd",
+    "phonetic1": "ˈsekənd",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "第二"
+      },
+      {
+        "pos": "n.",
+        "cn": "秒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wait a second.",
+        "cn": "等一下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "second floor",
+        "cn": "二楼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300006,
+    "word": "add",
+    "phonetic0": "æd",
+    "phonetic1": "æd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "加"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Add five and seven.",
+        "cn": "五加七。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "add up",
+        "cn": "加起来"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300007,
+    "word": "price",
+    "phonetic0": "praɪs",
+    "phonetic1": "praɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "价格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the price?",
+        "cn": "价格是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "half price",
+        "cn": "半价"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300008,
+    "word": "spend",
+    "phonetic0": "spend",
+    "phonetic1": "spend",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "花（钱、时间）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I spend too much on food.",
+        "cn": "我在吃上花太多钱了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "spend money",
+        "cn": "花钱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300009,
+    "word": "hundred",
+    "phonetic0": "ˈhʌndrəd",
+    "phonetic1": "ˈhʌndrəd",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "百"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It costs two hundred yuan.",
+        "cn": "这个两百元。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hundreds of",
+        "cn": "数以百计的"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300010,
+    "word": "third",
+    "phonetic0": "θɜːd",
+    "phonetic1": "θɜːrd",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "第三"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's on the third floor.",
+        "cn": "在三楼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "third time",
+        "cn": "第三次"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300011,
+    "word": "half",
+    "phonetic0": "hɑːf",
+    "phonetic1": "hæf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一半"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cut it in half.",
+        "cn": "把它切成两半。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "half price",
+        "cn": "半价"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300012,
+    "word": "twenty",
+    "phonetic0": "ˈtwenti",
+    "phonetic1": "ˈtwenti",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "二十"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm twenty years old.",
+        "cn": "我二十岁。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "twenty minutes",
+        "cn": "二十分钟"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300013,
+    "word": "thousand",
+    "phonetic0": "ˈθaʊznd",
+    "phonetic1": "ˈθaʊznd",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "千"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Three thousand people came.",
+        "cn": "来了三千人。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "thousands of",
+        "cn": "成千上万的"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300014,
+    "word": "note",
+    "phonetic0": "nəʊt",
+    "phonetic1": "noʊt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "纸币（美式 bill）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have a fifty-yuan note?",
+        "cn": "你有五十元的纸币吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bank note",
+        "cn": "钞票"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300015,
+    "word": "save",
+    "phonetic0": "seɪv",
+    "phonetic1": "seɪv",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "节省，存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm saving for a new laptop.",
+        "cn": "我在攒钱买新电脑。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "save up",
+        "cn": "攒钱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300016,
+    "word": "total",
+    "phonetic0": "ˈtəʊtl",
+    "phonetic1": "ˈtoʊtl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "总数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The total is 86 yuan.",
+        "cn": "总共86元。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in total",
+        "cn": "总共"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300017,
+    "word": "worth",
+    "phonetic0": "wɜːθ",
+    "phonetic1": "wɜːrθ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "值……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is it worth the money?",
+        "cn": "值这个价吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "worth it",
+        "cn": "值得"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300018,
+    "word": "fifty",
+    "phonetic0": "ˈfɪfti",
+    "phonetic1": "ˈfɪfti",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "五十"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That's fifty percent off.",
+        "cn": "打五折。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fifty-fifty",
+        "cn": "对半分"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300019,
+    "word": "budget",
+    "phonetic0": "ˈbʌdʒɪt",
+    "phonetic1": "ˈbʌdʒɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "预算"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your budget?",
+        "cn": "你的预算是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on a budget",
+        "cn": "预算有限"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300020,
+    "word": "dozen",
+    "phonetic0": "ˈdʌzn",
+    "phonetic1": "ˈdʌzn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一打（12个）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A dozen eggs, please.",
+        "cn": "请来一打鸡蛋。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "half a dozen",
+        "cn": "半打"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300021,
+    "word": "pair",
+    "phonetic0": "peə",
+    "phonetic1": "per",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一双，一对"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I bought a pair of shoes.",
+        "cn": "我买了一双鞋。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a pair of",
+        "cn": "一双"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300022,
+    "word": "count",
+    "phonetic0": "kaʊnt",
+    "phonetic1": "kaʊnt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Count the money again.",
+        "cn": "再数一遍钱。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "count to ten",
+        "cn": "数到十"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300023,
+    "word": "cheap",
+    "phonetic0": "tʃiːp",
+    "phonetic1": "tʃiːp",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "便宜的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's really cheap here.",
+        "cn": "这里真便宜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cheap price",
+        "cn": "低价"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300024,
+    "word": "twelve",
+    "phonetic0": "twelv",
+    "phonetic1": "twelv",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "十二"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There are twelve months in a year.",
+        "cn": "一年有十二个月。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "twelve o'clock",
+        "cn": "十二点"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300025,
+    "word": "double",
+    "phonetic0": "ˈdʌbl",
+    "phonetic1": "ˈdʌbl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "双倍的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The price has doubled.",
+        "cn": "价格翻倍了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "double check",
+        "cn": "再检查一遍"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300026,
+    "word": "afford",
+    "phonetic0": "əˈfɔːd",
+    "phonetic1": "əˈfɔːrd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "买得起"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can't afford a new car.",
+        "cn": "我买不起新车。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "can't afford",
+        "cn": "负担不起"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300027,
+    "word": "owe",
+    "phonetic0": "əʊ",
+    "phonetic1": "oʊ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "欠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I owe you twenty yuan.",
+        "cn": "我欠你二十块。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "owe money",
+        "cn": "欠钱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300028,
+    "word": "borrow",
+    "phonetic0": "ˈbɒrəʊ",
+    "phonetic1": "ˈbɑːroʊ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "借（入）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I borrow fifty yuan?",
+        "cn": "能借我五十块吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "borrow money",
+        "cn": "借钱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300029,
+    "word": "lend",
+    "phonetic0": "lend",
+    "phonetic1": "lend",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "借（出）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you lend me some money?",
+        "cn": "你能借我点钱吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lend money",
+        "cn": "借钱给别人"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300030,
+    "word": "percent",
+    "phonetic0": "pəˈsent",
+    "phonetic1": "pərˈsent",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "百分之……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Prices went up ten percent.",
+        "cn": "价格涨了百分之十。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "20 percent",
+        "cn": "百分之二十"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300031,
+    "word": "coin",
+    "phonetic0": "kɔɪn",
+    "phonetic1": "kɔɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "硬币"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have some coins in my pocket.",
+        "cn": "我口袋里有些硬币。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "one-yuan coin",
+        "cn": "一元硬币"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1300032,
+    "word": "yuan",
+    "phonetic0": "juˈɑːn",
+    "phonetic1": "juˈɑːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "元（人民币单位）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's thirty yuan each.",
+        "cn": "每个三十元。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "100 yuan",
+        "cn": "一百元"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

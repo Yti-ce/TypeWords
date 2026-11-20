@@ -1,36 +1,6 @@
 [
   {
     "id": 1130001,
-    "word": "phone",
-    "phonetic0": "fəʊn",
-    "phonetic1": "foʊn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "电话，手机"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can I use your phone?",
-        "cn": "我可以用一下你的手机吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "phone number",
-        "cn": "电话号码"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1130002,
     "word": "call",
     "phonetic0": "kɔːl",
     "phonetic1": "kɔːl",
@@ -64,26 +34,56 @@
     "etymology": []
   },
   {
-    "id": 1130003,
-    "word": "message",
-    "phonetic0": "ˈmesɪdʒ",
-    "phonetic1": "ˈmesɪdʒ",
+    "id": 1130002,
+    "word": "group",
+    "phonetic0": "ɡruːp",
+    "phonetic1": "ɡruːp",
     "trans": [
       {
         "pos": "n.",
-        "cn": "消息"
+        "cn": "群组"
       }
     ],
     "sentences": [
       {
-        "c": "I sent you a message.",
-        "cn": "我给你发了条消息。"
+        "c": "I'll add you to the group chat.",
+        "cn": "我把你拉进群聊。"
       }
     ],
     "phrases": [
       {
-        "c": "text message",
-        "cn": "短信"
+        "c": "group chat",
+        "cn": "群聊"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130003,
+    "word": "number",
+    "phonetic0": "ˈnʌmbə",
+    "phonetic1": "ˈnʌmbər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "号码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your phone number?",
+        "cn": "你的电话号码是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "phone number",
+        "cn": "电话号码"
       }
     ],
     "synos": [],
@@ -95,29 +95,25 @@
   },
   {
     "id": 1130004,
-    "word": "text",
-    "phonetic0": "tekst",
-    "phonetic1": "tekst",
+    "word": "turn",
+    "phonetic0": "tɜːn",
+    "phonetic1": "tɜːrn",
     "trans": [
       {
         "pos": "v.",
-        "cn": "发短信"
-      },
-      {
-        "pos": "n.",
-        "cn": "短信"
+        "cn": "打开/关闭（turn on/off）"
       }
     ],
     "sentences": [
       {
-        "c": "Text me when you arrive.",
-        "cn": "到了给我发个消息。"
+        "c": "Please turn off your phone.",
+        "cn": "请关机。"
       }
     ],
     "phrases": [
       {
-        "c": "text me",
-        "cn": "给我发消息"
+        "c": "turn on",
+        "cn": "打开"
       }
     ],
     "synos": [],
@@ -129,25 +125,25 @@
   },
   {
     "id": 1130005,
-    "word": "battery",
-    "phonetic0": "ˈbætri",
-    "phonetic1": "ˈbætəri",
+    "word": "add",
+    "phonetic0": "æd",
+    "phonetic1": "æd",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "电池，电量"
+        "pos": "v.",
+        "cn": "添加"
       }
     ],
     "sentences": [
       {
-        "c": "My battery is almost dead.",
-        "cn": "我手机快没电了。"
+        "c": "Can I add you on WeChat?",
+        "cn": "我可以加你微信吗？"
       }
     ],
     "phrases": [
       {
-        "c": "low battery",
-        "cn": "电量低"
+        "c": "add a friend",
+        "cn": "加好友"
       }
     ],
     "synos": [],
@@ -159,6 +155,186 @@
   },
   {
     "id": 1130006,
+    "word": "send",
+    "phonetic0": "send",
+    "phonetic1": "send",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "发送"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll send you the photo.",
+        "cn": "我把照片发给你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "send a message",
+        "cn": "发消息"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130007,
+    "word": "plan",
+    "phonetic0": "plæn",
+    "phonetic1": "plæn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "套餐；计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which phone plan do you have?",
+        "cn": "你用的是哪种手机套餐？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "data plan",
+        "cn": "流量套餐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130008,
+    "word": "voice",
+    "phonetic0": "vɔɪs",
+    "phonetic1": "vɔɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "声音；语音"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll send you a voice message.",
+        "cn": "我给你发条语音。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "voice message",
+        "cn": "语音消息"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130009,
+    "word": "account",
+    "phonetic0": "əˈkaʊnt",
+    "phonetic1": "əˈkaʊnt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "账号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Create an account with your email.",
+        "cn": "用邮箱注册一个账号。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "log in to an account",
+        "cn": "登录账号"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130010,
+    "word": "data",
+    "phonetic0": "ˈdeɪtə",
+    "phonetic1": "ˈdeɪtə",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "数据；流量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I've run out of mobile data.",
+        "cn": "我的流量用完了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mobile data",
+        "cn": "手机流量"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130011,
+    "word": "phone",
+    "phonetic0": "fəʊn",
+    "phonetic1": "foʊn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电话，手机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I use your phone?",
+        "cn": "我可以用一下你的手机吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "phone number",
+        "cn": "电话号码"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130012,
     "word": "charge",
     "phonetic0": "tʃɑːdʒ",
     "phonetic1": "tʃɑːrdʒ",
@@ -192,206 +368,26 @@
     "etymology": []
   },
   {
-    "id": 1130007,
-    "word": "charger",
-    "phonetic0": "ˈtʃɑːdʒə",
-    "phonetic1": "ˈtʃɑːrdʒər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "充电器"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Do you have a phone charger?",
-        "cn": "你有手机充电器吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "phone charger",
-        "cn": "手机充电器"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1130008,
-    "word": "signal",
-    "phonetic0": "ˈsɪɡnəl",
-    "phonetic1": "ˈsɪɡnəl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "信号"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "There's no signal here.",
-        "cn": "这里没信号。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "weak signal",
-        "cn": "信号弱"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1130009,
-    "word": "internet",
-    "phonetic0": "ˈɪntənet",
-    "phonetic1": "ˈɪntərnet",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "互联网"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The internet is very slow today.",
-        "cn": "今天网速很慢。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "on the internet",
-        "cn": "在网上"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1130010,
-    "word": "wifi",
-    "phonetic0": "ˈwaɪfaɪ",
-    "phonetic1": "ˈwaɪfaɪ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "无线网络"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Is there wifi here?",
-        "cn": "这里有无线网吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "connect to wifi",
-        "cn": "连无线网"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1130011,
-    "word": "password",
-    "phonetic0": "ˈpɑːswɜːd",
-    "phonetic1": "ˈpæswɜːrd",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "密码"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I forgot my password.",
-        "cn": "我忘了密码。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "reset the password",
-        "cn": "重置密码"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1130012,
-    "word": "connect",
-    "phonetic0": "kəˈnekt",
-    "phonetic1": "kəˈnekt",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "连接"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I can't connect to the internet.",
-        "cn": "我连不上网。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "connect to",
-        "cn": "连接到"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
     "id": 1130013,
-    "word": "download",
-    "phonetic0": "ˌdaʊnˈləʊd",
-    "phonetic1": "ˈdaʊnloʊd",
+    "word": "save",
+    "phonetic0": "seɪv",
+    "phonetic1": "seɪv",
     "trans": [
       {
         "pos": "v.",
-        "cn": "下载"
+        "cn": "保存"
       }
     ],
     "sentences": [
       {
-        "c": "Download the app first.",
-        "cn": "先下载这个应用。"
+        "c": "Save my number in your phone.",
+        "cn": "把我的号码存进你手机里。"
       }
     ],
     "phrases": [
       {
-        "c": "free download",
-        "cn": "免费下载"
+        "c": "save a file",
+        "cn": "保存文件"
       }
     ],
     "synos": [],
@@ -403,25 +399,25 @@
   },
   {
     "id": 1130014,
-    "word": "upload",
-    "phonetic0": "ˌʌpˈləʊd",
-    "phonetic1": "ˈʌploʊd",
+    "word": "answer",
+    "phonetic0": "ˈɑːnsə",
+    "phonetic1": "ˈænsər",
     "trans": [
       {
         "pos": "v.",
-        "cn": "上传"
+        "cn": "接（电话）；回答"
       }
     ],
     "sentences": [
       {
-        "c": "I'll upload the photos tonight.",
-        "cn": "我今晚上传照片。"
+        "c": "Why didn't you answer the phone?",
+        "cn": "你怎么不接电话？"
       }
     ],
     "phrases": [
       {
-        "c": "upload a file",
-        "cn": "上传文件"
+        "c": "answer the phone",
+        "cn": "接电话"
       }
     ],
     "synos": [],
@@ -433,25 +429,25 @@
   },
   {
     "id": 1130015,
-    "word": "data",
-    "phonetic0": "ˈdeɪtə",
-    "phonetic1": "ˈdeɪtə",
+    "word": "message",
+    "phonetic0": "ˈmesɪdʒ",
+    "phonetic1": "ˈmesɪdʒ",
     "trans": [
       {
         "pos": "n.",
-        "cn": "数据；流量"
+        "cn": "消息"
       }
     ],
     "sentences": [
       {
-        "c": "I've run out of mobile data.",
-        "cn": "我的流量用完了。"
+        "c": "I sent you a message.",
+        "cn": "我给你发了条消息。"
       }
     ],
     "phrases": [
       {
-        "c": "mobile data",
-        "cn": "手机流量"
+        "c": "text message",
+        "cn": "短信"
       }
     ],
     "synos": [],
@@ -463,25 +459,25 @@
   },
   {
     "id": 1130016,
-    "word": "plan",
-    "phonetic0": "plæn",
-    "phonetic1": "plæn",
+    "word": "hang",
+    "phonetic0": "hæŋ",
+    "phonetic1": "hæŋ",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "套餐；计划"
+        "pos": "v.",
+        "cn": "挂（hang up 挂电话）"
       }
     ],
     "sentences": [
       {
-        "c": "Which phone plan do you have?",
-        "cn": "你用的是哪种手机套餐？"
+        "c": "Don't hang up!",
+        "cn": "别挂电话！"
       }
     ],
     "phrases": [
       {
-        "c": "data plan",
-        "cn": "流量套餐"
+        "c": "hang up",
+        "cn": "挂断"
       }
     ],
     "synos": [],
@@ -493,25 +489,25 @@
   },
   {
     "id": 1130017,
-    "word": "sim",
-    "phonetic0": "sɪm",
-    "phonetic1": "sɪm",
+    "word": "camera",
+    "phonetic0": "ˈkæmərə",
+    "phonetic1": "ˈkæmərə",
     "trans": [
       {
         "pos": "n.",
-        "cn": "SIM卡"
+        "cn": "相机，摄像头"
       }
     ],
     "sentences": [
       {
-        "c": "I need a local SIM card.",
-        "cn": "我需要一张本地电话卡。"
+        "c": "The camera on this phone is great.",
+        "cn": "这部手机的摄像头很好。"
       }
     ],
     "phrases": [
       {
-        "c": "SIM card",
-        "cn": "电话卡"
+        "c": "front camera",
+        "cn": "前置摄像头"
       }
     ],
     "synos": [],
@@ -523,6 +519,70 @@
   },
   {
     "id": 1130018,
+    "word": "text",
+    "phonetic0": "tekst",
+    "phonetic1": "tekst",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "发短信"
+      },
+      {
+        "pos": "n.",
+        "cn": "短信"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Text me when you arrive.",
+        "cn": "到了给我发个消息。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "text me",
+        "cn": "给我发消息"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130019,
+    "word": "video",
+    "phonetic0": "ˈvɪdiəʊ",
+    "phonetic1": "ˈvɪdioʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "视频"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's have a video call.",
+        "cn": "我们视频通话吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "video call",
+        "cn": "视频通话"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130020,
     "word": "screen",
     "phonetic0": "skriːn",
     "phonetic1": "skriːn",
@@ -552,30 +612,60 @@
     "etymology": []
   },
   {
-    "id": 1130019,
-    "word": "update",
-    "phonetic0": "ˌʌpˈdeɪt",
-    "phonetic1": "ˌʌpˈdeɪt",
+    "id": 1130021,
+    "word": "link",
+    "phonetic0": "lɪŋk",
+    "phonetic1": "lɪŋk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "链接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Send me the link.",
+        "cn": "把链接发给我。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "click the link",
+        "cn": "点击链接"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130022,
+    "word": "reply",
+    "phonetic0": "rɪˈplaɪ",
+    "phonetic1": "rɪˈplaɪ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "更新"
+        "cn": "回复"
       },
       {
         "pos": "n.",
-        "cn": "更新"
+        "cn": "回复"
       }
     ],
     "sentences": [
       {
-        "c": "You need to update the app.",
-        "cn": "你需要更新这个应用。"
+        "c": "Sorry for the late reply.",
+        "cn": "抱歉回复晚了。"
       }
     ],
     "phrases": [
       {
-        "c": "software update",
-        "cn": "软件更新"
+        "c": "reply to",
+        "cn": "回复"
       }
     ],
     "synos": [],
@@ -586,26 +676,26 @@
     "etymology": []
   },
   {
-    "id": 1130020,
-    "word": "account",
-    "phonetic0": "əˈkaʊnt",
-    "phonetic1": "əˈkaʊnt",
+    "id": 1130023,
+    "word": "photo",
+    "phonetic0": "ˈfəʊtəʊ",
+    "phonetic1": "ˈfoʊtoʊ",
     "trans": [
       {
         "pos": "n.",
-        "cn": "账号"
+        "cn": "照片"
       }
     ],
     "sentences": [
       {
-        "c": "Create an account with your email.",
-        "cn": "用邮箱注册一个账号。"
+        "c": "Can you send me that photo?",
+        "cn": "你能把那张照片发给我吗？"
       }
     ],
     "phrases": [
       {
-        "c": "log in to an account",
-        "cn": "登录账号"
+        "c": "take a photo",
+        "cn": "拍照"
       }
     ],
     "synos": [],
@@ -616,7 +706,37 @@
     "etymology": []
   },
   {
-    "id": 1130021,
+    "id": 1130024,
+    "word": "internet",
+    "phonetic0": "ˈɪntənet",
+    "phonetic1": "ˈɪntərnet",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "互联网"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The internet is very slow today.",
+        "cn": "今天网速很慢。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the internet",
+        "cn": "在网上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130025,
     "word": "email",
     "phonetic0": "ˈiːmeɪl",
     "phonetic1": "ˈiːmeɪl",
@@ -650,26 +770,30 @@
     "etymology": []
   },
   {
-    "id": 1130022,
-    "word": "log",
-    "phonetic0": "lɒɡ",
-    "phonetic1": "lɔːɡ",
+    "id": 1130026,
+    "word": "search",
+    "phonetic0": "sɜːtʃ",
+    "phonetic1": "sɜːrtʃ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "登录（log in）"
+        "cn": "搜索"
+      },
+      {
+        "pos": "n.",
+        "cn": "搜索"
       }
     ],
     "sentences": [
       {
-        "c": "Please log in again.",
-        "cn": "请重新登录。"
+        "c": "Search for it online.",
+        "cn": "在网上搜一下。"
       }
     ],
     "phrases": [
       {
-        "c": "log in",
-        "cn": "登录"
+        "c": "search for",
+        "cn": "搜索"
       }
     ],
     "synos": [],
@@ -680,7 +804,187 @@
     "etymology": []
   },
   {
-    "id": 1130023,
+    "id": 1130027,
+    "word": "connect",
+    "phonetic0": "kəˈnekt",
+    "phonetic1": "kəˈnekt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "连接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can't connect to the internet.",
+        "cn": "我连不上网。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "connect to",
+        "cn": "连接到"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130028,
+    "word": "slow",
+    "phonetic0": "sləʊ",
+    "phonetic1": "sloʊ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "慢的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My phone is really slow.",
+        "cn": "我的手机很卡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "slow internet",
+        "cn": "网速慢"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130029,
+    "word": "setting",
+    "phonetic0": "ˈsetɪŋ",
+    "phonetic1": "ˈsetɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "设置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Go to the settings and turn on wifi.",
+        "cn": "进设置打开无线网。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "privacy settings",
+        "cn": "隐私设置"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130030,
+    "word": "busy",
+    "phonetic0": "ˈbɪzi",
+    "phonetic1": "ˈbɪzi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "忙的；占线的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The line is busy.",
+        "cn": "电话占线。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "busy line",
+        "cn": "占线"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130031,
+    "word": "signal",
+    "phonetic0": "ˈsɪɡnəl",
+    "phonetic1": "ˈsɪɡnəl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's no signal here.",
+        "cn": "这里没信号。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "weak signal",
+        "cn": "信号弱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130032,
+    "word": "silent",
+    "phonetic0": "ˈsaɪlənt",
+    "phonetic1": "ˈsaɪlənt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "静音的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put your phone on silent.",
+        "cn": "把手机调成静音。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "silent mode",
+        "cn": "静音模式"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130033,
     "word": "online",
     "phonetic0": "ˌɒnˈlaɪn",
     "phonetic1": "ˌɑːnˈlaɪn",
@@ -714,26 +1018,26 @@
     "etymology": []
   },
   {
-    "id": 1130024,
-    "word": "link",
-    "phonetic0": "lɪŋk",
-    "phonetic1": "lɪŋk",
+    "id": 1130034,
+    "word": "battery",
+    "phonetic0": "ˈbætri",
+    "phonetic1": "ˈbætəri",
     "trans": [
       {
         "pos": "n.",
-        "cn": "链接"
+        "cn": "电池，电量"
       }
     ],
     "sentences": [
       {
-        "c": "Send me the link.",
-        "cn": "把链接发给我。"
+        "c": "My battery is almost dead.",
+        "cn": "我手机快没电了。"
       }
     ],
     "phrases": [
       {
-        "c": "click the link",
-        "cn": "点击链接"
+        "c": "low battery",
+        "cn": "电量低"
       }
     ],
     "synos": [],
@@ -744,7 +1048,37 @@
     "etymology": []
   },
   {
-    "id": 1130025,
+    "id": 1130035,
+    "word": "log",
+    "phonetic0": "lɒɡ",
+    "phonetic1": "lɔːɡ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "登录（log in）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please log in again.",
+        "cn": "请重新登录。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "log in",
+        "cn": "登录"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130036,
     "word": "click",
     "phonetic0": "klɪk",
     "phonetic1": "klɪk",
@@ -774,7 +1108,221 @@
     "etymology": []
   },
   {
-    "id": 1130026,
+    "id": 1130037,
+    "word": "update",
+    "phonetic0": "ˌʌpˈdeɪt",
+    "phonetic1": "ˌʌpˈdeɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "更新"
+      },
+      {
+        "pos": "n.",
+        "cn": "更新"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You need to update the app.",
+        "cn": "你需要更新这个应用。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "software update",
+        "cn": "软件更新"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130038,
+    "word": "wifi",
+    "phonetic0": "ˈwaɪfaɪ",
+    "phonetic1": "ˈwaɪfaɪ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "无线网络"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there wifi here?",
+        "cn": "这里有无线网吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "connect to wifi",
+        "cn": "连无线网"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130039,
+    "word": "website",
+    "phonetic0": "ˈwebsaɪt",
+    "phonetic1": "ˈwebsaɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the website for details.",
+        "cn": "详情请查看网站。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "official website",
+        "cn": "官网"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130040,
+    "word": "wireless",
+    "phonetic0": "ˈwaɪələs",
+    "phonetic1": "ˈwaɪərləs",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "无线的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I use wireless earphones.",
+        "cn": "我用无线耳机。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wireless network",
+        "cn": "无线网络"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130041,
+    "word": "delete",
+    "phonetic0": "dɪˈliːt",
+    "phonetic1": "dɪˈliːt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "删除"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I accidentally deleted the message.",
+        "cn": "我不小心删了那条消息。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "delete a file",
+        "cn": "删除文件"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130042,
+    "word": "download",
+    "phonetic0": "ˌdaʊnˈləʊd",
+    "phonetic1": "ˈdaʊnloʊd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "下载"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Download the app first.",
+        "cn": "先下载这个应用。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "free download",
+        "cn": "免费下载"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130043,
+    "word": "sim",
+    "phonetic0": "sɪm",
+    "phonetic1": "sɪm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "SIM卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a local SIM card.",
+        "cn": "我需要一张本地电话卡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "SIM card",
+        "cn": "电话卡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130044,
     "word": "screenshot",
     "phonetic0": "ˈskriːnʃɒt",
     "phonetic1": "ˈskriːnʃɑːt",
@@ -804,26 +1352,26 @@
     "etymology": []
   },
   {
-    "id": 1130027,
-    "word": "voice",
-    "phonetic0": "vɔɪs",
-    "phonetic1": "vɔɪs",
+    "id": 1130045,
+    "word": "username",
+    "phonetic0": "ˈjuːzəneɪm",
+    "phonetic1": "ˈjuːzərneɪm",
     "trans": [
       {
         "pos": "n.",
-        "cn": "声音；语音"
+        "cn": "用户名"
       }
     ],
     "sentences": [
       {
-        "c": "I'll send you a voice message.",
-        "cn": "我给你发条语音。"
+        "c": "Enter your username and password.",
+        "cn": "输入用户名和密码。"
       }
     ],
     "phrases": [
       {
-        "c": "voice message",
-        "cn": "语音消息"
+        "c": "choose a username",
+        "cn": "取用户名"
       }
     ],
     "synos": [],
@@ -834,26 +1382,26 @@
     "etymology": []
   },
   {
-    "id": 1130028,
-    "word": "video",
-    "phonetic0": "ˈvɪdiəʊ",
-    "phonetic1": "ˈvɪdioʊ",
+    "id": 1130046,
+    "word": "earphones",
+    "phonetic0": "ˈɪəfəʊnz",
+    "phonetic1": "ˈɪrfoʊnz",
     "trans": [
       {
         "pos": "n.",
-        "cn": "视频"
+        "cn": "耳机"
       }
     ],
     "sentences": [
       {
-        "c": "Let's have a video call.",
-        "cn": "我们视频通话吧。"
+        "c": "I forgot my earphones.",
+        "cn": "我忘带耳机了。"
       }
     ],
     "phrases": [
       {
-        "c": "video call",
-        "cn": "视频通话"
+        "c": "wireless earphones",
+        "cn": "无线耳机"
       }
     ],
     "synos": [],
@@ -864,26 +1412,26 @@
     "etymology": []
   },
   {
-    "id": 1130029,
-    "word": "busy",
-    "phonetic0": "ˈbɪzi",
-    "phonetic1": "ˈbɪzi",
+    "id": 1130047,
+    "word": "password",
+    "phonetic0": "ˈpɑːswɜːd",
+    "phonetic1": "ˈpæswɜːrd",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "忙的；占线的"
+        "pos": "n.",
+        "cn": "密码"
       }
     ],
     "sentences": [
       {
-        "c": "The line is busy.",
-        "cn": "电话占线。"
+        "c": "I forgot my password.",
+        "cn": "我忘了密码。"
       }
     ],
     "phrases": [
       {
-        "c": "busy line",
-        "cn": "占线"
+        "c": "reset the password",
+        "cn": "重置密码"
       }
     ],
     "synos": [],
@@ -894,26 +1442,146 @@
     "etymology": []
   },
   {
-    "id": 1130030,
-    "word": "hang",
-    "phonetic0": "hæŋ",
-    "phonetic1": "hæŋ",
+    "id": 1130048,
+    "word": "notification",
+    "phonetic0": "ˌnəʊtɪfɪˈkeɪʃn",
+    "phonetic1": "ˌnoʊtɪfɪˈkeɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "通知"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Turn off the notifications.",
+        "cn": "把通知关掉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "push notification",
+        "cn": "推送通知"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130049,
+    "word": "mute",
+    "phonetic0": "mjuːt",
+    "phonetic1": "mjuːt",
     "trans": [
       {
         "pos": "v.",
-        "cn": "挂（hang up 挂电话）"
+        "cn": "静音"
       }
     ],
     "sentences": [
       {
-        "c": "Don't hang up!",
-        "cn": "别挂电话！"
+        "c": "I muted the group chat.",
+        "cn": "我把群聊设成免打扰了。"
       }
     ],
     "phrases": [
       {
-        "c": "hang up",
-        "cn": "挂断"
+        "c": "on mute",
+        "cn": "静音"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130050,
+    "word": "restart",
+    "phonetic0": "ˌriːˈstɑːt",
+    "phonetic1": "ˌriːˈstɑːrt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "重启"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Try restarting your phone.",
+        "cn": "试试重启手机。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "restart the phone",
+        "cn": "重启手机"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130051,
+    "word": "charger",
+    "phonetic0": "ˈtʃɑːdʒə",
+    "phonetic1": "ˈtʃɑːrdʒər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "充电器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have a phone charger?",
+        "cn": "你有手机充电器吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "phone charger",
+        "cn": "手机充电器"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1130052,
+    "word": "upload",
+    "phonetic0": "ˌʌpˈləʊd",
+    "phonetic1": "ˈʌploʊd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "上传"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll upload the photos tonight.",
+        "cn": "我今晚上传照片。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "upload a file",
+        "cn": "上传文件"
       }
     ],
     "synos": [],

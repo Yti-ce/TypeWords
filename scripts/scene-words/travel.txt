@@ -26,3 +26,23 @@ attraction | əˈtrækʃn | əˈtrækʃn | n.:景点 | What are the main attract
 crowded | ˈkraʊdɪd | ˈkraʊdɪd | adj.:拥挤的 | The market is very crowded. | 市场很拥挤。 | crowded place:拥挤的地方
 explore | ɪkˈsplɔː | ɪkˈsplɔːr | v.:探索 | Let's explore the city. | 我们去城市里逛逛吧。 | explore the area:探索周边
 abroad | əˈbrɔːd | əˈbrɔːd | adv.:在国外 | Have you ever been abroad? | 你出过国吗？ | go abroad:出国
+place | pleɪs | pleɪs | n.:地方 | This place is beautiful. | 这个地方很美。 | a nice place:好地方
+city | ˈsɪti | ˈsɪti | n.:城市 | I want to visit this city again. | 我想再来这个城市。 | city centre:市中心
+country | ˈkʌntri | ˈkʌntri | n.:国家 | How many countries have you been to? | 你去过几个国家？ | foreign country:外国
+map | mæp | mæp | n.:地图 | Can I have a city map? | 能给我一张城市地图吗？ | city map:城市地图
+hotel | həʊˈtel | hoʊˈtel | n.:酒店 | Our hotel is near the beach. | 我们的酒店在海滩附近。 | book a hotel:订酒店
+book | bʊk | bʊk | v.:预订 | I booked the tickets online. | 我在网上订了票。 | book tickets:订票
+plan | plæn | plæn | v.:计划; n.:计划 | We're planning a trip to Japan. | 我们在计划去日本旅行。 | travel plan:旅行计划
+season | ˈsiːzn | ˈsiːzn | n.:季节 | It's the busy season now. | 现在是旺季。 | peak season:旺季
+budget | ˈbʌdʒɪt | ˈbʌdʒɪt | n.:预算 | We're travelling on a budget. | 我们是穷游。 | on a budget:预算有限
+open | ˈəʊpən | ˈoʊpən | adj.:开放的 | Is the museum open today? | 博物馆今天开放吗？ | open daily:每天开放
+closed | kləʊzd | kloʊzd | adj.:关闭的 | The park is closed for repairs. | 公园维修中，暂停开放。 | closed today:今日闭馆
+lake | leɪk | leɪk | n.:湖 | We walked around the lake. | 我们绕着湖走了一圈。 | by the lake:在湖边
+river | ˈrɪvə | ˈrɪvər | n.:河 | Let's take a boat on the river. | 我们在河上坐船吧。 | river cruise:游船
+boat | bəʊt | boʊt | n.:船 | We took a boat to the island. | 我们坐船去了岛上。 | by boat:坐船
+palace | ˈpæləs | ˈpæləs | n.:宫殿 | The old palace is open to visitors. | 古老的宫殿对游客开放。 | royal palace:皇宫
+gallery | ˈɡæləri | ˈɡæləri | n.:美术馆 | The gallery has free entry on Sundays. | 美术馆周日免费参观。 | art gallery:美术馆
+camera | ˈkæmərə | ˈkæmərə | n.:相机 | Don't forget your camera. | 别忘了带相机。 | digital camera:数码相机
+passport | ˈpɑːspɔːt | ˈpæspɔːrt | n.:护照 | Keep your passport safe. | 保管好你的护照。 | passport photo:护照照片
+hostel | ˈhɒstl | ˈhɑːstl | n.:青年旅舍 | We stayed in a cheap hostel. | 我们住在一家便宜的青旅。 | youth hostel:青年旅舍
+adventure | ədˈventʃə | ədˈventʃər | n.:冒险 | This trip was a real adventure. | 这次旅行真是一场冒险。 | adventure trip:探险游

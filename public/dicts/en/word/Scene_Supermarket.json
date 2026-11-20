@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1230001,
+    "word": "can",
+    "phonetic0": "kæn",
+    "phonetic1": "kæn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "罐头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Get a can of tomatoes.",
+        "cn": "买一罐番茄罐头。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a can of",
+        "cn": "一罐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230002,
+    "word": "price",
+    "phonetic0": "praɪs",
+    "phonetic1": "praɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "价格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The price is per kilo.",
+        "cn": "价格按公斤算。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "price tag",
+        "cn": "价签"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230003,
+    "word": "food",
+    "phonetic0": "fuːd",
+    "phonetic1": "fuːd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "食物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to buy some food for the week.",
+        "cn": "我们需要买这周的食物。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fast food",
+        "cn": "快餐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230004,
+    "word": "oil",
+    "phonetic0": "ɔɪl",
+    "phonetic1": "ɔɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "食用油"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the cooking oil?",
+        "cn": "食用油在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "olive oil",
+        "cn": "橄榄油"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230005,
+    "word": "fish",
+    "phonetic0": "fɪʃ",
+    "phonetic1": "fɪʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鱼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this fish fresh?",
+        "cn": "这条鱼新鲜吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fresh fish",
+        "cn": "鲜鱼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230006,
+    "word": "drink",
+    "phonetic0": "drɪŋk",
+    "phonetic1": "drɪŋk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "饮料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The drinks are in aisle five.",
+        "cn": "饮料在五号通道。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "soft drink",
+        "cn": "软饮料"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230007,
+    "word": "egg",
+    "phonetic0": "eɡ",
+    "phonetic1": "eɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸡蛋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a dozen eggs.",
+        "cn": "我需要一打鸡蛋。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a dozen eggs",
+        "cn": "一打鸡蛋"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230008,
+    "word": "salt",
+    "phonetic0": "sɔːlt",
+    "phonetic1": "sɔːlt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "盐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need salt and pepper.",
+        "cn": "我们需要盐和胡椒。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "salt and pepper",
+        "cn": "盐和胡椒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230009,
+    "word": "bottle",
+    "phonetic0": "ˈbɒtl",
+    "phonetic1": "ˈbɑːtl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "瓶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Two bottles of water, please.",
+        "cn": "请来两瓶水。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a bottle of",
+        "cn": "一瓶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230010,
+    "word": "sugar",
+    "phonetic0": "ˈʃʊɡə",
+    "phonetic1": "ˈʃʊɡər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "糖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A bag of sugar, please.",
+        "cn": "请来一袋糖。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "brown sugar",
+        "cn": "红糖"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230011,
+    "word": "fruit",
+    "phonetic0": "fruːt",
+    "phonetic1": "fruːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fruit here is always fresh.",
+        "cn": "这里的水果总是很新鲜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fresh fruit",
+        "cn": "新鲜水果"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230012,
+    "word": "meat",
+    "phonetic0": "miːt",
+    "phonetic1": "miːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "肉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the meat section?",
+        "cn": "肉类区在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "red meat",
+        "cn": "红肉"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230013,
+    "word": "milk",
+    "phonetic0": "mɪlk",
+    "phonetic1": "mɪlk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "牛奶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're out of milk.",
+        "cn": "我们没牛奶了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a bottle of milk",
+        "cn": "一瓶牛奶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230014,
+    "word": "vegetable",
+    "phonetic0": "ˈvedʒtəbl",
+    "phonetic1": "ˈvedʒtəbl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蔬菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eat more vegetables.",
+        "cn": "多吃蔬菜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "green vegetables",
+        "cn": "绿叶菜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230015,
+    "word": "cheese",
+    "phonetic0": "tʃiːz",
+    "phonetic1": "tʃiːz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "奶酪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you sell cheese?",
+        "cn": "你们卖奶酪吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a slice of cheese",
+        "cn": "一片奶酪"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230016,
+    "word": "bread",
+    "phonetic0": "bred",
+    "phonetic1": "bred",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "面包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A loaf of bread, please.",
+        "cn": "请来一条面包。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a loaf of bread",
+        "cn": "一条面包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230017,
+    "word": "potato",
+    "phonetic0": "pəˈteɪtəʊ",
+    "phonetic1": "pəˈteɪtoʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "土豆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Get two kilos of potatoes.",
+        "cn": "买两公斤土豆。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mashed potato",
+        "cn": "土豆泥"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230018,
+    "word": "pack",
+    "phonetic0": "pæk",
+    "phonetic1": "pæk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "包，盒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A pack of noodles, please.",
+        "cn": "请来一包面。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a pack of",
+        "cn": "一包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230019,
+    "word": "tomato",
+    "phonetic0": "təˈmɑːtəʊ",
+    "phonetic1": "təˈmeɪtoʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "西红柿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll make tomato and egg soup.",
+        "cn": "我要做西红柿鸡蛋汤。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tomato sauce",
+        "cn": "番茄酱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230020,
+    "word": "butter",
+    "phonetic0": "ˈbʌtə",
+    "phonetic1": "ˈbʌtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "黄油"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need butter for the cake.",
+        "cn": "做蛋糕需要黄油。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bread and butter",
+        "cn": "黄油面包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230021,
+    "word": "apple",
+    "phonetic0": "ˈæpl",
+    "phonetic1": "ˈæpl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "苹果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These apples are very sweet.",
+        "cn": "这些苹果很甜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "an apple a day",
+        "cn": "一天一个苹果"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230022,
+    "word": "weigh",
+    "phonetic0": "weɪ",
+    "phonetic1": "weɪ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "称重"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Weigh the vegetables over there.",
+        "cn": "蔬菜在那边称重。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "weigh fruit",
+        "cn": "称水果"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230023,
+    "word": "onion",
+    "phonetic0": "ˈʌnjən",
+    "phonetic1": "ˈʌnjən",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "洋葱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't forget the onions.",
+        "cn": "别忘了洋葱。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "green onion",
+        "cn": "葱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230024,
+    "word": "tissue",
+    "phonetic0": "ˈtɪʃuː",
+    "phonetic1": "ˈtɪʃuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "纸巾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need a pack of tissues.",
+        "cn": "我们需要一包纸巾。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a box of tissues",
+        "cn": "一盒纸巾"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230025,
+    "word": "rice",
+    "phonetic0": "raɪs",
+    "phonetic1": "raɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大米"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Buy a bag of rice.",
+        "cn": "买一袋米。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a bag of rice",
+        "cn": "一袋米"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230026,
+    "word": "shelf",
+    "phonetic0": "ʃelf",
+    "phonetic1": "ʃelf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "货架"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's on the top shelf.",
+        "cn": "在最上层货架上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "top shelf",
+        "cn": "最上层"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230027,
+    "word": "organic",
+    "phonetic0": "ɔːˈɡænɪk",
+    "phonetic1": "ɔːrˈɡænɪk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有机的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are these vegetables organic?",
+        "cn": "这些蔬菜是有机的吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "organic food",
+        "cn": "有机食品"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230028,
+    "word": "orange",
+    "phonetic0": "ˈɒrɪndʒ",
+    "phonetic1": "ˈɔːrɪndʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "橙子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Oranges are on sale today.",
+        "cn": "今天橙子打折。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "orange juice",
+        "cn": "橙汁"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230029,
+    "word": "flour",
+    "phonetic0": "ˈflaʊə",
+    "phonetic1": "ˈflaʊər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "面粉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need flour to make dumplings.",
+        "cn": "我需要面粉包饺子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "plain flour",
+        "cn": "普通面粉"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230030,
+    "word": "frozen",
+    "phonetic0": "ˈfrəʊzn",
+    "phonetic1": "ˈfroʊzn",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "冷冻的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Frozen food is at the back.",
+        "cn": "冷冻食品在后面。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "frozen food",
+        "cn": "冷冻食品"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230031,
+    "word": "aisle",
+    "phonetic0": "aɪl",
+    "phonetic1": "aɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（货架间的）通道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which aisle is the rice in?",
+        "cn": "大米在哪个通道？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "aisle 3",
+        "cn": "3号通道"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230032,
+    "word": "carrot",
+    "phonetic0": "ˈkærət",
+    "phonetic1": "ˈkærət",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "胡萝卜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Carrots are good for your eyes.",
+        "cn": "胡萝卜对眼睛好。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "carrot cake",
+        "cn": "胡萝卜蛋糕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230033,
+    "word": "banana",
+    "phonetic0": "bəˈnɑːnə",
+    "phonetic1": "bəˈnænə",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "香蕉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much are the bananas?",
+        "cn": "香蕉多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a bunch of bananas",
+        "cn": "一串香蕉"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230034,
+    "word": "grape",
+    "phonetic0": "ɡreɪp",
+    "phonetic1": "ɡreɪp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "葡萄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These grapes have no seeds.",
+        "cn": "这些葡萄没籽。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a bunch of grapes",
+        "cn": "一串葡萄"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230035,
+    "word": "snack",
+    "phonetic0": "snæk",
+    "phonetic1": "snæk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "零食"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's buy some snacks for the trip.",
+        "cn": "我们买点零食路上吃吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "snack food",
+        "cn": "零食"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230036,
+    "word": "tofu",
+    "phonetic0": "ˈtəʊfuː",
+    "phonetic1": "ˈtoʊfuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "豆腐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have fresh tofu?",
+        "cn": "有新鲜豆腐吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fried tofu",
+        "cn": "油豆腐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230037,
+    "word": "watermelon",
+    "phonetic0": "ˈwɔːtəmelən",
+    "phonetic1": "ˈwɔːtərmelən",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "西瓜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this watermelon sweet?",
+        "cn": "这个西瓜甜吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "slice of watermelon",
+        "cn": "一片西瓜"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230038,
+    "word": "kilo",
+    "phonetic0": "ˈkiːləʊ",
+    "phonetic1": "ˈkiːloʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "公斤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Half a kilo of beef, please.",
+        "cn": "请来半公斤牛肉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "per kilo",
+        "cn": "每公斤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230039,
+    "word": "yoghurt",
+    "phonetic0": "ˈjɒɡət",
+    "phonetic1": "ˈjoʊɡərt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "酸奶（美式 yogurt）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I eat yoghurt for breakfast.",
+        "cn": "我早餐吃酸奶。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "plain yoghurt",
+        "cn": "原味酸奶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1230040,
+    "word": "expiry",
+    "phonetic0": "ɪkˈspaɪəri",
+    "phonetic1": "ɪkˈspaɪəri",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "到期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the expiry date.",
+        "cn": "看一下保质期。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "expiry date",
+        "cn": "到期日"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

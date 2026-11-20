@@ -27,3 +27,19 @@ lost | lɒst | lɔːst | adj.:丢失的 | I think my parcel got lost. | 我的�
 damaged | ˈdæmɪdʒd | ˈdæmɪdʒd | adj.:损坏的 | The box arrived damaged. | 箱子到的时候已经坏了。 | damaged goods:损坏的货物
 return | rɪˈtɜːn | rɪˈtɜːrn | v.:退回 | I want to return this item. | 我想退回这件商品。 | return label:退货标签
 shipping | ˈʃɪpɪŋ | ˈʃɪpɪŋ | n.:运输，运费 | How much is shipping? | 运费多少？ | free shipping:包邮
+order | ˈɔːdə | ˈɔːrdər | n.:订单; v.:订购 | My order hasn't arrived yet. | 我的订单还没到。 | order number:订单号
+number | ˈnʌmbə | ˈnʌmbər | n.:号码 | Can I have the order number? | 能告诉我订单号吗？ | phone number:电话号码
+name | neɪm | neɪm | n.:姓名 | Write the name on the parcel. | 在包裹上写上名字。 | full name:全名
+home | həʊm | hoʊm | n.:家 | I won't be at home tomorrow. | 我明天不在家。 | at home:在家
+door | dɔː | dɔːr | n.:门 | Please leave it at the door. | 请放在门口。 | at the door:在门口
+weight | weɪt | weɪt | n.:重量 | What's the weight of the parcel? | 包裹多重？ | weight limit:重量限制
+heavy | ˈhevi | ˈhevi | adj.:重的 | This box is very heavy. | 这个箱子很重。 | too heavy:太重
+fee | fiː | fiː | n.:费用 | Is there a delivery fee? | 有配送费吗？ | delivery fee:配送费
+international | ˌɪntəˈnæʃnəl | ˌɪntərˈnæʃnəl | adj.:国际的 | How much is international shipping? | 国际运费多少？ | international mail:国际邮件
+tape | teɪp | teɪp | n.:胶带 | I need some tape to close the box. | 我需要胶带封箱。 | sticky tape:胶带
+label | ˈleɪbl | ˈleɪbl | n.:标签 | Print the shipping label. | 打印运单。 | address label:地址标签
+locker | ˈlɒkə | ˈlɑːkər | n.:储物柜，快递柜 | Your parcel is in the locker. | 你的包裹在快递柜里。 | parcel locker:快递柜
+code | kəʊd | koʊd | n.:取件码 | Enter the code to open the locker. | 输入取件码打开柜子。 | pick-up code:取件码
+status | ˈsteɪtəs | ˈsteɪtəs | n.:状态 | Check the delivery status online. | 在网上查看配送状态。 | order status:订单状态
+wrong | rɒŋ | rɔːŋ | adj.:错误的 | I received the wrong item. | 我收到的东西不对。 | wrong address:地址错误
+missing | ˈmɪsɪŋ | ˈmɪsɪŋ | adj.:缺少的 | One item is missing from my order. | 我的订单少了一件。 | missing item:缺件

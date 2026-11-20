@@ -1,25 +1,25 @@
 [
   {
     "id": 1080001,
-    "word": "flight",
-    "phonetic0": "flaɪt",
-    "phonetic1": "flaɪt",
+    "word": "time",
+    "phonetic0": "taɪm",
+    "phonetic1": "taɪm",
     "trans": [
       {
         "pos": "n.",
-        "cn": "航班"
+        "cn": "时间"
       }
     ],
     "sentences": [
       {
-        "c": "My flight leaves at ten.",
-        "cn": "我的航班十点起飞。"
+        "c": "What time does the flight leave?",
+        "cn": "航班几点起飞？"
       }
     ],
     "phrases": [
       {
-        "c": "book a flight",
-        "cn": "订机票"
+        "c": "on time",
+        "cn": "准时"
       }
     ],
     "synos": [],
@@ -31,25 +31,25 @@
   },
   {
     "id": 1080002,
-    "word": "airport",
-    "phonetic0": "ˈeəpɔːt",
-    "phonetic1": "ˈerpɔːrt",
+    "word": "business",
+    "phonetic0": "ˈbɪznəs",
+    "phonetic1": "ˈbɪznəs",
     "trans": [
       {
         "pos": "n.",
-        "cn": "机场"
+        "cn": "商务"
       }
     ],
     "sentences": [
       {
-        "c": "How do I get to the airport?",
-        "cn": "怎么去机场？"
+        "c": "I'm here on business.",
+        "cn": "我是来出差的。"
       }
     ],
     "phrases": [
       {
-        "c": "at the airport",
-        "cn": "在机场"
+        "c": "on business",
+        "cn": "出差"
       }
     ],
     "synos": [],
@@ -61,25 +61,25 @@
   },
   {
     "id": 1080003,
-    "word": "passport",
-    "phonetic0": "ˈpɑːspɔːt",
-    "phonetic1": "ˈpæspɔːrt",
+    "word": "late",
+    "phonetic0": "leɪt",
+    "phonetic1": "leɪt",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "护照"
+        "pos": "adj.",
+        "cn": "晚的，迟的"
       }
     ],
     "sentences": [
       {
-        "c": "Don't forget your passport.",
-        "cn": "别忘了带护照。"
+        "c": "Sorry, we're running late.",
+        "cn": "抱歉，我们要晚了。"
       }
     ],
     "phrases": [
       {
-        "c": "passport control",
-        "cn": "护照检查"
+        "c": "be late",
+        "cn": "迟到"
       }
     ],
     "synos": [],
@@ -91,25 +91,25 @@
   },
   {
     "id": 1080004,
-    "word": "ticket",
-    "phonetic0": "ˈtɪkɪt",
-    "phonetic1": "ˈtɪkɪt",
+    "word": "international",
+    "phonetic0": "ˌɪntəˈnæʃnəl",
+    "phonetic1": "ˌɪntərˈnæʃnəl",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "票，机票"
+        "pos": "adj.",
+        "cn": "国际的"
       }
     ],
     "sentences": [
       {
-        "c": "Can I see your ticket, please?",
-        "cn": "请出示您的机票。"
+        "c": "Where are international departures?",
+        "cn": "国际出发在哪里？"
       }
     ],
     "phrases": [
       {
-        "c": "plane ticket",
-        "cn": "机票"
+        "c": "international flight",
+        "cn": "国际航班"
       }
     ],
     "synos": [],
@@ -121,25 +121,25 @@
   },
   {
     "id": 1080005,
-    "word": "luggage",
-    "phonetic0": "ˈlʌɡɪdʒ",
-    "phonetic1": "ˈlʌɡɪdʒ",
+    "word": "window",
+    "phonetic0": "ˈwɪndəʊ",
+    "phonetic1": "ˈwɪndoʊ",
     "trans": [
       {
         "pos": "n.",
-        "cn": "行李"
+        "cn": "窗户"
       }
     ],
     "sentences": [
       {
-        "c": "How much luggage can I take?",
-        "cn": "我能带多少行李？"
+        "c": "I'd like a seat by the window.",
+        "cn": "我想坐靠窗的位子。"
       }
     ],
     "phrases": [
       {
-        "c": "hand luggage",
-        "cn": "手提行李"
+        "c": "window seat",
+        "cn": "靠窗座位"
       }
     ],
     "synos": [],
@@ -151,25 +151,29 @@
   },
   {
     "id": 1080006,
-    "word": "check",
-    "phonetic0": "tʃek",
-    "phonetic1": "tʃek",
+    "word": "claim",
+    "phonetic0": "kleɪm",
+    "phonetic1": "kleɪm",
     "trans": [
       {
         "pos": "v.",
-        "cn": "检查；办理"
+        "cn": "领取"
+      },
+      {
+        "pos": "n.",
+        "cn": "索赔"
       }
     ],
     "sentences": [
       {
-        "c": "Where do I check in?",
-        "cn": "我在哪里办理登机？"
+        "c": "Where can I claim my luggage?",
+        "cn": "我在哪里取行李？"
       }
     ],
     "phrases": [
       {
-        "c": "check in",
-        "cn": "办理登机；入住"
+        "c": "baggage claim",
+        "cn": "行李提取处"
       }
     ],
     "synos": [],
@@ -181,66 +185,6 @@
   },
   {
     "id": 1080007,
-    "word": "gate",
-    "phonetic0": "ɡeɪt",
-    "phonetic1": "ɡeɪt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "登机口"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Please go to gate twelve.",
-        "cn": "请前往12号登机口。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "boarding gate",
-        "cn": "登机口"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080008,
-    "word": "boarding",
-    "phonetic0": "ˈbɔːdɪŋ",
-    "phonetic1": "ˈbɔːrdɪŋ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "登机"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Here is your boarding pass.",
-        "cn": "这是您的登机牌。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "boarding pass",
-        "cn": "登机牌"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080009,
     "word": "board",
     "phonetic0": "bɔːd",
     "phonetic1": "bɔːrd",
@@ -270,7 +214,607 @@
     "etymology": []
   },
   {
+    "id": 1080008,
+    "word": "security",
+    "phonetic0": "sɪˈkjʊərəti",
+    "phonetic1": "səˈkjʊrəti",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "安检；安全"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to go through security.",
+        "cn": "我们要过安检。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "security check",
+        "cn": "安检"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080009,
+    "word": "purpose",
+    "phonetic0": "ˈpɜːpəs",
+    "phonetic1": "ˈpɜːrpəs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "目的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the purpose of your visit?",
+        "cn": "您此行的目的是什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "purpose of visit",
+        "cn": "来访目的"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
     "id": 1080010,
+    "word": "miss",
+    "phonetic0": "mɪs",
+    "phonetic1": "mɪs",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "错过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hurry, or we'll miss the flight!",
+        "cn": "快点，不然要误机了！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "miss the flight",
+        "cn": "误机"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080011,
+    "word": "check",
+    "phonetic0": "tʃek",
+    "phonetic1": "tʃek",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "检查；办理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where do I check in?",
+        "cn": "我在哪里办理登机？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "check in",
+        "cn": "办理登机；入住"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080012,
+    "word": "seat",
+    "phonetic0": "siːt",
+    "phonetic1": "siːt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "座位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like a window seat.",
+        "cn": "我想要靠窗的座位。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "window seat",
+        "cn": "靠窗座位"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080013,
+    "word": "weight",
+    "phonetic0": "weɪt",
+    "phonetic1": "weɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "重量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the weight limit?",
+        "cn": "重量限制是多少？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "weight limit",
+        "cn": "重量限制"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080014,
+    "word": "bag",
+    "phonetic0": "bæɡ",
+    "phonetic1": "bæɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this your bag?",
+        "cn": "这是你的包吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "carry-on bag",
+        "cn": "随身包"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080015,
+    "word": "plane",
+    "phonetic0": "pleɪn",
+    "phonetic1": "pleɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "飞机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The plane is about to take off.",
+        "cn": "飞机马上要起飞了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by plane",
+        "cn": "坐飞机"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080016,
+    "word": "flight",
+    "phonetic0": "flaɪt",
+    "phonetic1": "flaɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "航班"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My flight leaves at ten.",
+        "cn": "我的航班十点起飞。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "book a flight",
+        "cn": "订机票"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080017,
+    "word": "domestic",
+    "phonetic0": "dəˈmestɪk",
+    "phonetic1": "dəˈmestɪk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "国内的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Domestic flights leave from Terminal 1.",
+        "cn": "国内航班从1号航站楼出发。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "domestic flight",
+        "cn": "国内航班"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080018,
+    "word": "declare",
+    "phonetic0": "dɪˈkleə",
+    "phonetic1": "dɪˈkler",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "申报"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have nothing to declare.",
+        "cn": "我没有要申报的东西。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "declare goods",
+        "cn": "申报物品"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080019,
+    "word": "ticket",
+    "phonetic0": "ˈtɪkɪt",
+    "phonetic1": "ˈtɪkɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "票，机票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I see your ticket, please?",
+        "cn": "请出示您的机票。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "plane ticket",
+        "cn": "机票"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080020,
+    "word": "desk",
+    "phonetic0": "desk",
+    "phonetic1": "desk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "柜台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please go to the check-in desk.",
+        "cn": "请去值机柜台。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "information desk",
+        "cn": "问询处"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080021,
+    "word": "crew",
+    "phonetic0": "kruː",
+    "phonetic1": "kruː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "机组人员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The crew will serve drinks soon.",
+        "cn": "乘务员马上会提供饮品。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cabin crew",
+        "cn": "乘务员"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080022,
+    "word": "gate",
+    "phonetic0": "ɡeɪt",
+    "phonetic1": "ɡeɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "登机口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please go to gate twelve.",
+        "cn": "请前往12号登机口。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "boarding gate",
+        "cn": "登机口"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080023,
+    "word": "airport",
+    "phonetic0": "ˈeəpɔːt",
+    "phonetic1": "ˈerpɔːrt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "机场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do I get to the airport?",
+        "cn": "怎么去机场？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at the airport",
+        "cn": "在机场"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080024,
+    "word": "pilot",
+    "phonetic0": "ˈpaɪlət",
+    "phonetic1": "ˈpaɪlət",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "飞行员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The pilot says we'll land soon.",
+        "cn": "机长说我们快降落了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "airline pilot",
+        "cn": "民航飞行员"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080025,
+    "word": "arrival",
+    "phonetic0": "əˈraɪvl",
+    "phonetic1": "əˈraɪvl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "到达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The arrival hall is downstairs.",
+        "cn": "到达大厅在楼下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "arrival time",
+        "cn": "到达时间"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080026,
+    "word": "customs",
+    "phonetic0": "ˈkʌstəmz",
+    "phonetic1": "ˈkʌstəmz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海关"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have anything to declare at customs?",
+        "cn": "您有需要向海关申报的东西吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go through customs",
+        "cn": "过海关"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080027,
+    "word": "immigration",
+    "phonetic0": "ˌɪmɪˈɡreɪʃn",
+    "phonetic1": "ˌɪmɪˈɡreɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "入境检查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Go to immigration first.",
+        "cn": "先去入境检查。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "immigration form",
+        "cn": "入境卡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080028,
     "word": "delay",
     "phonetic0": "dɪˈleɪ",
     "phonetic1": "dɪˈleɪ",
@@ -304,26 +848,26 @@
     "etymology": []
   },
   {
-    "id": 1080011,
-    "word": "cancel",
-    "phonetic0": "ˈkænsl",
-    "phonetic1": "ˈkænsl",
+    "id": 1080029,
+    "word": "announcement",
+    "phonetic0": "əˈnaʊnsmənt",
+    "phonetic1": "əˈnaʊnsmənt",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "取消"
+        "pos": "n.",
+        "cn": "广播通知"
       }
     ],
     "sentences": [
       {
-        "c": "My flight was cancelled.",
-        "cn": "我的航班被取消了。"
+        "c": "Listen to the announcement.",
+        "cn": "听一下广播。"
       }
     ],
     "phrases": [
       {
-        "c": "cancel a flight",
-        "cn": "取消航班"
+        "c": "gate announcement",
+        "cn": "登机口广播"
       }
     ],
     "synos": [],
@@ -334,7 +878,7 @@
     "etymology": []
   },
   {
-    "id": 1080012,
+    "id": 1080030,
     "word": "departure",
     "phonetic0": "dɪˈpɑːtʃə",
     "phonetic1": "dɪˈpɑːrtʃər",
@@ -364,26 +908,26 @@
     "etymology": []
   },
   {
-    "id": 1080013,
-    "word": "arrival",
-    "phonetic0": "əˈraɪvl",
-    "phonetic1": "əˈraɪvl",
+    "id": 1080031,
+    "word": "jet",
+    "phonetic0": "dʒet",
+    "phonetic1": "dʒet",
     "trans": [
       {
         "pos": "n.",
-        "cn": "到达"
+        "cn": "喷气式飞机"
       }
     ],
     "sentences": [
       {
-        "c": "The arrival hall is downstairs.",
-        "cn": "到达大厅在楼下。"
+        "c": "I still have jet lag.",
+        "cn": "我还在倒时差。"
       }
     ],
     "phrases": [
       {
-        "c": "arrival time",
-        "cn": "到达时间"
+        "c": "jet lag",
+        "cn": "时差反应"
       }
     ],
     "synos": [],
@@ -394,7 +938,67 @@
     "etymology": []
   },
   {
-    "id": 1080014,
+    "id": 1080032,
+    "word": "cancel",
+    "phonetic0": "ˈkænsl",
+    "phonetic1": "ˈkænsl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "取消"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My flight was cancelled.",
+        "cn": "我的航班被取消了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cancel a flight",
+        "cn": "取消航班"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080033,
+    "word": "landing",
+    "phonetic0": "ˈlændɪŋ",
+    "phonetic1": "ˈlændɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "着陆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We'll be landing in twenty minutes.",
+        "cn": "我们将在二十分钟后降落。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "landing time",
+        "cn": "降落时间"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080034,
     "word": "terminal",
     "phonetic0": "ˈtɜːmɪnl",
     "phonetic1": "ˈtɜːrmɪnl",
@@ -424,367 +1028,7 @@
     "etymology": []
   },
   {
-    "id": 1080015,
-    "word": "suitcase",
-    "phonetic0": "ˈsuːtkeɪs",
-    "phonetic1": "ˈsuːtkeɪs",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "行李箱"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "My suitcase is too heavy.",
-        "cn": "我的行李箱太重了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "pack a suitcase",
-        "cn": "收拾行李箱"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080016,
-    "word": "baggage",
-    "phonetic0": "ˈbæɡɪdʒ",
-    "phonetic1": "ˈbæɡɪdʒ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "行李"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Where is baggage claim?",
-        "cn": "行李提取处在哪里？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "baggage claim",
-        "cn": "行李提取处"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080017,
-    "word": "weight",
-    "phonetic0": "weɪt",
-    "phonetic1": "weɪt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "重量"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "What's the weight limit?",
-        "cn": "重量限制是多少？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "weight limit",
-        "cn": "重量限制"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080018,
-    "word": "seat",
-    "phonetic0": "siːt",
-    "phonetic1": "siːt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "座位"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I'd like a window seat.",
-        "cn": "我想要靠窗的座位。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "window seat",
-        "cn": "靠窗座位"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080019,
-    "word": "aisle",
-    "phonetic0": "aɪl",
-    "phonetic1": "aɪl",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "过道"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can I have an aisle seat?",
-        "cn": "我可以要靠过道的座位吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "aisle seat",
-        "cn": "过道座位"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080020,
-    "word": "security",
-    "phonetic0": "sɪˈkjʊərəti",
-    "phonetic1": "səˈkjʊrəti",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "安检；安全"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We need to go through security.",
-        "cn": "我们要过安检。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "security check",
-        "cn": "安检"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080021,
-    "word": "customs",
-    "phonetic0": "ˈkʌstəmz",
-    "phonetic1": "ˈkʌstəmz",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "海关"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Do you have anything to declare at customs?",
-        "cn": "您有需要向海关申报的东西吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "go through customs",
-        "cn": "过海关"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080022,
-    "word": "declare",
-    "phonetic0": "dɪˈkleə",
-    "phonetic1": "dɪˈkler",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "申报"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I have nothing to declare.",
-        "cn": "我没有要申报的东西。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "declare goods",
-        "cn": "申报物品"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080023,
-    "word": "visa",
-    "phonetic0": "ˈviːzə",
-    "phonetic1": "ˈviːzə",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "签证"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Do I need a visa?",
-        "cn": "我需要签证吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "apply for a visa",
-        "cn": "申请签证"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080024,
-    "word": "transit",
-    "phonetic0": "ˈtrænzɪt",
-    "phonetic1": "ˈtrænzɪt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "中转"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I have a transit in Singapore.",
-        "cn": "我在新加坡中转。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "in transit",
-        "cn": "中转"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080025,
-    "word": "connecting",
-    "phonetic0": "kəˈnektɪŋ",
-    "phonetic1": "kəˈnektɪŋ",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "转机的"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I might miss my connecting flight.",
-        "cn": "我可能赶不上转机航班了。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "connecting flight",
-        "cn": "转机航班"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080026,
-    "word": "miss",
-    "phonetic0": "mɪs",
-    "phonetic1": "mɪs",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "错过"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Hurry, or we'll miss the flight!",
-        "cn": "快点，不然要误机了！"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "miss the flight",
-        "cn": "误机"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080027,
+    "id": 1080035,
     "word": "liquid",
     "phonetic0": "ˈlɪkwɪd",
     "phonetic1": "ˈlɪkwɪd",
@@ -814,7 +1058,187 @@
     "etymology": []
   },
   {
-    "id": 1080028,
+    "id": 1080036,
+    "word": "aisle",
+    "phonetic0": "aɪl",
+    "phonetic1": "aɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "过道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have an aisle seat?",
+        "cn": "我可以要靠过道的座位吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "aisle seat",
+        "cn": "过道座位"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080037,
+    "word": "transit",
+    "phonetic0": "ˈtrænzɪt",
+    "phonetic1": "ˈtrænzɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "中转"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a transit in Singapore.",
+        "cn": "我在新加坡中转。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in transit",
+        "cn": "中转"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080038,
+    "word": "passport",
+    "phonetic0": "ˈpɑːspɔːt",
+    "phonetic1": "ˈpæspɔːrt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "护照"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't forget your passport.",
+        "cn": "别忘了带护照。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "passport control",
+        "cn": "护照检查"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080039,
+    "word": "visa",
+    "phonetic0": "ˈviːzə",
+    "phonetic1": "ˈviːzə",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "签证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do I need a visa?",
+        "cn": "我需要签证吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "apply for a visa",
+        "cn": "申请签证"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080040,
+    "word": "suitcase",
+    "phonetic0": "ˈsuːtkeɪs",
+    "phonetic1": "ˈsuːtkeɪs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "行李箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My suitcase is too heavy.",
+        "cn": "我的行李箱太重了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pack a suitcase",
+        "cn": "收拾行李箱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080041,
+    "word": "trolley",
+    "phonetic0": "ˈtrɒli",
+    "phonetic1": "ˈtrɑːli",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "行李推车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's get a luggage trolley.",
+        "cn": "我们拿个行李推车吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "luggage trolley",
+        "cn": "行李推车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080042,
     "word": "overweight",
     "phonetic0": "ˌəʊvəˈweɪt",
     "phonetic1": "ˌoʊvərˈweɪt",
@@ -844,7 +1268,157 @@
     "etymology": []
   },
   {
-    "id": 1080029,
+    "id": 1080043,
+    "word": "luggage",
+    "phonetic0": "ˈlʌɡɪdʒ",
+    "phonetic1": "ˈlʌɡɪdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "行李"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much luggage can I take?",
+        "cn": "我能带多少行李？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hand luggage",
+        "cn": "手提行李"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080044,
+    "word": "baggage",
+    "phonetic0": "ˈbæɡɪdʒ",
+    "phonetic1": "ˈbæɡɪdʒ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "行李"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is baggage claim?",
+        "cn": "行李提取处在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "baggage claim",
+        "cn": "行李提取处"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080045,
+    "word": "boarding",
+    "phonetic0": "ˈbɔːdɪŋ",
+    "phonetic1": "ˈbɔːrdɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "登机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Here is your boarding pass.",
+        "cn": "这是您的登机牌。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "boarding pass",
+        "cn": "登机牌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080046,
+    "word": "takeoff",
+    "phonetic0": "ˈteɪkɒf",
+    "phonetic1": "ˈteɪkɔːf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "起飞"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please turn off your phone before takeoff.",
+        "cn": "起飞前请关闭手机。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "during takeoff",
+        "cn": "起飞时"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080047,
+    "word": "connecting",
+    "phonetic0": "kəˈnektɪŋ",
+    "phonetic1": "kəˈnektɪŋ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "转机的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I might miss my connecting flight.",
+        "cn": "我可能赶不上转机航班了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "connecting flight",
+        "cn": "转机航班"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1080048,
     "word": "seatbelt",
     "phonetic0": "ˈsiːtbelt",
     "phonetic1": "ˈsiːtbelt",
@@ -864,36 +1438,6 @@
       {
         "c": "fasten your seatbelt",
         "cn": "系好安全带"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1080030,
-    "word": "landing",
-    "phonetic0": "ˈlændɪŋ",
-    "phonetic1": "ˈlændɪŋ",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "着陆"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We'll be landing in twenty minutes.",
-        "cn": "我们将在二十分钟后降落。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "landing time",
-        "cn": "降落时间"
       }
     ],
     "synos": [],

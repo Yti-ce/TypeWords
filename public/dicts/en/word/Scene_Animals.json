@@ -1,0 +1,932 @@
+[
+  {
+    "id": 1320001,
+    "word": "animal",
+    "phonetic0": "ˈænɪml",
+    "phonetic1": "ˈænɪml",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "动物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your favourite animal?",
+        "cn": "你最喜欢什么动物？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wild animal",
+        "cn": "野生动物"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320002,
+    "word": "dog",
+    "phonetic0": "dɒɡ",
+    "phonetic1": "dɔːɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "狗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I walk my dog every morning.",
+        "cn": "我每天早上遛狗。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "walk the dog",
+        "cn": "遛狗"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320003,
+    "word": "horse",
+    "phonetic0": "hɔːs",
+    "phonetic1": "hɔːrs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "马"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have you ever ridden a horse?",
+        "cn": "你骑过马吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ride a horse",
+        "cn": "骑马"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320004,
+    "word": "fish",
+    "phonetic0": "fɪʃ",
+    "phonetic1": "fɪʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鱼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have two fish in a tank.",
+        "cn": "我们在鱼缸里养了两条鱼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fish tank",
+        "cn": "鱼缸"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320005,
+    "word": "bear",
+    "phonetic0": "beə",
+    "phonetic1": "ber",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "熊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We saw a bear at the zoo.",
+        "cn": "我们在动物园看到了熊。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "polar bear",
+        "cn": "北极熊"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320006,
+    "word": "bird",
+    "phonetic0": "bɜːd",
+    "phonetic1": "bɜːrd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can hear the birds singing.",
+        "cn": "我能听到鸟叫。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bird's nest",
+        "cn": "鸟巢"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320007,
+    "word": "feed",
+    "phonetic0": "fiːd",
+    "phonetic1": "fiːd",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "喂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't forget to feed the cat.",
+        "cn": "别忘了喂猫。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feed the dog",
+        "cn": "喂狗"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320008,
+    "word": "chicken",
+    "phonetic0": "ˈtʃɪkɪn",
+    "phonetic1": "ˈtʃɪkɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The chickens lay eggs every day.",
+        "cn": "鸡每天下蛋。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "chicken farm",
+        "cn": "养鸡场"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320009,
+    "word": "cat",
+    "phonetic0": "kæt",
+    "phonetic1": "kæt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "猫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My cat sleeps all day.",
+        "cn": "我的猫整天睡觉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pet cat",
+        "cn": "宠物猫"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320010,
+    "word": "tail",
+    "phonetic0": "teɪl",
+    "phonetic1": "teɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "尾巴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The dog is wagging its tail.",
+        "cn": "狗在摇尾巴。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wag its tail",
+        "cn": "摇尾巴"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320011,
+    "word": "sheep",
+    "phonetic0": "ʃiːp",
+    "phonetic1": "ʃiːp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "绵羊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sheep are on the hill.",
+        "cn": "羊在山坡上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a flock of sheep",
+        "cn": "一群羊"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320012,
+    "word": "mouse",
+    "phonetic0": "maʊs",
+    "phonetic1": "maʊs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "老鼠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's a mouse in the kitchen!",
+        "cn": "厨房里有只老鼠！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mice",
+        "cn": "老鼠（复数）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320013,
+    "word": "cow",
+    "phonetic0": "kaʊ",
+    "phonetic1": "kaʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "奶牛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cows give us milk.",
+        "cn": "奶牛给我们提供牛奶。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dairy cow",
+        "cn": "奶牛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320014,
+    "word": "pig",
+    "phonetic0": "pɪɡ",
+    "phonetic1": "pɪɡ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "猪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The farm has ten pigs.",
+        "cn": "农场有十头猪。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "guinea pig",
+        "cn": "豚鼠"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320015,
+    "word": "rabbit",
+    "phonetic0": "ˈræbɪt",
+    "phonetic1": "ˈræbɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "兔子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The rabbit is eating a carrot.",
+        "cn": "兔子在吃胡萝卜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "white rabbit",
+        "cn": "小白兔"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320016,
+    "word": "bite",
+    "phonetic0": "baɪt",
+    "phonetic1": "baɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "咬"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Does your dog bite?",
+        "cn": "你的狗咬人吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dog bite",
+        "cn": "狗咬伤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320017,
+    "word": "pet",
+    "phonetic0": "pet",
+    "phonetic1": "pet",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "宠物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have any pets?",
+        "cn": "你养宠物吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pet shop",
+        "cn": "宠物店"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320018,
+    "word": "lion",
+    "phonetic0": "ˈlaɪən",
+    "phonetic1": "ˈlaɪən",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "狮子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The lion is the king of animals.",
+        "cn": "狮子是百兽之王。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lion king",
+        "cn": "狮子王"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320019,
+    "word": "insect",
+    "phonetic0": "ˈɪnsekt",
+    "phonetic1": "ˈɪnsekt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "昆虫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There are lots of insects in summer.",
+        "cn": "夏天虫子很多。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "insect bite",
+        "cn": "虫咬"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320020,
+    "word": "snake",
+    "phonetic0": "sneɪk",
+    "phonetic1": "sneɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蛇"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm afraid of snakes.",
+        "cn": "我怕蛇。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "poisonous snake",
+        "cn": "毒蛇"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320021,
+    "word": "duck",
+    "phonetic0": "dʌk",
+    "phonetic1": "dʌk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸭子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's feed the ducks.",
+        "cn": "我们去喂鸭子吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "roast duck",
+        "cn": "烤鸭"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320022,
+    "word": "wolf",
+    "phonetic0": "wʊlf",
+    "phonetic1": "wʊlf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "狼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wolves live in groups.",
+        "cn": "狼群居生活。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wolf pack",
+        "cn": "狼群"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320023,
+    "word": "bee",
+    "phonetic0": "biː",
+    "phonetic1": "biː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蜜蜂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A bee stung me.",
+        "cn": "一只蜜蜂蛰了我。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "busy as a bee",
+        "cn": "非常忙碌"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320024,
+    "word": "elephant",
+    "phonetic0": "ˈelɪfənt",
+    "phonetic1": "ˈelɪfənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大象"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Elephants have long noses.",
+        "cn": "大象有长鼻子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "baby elephant",
+        "cn": "小象"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320025,
+    "word": "monkey",
+    "phonetic0": "ˈmʌŋki",
+    "phonetic1": "ˈmʌŋki",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "猴子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The monkeys are very cheeky.",
+        "cn": "猴子很调皮。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "monkey business",
+        "cn": "胡闹"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320026,
+    "word": "fox",
+    "phonetic0": "fɒks",
+    "phonetic1": "fɑːks",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "狐狸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fox is very clever.",
+        "cn": "狐狸很聪明。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "red fox",
+        "cn": "赤狐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320027,
+    "word": "tiger",
+    "phonetic0": "ˈtaɪɡə",
+    "phonetic1": "ˈtaɪɡər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "老虎"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tigers are dangerous animals.",
+        "cn": "老虎是危险的动物。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "year of the tiger",
+        "cn": "虎年"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320028,
+    "word": "zoo",
+    "phonetic0": "zuː",
+    "phonetic1": "zuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "动物园"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's take the kids to the zoo.",
+        "cn": "我们带孩子去动物园吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go to the zoo",
+        "cn": "去动物园"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320029,
+    "word": "puppy",
+    "phonetic0": "ˈpʌpi",
+    "phonetic1": "ˈpʌpi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小狗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We got a new puppy.",
+        "cn": "我们新养了只小狗。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cute puppy",
+        "cn": "可爱的小狗"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320030,
+    "word": "kitten",
+    "phonetic0": "ˈkɪtn",
+    "phonetic1": "ˈkɪtn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小猫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The kitten is so cute.",
+        "cn": "小猫好可爱。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "little kitten",
+        "cn": "小猫咪"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1320031,
+    "word": "panda",
+    "phonetic0": "ˈpændə",
+    "phonetic1": "ˈpændə",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "熊猫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pandas love eating bamboo.",
+        "cn": "熊猫爱吃竹子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "giant panda",
+        "cn": "大熊猫"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

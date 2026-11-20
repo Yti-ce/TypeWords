@@ -1,0 +1,906 @@
+[
+  {
+    "id": 1270001,
+    "word": "child",
+    "phonetic0": "tʃaɪld",
+    "phonetic1": "tʃaɪld",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "孩子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They have one child.",
+        "cn": "他们有一个孩子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "only child",
+        "cn": "独生子女"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270002,
+    "word": "family",
+    "phonetic0": "ˈfæməli",
+    "phonetic1": "ˈfæməli",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家庭，家人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I live with my family.",
+        "cn": "我和家人住在一起。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "family member",
+        "cn": "家庭成员"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270003,
+    "word": "mother",
+    "phonetic0": "ˈmʌðə",
+    "phonetic1": "ˈmʌðər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "母亲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My mother is a teacher.",
+        "cn": "我妈妈是老师。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mother-in-law",
+        "cn": "婆婆，岳母"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270004,
+    "word": "father",
+    "phonetic0": "ˈfɑːðə",
+    "phonetic1": "ˈfɑːðər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "父亲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My father works in a bank.",
+        "cn": "我爸爸在银行工作。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "father-in-law",
+        "cn": "公公，岳父"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270005,
+    "word": "kid",
+    "phonetic0": "kɪd",
+    "phonetic1": "kɪd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小孩"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The kids are playing outside.",
+        "cn": "孩子们在外面玩。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "kids",
+        "cn": "孩子们"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270006,
+    "word": "parents",
+    "phonetic0": "ˈpeərənts",
+    "phonetic1": "ˈperənts",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "父母"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I call my parents every week.",
+        "cn": "我每周给父母打电话。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "my parents",
+        "cn": "我的父母"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270007,
+    "word": "raise",
+    "phonetic0": "reɪz",
+    "phonetic1": "reɪz",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "抚养"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My grandparents raised me.",
+        "cn": "我是爷爷奶奶带大的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "raise a child",
+        "cn": "养孩子"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270008,
+    "word": "wife",
+    "phonetic0": "waɪf",
+    "phonetic1": "waɪf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "妻子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is my wife, Lily.",
+        "cn": "这是我妻子莉莉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "husband and wife",
+        "cn": "夫妻"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270009,
+    "word": "son",
+    "phonetic0": "sʌn",
+    "phonetic1": "sʌn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "儿子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Their son is five years old.",
+        "cn": "他们的儿子五岁了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "only son",
+        "cn": "独子"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270010,
+    "word": "baby",
+    "phonetic0": "ˈbeɪbi",
+    "phonetic1": "ˈbeɪbi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "婴儿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The baby is sleeping.",
+        "cn": "宝宝在睡觉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "have a baby",
+        "cn": "生孩子"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270011,
+    "word": "brother",
+    "phonetic0": "ˈbrʌðə",
+    "phonetic1": "ˈbrʌðər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "兄弟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have an older brother.",
+        "cn": "我有个哥哥。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "younger brother",
+        "cn": "弟弟"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270012,
+    "word": "daughter",
+    "phonetic0": "ˈdɔːtə",
+    "phonetic1": "ˈdɔːtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "女儿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My daughter loves drawing.",
+        "cn": "我女儿喜欢画画。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "eldest daughter",
+        "cn": "长女"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270013,
+    "word": "husband",
+    "phonetic0": "ˈhʌzbənd",
+    "phonetic1": "ˈhʌzbənd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "丈夫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Her husband is a doctor.",
+        "cn": "她丈夫是医生。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "my husband",
+        "cn": "我丈夫"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270014,
+    "word": "sister",
+    "phonetic0": "ˈsɪstə",
+    "phonetic1": "ˈsɪstər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "姐妹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My sister lives in Shanghai.",
+        "cn": "我姐姐住在上海。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "little sister",
+        "cn": "妹妹"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270015,
+    "word": "generation",
+    "phonetic0": "ˌdʒenəˈreɪʃn",
+    "phonetic1": "ˌdʒenəˈreɪʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一代人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Three generations live in this house.",
+        "cn": "这房子里住着三代人。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "younger generation",
+        "cn": "年轻一代"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270016,
+    "word": "marry",
+    "phonetic0": "ˈmæri",
+    "phonetic1": "ˈmæri",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "结婚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They married last year.",
+        "cn": "他们去年结婚了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get married",
+        "cn": "结婚"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270017,
+    "word": "wedding",
+    "phonetic0": "ˈwedɪŋ",
+    "phonetic1": "ˈwedɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "婚礼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're going to a wedding this weekend.",
+        "cn": "我们这周末去参加婚礼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wedding party",
+        "cn": "婚宴"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270018,
+    "word": "relative",
+    "phonetic0": "ˈrelətɪv",
+    "phonetic1": "ˈrelətɪv",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "亲戚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We visit our relatives at New Year.",
+        "cn": "我们过年走亲戚。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "close relative",
+        "cn": "近亲"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270019,
+    "word": "uncle",
+    "phonetic0": "ˈʌŋkl",
+    "phonetic1": "ˈʌŋkl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "叔叔，舅舅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My uncle lives abroad.",
+        "cn": "我叔叔住在国外。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "my uncle",
+        "cn": "我叔叔"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270020,
+    "word": "twin",
+    "phonetic0": "twɪn",
+    "phonetic1": "twɪn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "双胞胎之一"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She has a twin sister.",
+        "cn": "她有个双胞胎妹妹。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "twin brother",
+        "cn": "双胞胎兄弟"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270021,
+    "word": "grandmother",
+    "phonetic0": "ˈɡrænmʌðə",
+    "phonetic1": "ˈɡrænmʌðər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "祖母，外祖母"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My grandmother is 80.",
+        "cn": "我奶奶80岁了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "grandma",
+        "cn": "奶奶，外婆"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270022,
+    "word": "aunt",
+    "phonetic0": "ɑːnt",
+    "phonetic1": "ænt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "阿姨，姑姑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My aunt is visiting us.",
+        "cn": "我姑姑来看我们了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "my aunt",
+        "cn": "我阿姨"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270023,
+    "word": "cousin",
+    "phonetic0": "ˈkʌzn",
+    "phonetic1": "ˈkʌzn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "堂/表兄弟姐妹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My cousin is my best friend.",
+        "cn": "我表妹是我最好的朋友。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "first cousin",
+        "cn": "堂/表亲"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270024,
+    "word": "grandfather",
+    "phonetic0": "ˈɡrænfɑːðə",
+    "phonetic1": "ˈɡrænfɑːðər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "祖父，外祖父"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My grandfather tells great stories.",
+        "cn": "我爷爷很会讲故事。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "grandpa",
+        "cn": "爷爷，外公"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270025,
+    "word": "divorce",
+    "phonetic0": "dɪˈvɔːs",
+    "phonetic1": "dɪˈvɔːrs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "离婚"
+      },
+      {
+        "pos": "v.",
+        "cn": "离婚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Her parents got divorced.",
+        "cn": "她父母离婚了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get divorced",
+        "cn": "离婚"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270026,
+    "word": "girlfriend",
+    "phonetic0": "ˈɡɜːlfrend",
+    "phonetic1": "ˈɡɜːrlfrend",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "女朋友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He's meeting his girlfriend's parents.",
+        "cn": "他要去见女朋友的父母。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "my girlfriend",
+        "cn": "我女朋友"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270027,
+    "word": "boyfriend",
+    "phonetic0": "ˈbɔɪfrend",
+    "phonetic1": "ˈbɔɪfrend",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "男朋友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Her boyfriend is very tall.",
+        "cn": "她男朋友很高。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "my boyfriend",
+        "cn": "我男朋友"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270028,
+    "word": "nephew",
+    "phonetic0": "ˈnefjuː",
+    "phonetic1": "ˈnefjuː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "侄子，外甥"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My nephew starts school this year.",
+        "cn": "我侄子今年上学。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "my nephew",
+        "cn": "我侄子"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270029,
+    "word": "niece",
+    "phonetic0": "niːs",
+    "phonetic1": "niːs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "侄女，外甥女"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My niece is very clever.",
+        "cn": "我外甥女很聪明。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "my niece",
+        "cn": "我侄女"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1270030,
+    "word": "children",
+    "phonetic0": "ˈtʃɪldrən",
+    "phonetic1": "ˈtʃɪldrən",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "孩子们"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have any children?",
+        "cn": "你有孩子吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "young children",
+        "cn": "小孩"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

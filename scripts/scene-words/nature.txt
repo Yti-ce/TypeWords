@@ -1,0 +1,33 @@
+# 场景·自然环境
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+tree | triː | triː | n.:树 | Let's sit under the tree. | 我们坐在树下吧。 | plant a tree:种树
+flower | ˈflaʊə | ˈflaʊər | n.:花 | These flowers smell lovely. | 这些花真香。 | a bunch of flowers:一束花
+sea | siː | siː | n.:海 | I love swimming in the sea. | 我喜欢在海里游泳。 | by the sea:在海边
+river | ˈrɪvə | ˈrɪvər | n.:河 | The river runs through the city. | 这条河穿城而过。 | along the river:沿着河
+mountain | ˈmaʊntən | ˈmaʊntn | n.:山 | We climbed the mountain. | 我们爬了那座山。 | mountain top:山顶
+hill | hɪl | hɪl | n.:小山 | The house is on a hill. | 房子在小山上。 | up the hill:上坡
+forest | ˈfɒrɪst | ˈfɔːrɪst | n.:森林 | We went for a walk in the forest. | 我们去森林里散步了。 | rain forest:雨林
+grass | ɡrɑːs | ɡræs | n.:草 | Keep off the grass. | 请勿践踏草坪。 | green grass:绿草
+lake | leɪk | leɪk | n.:湖 | The lake is very clean. | 这个湖很干净。 | by the lake:在湖边
+land | lænd | lænd | n.:陆地；土地 | This land is very dry. | 这片土地很干。 | farm land:农田
+earth | ɜːθ | ɜːrθ | n.:地球；泥土 | We must protect the earth. | 我们必须保护地球。 | on earth:在地球上
+moon | muːn | muːn | n.:月亮 | The moon is so bright tonight. | 今晚月亮好亮。 | full moon:满月
+star | stɑː | stɑːr | n.:星星 | Look at all the stars! | 看那满天的星星！ | shooting star:流星
+rock | rɒk | rɑːk | n.:岩石 | Sit on that rock. | 坐在那块石头上。 | rock climbing:攀岩
+stone | stəʊn | stoʊn | n.:石头 | The wall is made of stone. | 这堵墙是石头砌的。 | stone bridge:石桥
+leaf | liːf | liːf | n.:树叶 | The leaves are falling. | 叶子在掉落。 | leaves:树叶（复数）
+plant | plɑːnt | plænt | n.:植物; v.:种植 | Water the plants every day. | 每天给植物浇水。 | house plant:室内植物
+wave | weɪv | weɪv | n.:海浪 | The waves are big today. | 今天浪很大。 | ocean wave:海浪
+ocean | ˈəʊʃn | ˈoʊʃn | n.:海洋 | The ocean is very deep here. | 这里的海很深。 | Pacific Ocean:太平洋
+sand | sænd | sænd | n.:沙子 | The sand is hot. | 沙子好烫。 | sand beach:沙滩
+field | fiːld | fiːld | n.:田野 | Cows are eating in the field. | 奶牛在田里吃草。 | rice field:稻田
+garden | ˈɡɑːdn | ˈɡɑːrdn | n.:花园 | We grow vegetables in our garden. | 我们在花园里种菜。 | back garden:后花园
+environment | ɪnˈvaɪrənmənt | ɪnˈvaɪrənmənt | n.:环境 | We need to protect the environment. | 我们需要保护环境。 | protect the environment:保护环境
+nature | ˈneɪtʃə | ˈneɪtʃər | n.:大自然 | I love being close to nature. | 我喜欢亲近大自然。 | in nature:在大自然中
+recycle | ˌriːˈsaɪkl | ˌriːˈsaɪkl | v.:回收 | Please recycle your bottles. | 请回收瓶子。 | recycle bin:回收箱
+plastic | ˈplæstɪk | ˈplæstɪk | n.:塑料 | Try to use less plastic. | 尽量少用塑料。 | plastic bag:塑料袋
+waste | weɪst | weɪst | n.:浪费；废物 | Don't waste water. | 别浪费水。 | food waste:食物浪费
+energy | ˈenədʒi | ˈenərdʒi | n.:能源 | Turn off lights to save energy. | 关灯节约能源。 | save energy:节能
+island | ˈaɪlənd | ˈaɪlənd | n.:岛 | The island has beautiful beaches. | 这个岛有美丽的海滩。 | desert island:荒岛
+desert | ˈdezət | ˈdezərt | n.:沙漠 | It rarely rains in the desert. | 沙漠里很少下雨。 | Sahara Desert:撒哈拉沙漠
+volcano | vɒlˈkeɪnəʊ | vɑːlˈkeɪnoʊ | n.:火山 | The volcano is still active. | 这座火山还是活火山。 | active volcano:活火山

@@ -32,3 +32,21 @@ petrol | ˈpetrəl | ˈpetrəl | n.:汽油（美式 gas） | The car is running 
 app | æp | æp | n.:应用程序 | Book a ride with the app. | 用应用程序叫车。 | taxi app:打车软件
 route | ruːt | ruːt | n.:路线 | What's the fastest route? | 最快的路线是哪条？ | bus route:公交路线
 direction | dəˈrekʃn | dəˈrekʃn | n.:方向 | Is this the right direction? | 这个方向对吗？ | wrong direction:方向错
+road | rəʊd | roʊd | n.:路 | The road is closed today. | 今天这条路封了。 | main road:大路
+minute | ˈmɪnɪt | ˈmɪnɪt | n.:分钟 | The next bus comes in five minutes. | 下一班车五分钟后到。 | in five minutes:五分钟后
+hour | ˈaʊə | ˈaʊər | n.:小时 | It takes an hour by train. | 坐火车要一个小时。 | rush hour:高峰时段
+rush | rʌʃ | rʌʃ | n.:匆忙；高峰 | Avoid travelling in rush hour. | 避开高峰期出行。 | rush hour:高峰时段
+crowded | ˈkraʊdɪd | ˈkraʊdɪd | adj.:拥挤的 | The metro is very crowded in the morning. | 早上地铁很挤。 | very crowded:很拥挤
+journey | ˈdʒɜːni | ˈdʒɜːrni | n.:行程，路程 | How long is the journey? | 路程要多久？ | long journey:长途
+return | rɪˈtɜːn | rɪˈtɜːrn | adj.:往返的; v.:返回 | A return ticket to Shanghai, please. | 请给我一张到上海的往返票。 | return ticket:往返票
+single | ˈsɪŋɡl | ˈsɪŋɡl | adj.:单程的 | A single ticket costs five yuan. | 单程票五元。 | single ticket:单程票
+card | kɑːd | kɑːrd | n.:卡 | Tap your card at the gate. | 在闸机刷卡。 | travel card:交通卡
+gate | ɡeɪt | ɡeɪt | n.:闸门，入口 | Go through the ticket gate. | 从检票闸机进去。 | ticket gate:检票口
+get | ɡet | ɡet | v.:乘坐；到达 | Where do I get off? | 我在哪儿下车？ | get off:下车
+miss | mɪs | mɪs | v.:错过 | I missed the last bus. | 我错过了末班车。 | miss the bus:错过公交
+last | lɑːst | læst | adj.:最后的 | When is the last train? | 末班火车是几点？ | last train:末班车
+license | ˈlaɪsns | ˈlaɪsns | n.:驾照；执照（英式名词 licence） | Do you have a driving license? | 你有驾照吗？ | driving license:驾照
+helmet | ˈhelmɪt | ˈhelmɪt | n.:头盔 | Always wear a helmet on a scooter. | 骑电动车一定要戴头盔。 | wear a helmet:戴头盔
+speed | spiːd | spiːd | n.:速度 | Slow down, you're over the speed limit. | 慢点，你超速了。 | speed limit:限速
+accident | ˈæksɪdənt | ˈæksɪdənt | n.:事故 | There's an accident on the highway. | 高速公路上出了事故。 | car accident:车祸
+highway | ˈhaɪweɪ | ˈhaɪweɪ | n.:公路，高速公路 | Take the highway to the airport. | 走高速去机场。 | on the highway:在高速上

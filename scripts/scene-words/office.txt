@@ -30,3 +30,25 @@ suggest | səˈdʒest | səˈdʒest | v.:建议 | I suggest we start early. | �
 department | dɪˈpɑːtmənt | dɪˈpɑːrtmənt | n.:部门 | Which department do you work in? | 你在哪个部门工作？ | HR department:人事部
 lunch | lʌntʃ | lʌntʃ | n.:午餐 | Let's grab lunch together. | 我们一起去吃个午饭吧。 | lunch break:午休
 promotion | prəˈməʊʃn | prəˈmoʊʃn | n.:升职 | Congratulations on your promotion! | 恭喜你升职！ | get a promotion:升职
+job | dʒɒb | dʒɑːb | n.:工作 | I love my job. | 我喜欢我的工作。 | full-time job:全职工作
+company | ˈkʌmpəni | ˈkʌmpəni | n.:公司 | Our company has 200 staff. | 我们公司有200名员工。 | big company:大公司
+staff | stɑːf | stæf | n.:员工 | All staff must attend the meeting. | 全体员工必须参加会议。 | staff meeting:员工大会
+call | kɔːl | kɔːl | n.:电话 | I'm on a call, give me a minute. | 我在打电话，稍等一下。 | conference call:电话会议
+plan | plæn | plæn | n.:计划 | What's the plan for next week? | 下周有什么计划？ | business plan:商业计划
+problem | ˈprɒbləm | ˈprɑːbləm | n.:问题 | We need to fix this problem today. | 我们今天需要解决这个问题。 | solve a problem:解决问题
+idea | aɪˈdɪə | aɪˈdiːə | n.:想法 | That's a good idea. | 这是个好主意。 | good idea:好主意
+help | help | help | v.:帮助 | Can you help me with this report? | 你能帮我弄一下这份报告吗？ | help with:帮忙做
+finish | ˈfɪnɪʃ | ˈfɪnɪʃ | v.:完成 | I'll finish it by Friday. | 我周五前完成。 | finish work:下班
+start | stɑːt | stɑːrt | v.:开始 | When do you start work? | 你几点上班？ | start work:开始工作
+budget | ˈbʌdʒɪt | ˈbʌdʒɪt | n.:预算 | We're over budget. | 我们超预算了。 | on budget:在预算内
+sales | seɪlz | seɪlz | n.:销售额；销售部 | Sales went up this month. | 这个月销售额上升了。 | sales team:销售团队
+target | ˈtɑːɡɪt | ˈtɑːrɡɪt | n.:目标 | Did we hit our target? | 我们达到目标了吗？ | sales target:销售目标
+contract | ˈkɒntrækt | ˈkɑːntrækt | n.:合同 | Please sign the contract. | 请签合同。 | sign a contract:签合同
+laptop | ˈlæptɒp | ˈlæptɑːp | n.:笔记本电脑 | I forgot my laptop charger. | 我忘带电脑充电器了。 | work laptop:工作电脑
+desk | desk | desk | n.:办公桌 | Leave the file on my desk. | 把文件放在我桌上。 | front desk:前台
+copy | ˈkɒpi | ˈkɑːpi | n.:副本; v.:复印 | Please make ten copies. | 请复印十份。 | make a copy:复印
+calendar | ˈkælɪndə | ˈkælɪndər | n.:日历 | I'll send you a calendar invite. | 我给你发个日程邀请。 | calendar invite:会议邀请
+remind | rɪˈmaɪnd | rɪˈmaɪnd | v.:提醒 | Please remind me about the meeting. | 请提醒我开会。 | remind me:提醒我
+urgent | ˈɜːdʒənt | ˈɜːrdʒənt | adj.:紧急的 | This is urgent, please reply today. | 这是急事，请今天回复。 | urgent email:紧急邮件
+resign | rɪˈzaɪn | rɪˈzaɪn | v.:辞职 | She resigned last month. | 她上个月辞职了。 | resign from:从……辞职
+sick | sɪk | sɪk | adj.:生病的 | I'm taking a sick day today. | 我今天请病假。 | sick leave:病假

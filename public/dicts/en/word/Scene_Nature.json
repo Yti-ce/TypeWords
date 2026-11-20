@@ -1,0 +1,936 @@
+[
+  {
+    "id": 1330001,
+    "word": "field",
+    "phonetic0": "fiːld",
+    "phonetic1": "fiːld",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "田野"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cows are eating in the field.",
+        "cn": "奶牛在田里吃草。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rice field",
+        "cn": "稻田"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330002,
+    "word": "land",
+    "phonetic0": "lænd",
+    "phonetic1": "lænd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "陆地；土地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This land is very dry.",
+        "cn": "这片土地很干。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "farm land",
+        "cn": "农田"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330003,
+    "word": "star",
+    "phonetic0": "stɑː",
+    "phonetic1": "stɑːr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "星星"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Look at all the stars!",
+        "cn": "看那满天的星星！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shooting star",
+        "cn": "流星"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330004,
+    "word": "nature",
+    "phonetic0": "ˈneɪtʃə",
+    "phonetic1": "ˈneɪtʃər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大自然"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I love being close to nature.",
+        "cn": "我喜欢亲近大自然。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in nature",
+        "cn": "在大自然中"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330005,
+    "word": "tree",
+    "phonetic0": "triː",
+    "phonetic1": "triː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "树"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's sit under the tree.",
+        "cn": "我们坐在树下吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "plant a tree",
+        "cn": "种树"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330006,
+    "word": "energy",
+    "phonetic0": "ˈenədʒi",
+    "phonetic1": "ˈenərdʒi",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "能源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Turn off lights to save energy.",
+        "cn": "关灯节约能源。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "save energy",
+        "cn": "节能"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330007,
+    "word": "plant",
+    "phonetic0": "plɑːnt",
+    "phonetic1": "plænt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "植物"
+      },
+      {
+        "pos": "v.",
+        "cn": "种植"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Water the plants every day.",
+        "cn": "每天给植物浇水。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "house plant",
+        "cn": "室内植物"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330008,
+    "word": "garden",
+    "phonetic0": "ˈɡɑːdn",
+    "phonetic1": "ˈɡɑːrdn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "花园"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We grow vegetables in our garden.",
+        "cn": "我们在花园里种菜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "back garden",
+        "cn": "后花园"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330009,
+    "word": "environment",
+    "phonetic0": "ɪnˈvaɪrənmənt",
+    "phonetic1": "ɪnˈvaɪrənmənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "环境"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to protect the environment.",
+        "cn": "我们需要保护环境。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "protect the environment",
+        "cn": "保护环境"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330010,
+    "word": "sea",
+    "phonetic0": "siː",
+    "phonetic1": "siː",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I love swimming in the sea.",
+        "cn": "我喜欢在海里游泳。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by the sea",
+        "cn": "在海边"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330011,
+    "word": "rock",
+    "phonetic0": "rɒk",
+    "phonetic1": "rɑːk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "岩石"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sit on that rock.",
+        "cn": "坐在那块石头上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rock climbing",
+        "cn": "攀岩"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330012,
+    "word": "river",
+    "phonetic0": "ˈrɪvə",
+    "phonetic1": "ˈrɪvər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "河"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The river runs through the city.",
+        "cn": "这条河穿城而过。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "along the river",
+        "cn": "沿着河"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330013,
+    "word": "stone",
+    "phonetic0": "stəʊn",
+    "phonetic1": "stoʊn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "石头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The wall is made of stone.",
+        "cn": "这堵墙是石头砌的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stone bridge",
+        "cn": "石桥"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330014,
+    "word": "island",
+    "phonetic0": "ˈaɪlənd",
+    "phonetic1": "ˈaɪlənd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "岛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The island has beautiful beaches.",
+        "cn": "这个岛有美丽的海滩。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "desert island",
+        "cn": "荒岛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330015,
+    "word": "earth",
+    "phonetic0": "ɜːθ",
+    "phonetic1": "ɜːrθ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "地球；泥土"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We must protect the earth.",
+        "cn": "我们必须保护地球。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on earth",
+        "cn": "在地球上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330016,
+    "word": "forest",
+    "phonetic0": "ˈfɒrɪst",
+    "phonetic1": "ˈfɔːrɪst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "森林"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We went for a walk in the forest.",
+        "cn": "我们去森林里散步了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rain forest",
+        "cn": "雨林"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330017,
+    "word": "hill",
+    "phonetic0": "hɪl",
+    "phonetic1": "hɪl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小山"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The house is on a hill.",
+        "cn": "房子在小山上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "up the hill",
+        "cn": "上坡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330018,
+    "word": "mountain",
+    "phonetic0": "ˈmaʊntən",
+    "phonetic1": "ˈmaʊntn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "山"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We climbed the mountain.",
+        "cn": "我们爬了那座山。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mountain top",
+        "cn": "山顶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330019,
+    "word": "flower",
+    "phonetic0": "ˈflaʊə",
+    "phonetic1": "ˈflaʊər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "花"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These flowers smell lovely.",
+        "cn": "这些花真香。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a bunch of flowers",
+        "cn": "一束花"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330020,
+    "word": "wave",
+    "phonetic0": "weɪv",
+    "phonetic1": "weɪv",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海浪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The waves are big today.",
+        "cn": "今天浪很大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ocean wave",
+        "cn": "海浪"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330021,
+    "word": "plastic",
+    "phonetic0": "ˈplæstɪk",
+    "phonetic1": "ˈplæstɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "塑料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Try to use less plastic.",
+        "cn": "尽量少用塑料。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "plastic bag",
+        "cn": "塑料袋"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330022,
+    "word": "leaf",
+    "phonetic0": "liːf",
+    "phonetic1": "liːf",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "树叶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The leaves are falling.",
+        "cn": "叶子在掉落。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "leaves",
+        "cn": "树叶（复数）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330023,
+    "word": "waste",
+    "phonetic0": "weɪst",
+    "phonetic1": "weɪst",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "浪费；废物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't waste water.",
+        "cn": "别浪费水。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "food waste",
+        "cn": "食物浪费"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330024,
+    "word": "lake",
+    "phonetic0": "leɪk",
+    "phonetic1": "leɪk",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "湖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The lake is very clean.",
+        "cn": "这个湖很干净。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by the lake",
+        "cn": "在湖边"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330025,
+    "word": "ocean",
+    "phonetic0": "ˈəʊʃn",
+    "phonetic1": "ˈoʊʃn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海洋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The ocean is very deep here.",
+        "cn": "这里的海很深。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Pacific Ocean",
+        "cn": "太平洋"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330026,
+    "word": "grass",
+    "phonetic0": "ɡrɑːs",
+    "phonetic1": "ɡræs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "草"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Keep off the grass.",
+        "cn": "请勿践踏草坪。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "green grass",
+        "cn": "绿草"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330027,
+    "word": "desert",
+    "phonetic0": "ˈdezət",
+    "phonetic1": "ˈdezərt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "沙漠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It rarely rains in the desert.",
+        "cn": "沙漠里很少下雨。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "Sahara Desert",
+        "cn": "撒哈拉沙漠"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330028,
+    "word": "sand",
+    "phonetic0": "sænd",
+    "phonetic1": "sænd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "沙子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sand is hot.",
+        "cn": "沙子好烫。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sand beach",
+        "cn": "沙滩"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330029,
+    "word": "moon",
+    "phonetic0": "muːn",
+    "phonetic1": "muːn",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "月亮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The moon is so bright tonight.",
+        "cn": "今晚月亮好亮。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "full moon",
+        "cn": "满月"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330030,
+    "word": "recycle",
+    "phonetic0": "ˌriːˈsaɪkl",
+    "phonetic1": "ˌriːˈsaɪkl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "回收"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please recycle your bottles.",
+        "cn": "请回收瓶子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "recycle bin",
+        "cn": "回收箱"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1330031,
+    "word": "volcano",
+    "phonetic0": "vɒlˈkeɪnəʊ",
+    "phonetic1": "vɑːlˈkeɪnoʊ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火山"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The volcano is still active.",
+        "cn": "这座火山还是活火山。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "active volcano",
+        "cn": "活火山"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

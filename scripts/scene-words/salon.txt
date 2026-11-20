@@ -25,3 +25,23 @@ skin | skɪn | skɪn | n.:皮肤 | I have sensitive skin. | 我是敏感肌。 |
 massage | ˈmæsɑːʒ | məˈsɑːʒ | n.:按摩 | I'd like a foot massage. | 我想做个足部按摩。 | foot massage:足疗
 book | bʊk | bʊk | v.:预约 | Can I book for Saturday? | 我可以约周六吗？ | book an appointment:预约
 look | lʊk | lʊk | n.:外表; v.:看起来 | You look great! | 你看起来很棒！ | new look:新造型
+face | feɪs | feɪs | n.:脸 | This style suits your face. | 这个发型很适合你的脸型。 | face shape:脸型
+price | praɪs | praɪs | n.:价格 | What's the price for a cut and colour? | 剪发加染发多少钱？ | price list:价目表
+appointment | əˈpɔɪntmənt | əˈpɔɪntmənt | n.:预约 | Do I need an appointment? | 需要预约吗？ | make an appointment:预约
+salon | ˈsælɒn | səˈlɑːn | n.:美发店，美容院 | I go to a salon near my office. | 我去公司附近的一家美发店。 | hair salon:美发店
+beard | bɪəd | bɪrd | n.:胡子 | Can you trim my beard too? | 也能帮我修一下胡子吗？ | trim a beard:修胡子
+shave | ʃeɪv | ʃeɪv | v.:剃，刮 | Shave the sides, please. | 两边请剃短。 | shave off:剃掉
+layer | ˈleɪə | ˈleɪər | n.:层次 | Add some layers to make it lighter. | 打一些层次让头发轻盈点。 | layered cut:层次剪
+thin | θɪn | θɪn | v.:打薄; adj.:薄的 | Can you thin it out a bit? | 能帮我打薄一点吗？ | thin out:打薄
+thick | θɪk | θɪk | adj.:厚的，浓密的 | My hair is very thick. | 我的头发很厚。 | thick hair:浓密的头发
+dry | draɪ | draɪ | adj.:干的; v.:弄干 | My hair is very dry. | 我的头发很干。 | dry hair:干性发质
+perm | pɜːm | pɜːrm | n.:烫发; v.:烫发 | I'm thinking of getting a perm. | 我在考虑烫个头发。 | get a perm:烫发
+blonde | blɒnd | blɑːnd | adj.:金色的 | I want to go blonde. | 我想染成金色。 | blonde hair:金发
+natural | ˈnætʃrəl | ˈnætʃrəl | adj.:自然的 | I want a natural look. | 我想要自然一点的效果。 | natural colour:自然色
+conditioner | kənˈdɪʃənə | kənˈdɪʃənər | n.:护发素 | Use conditioner after shampoo. | 洗发后用护发素。 | hair conditioner:护发素
+makeup | ˈmeɪkʌp | ˈmeɪkʌp | n.:化妆品，妆容 | I don't wear much makeup. | 我不怎么化妆。 | wear makeup:化妆
+manicure | ˈmænɪkjʊə | ˈmænɪkjʊr | n.:美甲 | I'd like a manicure, please. | 我想做个美甲。 | get a manicure:做美甲
+facial | ˈfeɪʃl | ˈfeɪʃl | n.:面部护理 | She booked a facial for Saturday. | 她约了周六做面部护理。 | have a facial:做面部护理
+tip | tɪp | tɪp | n.:小费 | Should I leave a tip? | 我要给小费吗？ | leave a tip:给小费
+member | ˈmembə | ˈmembər | n.:会员 | Do members get a discount? | 会员有折扣吗？ | member card:会员卡
+suit | suːt | suːt | v.:适合 | Short hair really suits you. | 短发真适合你。 | suit you:适合你

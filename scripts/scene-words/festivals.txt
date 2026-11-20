@@ -1,0 +1,32 @@
+# 场景·节日庆祝
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+holiday | ˈhɒlədeɪ | ˈhɑːlədeɪ | n.:节日，假期 | Happy holidays! | 节日快乐！ | public holiday:法定假日
+festival | ˈfestɪvl | ˈfestɪvl | n.:节日 | The Spring Festival is coming. | 春节快到了。 | Spring Festival:春节
+party | ˈpɑːti | ˈpɑːrti | n.:派对 | We're having a party on Saturday. | 我们周六开派对。 | birthday party:生日派对
+celebrate | ˈselɪbreɪt | ˈselɪbreɪt | v.:庆祝 | How do you celebrate New Year? | 你们怎么过新年？ | celebrate together:一起庆祝
+gift | ɡɪft | ɡɪft | n.:礼物 | I bought a gift for my mum. | 我给妈妈买了礼物。 | birthday gift:生日礼物
+present | ˈpreznt | ˈpreznt | n.:礼物 | Thank you for the present! | 谢谢你的礼物！ | Christmas present:圣诞礼物
+Christmas | ˈkrɪsməs | ˈkrɪsməs | n.:圣诞节 | Merry Christmas! | 圣诞快乐！ | Christmas tree:圣诞树
+wish | wɪʃ | wɪʃ | n.:祝愿; v.:祝愿 | Best wishes for the new year! | 新年最美好的祝福！ | best wishes:最美好的祝愿
+happy | ˈhæpi | ˈhæpi | adj.:快乐的 | Happy New Year! | 新年快乐！ | happy holidays:节日快乐
+family | ˈfæməli | ˈfæməli | n.:家人 | We have dinner with family at New Year. | 过年我们和家人吃团圆饭。 | family dinner:家宴
+dinner | ˈdɪnə | ˈdɪnər | n.:晚宴 | We have a big family dinner tonight. | 今晚我们有一顿丰盛的家宴。 | New Year's Eve dinner:年夜饭
+cake | keɪk | keɪk | n.:蛋糕 | Let's cut the birthday cake. | 我们切生日蛋糕吧。 | birthday cake:生日蛋糕
+card | kɑːd | kɑːrd | n.:贺卡 | I wrote her a birthday card. | 我给她写了一张生日贺卡。 | greeting card:贺卡
+candle | ˈkændl | ˈkændl | n.:蜡烛 | Blow out the candles! | 吹蜡烛吧！ | birthday candle:生日蜡烛
+fireworks | ˈfaɪəwɜːks | ˈfaɪərwɜːrks | n.:烟花 | We watched the fireworks at midnight. | 我们午夜看了烟花。 | set off fireworks:放烟花
+lantern | ˈlæntən | ˈlæntərn | n.:灯笼 | The streets are full of red lanterns. | 街上挂满了红灯笼。 | Lantern Festival:元宵节
+dumpling | ˈdʌmplɪŋ | ˈdʌmplɪŋ | n.:饺子 | We make dumplings at New Year. | 我们过年包饺子。 | make dumplings:包饺子
+mooncake | ˈmuːnkeɪk | ˈmuːnkeɪk | n.:月饼 | We eat mooncakes at the Mid-Autumn Festival. | 我们中秋节吃月饼。 | Mid-Autumn Festival:中秋节
+envelope | ˈenvələʊp | ˈenvəloʊp | n.:信封；红包 | Kids get red envelopes at New Year. | 孩子们过年收红包。 | red envelope:红包
+decorate | ˈdekəreɪt | ˈdekəreɪt | v.:装饰 | Let's decorate the room. | 我们来布置房间吧。 | decorate the tree:装饰圣诞树
+invite | ɪnˈvaɪt | ɪnˈvaɪt | v.:邀请 | I invited ten friends to my party. | 我邀请了十个朋友来派对。 | invite friends:邀请朋友
+guest | ɡest | ɡest | n.:客人 | How many guests are coming? | 有多少客人要来？ | special guest:特邀嘉宾
+anniversary | ˌænɪˈvɜːsəri | ˌænɪˈvɜːrsəri | n.:周年纪念日 | Today is our wedding anniversary. | 今天是我们的结婚纪念日。 | wedding anniversary:结婚纪念日
+Valentine | ˈvæləntaɪn | ˈvæləntaɪn | n.:情人节礼物/卡片 | Happy Valentine's Day! | 情人节快乐！ | Valentine's Day:情人节
+Halloween | ˌhæləʊˈiːn | ˌhæloʊˈiːn | n.:万圣节 | Kids dress up at Halloween. | 孩子们万圣节会装扮起来。 | Halloween party:万圣节派对
+tradition | trəˈdɪʃn | trəˈdɪʃn | n.:传统 | It's a family tradition. | 这是家里的传统。 | old tradition:老传统
+cheers | tʃɪəz | tʃɪrz | int.:干杯 | Cheers! To your health! | 干杯！祝你健康！ | say cheers:说干杯
+toast | təʊst | toʊst | n.:祝酒 | Let's make a toast to the couple. | 我们为新人干一杯。 | make a toast:敬酒
+surprise | səˈpraɪz | sərˈpraɪz | n.:惊喜 | We planned a surprise party for her. | 我们为她策划了一个惊喜派对。 | surprise party:惊喜派对
+congratulate | kənˈɡrætʃuleɪt | kənˈɡrætʃuleɪt | v.:祝贺 | I want to congratulate you on your wedding. | 祝贺你们新婚。 | congratulate on:祝贺

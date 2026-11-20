@@ -42,3 +42,22 @@ quality | ˈkwɒləti | ˈkwɑːləti | n.:质量 | The quality is very good. | 
 material | məˈtɪəriəl | məˈtɪriəl | n.:材料，面料 | What material is this? | 这是什么面料的？ | soft material:柔软的面料
 recommend | ˌrekəˈmend | ˌrekəˈmend | v.:推荐 | What would you recommend? | 你推荐什么？ | highly recommend:强烈推荐
 bargain | ˈbɑːɡən | ˈbɑːrɡən | n.:便宜货; v.:讨价还价 | This coat was a real bargain. | 这件外套真划算。 | a good bargain:很划算
+money | ˈmʌni | ˈmʌni | n.:钱 | I spent too much money today. | 我今天花了太多钱。 | spend money:花钱
+cost | kɒst | kɔːst | v.:花费; n.:成本 | How much does it cost? | 这个多少钱？ | cost a lot:很贵
+sell | sel | sel | v.:卖 | Do you sell phone cases here? | 这里卖手机壳吗？ | sold out:卖完了
+card | kɑːd | kɑːrd | n.:卡 | Can I pay by card? | 可以刷卡吗？ | pay by card:刷卡
+cash | kæʃ | kæʃ | n.:现金 | We only take cash. | 我们只收现金。 | pay in cash:付现金
+receipt | rɪˈsiːt | rɪˈsiːt | n.:收据，小票 | Keep the receipt in case you need to return it. | 留着小票，万一要退货。 | keep the receipt:保留小票
+change | tʃeɪndʒ | tʃeɪndʒ | n.:找零 | Here's your change. | 这是找您的零钱。 | keep the change:不用找了
+queue | kjuː | kjuː | n.:队伍; v.:排队 | The queue for the cashier is long. | 收银台排队很长。 | join the queue:排队
+item | ˈaɪtəm | ˈaɪtəm | n.:商品，物品 | This item is not for sale. | 这件商品不出售。 | sale item:打折商品
+shoes | ʃuːz | ʃuːz | n.:鞋 | I need a new pair of shoes. | 我需要一双新鞋。 | a pair of shoes:一双鞋
+clothes | kləʊðz | kloʊðz | n.:衣服 | This shop sells children's clothes. | 这家店卖童装。 | buy clothes:买衣服
+shirt | ʃɜːt | ʃɜːrt | n.:衬衫 | Does this shirt come in white? | 这件衬衫有白色的吗？ | T-shirt:T恤
+dress | dres | dres | n.:连衣裙 | That dress looks great on you. | 那条裙子你穿很好看。 | evening dress:晚礼服
+jacket | ˈdʒækɪt | ˈdʒækɪt | n.:夹克 | This jacket is waterproof. | 这件夹克防水。 | leather jacket:皮夹克
+counter | ˈkaʊntə | ˈkaʊntər | n.:柜台 | Please ask at the counter. | 请到柜台问一下。 | service counter:服务台
+assistant | əˈsɪstənt | əˈsɪstənt | n.:店员，助手 | The shop assistant was very helpful. | 店员很热心。 | shop assistant:店员
+online | ˌɒnˈlaɪn | ˌɑːnˈlaɪn | adv.:在网上 | It's cheaper online. | 网上更便宜。 | shop online:网购
+deliver | dɪˈlɪvə | dɪˈlɪvər | v.:送货 | Can you deliver it to my home? | 能送货上门吗？ | free delivery:免费送货
+guarantee | ˌɡærənˈtiː | ˌɡærənˈtiː | n.:保修; v.:保证 | It comes with a one-year guarantee. | 这个保修一年。 | under guarantee:在保修期内

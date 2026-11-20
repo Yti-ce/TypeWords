@@ -1,100 +1,6 @@
 [
   {
     "id": 1100001,
-    "word": "rent",
-    "phonetic0": "rent",
-    "phonetic1": "rent",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "房租"
-      },
-      {
-        "pos": "v.",
-        "cn": "租"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "How much is the rent?",
-        "cn": "房租多少钱？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "pay the rent",
-        "cn": "交房租"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100002,
-    "word": "flat",
-    "phonetic0": "flæt",
-    "phonetic1": "flæt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "公寓（美式 apartment）"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I live in a small flat.",
-        "cn": "我住在一套小公寓里。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "rent a flat",
-        "cn": "租公寓"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100003,
-    "word": "apartment",
-    "phonetic0": "əˈpɑːtmənt",
-    "phonetic1": "əˈpɑːrtmənt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "公寓"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The apartment has two bedrooms.",
-        "cn": "这套公寓有两间卧室。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "apartment building",
-        "cn": "公寓楼"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100004,
     "word": "house",
     "phonetic0": "haʊs",
     "phonetic1": "haʊs",
@@ -124,26 +30,26 @@
     "etymology": []
   },
   {
-    "id": 1100005,
-    "word": "bedroom",
-    "phonetic0": "ˈbedruːm",
-    "phonetic1": "ˈbedruːm",
+    "id": 1100002,
+    "word": "area",
+    "phonetic0": "ˈeəriə",
+    "phonetic1": "ˈeriə",
     "trans": [
       {
         "pos": "n.",
-        "cn": "卧室"
+        "cn": "地区"
       }
     ],
     "sentences": [
       {
-        "c": "Is the bedroom furnished?",
-        "cn": "卧室有家具吗？"
+        "c": "Is this a safe area?",
+        "cn": "这一片安全吗？"
       }
     ],
     "phrases": [
       {
-        "c": "master bedroom",
-        "cn": "主卧"
+        "c": "local area",
+        "cn": "本地区"
       }
     ],
     "synos": [],
@@ -154,187 +60,7 @@
     "etymology": []
   },
   {
-    "id": 1100006,
-    "word": "bathroom",
-    "phonetic0": "ˈbɑːθruːm",
-    "phonetic1": "ˈbæθruːm",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "浴室，卫生间"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The bathroom is shared.",
-        "cn": "卫生间是共用的。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "private bathroom",
-        "cn": "独立卫浴"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100007,
-    "word": "kitchen",
-    "phonetic0": "ˈkɪtʃɪn",
-    "phonetic1": "ˈkɪtʃɪn",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "厨房"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Can I use the kitchen?",
-        "cn": "我可以用厨房吗？"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "shared kitchen",
-        "cn": "共用厨房"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100008,
-    "word": "landlord",
-    "phonetic0": "ˈlændlɔːd",
-    "phonetic1": "ˈlændlɔːrd",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "房东"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "I need to call my landlord.",
-        "cn": "我得给房东打电话。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "landlord",
-        "cn": "房东"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100009,
-    "word": "tenant",
-    "phonetic0": "ˈtenənt",
-    "phonetic1": "ˈtenənt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "租客"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The tenant pays the bills.",
-        "cn": "账单由租客支付。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "new tenant",
-        "cn": "新租客"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100010,
-    "word": "contract",
-    "phonetic0": "ˈkɒntrækt",
-    "phonetic1": "ˈkɑːntrækt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "合同"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "Please read the contract carefully.",
-        "cn": "请仔细阅读合同。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "sign a contract",
-        "cn": "签合同"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100011,
-    "word": "deposit",
-    "phonetic0": "dɪˈpɒzɪt",
-    "phonetic1": "dɪˈpɑːzɪt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "押金"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The deposit is one month's rent.",
-        "cn": "押金是一个月房租。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "security deposit",
-        "cn": "押金"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100012,
+    "id": 1100003,
     "word": "move",
     "phonetic0": "muːv",
     "phonetic1": "muːv",
@@ -364,26 +90,296 @@
     "etymology": []
   },
   {
-    "id": 1100013,
-    "word": "furnished",
-    "phonetic0": "ˈfɜːnɪʃt",
-    "phonetic1": "ˈfɜːrnɪʃt",
+    "id": 1100004,
+    "word": "live",
+    "phonetic0": "lɪv",
+    "phonetic1": "lɪv",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "带家具的"
+        "pos": "v.",
+        "cn": "住"
       }
     ],
     "sentences": [
       {
-        "c": "Is the flat furnished?",
-        "cn": "公寓带家具吗？"
+        "c": "Where do you live?",
+        "cn": "你住在哪里？"
       }
     ],
     "phrases": [
       {
-        "c": "fully furnished",
-        "cn": "家具齐全"
+        "c": "live in",
+        "cn": "住在"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100005,
+    "word": "month",
+    "phonetic0": "mʌnθ",
+    "phonetic1": "mʌnθ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The rent is due at the start of each month.",
+        "cn": "房租每月初交。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "per month",
+        "cn": "每月"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100006,
+    "word": "home",
+    "phonetic0": "həʊm",
+    "phonetic1": "hoʊm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I work from home on Fridays.",
+        "cn": "我周五在家办公。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at home",
+        "cn": "在家"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100007,
+    "word": "water",
+    "phonetic0": "ˈwɔːtə",
+    "phonetic1": "ˈwɔːtər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's no hot water.",
+        "cn": "没有热水。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hot water",
+        "cn": "热水"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100008,
+    "word": "room",
+    "phonetic0": "ruːm",
+    "phonetic1": "ruːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "房间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm looking for a room to rent.",
+        "cn": "我在找房间出租。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "single room",
+        "cn": "单人房"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100009,
+    "word": "pay",
+    "phonetic0": "peɪ",
+    "phonetic1": "peɪ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "支付"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I pay the rent by bank transfer.",
+        "cn": "我用银行转账交房租。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pay rent",
+        "cn": "交房租"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100010,
+    "word": "share",
+    "phonetic0": "ʃeə",
+    "phonetic1": "ʃer",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "合租，共用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I share the flat with a friend.",
+        "cn": "我和一个朋友合租。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "share a flat",
+        "cn": "合租"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100011,
+    "word": "contract",
+    "phonetic0": "ˈkɒntrækt",
+    "phonetic1": "ˈkɑːntrækt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "合同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please read the contract carefully.",
+        "cn": "请仔细阅读合同。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sign a contract",
+        "cn": "签合同"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100012,
+    "word": "floor",
+    "phonetic0": "flɔː",
+    "phonetic1": "flɔːr",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "楼层"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The flat is on the tenth floor.",
+        "cn": "公寓在十楼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "top floor",
+        "cn": "顶楼"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100013,
+    "word": "size",
+    "phonetic0": "saɪz",
+    "phonetic1": "saɪz",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "面积，大小"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the size of the flat?",
+        "cn": "公寓多大面积？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "room size",
+        "cn": "房间大小"
       }
     ],
     "synos": [],
@@ -395,36 +391,6 @@
   },
   {
     "id": 1100014,
-    "word": "furniture",
-    "phonetic0": "ˈfɜːnɪtʃə",
-    "phonetic1": "ˈfɜːrnɪtʃər",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "家具"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "We need some new furniture.",
-        "cn": "我们需要一些新家具。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "a piece of furniture",
-        "cn": "一件家具"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100015,
     "word": "bills",
     "phonetic0": "bɪlz",
     "phonetic1": "bɪlz",
@@ -454,26 +420,56 @@
     "etymology": []
   },
   {
-    "id": 1100016,
-    "word": "electricity",
-    "phonetic0": "ɪˌlekˈtrɪsəti",
-    "phonetic1": "ɪˌlekˈtrɪsəti",
+    "id": 1100015,
+    "word": "agent",
+    "phonetic0": "ˈeɪdʒənt",
+    "phonetic1": "ˈeɪdʒənt",
     "trans": [
       {
         "pos": "n.",
-        "cn": "电"
+        "cn": "中介"
       }
     ],
     "sentences": [
       {
-        "c": "The electricity was cut off.",
-        "cn": "停电了。"
+        "c": "The agent will show you the flat.",
+        "cn": "中介会带你看房。"
       }
     ],
     "phrases": [
       {
-        "c": "electricity bill",
-        "cn": "电费单"
+        "c": "estate agent",
+        "cn": "房产中介"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100016,
+    "word": "gas",
+    "phonetic0": "ɡæs",
+    "phonetic1": "ɡæs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "燃气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is gas included in the rent?",
+        "cn": "房租包燃气费吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "gas bill",
+        "cn": "燃气费"
       }
     ],
     "synos": [],
@@ -485,25 +481,25 @@
   },
   {
     "id": 1100017,
-    "word": "neighbour",
-    "phonetic0": "ˈneɪbə",
-    "phonetic1": "ˈneɪbər",
+    "word": "notice",
+    "phonetic0": "ˈnəʊtɪs",
+    "phonetic1": "ˈnoʊtɪs",
     "trans": [
       {
         "pos": "n.",
-        "cn": "邻居（美式 neighbor）"
+        "cn": "通知；提前告知"
       }
     ],
     "sentences": [
       {
-        "c": "My neighbour is very friendly.",
-        "cn": "我的邻居很友好。"
+        "c": "I need to give one month's notice before moving out.",
+        "cn": "搬走前要提前一个月通知。"
       }
     ],
     "phrases": [
       {
-        "c": "next-door neighbour",
-        "cn": "隔壁邻居"
+        "c": "give notice",
+        "cn": "提前通知"
       }
     ],
     "synos": [],
@@ -515,29 +511,25 @@
   },
   {
     "id": 1100018,
-    "word": "repair",
-    "phonetic0": "rɪˈpeə",
-    "phonetic1": "rɪˈper",
+    "word": "kitchen",
+    "phonetic0": "ˈkɪtʃɪn",
+    "phonetic1": "ˈkɪtʃɪn",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "修理"
-      },
-      {
         "pos": "n.",
-        "cn": "修理"
+        "cn": "厨房"
       }
     ],
     "sentences": [
       {
-        "c": "Can you repair the tap?",
-        "cn": "你能修一下水龙头吗？"
+        "c": "Can I use the kitchen?",
+        "cn": "我可以用厨房吗？"
       }
     ],
     "phrases": [
       {
-        "c": "under repair",
-        "cn": "维修中"
+        "c": "shared kitchen",
+        "cn": "共用厨房"
       }
     ],
     "synos": [],
@@ -549,29 +541,25 @@
   },
   {
     "id": 1100019,
-    "word": "leak",
-    "phonetic0": "liːk",
-    "phonetic1": "liːk",
+    "word": "key",
+    "phonetic0": "kiː",
+    "phonetic1": "kiː",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "漏"
-      },
-      {
         "pos": "n.",
-        "cn": "漏洞"
+        "cn": "钥匙"
       }
     ],
     "sentences": [
       {
-        "c": "The pipe is leaking.",
-        "cn": "水管漏水了。"
+        "c": "I lost my house key.",
+        "cn": "我把家门钥匙丢了。"
       }
     ],
     "phrases": [
       {
-        "c": "water leak",
-        "cn": "漏水"
+        "c": "spare key",
+        "cn": "备用钥匙"
       }
     ],
     "synos": [],
@@ -583,25 +571,25 @@
   },
   {
     "id": 1100020,
-    "word": "lease",
-    "phonetic0": "liːs",
-    "phonetic1": "liːs",
+    "word": "apartment",
+    "phonetic0": "əˈpɑːtmənt",
+    "phonetic1": "əˈpɑːrtmənt",
     "trans": [
       {
         "pos": "n.",
-        "cn": "租约"
+        "cn": "公寓"
       }
     ],
     "sentences": [
       {
-        "c": "The lease is for one year.",
-        "cn": "租约为期一年。"
+        "c": "The apartment has two bedrooms.",
+        "cn": "这套公寓有两间卧室。"
       }
     ],
     "phrases": [
       {
-        "c": "sign a lease",
-        "cn": "签租约"
+        "c": "apartment building",
+        "cn": "公寓楼"
       }
     ],
     "synos": [],
@@ -613,6 +601,36 @@
   },
   {
     "id": 1100021,
+    "word": "lift",
+    "phonetic0": "lɪft",
+    "phonetic1": "lɪft",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电梯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a lift in the building?",
+        "cn": "楼里有电梯吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take the lift",
+        "cn": "坐电梯"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100022,
     "word": "location",
     "phonetic0": "ləʊˈkeɪʃn",
     "phonetic1": "loʊˈkeɪʃn",
@@ -642,56 +660,26 @@
     "etymology": []
   },
   {
-    "id": 1100022,
-    "word": "convenient",
-    "phonetic0": "kənˈviːniənt",
-    "phonetic1": "kənˈviːniənt",
+    "id": 1100023,
+    "word": "quiet",
+    "phonetic0": "ˈkwaɪət",
+    "phonetic1": "ˈkwaɪət",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "方便的"
+        "cn": "安静的"
       }
     ],
     "sentences": [
       {
-        "c": "It's convenient for the metro.",
-        "cn": "坐地铁很方便。"
+        "c": "The area is very quiet at night.",
+        "cn": "这一片晚上很安静。"
       }
     ],
     "phrases": [
       {
-        "c": "convenient for",
-        "cn": "对……方便"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100023,
-    "word": "balcony",
-    "phonetic0": "ˈbælkəni",
-    "phonetic1": "ˈbælkəni",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "阳台"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The flat has a small balcony.",
-        "cn": "这套公寓有个小阳台。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "on the balcony",
-        "cn": "在阳台上"
+        "c": "quiet area",
+        "cn": "安静的地区"
       }
     ],
     "synos": [],
@@ -703,6 +691,126 @@
   },
   {
     "id": 1100024,
+    "word": "flat",
+    "phonetic0": "flæt",
+    "phonetic1": "flæt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "公寓（美式 apartment）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I live in a small flat.",
+        "cn": "我住在一套小公寓里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rent a flat",
+        "cn": "租公寓"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100025,
+    "word": "bedroom",
+    "phonetic0": "ˈbedruːm",
+    "phonetic1": "ˈbedruːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "卧室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is the bedroom furnished?",
+        "cn": "卧室有家具吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "master bedroom",
+        "cn": "主卧"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100026,
+    "word": "neighbour",
+    "phonetic0": "ˈneɪbə",
+    "phonetic1": "ˈneɪbər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "邻居（美式 neighbor）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My neighbour is very friendly.",
+        "cn": "我的邻居很友好。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "next-door neighbour",
+        "cn": "隔壁邻居"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100027,
+    "word": "tenant",
+    "phonetic0": "ˈtenənt",
+    "phonetic1": "ˈtenənt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "租客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The tenant pays the bills.",
+        "cn": "账单由租客支付。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new tenant",
+        "cn": "新租客"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100028,
     "word": "lock",
     "phonetic0": "lɒk",
     "phonetic1": "lɑːk",
@@ -736,7 +844,529 @@
     "etymology": []
   },
   {
-    "id": 1100025,
+    "id": 1100029,
+    "word": "electricity",
+    "phonetic0": "ɪˌlekˈtrɪsəti",
+    "phonetic1": "ɪˌlekˈtrɪsəti",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The electricity was cut off.",
+        "cn": "停电了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "electricity bill",
+        "cn": "电费单"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100030,
+    "word": "deposit",
+    "phonetic0": "dɪˈpɒzɪt",
+    "phonetic1": "dɪˈpɑːzɪt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "押金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The deposit is one month's rent.",
+        "cn": "押金是一个月房租。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "security deposit",
+        "cn": "押金"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100031,
+    "word": "rent",
+    "phonetic0": "rent",
+    "phonetic1": "rent",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "房租"
+      },
+      {
+        "pos": "v.",
+        "cn": "租"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is the rent?",
+        "cn": "房租多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pay the rent",
+        "cn": "交房租"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100032,
+    "word": "bathroom",
+    "phonetic0": "ˈbɑːθruːm",
+    "phonetic1": "ˈbæθruːm",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "浴室，卫生间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bathroom is shared.",
+        "cn": "卫生间是共用的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "private bathroom",
+        "cn": "独立卫浴"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100033,
+    "word": "furniture",
+    "phonetic0": "ˈfɜːnɪtʃə",
+    "phonetic1": "ˈfɜːrnɪtʃər",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家具"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need some new furniture.",
+        "cn": "我们需要一些新家具。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a piece of furniture",
+        "cn": "一件家具"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100034,
+    "word": "landlord",
+    "phonetic0": "ˈlændlɔːd",
+    "phonetic1": "ˈlændlɔːrd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "房东"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to call my landlord.",
+        "cn": "我得给房东打电话。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "landlord",
+        "cn": "房东"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100035,
+    "word": "broken",
+    "phonetic0": "ˈbrəʊkən",
+    "phonetic1": "ˈbroʊkən",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "坏的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The washing machine is broken.",
+        "cn": "洗衣机坏了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "broken window",
+        "cn": "破窗"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100036,
+    "word": "tap",
+    "phonetic0": "tæp",
+    "phonetic1": "tæp",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水龙头（美式 faucet）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The tap is dripping.",
+        "cn": "水龙头在滴水。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "turn off the tap",
+        "cn": "关水龙头"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100037,
+    "word": "repair",
+    "phonetic0": "rɪˈpeə",
+    "phonetic1": "rɪˈper",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "修理"
+      },
+      {
+        "pos": "n.",
+        "cn": "修理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you repair the tap?",
+        "cn": "你能修一下水龙头吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "under repair",
+        "cn": "维修中"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100038,
+    "word": "lease",
+    "phonetic0": "liːs",
+    "phonetic1": "liːs",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "租约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The lease is for one year.",
+        "cn": "租约为期一年。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sign a lease",
+        "cn": "签租约"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100039,
+    "word": "rubbish",
+    "phonetic0": "ˈrʌbɪʃ",
+    "phonetic1": "ˈrʌbɪʃ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "垃圾（美式 trash）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take out the rubbish, please.",
+        "cn": "请把垃圾拿出去。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rubbish bin",
+        "cn": "垃圾桶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100040,
+    "word": "pet",
+    "phonetic0": "pet",
+    "phonetic1": "pet",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "宠物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are pets allowed?",
+        "cn": "可以养宠物吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "no pets",
+        "cn": "禁止宠物"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100041,
+    "word": "convenient",
+    "phonetic0": "kənˈviːniənt",
+    "phonetic1": "kənˈviːniənt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "方便的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's convenient for the metro.",
+        "cn": "坐地铁很方便。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "convenient for",
+        "cn": "对……方便"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100042,
+    "word": "heating",
+    "phonetic0": "ˈhiːtɪŋ",
+    "phonetic1": "ˈhiːtɪŋ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "暖气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The heating doesn't work.",
+        "cn": "暖气不热。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "central heating",
+        "cn": "集中供暖"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100043,
+    "word": "toilet",
+    "phonetic0": "ˈtɔɪlət",
+    "phonetic1": "ˈtɔɪlət",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "马桶；厕所"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The toilet is blocked.",
+        "cn": "马桶堵了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "flush the toilet",
+        "cn": "冲马桶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100044,
+    "word": "leak",
+    "phonetic0": "liːk",
+    "phonetic1": "liːk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "漏"
+      },
+      {
+        "pos": "n.",
+        "cn": "漏洞"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The pipe is leaking.",
+        "cn": "水管漏水了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "water leak",
+        "cn": "漏水"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100045,
+    "word": "balcony",
+    "phonetic0": "ˈbælkəni",
+    "phonetic1": "ˈbælkəni",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "阳台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The flat has a small balcony.",
+        "cn": "这套公寓有个小阳台。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the balcony",
+        "cn": "在阳台上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1100046,
     "word": "viewing",
     "phonetic0": "ˈvjuːɪŋ",
     "phonetic1": "ˈvjuːɪŋ",
@@ -766,37 +1396,7 @@
     "etymology": []
   },
   {
-    "id": 1100026,
-    "word": "agent",
-    "phonetic0": "ˈeɪdʒənt",
-    "phonetic1": "ˈeɪdʒənt",
-    "trans": [
-      {
-        "pos": "n.",
-        "cn": "中介"
-      }
-    ],
-    "sentences": [
-      {
-        "c": "The agent will show you the flat.",
-        "cn": "中介会带你看房。"
-      }
-    ],
-    "phrases": [
-      {
-        "c": "estate agent",
-        "cn": "房产中介"
-      }
-    ],
-    "synos": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "etymology": []
-  },
-  {
-    "id": 1100027,
+    "id": 1100047,
     "word": "roommate",
     "phonetic0": "ˈruːmmeɪt",
     "phonetic1": "ˈruːmmeɪt",
@@ -826,26 +1426,26 @@
     "etymology": []
   },
   {
-    "id": 1100028,
-    "word": "rubbish",
-    "phonetic0": "ˈrʌbɪʃ",
-    "phonetic1": "ˈrʌbɪʃ",
+    "id": 1100048,
+    "word": "furnished",
+    "phonetic0": "ˈfɜːnɪʃt",
+    "phonetic1": "ˈfɜːrnɪʃt",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "垃圾（美式 trash）"
+        "pos": "adj.",
+        "cn": "带家具的"
       }
     ],
     "sentences": [
       {
-        "c": "Take out the rubbish, please.",
-        "cn": "请把垃圾拿出去。"
+        "c": "Is the flat furnished?",
+        "cn": "公寓带家具吗？"
       }
     ],
     "phrases": [
       {
-        "c": "rubbish bin",
-        "cn": "垃圾桶"
+        "c": "fully furnished",
+        "cn": "家具齐全"
       }
     ],
     "synos": [],

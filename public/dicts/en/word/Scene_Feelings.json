@@ -1,0 +1,966 @@
+[
+  {
+    "id": 1280001,
+    "word": "like",
+    "phonetic0": "laɪk",
+    "phonetic1": "laɪk",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "喜欢"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I really like your idea.",
+        "cn": "我很喜欢你的想法。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "would like",
+        "cn": "想要"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280002,
+    "word": "feel",
+    "phonetic0": "fiːl",
+    "phonetic1": "fiːl",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "感觉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do you feel?",
+        "cn": "你感觉怎么样？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel like",
+        "cn": "想要"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280003,
+    "word": "love",
+    "phonetic0": "lʌv",
+    "phonetic1": "lʌv",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "爱"
+      },
+      {
+        "pos": "n.",
+        "cn": "爱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I love this song.",
+        "cn": "我爱这首歌。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fall in love",
+        "cn": "爱上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280004,
+    "word": "happy",
+    "phonetic0": "ˈhæpi",
+    "phonetic1": "ˈhæpi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "开心的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm so happy for you!",
+        "cn": "我真为你高兴！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "happy birthday",
+        "cn": "生日快乐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280005,
+    "word": "sorry",
+    "phonetic0": "ˈsɒri",
+    "phonetic1": "ˈsɑːri",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "难过的；抱歉的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm sorry about your loss.",
+        "cn": "对你的损失我很难过。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel sorry for",
+        "cn": "同情"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280006,
+    "word": "afraid",
+    "phonetic0": "əˈfreɪd",
+    "phonetic1": "əˈfreɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "害怕的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm afraid of dogs.",
+        "cn": "我怕狗。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "afraid of",
+        "cn": "害怕"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280007,
+    "word": "hate",
+    "phonetic0": "heɪt",
+    "phonetic1": "heɪt",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "讨厌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hate waiting in queues.",
+        "cn": "我讨厌排队。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hate doing",
+        "cn": "讨厌做"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280008,
+    "word": "angry",
+    "phonetic0": "ˈæŋɡri",
+    "phonetic1": "ˈæŋɡri",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "生气的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't be angry with me.",
+        "cn": "别生我的气。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "angry with",
+        "cn": "生……的气"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280009,
+    "word": "surprised",
+    "phonetic0": "səˈpraɪzd",
+    "phonetic1": "sərˈpraɪzd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "惊讶的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I was surprised to see him.",
+        "cn": "见到他我很惊讶。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "surprised at",
+        "cn": "对……感到惊讶"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280010,
+    "word": "tired",
+    "phonetic0": "ˈtaɪəd",
+    "phonetic1": "ˈtaɪərd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "累的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm too tired to go out.",
+        "cn": "我太累了不想出门。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tired of",
+        "cn": "厌倦"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280011,
+    "word": "proud",
+    "phonetic0": "praʊd",
+    "phonetic1": "praʊd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "骄傲的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm proud of you.",
+        "cn": "我为你骄傲。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "proud of",
+        "cn": "为……骄傲"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280012,
+    "word": "sad",
+    "phonetic0": "sæd",
+    "phonetic1": "sæd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "难过的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Why do you look so sad?",
+        "cn": "你怎么看起来这么难过？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel sad",
+        "cn": "感到难过"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280013,
+    "word": "glad",
+    "phonetic0": "ɡlæd",
+    "phonetic1": "ɡlæd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "高兴的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm glad you came.",
+        "cn": "很高兴你来了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "glad to",
+        "cn": "乐意"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280014,
+    "word": "worried",
+    "phonetic0": "ˈwʌrid",
+    "phonetic1": "ˈwɜːrid",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "担心的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm worried about my exam.",
+        "cn": "我担心我的考试。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "worried about",
+        "cn": "担心"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280015,
+    "word": "mood",
+    "phonetic0": "muːd",
+    "phonetic1": "muːd",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "心情"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm in a good mood today.",
+        "cn": "我今天心情很好。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in a good mood",
+        "cn": "心情好"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280016,
+    "word": "nervous",
+    "phonetic0": "ˈnɜːvəs",
+    "phonetic1": "ˈnɜːrvəs",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "紧张的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm nervous about the interview.",
+        "cn": "我对面试很紧张。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel nervous",
+        "cn": "感到紧张"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280017,
+    "word": "satisfied",
+    "phonetic0": "ˈsætɪsfaɪd",
+    "phonetic1": "ˈsætɪsfaɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "满意的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are you satisfied with the service?",
+        "cn": "你对服务满意吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "satisfied with",
+        "cn": "对……满意"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280018,
+    "word": "grateful",
+    "phonetic0": "ˈɡreɪtfl",
+    "phonetic1": "ˈɡreɪtfl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "感激的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm grateful for your help.",
+        "cn": "感谢你的帮助。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "grateful for",
+        "cn": "感激"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280019,
+    "word": "disappointed",
+    "phonetic0": "ˌdɪsəˈpɔɪntɪd",
+    "phonetic1": "ˌdɪsəˈpɔɪntɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "失望的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm disappointed with the result.",
+        "cn": "我对结果很失望。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "disappointed with",
+        "cn": "对……失望"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280020,
+    "word": "upset",
+    "phonetic0": "ʌpˈset",
+    "phonetic1": "ʌpˈset",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "心烦的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's upset about the news.",
+        "cn": "她因为这个消息很心烦。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get upset",
+        "cn": "心烦"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280021,
+    "word": "excited",
+    "phonetic0": "ɪkˈsaɪtɪd",
+    "phonetic1": "ɪkˈsaɪtɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "兴奋的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm so excited about the trip!",
+        "cn": "我对这次旅行好兴奋！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "excited about",
+        "cn": "对……兴奋"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280022,
+    "word": "confused",
+    "phonetic0": "kənˈfjuːzd",
+    "phonetic1": "kənˈfjuːzd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "困惑的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm confused, can you explain again?",
+        "cn": "我有点糊涂，你能再解释一下吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a bit confused",
+        "cn": "有点困惑"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280023,
+    "word": "lonely",
+    "phonetic0": "ˈləʊnli",
+    "phonetic1": "ˈloʊnli",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "孤独的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I feel lonely in a new city.",
+        "cn": "在新城市我觉得孤独。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel lonely",
+        "cn": "感到孤独"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280024,
+    "word": "calm",
+    "phonetic0": "kɑːm",
+    "phonetic1": "kɑːm",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "平静的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Try to stay calm.",
+        "cn": "尽量保持冷静。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "calm down",
+        "cn": "冷静下来"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280025,
+    "word": "relaxed",
+    "phonetic0": "rɪˈlækst",
+    "phonetic1": "rɪˈlækst",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "放松的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I feel relaxed after a hot bath.",
+        "cn": "洗完热水澡我觉得很放松。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel relaxed",
+        "cn": "感到放松"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280026,
+    "word": "bored",
+    "phonetic0": "bɔːd",
+    "phonetic1": "bɔːrd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "无聊的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm bored at home.",
+        "cn": "我在家好无聊。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get bored",
+        "cn": "觉得无聊"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280027,
+    "word": "embarrassed",
+    "phonetic0": "ɪmˈbærəst",
+    "phonetic1": "ɪmˈbærəst",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "尴尬的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I felt so embarrassed.",
+        "cn": "我觉得好尴尬。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel embarrassed",
+        "cn": "觉得尴尬"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280028,
+    "word": "cheer",
+    "phonetic0": "tʃɪə",
+    "phonetic1": "tʃɪr",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "振作（cheer up）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cheer up! It's not that bad.",
+        "cn": "振作点！没那么糟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cheer up",
+        "cn": "振作起来"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280029,
+    "word": "jealous",
+    "phonetic0": "ˈdʒeləs",
+    "phonetic1": "ˈdʒeləs",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "嫉妒的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't be jealous.",
+        "cn": "别嫉妒。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "jealous of",
+        "cn": "嫉妒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280030,
+    "word": "annoyed",
+    "phonetic0": "əˈnɔɪd",
+    "phonetic1": "əˈnɔɪd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "恼火的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm annoyed with my roommate.",
+        "cn": "我对我室友很恼火。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "annoyed with",
+        "cn": "对……恼火"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280031,
+    "word": "stressed",
+    "phonetic0": "strest",
+    "phonetic1": "strest",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有压力的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm really stressed at work.",
+        "cn": "我工作压力很大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stressed out",
+        "cn": "压力很大"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": 1280032,
+    "word": "homesick",
+    "phonetic0": "ˈhəʊmsɪk",
+    "phonetic1": "ˈhoʊmsɪk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "想家的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm a bit homesick.",
+        "cn": "我有点想家。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel homesick",
+        "cn": "想家"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

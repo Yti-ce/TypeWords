@@ -1,0 +1,32 @@
+# 场景·颜色形状
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+colour | ˈkʌlə | ˈkʌlər | n.:颜色（美式 color） | What's your favourite colour? | 你最喜欢什么颜色？ | bright colour:鲜艳的颜色
+red | red | red | adj.:红色的 | She's wearing a red dress. | 她穿着一条红裙子。 | red wine:红酒
+blue | bluː | bluː | adj.:蓝色的 | The sky is so blue today. | 今天天空好蓝。 | dark blue:深蓝
+green | ɡriːn | ɡriːn | adj.:绿色的 | The light turned green. | 绿灯亮了。 | green tea:绿茶
+yellow | ˈjeləʊ | ˈjeloʊ | adj.:黄色的 | I bought a yellow umbrella. | 我买了一把黄色的伞。 | yellow light:黄灯
+black | blæk | blæk | adj.:黑色的 | I'd like it in black. | 我想要黑色的。 | black coffee:黑咖啡
+white | waɪt | waɪt | adj.:白色的 | The walls are white. | 墙是白色的。 | white rice:白米饭
+grey | ɡreɪ | ɡreɪ | adj.:灰色的（美式 gray） | It's a grey day. | 今天天色阴沉。 | grey hair:白发
+brown | braʊn | braʊn | adj.:棕色的 | He has brown eyes. | 他有一双棕色眼睛。 | brown sugar:红糖
+pink | pɪŋk | pɪŋk | adj.:粉色的 | Do you have this in pink? | 这个有粉色的吗？ | light pink:浅粉色
+purple | ˈpɜːpl | ˈpɜːrpl | adj.:紫色的 | Purple is my favourite colour. | 紫色是我最喜欢的颜色。 | dark purple:深紫色
+orange | ˈɒrɪndʒ | ˈɔːrɪndʒ | adj.:橙色的 | The leaves turn orange in autumn. | 秋天叶子变成橙色。 | bright orange:亮橙色
+gold | ɡəʊld | ɡoʊld | n.:金色；黄金 | She wears a gold ring. | 她戴着金戒指。 | gold medal:金牌
+silver | ˈsɪlvə | ˈsɪlvər | n.:银色；银 | I want the silver one. | 我要银色的那个。 | silver medal:银牌
+dark | dɑːk | dɑːrk | adj.:深色的；黑暗的 | I prefer dark colours. | 我更喜欢深色。 | dark green:深绿
+light | laɪt | laɪt | adj.:浅色的 | Light blue looks good on you. | 你穿浅蓝色好看。 | light blue:浅蓝
+bright | braɪt | braɪt | adj.:明亮的，鲜艳的 | The room is bright and sunny. | 房间明亮又阳光充足。 | bright colour:鲜艳色
+shape | ʃeɪp | ʃeɪp | n.:形状 | What shape is it? | 它是什么形状的？ | in the shape of:呈……形状
+round | raʊnd | raʊnd | adj.:圆的 | We have a round table. | 我们有一张圆桌。 | round table:圆桌
+square | skweə | skwer | adj.:正方形的; n.:正方形 | The box is square. | 盒子是方的。 | square metre:平方米
+circle | ˈsɜːkl | ˈsɜːrkl | n.:圆圈 | Draw a circle. | 画一个圆。 | in a circle:围成一圈
+line | laɪn | laɪn | n.:线 | Draw a straight line. | 画一条直线。 | straight line:直线
+triangle | ˈtraɪæŋɡl | ˈtraɪæŋɡl | n.:三角形 | The sign is a red triangle. | 标志是一个红色三角形。 | triangle shape:三角形
+size | saɪz | saɪz | n.:大小 | They are the same size. | 它们一样大。 | the same size:一样大
+big | bɪɡ | bɪɡ | adj.:大的 | That's a big house. | 那是一栋大房子。 | big deal:大事
+small | smɔːl | smɔːl | adj.:小的 | It's a small room. | 是个小房间。 | small size:小号
+long | lɒŋ | lɔːŋ | adj.:长的 | It's a long way. | 路很远。 | a long time:很长时间
+wide | waɪd | waɪd | adj.:宽的 | The road is very wide. | 这条路很宽。 | wide range:广泛
+flat | flæt | flæt | adj.:平的 | The ground is flat here. | 这里地面很平。 | flat tyre:瘪胎
+heavy | ˈhevi | ˈhevi | adj.:重的 | This bag is too heavy. | 这个包太重了。 | heavy bag:沉的包

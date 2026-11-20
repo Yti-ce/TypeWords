@@ -1,0 +1,35 @@
+# 场景·身体部位
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+head | hed | hed | n.:头 | My head hurts. | 我头疼。 | head to toe:从头到脚
+hand | hænd | hænd | n.:手 | Wash your hands before eating. | 吃饭前洗手。 | shake hands:握手
+eye | aɪ | aɪ | n.:眼睛 | Close your eyes. | 闭上眼睛。 | eye contact:眼神交流
+face | feɪs | feɪs | n.:脸 | Wash your face. | 洗洗脸。 | face to face:面对面
+back | bæk | bæk | n.:背 | I have a pain in my back. | 我背疼。 | back pain:背痛
+body | ˈbɒdi | ˈbɑːdi | n.:身体 | Listen to your body. | 倾听你身体的感受。 | body language:肢体语言
+arm | ɑːm | ɑːrm | n.:手臂 | I hurt my arm. | 我手臂受伤了。 | arm in arm:臂挽着臂
+foot | fʊt | fʊt | n.:脚 | My left foot hurts. | 我左脚疼。 | on foot:步行
+leg | leɡ | leɡ | n.:腿 | My legs are tired. | 我的腿很累。 | broken leg:腿骨折
+heart | hɑːt | hɑːrt | n.:心脏 | Exercise is good for your heart. | 运动对心脏有好处。 | heart rate:心率
+mouth | maʊθ | maʊθ | n.:嘴 | Open your mouth, please. | 请张嘴。 | open your mouth:张嘴
+hair | heə | her | n.:头发 | She has long hair. | 她留着长发。 | short hair:短发
+ear | ɪə | ɪr | n.:耳朵 | My ear hurts. | 我耳朵疼。 | ear infection:耳朵发炎
+nose | nəʊz | noʊz | n.:鼻子 | I have a runny nose. | 我流鼻涕。 | runny nose:流鼻涕
+neck | nek | nek | n.:脖子 | My neck is stiff. | 我脖子僵硬。 | stiff neck:落枕
+shoulder | ˈʃəʊldə | ˈʃoʊldər | n.:肩膀 | My shoulder hurts when I lift my arm. | 我一抬胳膊肩膀就疼。 | shoulder pain:肩痛
+finger | ˈfɪŋɡə | ˈfɪŋɡər | n.:手指 | I cut my finger. | 我割破了手指。 | little finger:小指
+knee | niː | niː | n.:膝盖 | I hurt my knee playing football. | 我踢足球伤了膝盖。 | knee injury:膝伤
+skin | skɪn | skɪn | n.:皮肤 | She has very soft skin. | 她的皮肤很柔软。 | dry skin:干燥皮肤
+blood | blʌd | blʌd | n.:血 | There's blood on your shirt. | 你衬衫上有血。 | blood type:血型
+bone | bəʊn | boʊn | n.:骨头 | He broke a bone in his hand. | 他手上骨折了。 | broken bone:骨折
+brain | breɪn | breɪn | n.:大脑 | Reading is good for your brain. | 阅读对大脑有益。 | brain power:脑力
+tooth | tuːθ | tuːθ | n.:牙齿 | Brush your teeth twice a day. | 一天刷两次牙。 | brush teeth:刷牙
+lip | lɪp | lɪp | n.:嘴唇 | My lips are dry. | 我嘴唇干。 | lip balm:润唇膏
+chest | tʃest | tʃest | n.:胸部 | I have a pain in my chest. | 我胸口疼。 | chest pain:胸痛
+stomach | ˈstʌmək | ˈstʌmək | n.:肚子，胃 | My stomach is full. | 我吃饱了。 | stomach ache:胃痛
+toe | təʊ | toʊ | n.:脚趾 | I hit my toe on the table. | 我的脚趾撞到桌子了。 | big toe:大脚趾
+wrist | rɪst | rɪst | n.:手腕 | I wear my watch on my left wrist. | 我把手表戴在左手腕上。 | wrist watch:手表
+ankle | ˈæŋkl | ˈæŋkl | n.:脚踝 | I twisted my ankle. | 我扭了脚踝。 | twist an ankle:扭伤脚踝
+elbow | ˈelbəʊ | ˈelboʊ | n.:手肘 | Don't put your elbows on the table. | 别把手肘放在桌上。 | elbow pain:手肘痛
+thumb | θʌm | θʌm | n.:拇指 | Give it a thumbs up. | 给它点个赞。 | thumbs up:点赞
+waist | weɪst | weɪst | n.:腰 | These trousers are too big at the waist. | 这条裤子腰太大了。 | waist size:腰围
+lung | lʌŋ | lʌŋ | n.:肺 | Smoking is bad for your lungs. | 吸烟对肺不好。 | lung cancer:肺癌

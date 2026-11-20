@@ -27,3 +27,23 @@ bleeding | ˈbliːdɪŋ | ˈbliːdɪŋ | adj.:流血的; n.:出血 | Her arm is 
 unconscious | ʌnˈkɒnʃəs | ʌnˈkɑːnʃəs | adj.:失去知觉的 | He's unconscious! | 他昏过去了！ | fall unconscious:昏迷
 calm | kɑːm | kɑːm | adj.:冷静的 | Stay calm. | 保持冷静。 | calm down:冷静下来
 address | əˈdres | ˈædres | n.:地址 | What's the address of the emergency? | 出事地点的地址是哪里？ | exact address:确切地址
+call | kɔːl | kɔːl | v.:打电话 | Call 110 right now! | 马上打110！ | call for help:呼救
+hurt | hɜːt | hɜːrt | adj.:受伤的; v.:伤害 | Are you hurt? | 你受伤了吗？ | get hurt:受伤
+stop | stɒp | stɑːp | v.:停下 | Stop! Don't move! | 停下！别动！ | stop it:住手
+bag | bæɡ | bæɡ | n.:包 | Someone took my bag. | 有人拿走了我的包。 | handbag:手提包
+phone | fəʊn | foʊn | n.:手机 | My phone was stolen on the bus. | 我的手机在公交上被偷了。 | lost phone:丢失的手机
+officer | ˈɒfɪsə | ˈɑːfɪsər | n.:警官 | Excuse me, officer, can you help me? | 警官，打扰一下，你能帮我吗？ | police officer:警察
+station | ˈsteɪʃn | ˈsteɪʃn | n.:站，局 | Where is the nearest police station? | 最近的派出所在哪里？ | police station:派出所
+crime | kraɪm | kraɪm | n.:犯罪 | I want to report a crime. | 我要报案。 | report a crime:报案
+attack | əˈtæk | əˈtæk | v.:攻击; n.:袭击 | A dog attacked me. | 一只狗咬了我。 | heart attack:心脏病发作
+scared | skeəd | skerd | adj.:害怕的 | I'm really scared. | 我真的很害怕。 | scared of:害怕
+smoke | sməʊk | smoʊk | n.:烟 | I can smell smoke! | 我闻到烟味了！ | smoke alarm:烟雾报警器
+gas | ɡæs | ɡæs | n.:煤气 | I think there's a gas leak. | 我觉得有煤气泄漏。 | gas leak:煤气泄漏
+flood | flʌd | flʌd | n.:洪水 | The street is flooded. | 街道被淹了。 | flash flood:山洪
+earthquake | ˈɜːθkweɪk | ˈɜːrθkweɪk | n.:地震 | What should we do in an earthquake? | 地震时我们该怎么办？ | strong earthquake:强烈地震
+stuck | stʌk | stʌk | adj.:被困住的 | I'm stuck in the lift! | 我被困在电梯里了！ | get stuck:被困
+trapped | træpt | træpt | adj.:被困的 | People are trapped inside. | 有人被困在里面。 | be trapped:被困
+missing | ˈmɪsɪŋ | ˈmɪsɪŋ | adj.:失踪的 | My child is missing! | 我的孩子不见了！ | missing person:失踪人员
+first | fɜːst | fɜːrst | adj.:第一的 | Does anyone know first aid? | 有人会急救吗？ | first aid:急救
+aid | eɪd | eɪd | n.:救助 | Where is the first aid kit? | 急救箱在哪里？ | first aid kit:急救箱
+poison | ˈpɔɪzn | ˈpɔɪzn | n.:毒药; v.:使中毒 | I think he ate something poisonous. | 我觉得他吃了有毒的东西。 | food poisoning:食物中毒

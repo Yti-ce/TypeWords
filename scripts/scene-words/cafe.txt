@@ -1,0 +1,37 @@
+# 场景·咖啡奶茶店
+# word | 英音 | 美音 | 词性:释义; 词性:释义 | 例句 | 例句翻译 | 短语:释义
+coffee | ˈkɒfi | ˈkɔːfi | n.:咖啡 | Let's grab a coffee. | 我们去买杯咖啡吧。 | a cup of coffee:一杯咖啡
+tea | tiː | tiː | n.:茶 | I'd like a cup of green tea. | 我想要一杯绿茶。 | milk tea:奶茶
+cup | kʌp | kʌp | n.:杯 | Can I have a large cup? | 可以要大杯吗？ | paper cup:纸杯
+milk | mɪlk | mɪlk | n.:牛奶 | Can I have oat milk instead? | 可以换成燕麦奶吗？ | oat milk:燕麦奶
+sugar | ˈʃʊɡə | ˈʃʊɡər | n.:糖 | Half sugar, please. | 请半糖。 | no sugar:无糖
+ice | aɪs | aɪs | n.:冰 | Less ice, please. | 请少冰。 | less ice:少冰
+hot | hɒt | hɑːt | adj.:热的 | One hot latte, please. | 请来一杯热拿铁。 | hot drink:热饮
+iced | aɪst | aɪst | adj.:冰的 | An iced americano, please. | 请来一杯冰美式。 | iced coffee:冰咖啡
+small | smɔːl | smɔːl | adj.:小的 | A small cup is enough. | 小杯就够了。 | small size:小杯
+medium | ˈmiːdiəm | ˈmiːdiəm | adj.:中等的 | Medium or large? | 中杯还是大杯？ | medium size:中杯
+large | lɑːdʒ | lɑːrdʒ | adj.:大的 | I'll have a large one. | 我要大杯的。 | large size:大杯
+sweet | swiːt | swiːt | adj.:甜的 | It's too sweet for me. | 对我来说太甜了。 | not too sweet:不要太甜
+flavour | ˈfleɪvə | ˈfleɪvər | n.:口味（美式 flavor） | What flavours do you have? | 你们有什么口味？ | strawberry flavour:草莓味
+cake | keɪk | keɪk | n.:蛋糕 | A slice of chocolate cake, please. | 请来一块巧克力蛋糕。 | a piece of cake:一块蛋糕
+chocolate | ˈtʃɒklət | ˈtʃɑːklət | n.:巧克力 | I'll have a hot chocolate. | 我要一杯热巧克力。 | hot chocolate:热巧克力
+cream | kriːm | kriːm | n.:奶油 | No cream on top, please. | 上面不要奶油。 | whipped cream:鲜奶油
+latte | ˈlɑːteɪ | ˈlɑːteɪ | n.:拿铁 | One vanilla latte, please. | 请来一杯香草拿铁。 | iced latte:冰拿铁
+bubble | ˈbʌbl | ˈbʌbl | n.:泡泡；珍珠 | I love bubble tea. | 我超爱珍珠奶茶。 | bubble tea:珍珠奶茶
+pearl | pɜːl | pɜːrl | n.:珍珠 | Add extra pearls, please. | 请多加珍珠。 | tapioca pearls:珍珠（木薯）
+topping | ˈtɒpɪŋ | ˈtɑːpɪŋ | n.:配料，小料 | What toppings would you like? | 你想加什么小料？ | add toppings:加小料
+straw | strɔː | strɔː | n.:吸管 | Can I get a straw? | 可以给我一根吸管吗？ | paper straw:纸吸管
+lid | lɪd | lɪd | n.:盖子 | Could I have a lid for my cup? | 能给我的杯子一个盖子吗？ | cup lid:杯盖
+here | hɪə | hɪr | adv.:在这里 | For here or to go? | 在这儿喝还是带走？ | for here:堂食
+go | ɡəʊ | ɡoʊ | v.:走；带走 | I'll take it to go. | 我带走。 | to go:外带
+wait | weɪt | weɪt | v.:等 | Please wait for your number. | 请等叫号。 | wait a moment:稍等
+name | neɪm | neɪm | n.:名字 | Can I get a name for the order? | 订单写什么名字？ | your name:你的名字
+seat | siːt | siːt | n.:座位 | Is anyone sitting here? | 这里有人坐吗？ | window seat:靠窗座位
+socket | ˈsɒkɪt | ˈsɑːkɪt | n.:插座 | Is there a socket near this table? | 这张桌子附近有插座吗？ | power socket:电源插座
+decaf | ˈdiːkæf | ˈdiːkæf | n.:低因咖啡 | Do you have decaf? | 你们有低因咖啡吗？ | decaf coffee:低因咖啡
+strong | strɒŋ | strɔːŋ | adj.:浓的 | Make it strong, please. | 请做浓一点。 | strong coffee:浓咖啡
+cookie | ˈkʊki | ˈkʊki | n.:饼干 | Can I have a cookie with that? | 再加一块饼干可以吗？ | chocolate cookie:巧克力饼干
+sandwich | ˈsænwɪtʃ | ˈsænwɪtʃ | n.:三明治 | I'll have a chicken sandwich. | 我要一个鸡肉三明治。 | ham sandwich:火腿三明治
+refill | ˈriːfɪl | ˈriːfɪl | n.:续杯 | Are refills free? | 续杯免费吗？ | free refill:免费续杯
+stamp | stæmp | stæmp | n.:印章，积分章 | Ten stamps get you a free coffee. | 集满十个章送一杯咖啡。 | stamp card:集点卡
+barista | bəˈriːstə | bəˈriːstə | n.:咖啡师 | The barista made a heart in my latte. | 咖啡师在我的拿铁上拉了一个心形。 | coffee barista:咖啡师

@@ -30,3 +30,22 @@ miss | mɪs | mɪs | v.:想念 | I miss you. | 我想你。 | miss home:想家
 bye | baɪ | baɪ | int.:再见 | Bye, see you tomorrow! | 再见，明天见！ | see you:再见
 chat | tʃæt | tʃæt | v.:聊天; n.:聊天 | It was nice chatting with you. | 和你聊天很愉快。 | have a chat:聊一聊
 favour | ˈfeɪvə | ˈfeɪvər | n.:帮忙（美式 favor） | Can you do me a favour? | 你能帮我个忙吗？ | do me a favour:帮我个忙
+how | haʊ | haʊ | adv.:怎样 | How are you doing? | 你最近怎么样？ | how about:……怎么样
+nice | naɪs | naɪs | adj.:好的，令人愉快的 | Have a nice day! | 祝你今天愉快！ | nice to meet you:很高兴认识你
+good | ɡʊd | ɡʊd | adj.:好的 | Good morning! | 早上好！ | good luck:祝你好运
+morning | ˈmɔːnɪŋ | ˈmɔːrnɪŋ | n.:早上 | See you tomorrow morning. | 明早见。 | good morning:早上好
+evening | ˈiːvnɪŋ | ˈiːvnɪŋ | n.:晚上 | Good evening, everyone. | 大家晚上好。 | this evening:今晚
+luck | lʌk | lʌk | n.:运气 | Good luck with your exam! | 祝你考试顺利！ | good luck:祝你好运
+help | help | help | n.:帮助; v.:帮助 | Thanks for your help. | 谢谢你的帮助。 | need help:需要帮忙
+mind | maɪnd | maɪnd | v.:介意 | Do you mind if I sit here? | 你介意我坐这儿吗？ | never mind:没关系
+problem | ˈprɒbləm | ˈprɑːbləm | n.:问题 | No problem at all. | 完全没问题。 | no problem:没问题
+together | təˈɡeðə | təˈɡeðər | adv.:一起 | Let's have dinner together. | 我们一起吃晚饭吧。 | get together:聚会
+join | dʒɔɪn | dʒɔɪn | v.:加入 | Would you like to join us? | 你想加入我们吗？ | join us:加入我们
+visit | ˈvɪzɪt | ˈvɪzɪt | v.:拜访; n.:拜访 | Come and visit us sometime. | 有空来我们家坐坐。 | pay a visit:拜访
+hope | həʊp | hoʊp | v.:希望 | I hope to see you again soon. | 希望很快再见到你。 | hope so:希望如此
+agree | əˈɡriː | əˈɡriː | v.:同意 | I totally agree with you. | 我完全同意你。 | agree with:同意
+hug | hʌɡ | hʌɡ | n.:拥抱; v.:拥抱 | Come here and give me a hug. | 过来抱一下。 | give a hug:拥抱
+gift | ɡɪft | ɡɪft | n.:礼物 | Thank you for the lovely gift. | 谢谢你可爱的礼物。 | birthday gift:生日礼物
+kind | kaɪnd | kaɪnd | adj.:善良的 | That's very kind of you. | 你真是太好了。 | kind of you:你真好
+age | eɪdʒ | eɪdʒ | n.:年龄 | We're the same age. | 我们同岁。 | the same age:同岁
+married | ˈmærid | ˈmærid | adj.:已婚的 | Are you married? | 你结婚了吗？ | get married:结婚

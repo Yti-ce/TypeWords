@@ -26,3 +26,24 @@ itchy | ˈɪtʃi | ˈɪtʃi | adj.:痒的 | My skin is very itchy. | 我皮肤�
 rash | ræʃ | ræʃ | n.:皮疹 | I have a rash on my arm. | 我手臂上起了疹子。 | skin rash:皮疹
 diarrhoea | ˌdaɪəˈrɪə | ˌdaɪəˈriːə | n.:腹泻（美式 diarrhea） | Do you have anything for diarrhoea? | 有治拉肚子的药吗？ | have diarrhoea:拉肚子
 sleepy | ˈsliːpi | ˈsliːpi | adj.:困的 | This medicine may make you sleepy. | 这个药可能会让你犯困。 | feel sleepy:犯困
+cold | kəʊld | koʊld | n.:感冒 | I need something for a cold. | 我需要治感冒的药。 | catch a cold:感冒
+cough | kɒf | kɔːf | n.:咳嗽 | Do you have anything for a cough? | 有止咳的药吗？ | dry cough:干咳
+fever | ˈfiːvə | ˈfiːvər | n.:发烧 | This helps bring down a fever. | 这个能退烧。 | high fever:高烧
+pain | peɪn | peɪn | n.:疼痛 | It's good for back pain. | 这个对背痛有效。 | back pain:背痛
+headache | ˈhedeɪk | ˈhedeɪk | n.:头痛 | Do you have anything for a headache? | 有治头疼的药吗？ | bad headache:严重头痛
+stomach | ˈstʌmək | ˈstʌmək | n.:胃 | I have an upset stomach. | 我肠胃不舒服。 | upset stomach:肠胃不适
+throat | θrəʊt | θroʊt | n.:喉咙 | These sweets are good for a sore throat. | 这种含片对喉咙痛有好处。 | sore throat:喉咙痛
+skin | skɪn | skɪn | n.:皮肤 | Is this cream safe for sensitive skin? | 这个药膏敏感肌能用吗？ | dry skin:干性皮肤
+safe | seɪf | seɪf | adj.:安全的 | Is it safe to take during pregnancy? | 怀孕期间吃安全吗？ | safe for:对……安全
+twice | twaɪs | twaɪs | adv.:两次 | Take it twice a day. | 一天吃两次。 | twice a day:一天两次
+times | taɪmz | taɪmz | n.:次数 | How many times a day should I take it? | 一天应该吃几次？ | three times a day:一天三次
+before | bɪˈfɔː | bɪˈfɔːr | prep.:在……之前 | Take it before going to bed. | 睡前服用。 | before meals:饭前
+empty | ˈempti | ˈempti | adj.:空的 | Don't take it on an empty stomach. | 不要空腹服用。 | on an empty stomach:空腹
+water | ˈwɔːtə | ˈwɔːtər | n.:水 | Take it with a glass of water. | 用一杯水送服。 | warm water:温水
+box | bɒks | bɑːks | n.:盒 | One box should be enough. | 一盒应该够了。 | a box of:一盒
+bottle | ˈbɒtl | ˈbɑːtl | n.:瓶子 | Shake the bottle before use. | 使用前摇匀。 | a bottle of:一瓶
+instructions | ɪnˈstrʌkʃnz | ɪnˈstrʌkʃnz | n.:说明，用法 | Read the instructions carefully. | 仔细阅读说明书。 | follow the instructions:按说明使用
+strong | strɒŋ | strɔːŋ | adj.:强效的 | Is there anything stronger? | 有药效更强的吗？ | strong medicine:强效药
+mosquito | məˈskiːtəʊ | məˈskiːtoʊ | n.:蚊子 | I need something for mosquito bites. | 我需要治蚊子咬的药。 | mosquito bite:蚊子包
+sunburn | ˈsʌnbɜːn | ˈsʌnbɜːrn | n.:晒伤 | This cream is good for sunburn. | 这个药膏对晒伤有用。 | bad sunburn:严重晒伤
+cotton | ˈkɒtn | ˈkɑːtn | n.:棉花 | I need some cotton wool. | 我需要一些棉花。 | cotton swab:棉签
